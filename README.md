@@ -20,7 +20,6 @@
 
 <!-- EXPLANATION / ABOUT -->
 ## Why this exists
-## 🤔 Why This Exists
 Navigating the sheer volume of tech conferences can be overwhelming. We created this carefully curated directory to solve that problem. 
 
 Whether you're looking to deep-dive into Kubernetes, master Platform Engineering, or connect with the Open Source community, this list is designed to help developers, developer advocates (DevRel), and software engineers easily find the best global events to attend, network, and speak at.
@@ -43,19 +42,19 @@ Whether you're looking to deep-dive into Kubernetes, master Platform Engineering
 ### Europe
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| DevOpsCon | June 15-19 2026 | Berlin, Germany | [↗](https://www.meshcloud.io/en/blog/top-15-platform-engineering-and-cloud-conferences-in-europe-2026/) |
-| meshcloud Con'26 | TBA | Frankfurt, Germany | [↗](https://www.meshcloud.io/en/blog/top-15-platform-engineering-and-cloud-conferences-in-europe-2026/) |
+| DevOpsCon | June 15-19 2026 | Berlin, Germany | [↗]https://devopscon.io/berlin/ |
+| meshcloud Con'26 | TBA | Frankfurt, Germany | [↗](https://con26.meshcloud.io/ |
 | Web Summit Lisbon | Nov 9-12 2026 | Lisbon, Portugal | [↗](https://websummit.com) |
 | PlatformCon | 2026-06-23 | London, United Kingdom | [↗](https://platformconlive.fr) |
 | SaaSiest | 2026-07-01 | London, United Kingdom | [↗](https://yellowo.co.uk/2026-events-directory/) |
 | PlatformCon | 2026-09-23 | Paris, France | [↗](https://platformconlive.fr) |
-| Open Source Summit EU | Sep 16-18 2026 | Vienna, Austria | [↗](https://thenewstack.io/10-enterprise-tech-conferences-to-consider-for-later-this-year/) |
+| Open Source Summit EU | Sep 16-18 2026 | Vienna, Austria | [↗](https://events.linuxfoundation.org/open-source-summit-europe/) |
 ### North America
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | PlatformCon | June 18-19, 2026 |   New York, USA | [↗](https://platformconlive.fr) |
 | SaaStr Annual | May 11-12 2027 | California, United States | [↗](https://www.saastrannual2026.com) |
-| AWS re:Invent | Nov 30-Dec 4 2026 | Las Vegas, United States | [↗](https://metalbear.com/blog/top-cloud-conferences/#aws-reinvent) |
+| AWS re:Invent | Nov 30-Dec 4 2026 | Las Vegas, United States | [↗](https://aws.amazon.com/events/reinvent/) |
 | PlatformCon | 2026-06-25 | New York, United States | [↗](https://platformconlive.fr) |
 | DevRelCon | July 22-23 2026 | New York, United States | [↗](https://nyc.devrelcon.dev) |
 | DevOpsCon | Sept 28 - Oct 2 | New York, United States | [↗](https://devopscon.io/new-york/) |
