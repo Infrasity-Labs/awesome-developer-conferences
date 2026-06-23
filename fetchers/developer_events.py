@@ -1,0 +1,213 @@
+import re
+import subprocess
+from datetime import datetime
+
+# Run the fetch_events script
+result = subprocess.run(["python3", "awersome-developer-conferences/assets/fetches.py"], capture_output=True, text=True)
+output = result.stdout.splitlines()
+
+# Parse the fetched events
+# The output format is: | Event Name | Date | Location | Register |
+fetched_events = []
+for line in output:
+    if line.startswith('|') and not line.startswith('| Event Name') and not line.startswith('|---'):
+        parts = [p.strip() for p in line.split('|')]
+        if len(parts) >= 5:
+            name = parts[1]
+            date_str = parts[2]
+            location = parts[3]
+            register = parts[4]
+            # convert [Link](url) to [↗](url)
+            register = register.replace("[Link]", "[↗]")
+            fetched_events.append({
+                "name": name,
+                "date": date_str,
+                "location": location,
+                "register": register,
+                "line": f"| {name} | {date_str} | {location} | {register} |"
+            })
+
+# Map country/keyword to continent
+def get_continent(location):
+    loc_lower = location.lower()
+    if 'online' in loc_lower:
+        if ' & online' not in loc_lower:
+            return 'Online'
+    if any(x in loc_lower for x in ['usa', 'canada', 'united states']):
+        return 'North America'
+    if any(x in loc_lower for x in ['uk', 'germany', 'austria', 'france', 'portugal', 'czechia', 'luxembourg', 'netherlands', 'poland', 'denmark', 'switzerland', 'belgium', 'ireland', 'italy', 'spain', 'sweden', 'norway', 'finland', 'united kingdom']):
+        return 'Europe'
+    if any(x in loc_lower for x in ['brazil', 'peru', 'argentina', 'colombia', 'chile']):
+        return 'South America'
+    if any(x in loc_lower for x in ['vietnam', 'korea', 'china', 'japan', 'indonesia', 'india', 'qatar', 'singapore', 'taiwan', 'thailand', 'malaysia', 'philippines']):
+        return 'Asia'
+    if any(x in loc_lower for x in ['nigeria', 'south africa', 'kenya', 'egypt']):
+        return 'Africa'
+    if any(x in loc_lower for x in ['australia', 'new zealand']):
+        return 'Australia'
+    # Fallbacks based on city if no country is present
+    if 'london' in loc_lower or 'munich' in loc_lower or 'berlin' in loc_lower or 'paris' in loc_lower or 'amsterdam' in loc_lower:
+        return 'Europe'
+    if 'san francisco' in loc_lower or 'new york' in loc_lower or 'orlando' in loc_lower or 'los angeles' in loc_lower or 'salt lake city' in loc_lower or 'indianapolis' in loc_lower or 'california' in loc_lower:
+        return 'North America'
+    if 'são paulo' in loc_lower:
+        return 'South America'
+    if 'hanoi' in loc_lower or 'tokyo' in loc_lower or 'seoul' in loc_lower or 'mumbai' in loc_lower or 'bengaluru' in loc_lower:
+        return 'Asia'
+    if 'lagos' in loc_lower:
+        return 'Africa'
+    if 'melbourne' in loc_lower or 'sydney' in loc_lower:
+        return 'Australia'
+    
+    # default to online if we can't figure it out, or print a warning
+    print(f"Warning: could not map location '{location}' to continent. Defaulting to 'Online'")
+    return 'Online'
+
+continents_events = {
+    'Africa': [],
+    'Asia': [],
+    'Australia': [],
+    'Europe': [],
+    'North America': [],
+    'Online': [],
+    'South America': []
+}
+
+# Read existing README to extract current events
+with open("/Users/himishgoel/Desktop/dev events/awersome-developer-conferences/README.md", "r") as f:
+    readme_lines = f.read().splitlines()
+
+current_continent = None
+in_events_section = False
+pre_events_lines = []
+post_events_lines = []
+existing_events = []
+
+for line in readme_lines:
+    if line.startswith('## 📍 Event Schedule'):
+        in_events_section = True
+        pre_events_lines.append(line)
+        continue
+    
+    if in_events_section:
+        if line.startswith('---'):
+            in_events_section = False
+            post_events_lines.append(line)
+            continue
+        
+        if line.startswith('### '):
+            current_continent = line.replace('### ', '').strip()
+            continue
+            
+        if line.startswith('|') and not line.startswith('| Event Name') and not line.startswith('|---') and not line.startswith('|------------'):
+            parts = [p.strip() for p in line.split('|')]
+            if len(parts) >= 5:
+                name = parts[1]
+                date_str = parts[2]
+                location = parts[3]
+                register = parts[4]
+                existing_events.append({
+                    "name": name,
+                    "date": date_str,
+                    "location": location,
+                    "register": register,
+                    "continent": current_continent,
+                    "line": line
+                })
+        continue
+        
+    if not in_events_section:
+        if current_continent is None:
+            pre_events_lines.append(line)
+        else:
+            post_events_lines.append(line)
+
+# Combine existing and fetched events
+all_events = existing_events.copy()
+
+def normalize_name(name):
+    return name.lower().replace(' ', '').replace('-', '').replace('+', '')
+
+existing_normalized = [normalize_name(e['name']) for e in existing_events]
+
+for fe in fetched_events:
+    cont = get_continent(fe['location'])
+    norm_name = normalize_name(fe['name'])
+    
+    # If the event with same name already exists, update it? Or if it's already there, just ignore.
+    # Let's replace the existing one with the updated info from the script.
+    if norm_name in existing_normalized:
+        # Update existing
+        for i, ev in enumerate(all_events):
+            if normalize_name(ev['name']) == norm_name:
+                all_events[i] = {
+                    "name": fe['name'],
+                    "date": fe['date'],
+                    "location": fe['location'],
+                    "register": fe['register'],
+                    "continent": cont,
+                    "line": fe['line']
+                }
+    else:
+        all_events.append({
+            "name": fe['name'],
+            "date": fe['date'],
+            "location": fe['location'],
+            "register": fe['register'],
+            "continent": cont,
+            "line": fe['line']
+        })
+
+# Distribute by continent
+for ev in all_events:
+    if ev['continent'] in continents_events:
+        continents_events[ev['continent']].append(ev)
+    else:
+        print(f"Unknown continent {ev['continent']} for event {ev['name']}")
+
+# Helper to parse date for sorting
+def parse_date(date_str):
+    # Example formats: 
+    # "2026-10-24"
+    # "2026-06-25 to 2026-06-26"
+    # "June 18-19, 2026"
+    # "Jan 27 - Feb 3 2027"
+    # "TBA"
+    
+    match = re.search(r'\d{4}-\d{2}-\d{2}', date_str)
+    if match:
+        return match.group(0)
+    
+    months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "June", "July", "Sept"]
+    if any(m in date_str for m in months):
+        year_match = re.search(r'\d{4}', date_str)
+        year = year_match.group(0) if year_match else "9999"
+        
+        for i, m in enumerate(months):
+            if m in date_str:
+                month = (i % 12) + 1
+                return f"{year}-{month:02d}-01"
+    
+    return "9999-99-99"
+
+# Sort events in each continent by date
+for cont in continents_events:
+    continents_events[cont].sort(key=lambda x: parse_date(x['date']))
+
+# Generate new README lines
+new_readme_lines = pre_events_lines.copy()
+
+for cont in sorted(continents_events.keys()):
+    new_readme_lines.append(f"### {cont}")
+    new_readme_lines.append("| Event Name | Date | Location | Register |")
+    new_readme_lines.append("|------------|------|----------|----------|")
+    for ev in continents_events[cont]:
+        new_readme_lines.append(ev['line'])
+
+new_readme_lines.extend(post_events_lines)
+
+# Write out the new README
+with open("/Users/himishgoel/Desktop/dev events/awersome-developer-conferences/README.md", "w") as f:
+    f.write("\n".join(new_readme_lines) + "\n")
+
+print("README.md updated successfully!")
