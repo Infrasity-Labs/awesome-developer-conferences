@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- BANNER -->
-  <img src="/assets/Awesome.png">
+
+  
 
   <!-- HEADER -->
   <h1>Developer Events & Conferences Directory</h1>
@@ -10,6 +10,8 @@
    <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
    <img src="https://img.shields.io/badge/updated-daily-brightgreen">
    <img src="https://img.shields.io/badge/maintained%20by-Infrasity-7B6BFF">
+   <!-- BANNER -->
+  <img src="/assets/Awesome.png">
     
     
     
@@ -18,9 +20,10 @@
 
 <!-- EXPLANATION / ABOUT -->
 ## Why this exists
-Welcome to the ultimate directory of Developer, Cloud, and Platform Engineering conferences! This list is carefully curated to help developers, developer advocates (DevRel), and software engineers find the best events to attend, network, and speak at globally. 
+## 🤔 Why This Exists
+Navigating the sheer volume of tech conferences can be overwhelming. We created this carefully curated directory to solve that problem. 
 
-Whether you are looking to deep-dive into Kubernetes, master Platform Engineering, or connect with the Open Source community, you will find the dates and registration links below.
+Whether you're looking to deep-dive into Kubernetes, master Platform Engineering, or connect with the Open Source community, this list is designed to help developers, developer advocates (DevRel), and software engineers easily find the best global events to attend, network, and speak at.
 
 ---
 
@@ -50,7 +53,7 @@ Whether you are looking to deep-dive into Kubernetes, master Platform Engineerin
 ### North America
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| PlatformCon | June 18-19, 2026 | London, UK & New York, USA | [↗](https://platformconlive.fr) |
+| PlatformCon | June 18-19, 2026 |   New York, USA | [↗](https://platformconlive.fr) |
 | SaaStr Annual | May 11-12 2027 | California, United States | [↗](https://www.saastrannual2026.com) |
 | AWS re:Invent | Nov 30-Dec 4 2026 | Las Vegas, United States | [↗](https://metalbear.com/blog/top-cloud-conferences/#aws-reinvent) |
 | PlatformCon | 2026-06-25 | New York, United States | [↗](https://platformconlive.fr) |
