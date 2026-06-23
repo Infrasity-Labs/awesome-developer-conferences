@@ -42,8 +42,8 @@ Whether you're looking to deep-dive into Kubernetes, master Platform Engineering
 ### Europe
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| DevOpsCon | June 15-19 2026 | Berlin, Germany | [↗]https://devopscon.io/berlin/ |
-| meshcloud Con'26 | TBA | Frankfurt, Germany | [↗](https://con26.meshcloud.io/ |
+| DevOpsCon | June 15-19 2026 | Berlin, Germany | [↗](https://devopscon.io/berlin/) |
+| meshcloud Con'26 | TBA | Frankfurt, Germany | [↗](https://con26.meshcloud.io/ )|
 | Web Summit Lisbon | Nov 9-12 2026 | Lisbon, Portugal | [↗](https://websummit.com) |
 | PlatformCon | 2026-06-23 | London, United Kingdom | [↗](https://platformconlive.fr) |
 | SaaSiest | 2026-07-01 | London, United Kingdom | [↗](https://yellowo.co.uk/2026-events-directory/) |
