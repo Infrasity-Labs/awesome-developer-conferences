@@ -154,7 +154,9 @@ def is_past(date_str, today_iso):
     return False
 
 # Read existing README
-with open("/Users/himishgoel/Desktop/dev events/awersome-developer-conferences/README.md", "r") as f:
+# Read existing README
+readme_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "README.md"))
+with open(readme_path, "r", encoding="utf-8") as f:
     readme_lines = f.read().splitlines()
 
 current_continent = None
@@ -270,7 +272,6 @@ for cont in sorted(continents_events.keys()):
 
 new_readme_lines.extend(post_events_lines)
 
-# Write out the new README
 with open("/Users/himishgoel/Desktop/dev events/awersome-developer-conferences/README.md", "w") as f:
     f.write("\n".join(new_readme_lines) + "\n")
 

@@ -1,3 +1,4 @@
+import os
 import re
 import subprocess
 from datetime import datetime
@@ -74,9 +75,9 @@ continents_events = {
 }
 
 # Read existing README to extract current events
-with open("/Users/himishgoel/Desktop/dev events/awersome-developer-conferences/README.md", "r") as f:
+readme_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "README.md"))
+with open(readme_path, "r", encoding="utf-8") as f:
     readme_lines = f.read().splitlines()
-
 current_continent = None
 in_events_section = False
 pre_events_lines = []
@@ -207,7 +208,7 @@ for cont in sorted(continents_events.keys()):
 new_readme_lines.extend(post_events_lines)
 
 # Write out the new README
-with open("/Users/himishgoel/Desktop/dev events/awersome-developer-conferences/README.md", "w") as f:
+with open(readme_path, "w", encoding="utf-8") as f:
     f.write("\n".join(new_readme_lines) + "\n")
 
 print("README.md updated successfully!")
