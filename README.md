@@ -8,9 +8,8 @@
   <!-- BADGES -->
   <p>
    <a href="https://github.com/sindresorhus/awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
-   <img src = https://img.shields.io/badge/updated-daily-brightgreen)>
-
-<img src = https://img.shields.io/badge/maintained%20by-Infrasity-7B6BFF>
+   <img src="https://img.shields.io/badge/updated-daily-brightgreen">
+   <img src="https://img.shields.io/badge/maintained%20by-Infrasity-7B6BFF">
     
     
     
@@ -31,7 +30,7 @@ Whether you are looking to deep-dive into Kubernetes, master Platform Engineerin
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | Web Summit Qatar | Jan 27 - Feb 3 2027 | Doha, Qatar | [↗](https://qatar.websummit.com) |
-| KubeCon | June 18-19, 2026 | Mumbai, India |  |
+| KubeCon + CloudNativeCon | June 18-19, 2026 | Mumbai, India | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/) |
 | KubeCon + CloudNativeCon | Sep 7-9 2026 | Shanghai, China | [↗](https://www.cncf.io/kubecon-cloudnativecon-events/) |
 | KubeCon + CloudNativeCon | July 28-30 2026 | Yokohama, Japan | [↗](https://www.cncf.io/kubecon-cloudnativecon-events/) |
 ### Australia
@@ -51,7 +50,7 @@ Whether you are looking to deep-dive into Kubernetes, master Platform Engineerin
 ### North America
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| PlatformCon | June 18-19, 2026 | London, UK & New York, USA | [↗](https://www.splunk.com/en_us/blog/learn/devops-conferences-events.html) |
+| PlatformCon | June 18-19, 2026 | London, UK & New York, USA | [↗](https://platformconlive.fr) |
 | SaaStr Annual | May 11-12 2027 | California, United States | [↗](https://www.saastrannual2026.com) |
 | AWS re:Invent | Nov 30-Dec 4 2026 | Las Vegas, United States | [↗](https://metalbear.com/blog/top-cloud-conferences/#aws-reinvent) |
 | PlatformCon | 2026-06-25 | New York, United States | [↗](https://platformconlive.fr) |
@@ -61,13 +60,13 @@ Whether you are looking to deep-dive into Kubernetes, master Platform Engineerin
 | KubeCon + CloudNativeCon | Nov 9-12 2026 | Salt Lake City, Utah, United States | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) |
 | Dreamforce | Sep 15-17 2026 | San Francisco, United States | [↗](https://www.salesforce.com/dreamforce/) |
 | Developer Marketing Summit | 2026-09-09 | San Francisco, United States | [↗](https://world.productmarketingalliance.com/location/developer) |
-| Microsoft Ignite | Nove 17-20 2026 | San Francisco, United States | [↗](https://ignite.microsoft.com/en-US/home) |
+| Microsoft Ignite | Nov 17-20 2026 | San Francisco, United States | [↗](https://ignite.microsoft.com/en-US/home) |
 | Web Summit Vancouver | May 25-28 2026 | Vancouver, Canada | [↗](https://vancouver.websummit.com) |
 | Open Source Summit NA | May 17-19 2027 | Vancouver, Canada | [↗](https://events.linuxfoundation.org/open-source-summit-north-america/) |
 ### South America
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| PlatformCon | 2026-11-07 | Sau Paulo, Brazil | [↗](https://platformconlive.fr) |
+| PlatformCon | 2026-11-07 | São Paulo, Brazil | [↗](https://platformconlive.fr) |
 
 ---
 
