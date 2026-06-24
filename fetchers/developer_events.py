@@ -1,32 +1,90 @@
 import os
 import re
-import subprocess
+import urllib.request
+import json
+import ssl
 from datetime import datetime
 
-# Run the fetch_events script
-result = subprocess.run(["python3", "awersome-developer-conferences/assets/fetches.py"], capture_output=True, text=True)
-output = result.stdout.splitlines()
+def fetch_events_from_api():
+    url = "https://developers.events/all-events.json"
 
-# Parse the fetched events
-# The output format is: | Event Name | Date | Location | Register |
-fetched_events = []
-for line in output:
-    if line.startswith('|') and not line.startswith('| Event Name') and not line.startswith('|---'):
-        parts = [p.strip() for p in line.split('|')]
-        if len(parts) >= 5:
-            name = parts[1]
-            date_str = parts[2]
-            location = parts[3]
-            register = parts[4]
-            # convert [Link](url) to [↗](url)
-            register = register.replace("[Link]", "[↗]")
-            fetched_events.append({
-                "name": name,
-                "date": date_str,
-                "location": location,
-                "register": register,
-                "line": f"| {name} | {date_str} | {location} | {register} |"
-            })
+    # Bypass SSL verification if there are local cert issues
+    ctx = ssl.create_default_context()
+
+    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    try:
+        with urllib.request.urlopen(req, context=ctx) as response:
+            data = json.loads(response.read().decode('utf-8'))
+    except Exception as e:
+        print(f"Failed to fetch data: {e}")
+        return []   try:
+        with urllib.request.urlopen(req, context=ctx) as response:
+            data = json.loads(response.read().decode('utf-8'))
+    except Exception as e:
+        print(f"Failed to fetch data: {e}")
+        return []
+
+    keywords = [
+        "developer relations", "devrel", "developer advocacy", "developer experience", 
+        "developer marketing", "developer ecosystem", "go-to-market", "gtm", "b2b saas", 
+        "product-led growth", "plg", "revenue operations", "revops", "api economy", 
+        "api management", "api monetization", "developer tools", "devtools", "sdk", 
+        "platform engineering", "observability", "cloud-native", "ai agents", "agentic ai", 
+        "llm", "ai developer tools", "developer-first", "technical audience", 
+        "call for papers", "cfp", "open source", "community-led growth", "saas scaling", 
+        "developer portal", "api-first", "developer platform", "yc startup"
+    ]
+
+    fetched_events = []
+    for event in data:
+        dates = event.get('date', [])
+        if not dates:
+            continue
+        
+        # Dates are in milliseconds, convert to seconds
+        start_timestamp = dates[0] / 1000.0
+        start_date = datetime.utcfromtimestamp(start_timestamp)
+        end_timestamp = dates[-1] / 1000.0
+        
+        # Filter past events
+        now_timestamp = datetime.now().timestamp()
+        if end_timestamp < now_timestamp:
+            continue
+            
+        # Match keywords against name and tags
+        event_text = event.get('name', '').lower()
+        tags = [tag.get('value', '').lower() for tag in (event.get('tags') or []) if isinstance(tag, dict)]
+        event_text += ' ' + ' '.join(tags)
+        
+        if not any(kw.lower() in event_text for kw in keywords):
+            continue
+
+        name = (event.get('name') or 'N/A').replace('|', '\\|')
+        location = (event.get('location') or 'N/A').replace('|', '\\|')
+        link = event.get('hyperlink', '')
+        
+        if link:
+            register = f"[↗]({link})"
+        else:
+            register = "N/A"
+        
+        if len(dates) > 1:
+            end_date = datetime.utcfromtimestamp(end_timestamp)
+            date_str = f"{start_date.strftime('%Y-%m-%d')} to {end_date.strftime('%Y-%m-%d')}"
+        else:
+            date_str = start_date.strftime('%Y-%m-%d')
+            
+        fetched_events.append({
+            "name": name,
+            "date": date_str,
+            "location": location,
+            "register": register,
+            "line": f"| {name} | {date_str} | {location} | {register} |"
+        })
+    
+    return fetched_events
+
+fetched_events = fetch_events_from_api()
 
 # Map country/keyword to continent
 def get_continent(location):
