@@ -12,7 +12,8 @@
 </div>
 
 <br><br>
-**Jump to:** 
+**Jump to:**
+- [Africa](#africa) 
 - [Asia](#asia) 
 - [Australia](#australia) 
 - [Europe](#europe) 
