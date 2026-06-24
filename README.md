@@ -84,7 +84,7 @@ This repo brings all of that into one place. This list is carefully curated to h
 | PromCon Europe | 2026-10-07 | Munich (Germany) | [↗](https://promcon.io/2026-munich/) |
 | Dutch Cloud Native Day 2026 | 2026-10-29 to 2026-10-30 | Utrecht (Netherlands) | [↗](https://dutchcloudnativeday.nl) |
 | Web Summit Lisbon | Nov 9-12 2026 | Lisbon, Portugal | [↗](https://websummit.com) |
-| Open Source Monitoring conference | 2026-11-17 to 2026-11-19 | Nürnberg (Germany) | [↗](https://osmc.de) |
+| Open Source Monitoring Conference | 2026-11-17 to 2026-11-19 | Nuremberg (Germany) | [↗](https://osmc.de) |
 | Cloud Native Denmark 2026 | 2026-11-19 to 2026-11-20 | Copenhagen (Denmark) | [↗](https://cloudnativedenmark.dk) |
 | Agentic Engineering Day Zurich | 2026-11-20 | Zurich (Switzerland) | [↗](https://www.agenticdays.com/) |
 | apidays Paris | 2026-12-01 to 2026-12-03 | Paris, France | [↗](https://www.apidays.global/events/paris) |
@@ -115,7 +115,7 @@ This repo brings all of that into one place. This list is carefully curated to h
 | KubeCon + CloudNativeCon | Nov 9-12 2026 | Salt Lake City, Utah, United States | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) |
 | Microsoft Ignite | Nov 17-20 2026 | San Francisco, United States | [↗](https://ignite.microsoft.com/en-US/home) |
 | AWS re:Invent | Nov 30-Dec 4 2026 | Las Vegas, United States | [↗](https://aws.amazon.com/events/reinvent/) |
-| Open Source Analytics Conference | 2026-11-02 | San Francisco, CA (U.S.A.) & Online | [↗](https://osacon.io) |
+| Open Source Analytics Conference | 2026-11-02 | San Francisco, CA (USA) | [↗](https://osacon.io) |
 | Open Source in Finance Forum New York | 2026-11-04 to 2026-11-05 | New York, NY (USA) | [↗](https://events.linuxfoundation.org/open-source-finance-forum-new-york/) |
 | OWASP Global AppSec US 2026 - CFP (San Francisco) | 2026-11-05 to 2026-11-06 | San Francisco, CA (USA) | [↗](https://owasp.glueup.com/event/owasp-global-appsec-usa-2026-167174/) |
 | Maintainer Summit: KubeCon + CloudNativeCon North America 2026 | 2026-11-08 | Salt Lake City, UT (USA) | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/features-add-ons/maintainer-summit/) |
