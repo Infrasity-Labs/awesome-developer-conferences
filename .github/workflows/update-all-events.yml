@@ -1,16 +1,16 @@
-name: Daily developers.events Update
+name: Daily Event Automation
 
 on:
   schedule:
-    # Runs daily at 01:00 UTC
-    - cron: '0 1 * * *'
+    # Runs daily at midnight UTC
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  update-events:
+  update-all-events:
     runs-on: ubuntu-latest
 
     steps:
@@ -22,9 +22,20 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Fetch events and update README
+      - name: Install dependencies
         run: |
+          python -m pip install --upgrade pip
+          pip install cloudscraper beautifulsoup4
+
+      - name: Clone confs.tech data
+        run: |
+          git clone --depth 1 https://github.com/tech-conferences/conference-data.git temp_confs_data
+
+      - name: Run Fetchers
+        run: |
+          python fetchers/bigevent.py
           python fetchers/developer_events.py
+          python fetchers/cons_tech.py
 
       - name: Commit and push changes
         run: |
@@ -33,7 +44,7 @@ jobs:
           git add README.md
           
           if ! git diff --staged --quiet; then
-            git commit -m "chore: auto-update events from developers.events"
+            git commit -m "chore: auto-update all events"
             git push
           else
             echo "No new events or changes found. Skipping commit."
