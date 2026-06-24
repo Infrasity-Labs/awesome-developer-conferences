@@ -1,0 +1,46 @@
+name: Daily bigevent.io Events Update
+
+on:
+  schedule:
+    # Runs daily at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows you to manually trigger it from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-events:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install cloudscraper beautifulsoup4
+
+      - name: Fetch events and update README
+        run: |
+          python fetchers/bigevent.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          
+          # Check if there are any staged changes
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: auto-update events from bigevent.io"
+            git push
+          else
+            echo "No new events or changes found. Skipping commit."
+          fi

@@ -1,30 +1,26 @@
 import os
 import re
-import urllib.request
 import json
-import ssl
 from datetime import datetime
+try:
+    import cloudscraper
+    from bs4 import BeautifulSoup
+except ImportError:
+    print("Please install required packages: pip install cloudscraper beautifulsoup4")
+    exit(1)
 
-def fetch_events_from_api():
-    url = "https://developers.events/all-events.json"
-
-    # Bypass SSL verification if there are local cert issues
-    ctx = ssl.create_default_context()
-
-    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+def fetch_10times_events():
+    url = "https://bigevent.io/events/topic/developer/"
+    
     try:
-        with urllib.request.urlopen(req, context=ctx) as response:
-            data = json.loads(response.read().decode('utf-8'))
+        scraper = cloudscraper.create_scraper()
+        with scraper.get(url, timeout=15) as response:
+            response.raise_for_status()
+            soup = BeautifulSoup(response.text, 'html.parser')
     except Exception as e:
-        print(f"Failed to fetch data: {e}")
-        return []  
-    try:
-         with urllib.request.urlopen(req, context=ctx) as response:
-            data = json.loads(response.read().decode('utf-8'))
-    except Exception as e:
-        print(f"Failed to fetch data: {e}")
+        print(f"Failed to fetch data from 10times: {e}")
         return []
-
+    
     keywords = [
         "developer relations", "devrel", "developer advocacy", "developer experience", 
         "developer marketing", "developer ecosystem", "go-to-market", "gtm", "b2b saas", 
@@ -37,55 +33,79 @@ def fetch_events_from_api():
     ]
 
     fetched_events = []
-    for event in data:
-        dates = event.get('date', [])
-        if not dates:
-            continue
-        
-        # Dates are in milliseconds, convert to seconds
-        start_timestamp = dates[0] / 1000.0
-        start_date = datetime.utcfromtimestamp(start_timestamp)
-        end_timestamp = dates[-1] / 1000.0
-        
-        # Filter past events
-        now_timestamp = datetime.now().timestamp()
-        if end_timestamp < now_timestamp:
-            continue
-            
-        # Match keywords against name and tags
-        event_text = event.get('name', '').lower()
-        tags = [tag.get('value', '').lower() for tag in (event.get('tags') or []) if isinstance(tag, dict)]
-        event_text += ' ' + ' '.join(tags)
-        
-        if not any(kw.lower() in event_text for kw in keywords):
-            continue
-
-        name = (event.get('name') or 'N/A').replace('|', '\\|')
-        location = (event.get('location') or 'N/A').replace('|', '\\|')
-        link = event.get('hyperlink', '')
-        
-        if link:
-            register = f"[↗]({link})"
-        else:
-            register = "N/A"
-        
-        if len(dates) > 1:
-            end_date = datetime.utcfromtimestamp(end_timestamp)
-            date_str = f"{start_date.strftime('%Y-%m-%d')} to {end_date.strftime('%Y-%m-%d')}"
-        else:
-            date_str = start_date.strftime('%Y-%m-%d')
-            
-        fetched_events.append({
-            "name": name,
-            "date": date_str,
-            "location": location,
-            "register": register,
-            "line": f"| {name} | {date_str} | {location} | {register} |"
-        })
+    current_time = datetime.utcnow()
+    current_year = current_time.year
     
+    # Parse JSON-LD script from BigEvent
+    schema_script = soup.find('script', class_='rank-math-schema')
+    if schema_script:
+        try:
+            schema_data = json.loads(schema_script.text)
+            event_items = []
+            
+            if "@graph" in schema_data:
+                for graph_item in schema_data["@graph"]:
+                    if graph_item.get("@type") == "ItemList" and "itemListElement" in graph_item:
+                        event_items = graph_item["itemListElement"]
+                        break
+            
+            for item in event_items:
+                event = item.get("item", {})
+                if event.get("@type") != "Event":
+                    continue
+                    
+                name = event.get("name") or 'N/A'
+                link = event.get("url") or ''
+                if link and not link.startswith('http'):
+                    link = "https://bigevent.io" + link
+                    
+                date_str = event.get("startDate") or "TBA"
+                
+                # Check year to skip past events
+                year_match = re.search(r'\d{4}', date_str)
+                event_year = int(year_match.group()) if year_match else current_year
+                if event_year < current_year:
+                    continue
+                    
+                location = "Unknown"
+                loc_data = event.get("location", {})
+                if isinstance(loc_data, dict) and "address" in loc_data:
+                    addr = loc_data["address"]
+                    locality = addr.get("addressLocality", "")
+                    country = addr.get("addressCountry", "")
+                    if country.lower() == "czech republic":
+                        country = "Czechia"
+                    if locality and country:
+                        location = f"{locality}, {country}"
+                    elif locality:
+                        location = locality
+                    elif country:
+                        location = country
+                elif event.get("eventAttendanceMode") == "https://schema.org/OnlineEventAttendanceMode":
+                    location = "Online"
+                    
+                location = location or 'N/A'
+                
+                # Keyword matching against name and description (if available)
+                event_text = (name + " " + event.get("description", "")).lower()
+                if not any(kw.lower() in event_text for kw in keywords):
+                    continue
+
+                register = f"[↗]({link})" if link else "N/A"
+                
+                fetched_events.append({
+                    "name": name.replace('|', '\\|'),
+                    "date": date_str,
+                    "location": location.replace('|', '\\|'),
+                    "register": register,
+                    "line": f"| {name.replace('|', '\\|')} | {date_str} | {location.replace('|', '\\|')} | {register} |"
+                })
+        except json.JSONDecodeError:
+            print("Failed to parse JSON-LD from BigEvent.")
+
     return fetched_events
 
-fetched_events = fetch_events_from_api()
+fetched_events = fetch_10times_events()
 
 # Map country/keyword to continent
 def get_continent(location):
@@ -119,8 +139,7 @@ def get_continent(location):
     if 'melbourne' in loc_lower or 'sydney' in loc_lower:
         return 'Australia'
     
-    # default to online if we can't figure it out, or print a warning
-    print(f"Warning: could not map location '{location}' to continent. Defaulting to 'Online'")
+    # default to online if we can't figure it out
     return 'Online'
 
 continents_events = {
@@ -135,8 +154,9 @@ continents_events = {
 
 # Read existing README to extract current events
 readme_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "README.md"))
-with open(readme_path, "r", encoding="utf-8") as f:
+with open(readme_path, "r") as f:
     readme_lines = f.read().splitlines()
+
 current_continent = None
 in_events_section = False
 pre_events_lines = []
@@ -194,10 +214,7 @@ for fe in fetched_events:
     cont = get_continent(fe['location'])
     norm_name = normalize_name(fe['name'])
     
-    # If the event with same name already exists, update it? Or if it's already there, just ignore.
-    # Let's replace the existing one with the updated info from the script.
     if norm_name in existing_normalized:
-        # Update existing
         for i, ev in enumerate(all_events):
             if normalize_name(ev['name']) == norm_name:
                 all_events[i] = {
@@ -222,18 +239,9 @@ for fe in fetched_events:
 for ev in all_events:
     if ev['continent'] in continents_events:
         continents_events[ev['continent']].append(ev)
-    else:
-        print(f"Unknown continent {ev['continent']} for event {ev['name']}")
 
 # Helper to parse date for sorting
 def parse_date(date_str):
-    # Example formats: 
-    # "2026-10-24"
-    # "2026-06-25 to 2026-06-26"
-    # "June 18-19, 2026"
-    # "Jan 27 - Feb 3 2027"
-    # "TBA"
-    
     match = re.search(r'\d{4}-\d{2}-\d{2}', date_str)
     if match:
         return match.group(0)
@@ -267,7 +275,7 @@ for cont in sorted(continents_events.keys()):
 new_readme_lines.extend(post_events_lines)
 
 # Write out the new README
-with open(readme_path, "w", encoding="utf-8") as f:
+with open(readme_path, "w") as f:
     f.write("\n".join(new_readme_lines) + "\n")
 
-print("README.md updated successfully!")
+print("bigevent.io events fetched and README.md updated successfully!")

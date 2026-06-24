@@ -35,7 +35,6 @@ This repo brings all of that into one place. This list is carefully curated to h
 ### Asia
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Web Summit Qatar | Jan 27 - Feb 3 2027 | Doha, Qatar | [↗](https://qatar.websummit.com) |
 | KubeCon + CloudNativeCon | June 18-19, 2026 | Mumbai, India | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/) |
 | KubeCon + CloudNativeCon | July 28-30 2026 | Yokohama, Japan | [↗](https://www.cncf.io/kubecon-cloudnativecon-events/) |
 | Kubernetes Community Days Vietnam 2026 | 2026-07-25 | Hanoi (Vietnam) | [↗](https://2026.vietopeninfra.org/en/) |
@@ -49,6 +48,7 @@ This repo brings all of that into one place. This list is carefully curated to h
 | Cypher 2026 | 2026-10-07 to 2026-10-09 | Bengaluru (India) | [↗](https://cypher.analyticsindiamag.com) |
 | Kubernetes Community Days Indonesia 2026 | 2026-10-24 | Bandung (Indonesia) | [↗](https://cloudnative.id) |
 | Open Source Summit Japan 2026 | 2026-12-07 to 2026-12-09 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/open-source-summit-japan/) |
+| Web Summit Qatar | Jan 27 - Feb 3 2027 | Doha, Qatar | [↗](https://qatar.websummit.com) |
 | apidays Singapore 2027 | 2027-04-13 to 2027-04-14 | Singapore | [↗](https://www.apidays.global/events/singapore) |
 | Great International Developer Summit (GIDS) | 2027-04-27 to 2027-04-30 | Bengaluru (India) | [↗](https://developersummit.com/) |
 ### Australia
@@ -61,7 +61,6 @@ This repo brings all of that into one place. This list is carefully curated to h
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | DevOpsCon | June 15-19 2026 | Berlin, Germany | [↗](https://devopscon.io/berlin/) |
-| apidays Amsterdam 2027 | June 2027 | Amsterdam, Netherlands | [↗](https://www.apidays.global/events/amsterdam) |
 | PlatformCon | 2026-06-23 | London, United Kingdom | [↗](https://platformconlive.fr) |
 | MWCP 2026 | 2026-06-23 to 2026-06-24 | Paris (France) | [↗](https://ampcommunity.online/mwcp-2026) |
 | Open Source in Finance Forum London | 2026-06-25 | London (UK) | [↗](https://events.linuxfoundation.org/open-source-finance-forum-london/) |
@@ -83,6 +82,7 @@ This repo brings all of that into one place. This list is carefully curated to h
 | Open Source Conference Luxembourg | 2026-10-07 | Belval (Luxembourg) | [↗](https://conference.opensource.lu) |
 | Open Source Summit Europe | 2026-10-07 to 2026-10-09 | Prague (Czechia) | [↗](https://events.linuxfoundation.org/open-source-summit-europe/) |
 | PromCon Europe | 2026-10-07 | Munich (Germany) | [↗](https://promcon.io/2026-munich/) |
+| Open Source Summit | 2026-10-07 | Prague, Czechia | [↗](https://events.linuxfoundation.org/open-source-summit-europe/) |
 | Dutch Cloud Native Day 2026 | 2026-10-29 to 2026-10-30 | Utrecht (Netherlands) | [↗](https://dutchcloudnativeday.nl) |
 | Web Summit Lisbon | Nov 9-12 2026 | Lisbon, Portugal | [↗](https://websummit.com) |
 | Open Source Monitoring conference | 2026-11-17 to 2026-11-19 | Nürnberg (Germany) | [↗](https://osmc.de) |
@@ -91,16 +91,13 @@ This repo brings all of that into one place. This list is carefully curated to h
 | apidays Paris | 2026-12-01 to 2026-12-03 | Paris, France | [↗](https://www.apidays.global/events/paris) |
 | Cloud Native AI Summit Europe | 2026-12-02 to 2026-12-03 | Paris (France) | [↗](https://www.cloudnative.ai/events/paris) |
 | KCD Provence | 2026-12-10 | Aix-en-Provence (France) | [↗](https://cloudnative-provence.fr/) |
+| apidays Amsterdam 2027 | June 2027 | Amsterdam, Netherlands | [↗](https://www.apidays.global/events/amsterdam) |
 | Open Source Summit Europe 2027 | 2027-11-20 | Glasgow (UK) | [↗](https://events.linuxfoundation.org/open-source-summit-europe-2027/) |
 | KubeCon + CloudNativeCon Europe 2028 | 2028-04-24 | Berlin (Germany) | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2028/) |
 | meshcloud Con'26 | TBA | Frankfurt, Germany | [↗](https://con26.meshcloud.io/ ) |
 ### North America
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Forrester B2B Summit NA | May 3-5 2027 | Phoenix, United States | [↗](https://www.forrester.com/event/b2b-summit-north-america/) |
-| SaaStr Annual | May 11-12 2027 | California, United States | [↗](https://www.saastrannual2026.com) |
-| Open Source Summit NA | May 17-19 2027 | Vancouver, Canada | [↗](https://events.linuxfoundation.org/open-source-summit-north-america/) |
-| apidays New York 2027 | May 2027 | New York, NY (USA) | [↗](https://www.apidays.global/events/new-york) |
 | UN Open Source Week | 2026-06-22 to 2026-06-26 | New York, NY (USA) | [↗](https://www.un.org/digital-emerging-technologies/content/open-source-week-2025) |
 | PlatformCon | 2026-06-25 | New York, United States | [↗](https://platformconlive.fr) |
 | AgentCon - Orlando | 2026-06-26 | Orlando, FL (USA) | [↗](https://agentcon.city/orlando) |
@@ -110,7 +107,6 @@ This repo brings all of that into one place. This list is carefully curated to h
 | Chain React Conf 2026 | 2026-07-30 to 2026-07-31 | Portland, OR (USA) | [↗](https://chainreactconf.com/) |
 | ICFP 2026 | 2026-08-24 to 2026-08-29 | Indianapolis (USA) | [↗](https://icfp26.sigplan.org/) |
 | Dreamforce | Sep 15-17 2026 | San Francisco, United States | [↗](https://www.salesforce.com/dreamforce/) |
-| DevOpsCon | Sept 28 - Oct 2 | New York, United States | [↗](https://devopscon.io/new-york/) |
 | KCD SF Bay Area 2026 | 2026-09-01 | California (USA) | [↗](https://community2.cncf.io/events/details/cncf-kcd-sf-bay-area-presents-kcd-san-francisco-bay-area-2026/) |
 | Developer Marketing Summit | 2026-09-09 | San Francisco, United States | [↗](https://world.productmarketingalliance.com/location/developer) |
 | apidays Toronto | 2026-09-09 to 2026-09-10 | Toronto, Canada | [↗](https://www.apidays.global/events/toronto) |
@@ -129,7 +125,12 @@ This repo brings all of that into one place. This list is carefully curated to h
 | Open Source SecurityCon North America | 2026-11-09 | Salt Lake City, UT (USA) | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/open-source-securitycon/) |
 | Platform Engineering Day North America | 2026-11-09 | Salt Lake City, UT (USA) | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/platform-engineering-day/) |
 | KubeCon + CloudNativeCon NA 2026 | 2026-11-09 to 2026-11-12 | Salt Lake City, UT (USA) | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026/) |
+| Forrester B2B Summit NA | May 3-5 2027 | Phoenix, United States | [↗](https://www.forrester.com/event/b2b-summit-north-america/) |
+| SaaStr Annual | May 11-12 2027 | California, United States | [↗](https://www.saastrannual2026.com) |
+| Open Source Summit NA | May 17-19 2027 | Vancouver, Canada | [↗](https://events.linuxfoundation.org/open-source-summit-north-america/) |
+| apidays New York 2027 | May 2027 | New York, NY (USA) | [↗](https://www.apidays.global/events/new-york) |
 | KubeCon + CloudNativeCon North America 2027 | 2027-11-08 to 2027-11-11 | New Orleans, LA (USA) | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2027/) |
+| DevOpsCon | Sept 28 - Oct 2 | New York, United States | [↗](https://devopscon.io/new-york/) |
 ### Online
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
