@@ -7,7 +7,7 @@
   [![Maintained by Infrasity](https://img.shields.io/badge/maintained%20by-Infrasity-7B6BFF)](https://www.infrasity.com/)
 
 
-  <img src="assets/Awesome.png" width="600" alt="Awesome Developer Conferences Banner" />
+  <img src="assets/Awesome.png" width="1000" alt="Awesome Developer Conferences Banner" />
 
 </div>
 
