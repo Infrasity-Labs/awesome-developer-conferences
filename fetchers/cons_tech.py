@@ -272,7 +272,7 @@ for cont in sorted(continents_events.keys()):
 
 new_readme_lines.extend(post_events_lines)
 
-with open("/Users/himishgoel/Desktop/dev events/awersome-developer-conferences/README.md", "w") as f:
+with open(readme_path, "w", encoding="utf-8") as f:
     f.write("\n".join(new_readme_lines) + "\n")
 
 print("README.md updated with confs.tech and past events filtered!")

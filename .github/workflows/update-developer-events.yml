@@ -1,0 +1,40 @@
+name: Daily developers.events Update
+
+on:
+  schedule:
+    # Runs daily at 01:00 UTC
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-events:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Fetch events and update README
+        run: |
+          python fetchers/developer_events.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: auto-update events from developers.events"
+            git push
+          else
+            echo "No new events or changes found. Skipping commit."
+          fi

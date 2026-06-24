@@ -144,6 +144,46 @@ def parse_date(date_str):
 
 
 
+
+def is_past_event(date_str):
+    years = re.findall(r'\d{4}', date_str)
+    if not years:
+        return False
+        
+    from datetime import datetime, timezone
+    now = datetime.now(timezone.utc)
+    current_year = now.year
+    current_month = now.month
+    
+    max_year = max(int(y) for y in years)
+    if max_year < current_year:
+        return True
+        
+    if max_year == current_year:
+        iso_dates = re.findall(r'\d{4}-(\d{2})-\d{2}', date_str)
+        if iso_dates:
+            max_month = max(int(m) for m in iso_dates)
+            if max_month < current_month:
+                return True
+            return False
+            
+        months = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"]
+        found_months = []
+        lower_date = date_str.lower()
+        for i, m in enumerate(months):
+            if m in lower_date:
+                found_months.append(i + 1)
+        if "june" in lower_date: found_months.append(6)
+        if "july" in lower_date: found_months.append(7)
+        if "sept" in lower_date: found_months.append(9)
+        
+        if found_months:
+            max_month = max(found_months)
+            if max_month < current_month:
+                return True
+                
+    return False
+
 def main():
     fetched_events = fetch_events_from_api()
 
@@ -208,6 +248,9 @@ def main():
                 post_events_lines.append(line)
 
     # Combine existing and fetched events
+    # Prune existing events that have completely passed
+    existing_events = [ev for ev in existing_events if not is_past_event(ev['date'])]
+
     all_events = existing_events.copy()
 
 
