@@ -1,0 +1,356 @@
+import os
+import re
+import urllib.request
+import json
+import ssl
+from datetime import datetime
+
+def fetch_events_from_api():
+    url = "https://dev.events/"
+
+    # Bypass SSL verification if there are local cert issues
+    ctx = ssl.create_default_context()
+    ctx.check_hostname = False
+    ctx.verify_mode = ssl.CERT_NONE
+
+    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    try:
+        with urllib.request.urlopen(req, context=ctx) as response:
+            html = response.read().decode('utf-8')
+    except Exception as e:
+        print(f"Failed to fetch data: {e}")
+        return []  
+
+    try:
+        from bs4 import BeautifulSoup
+        soup = BeautifulSoup(html, 'html.parser')
+    except ImportError:
+        print("Please install beautifulsoup4")
+        return []
+
+    scripts = soup.find_all('script', type='application/ld+json')
+
+    keywords = [
+        "developer relations", "devrel", "developer advocacy", "developer experience", 
+        "developer marketing", "developer ecosystem", "go-to-market", "gtm", "b2b saas", 
+        "product-led growth", "plg", "revenue operations", "revops", "api economy", 
+        "api management", "api monetization", "developer tools", "devtools", "sdk", 
+        "platform engineering", "observability", "cloud-native", "ai agents", "agentic ai", 
+        "llm", "ai developer tools", "developer-first", "technical audience", 
+        "call for papers", "cfp", "open source", "community-led growth", "saas scaling", 
+        "developer portal", "api-first", "developer platform", "yc startup", "tech lead",
+        "software", "programming", "backend", "frontend", "fullstack", "architecture",
+        "java", "javascript", "python", "ruby", "golang", "rust", "react", "vue"
+    ]
+
+    fetched_events = []
+    for script in scripts:
+        try:
+            event = json.loads(script.string)
+        except:
+            continue
+            
+        if event.get('@type') not in ['EducationEvent', 'Event']:
+            continue
+            
+        start_date_str = event.get('startDate')
+        end_date_str = event.get('endDate')
+        
+        if not start_date_str:
+            continue
+            
+        try:
+            start_date = datetime.fromisoformat(start_date_str.replace('Z', '+00:00'))
+            if end_date_str:
+                end_date = datetime.fromisoformat(end_date_str.replace('Z', '+00:00'))
+            else:
+                end_date = start_date
+        except Exception as e:
+            continue
+            
+        # Filter past events
+        if end_date.timestamp() < datetime.now().timestamp():
+            continue
+            
+        name = (event.get('name') or 'N/A').replace('|', '\\|')
+        desc = (event.get('description') or '').lower()
+        
+        event_text = name.lower() + ' ' + desc
+        if not any(kw.lower() in event_text for kw in keywords):
+            continue
+
+        link = event.get('url', '')
+        if link:
+            register = f"[↗]({link})"
+        else:
+            register = "N/A"
+            
+        # Determine location
+        attendance = event.get('eventAttendanceMode', '')
+        if 'Online' in attendance:
+            location = 'Online'
+        else:
+            loc_data = event.get('location', {})
+            if isinstance(loc_data, dict):
+                address = loc_data.get('address', {})
+                if isinstance(address, dict):
+                    city = address.get('addressLocality', '')
+                    country = address.get('addressCountry', '')
+                    location = f"{city}, {country}".strip(', ')
+                else:
+                    location = str(address)
+            else:
+                location = str(loc_data)
+                
+            if not location or location == '{}':
+                location = 'Unknown'
+                
+        location = location.replace('|', '\\|')
+
+        if start_date.date() != end_date.date():
+            date_str = f"{start_date.strftime('%Y-%m-%d')} to {end_date.strftime('%Y-%m-%d')}"
+        else:
+            date_str = start_date.strftime('%Y-%m-%d')
+            
+        fetched_events.append({
+            "name": name,
+            "date": date_str,
+            "location": location,
+            "register": register,
+            "line": f"| {name} | {date_str} | {location} | {register} |"
+        })
+    
+    return fetched_events
+
+
+
+def get_continent(location):
+    loc_lower = location.lower()
+    if 'online' in loc_lower:
+        if ' & online' not in loc_lower:
+            return 'Online'
+    if any(x in loc_lower for x in ['usa', 'canada', 'united states']):
+        return 'North America'
+    if any(x in loc_lower for x in ['uk', 'germany', 'austria', 'france', 'portugal', 'czechia', 'czech republic', 'luxembourg', 'netherlands', 'poland', 'denmark', 'switzerland', 'belgium', 'ireland', 'italy', 'spain', 'sweden', 'norway', 'finland', 'united kingdom']):
+        return 'Europe'
+    if any(x in loc_lower for x in ['brazil', 'peru', 'argentina', 'colombia', 'chile']):
+        return 'South America'
+    if any(x in loc_lower for x in ['vietnam', 'korea', 'china', 'japan', 'indonesia', 'india', 'qatar', 'singapore', 'taiwan', 'thailand', 'malaysia', 'philippines']):
+        return 'Asia'
+    if any(x in loc_lower for x in ['nigeria', 'south africa', 'kenya', 'egypt']):
+        return 'Africa'
+    if any(x in loc_lower for x in ['australia', 'new zealand']):
+        return 'Australia'
+    # Fallbacks based on city if no country is present
+    if 'london' in loc_lower or 'munich' in loc_lower or 'berlin' in loc_lower or 'paris' in loc_lower or 'amsterdam' in loc_lower:
+        return 'Europe'
+    if 'san francisco' in loc_lower or 'new york' in loc_lower or 'orlando' in loc_lower or 'los angeles' in loc_lower or 'salt lake city' in loc_lower or 'indianapolis' in loc_lower or 'california' in loc_lower:
+        return 'North America'
+    if 'são paulo' in loc_lower:
+        return 'South America'
+    if 'hanoi' in loc_lower or 'tokyo' in loc_lower or 'seoul' in loc_lower or 'mumbai' in loc_lower or 'bengaluru' in loc_lower:
+        return 'Asia'
+    if 'lagos' in loc_lower:
+        return 'Africa'
+    if 'melbourne' in loc_lower or 'sydney' in loc_lower:
+        return 'Australia'
+    
+    # default to online if we can't figure it out
+    return 'Online'
+
+def normalize_name(name):
+    return name.lower().replace(' ', '').replace('-', '').replace('+', '')
+
+def parse_date(date_str):
+    match = re.search(r'\d{4}-\d{2}-\d{2}', date_str)
+    if match:
+        return match.group(0)
+    
+    months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "June", "July", "Sept"]
+    if any(m in date_str for m in months):
+        year_match = re.search(r'\d{4}', date_str)
+        year = year_match.group(0) if year_match else "9999"
+        
+        for i, m in enumerate(months):
+            if m in date_str:
+                month = (i % 12) + 1
+                return f"{year}-{month:02d}-01"
+    
+    return "9999-99-99"
+
+
+
+
+
+def is_past_event(date_str):
+    years = re.findall(r'\d{4}', date_str)
+    if not years:
+        return False
+        
+    from datetime import datetime, timezone
+    now = datetime.now(timezone.utc)
+    current_year = now.year
+    current_month = now.month
+    
+    max_year = max(int(y) for y in years)
+    if max_year < current_year:
+        return True
+        
+    if max_year == current_year:
+        iso_dates = re.findall(r'\d{4}-(\d{2})-\d{2}', date_str)
+        if iso_dates:
+            max_month = max(int(m) for m in iso_dates)
+            if max_month < current_month:
+                return True
+            return False
+            
+        months = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"]
+        found_months = []
+        lower_date = date_str.lower()
+        for i, m in enumerate(months):
+            if m in lower_date:
+                found_months.append(i + 1)
+        if "june" in lower_date: found_months.append(6)
+        if "july" in lower_date: found_months.append(7)
+        if "sept" in lower_date: found_months.append(9)
+        
+        if found_months:
+            max_month = max(found_months)
+            if max_month < current_month:
+                return True
+                
+    return False
+
+def main():
+    fetched_events = fetch_events_from_api()
+
+
+    continents_events = {
+        'Africa': [],
+        'Asia': [],
+        'Australia': [],
+        'Europe': [],
+        'North America': [],
+        'Online': [],
+        'South America': []
+    }
+
+    # Read existing README to extract current events
+    readme_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "README.md"))
+    with open(readme_path, "r", encoding="utf-8") as f:
+        readme_lines = f.read().splitlines()
+    current_continent = None
+    in_events_section = False
+    pre_events_lines = []
+    post_events_lines = []
+    existing_events = []
+
+    for line in readme_lines:
+        if line.startswith('## 📍 Event Schedule'):
+            in_events_section = True
+            pre_events_lines.append(line)
+            continue
+        
+        if in_events_section:
+            if line.startswith('---'):
+                in_events_section = False
+                post_events_lines.append(line)
+                continue
+            
+            if line.startswith('### '):
+                current_continent = line.replace('### ', '').strip()
+                continue
+                
+            if line.startswith('|') and not line.startswith('| Event Name') and not line.startswith('|---') and not line.startswith('|------------'):
+                parts = [p.strip() for p in line.split('|')]
+                if len(parts) >= 5:
+                    name = parts[1]
+                    date_str = parts[2]
+                    location = parts[3]
+                    register = parts[4]
+                    existing_events.append({
+                        "name": name,
+                        "date": date_str,
+                        "location": location,
+                        "register": register,
+                        "continent": current_continent,
+                        "line": line
+                    })
+            continue
+            
+        if not in_events_section:
+            if current_continent is None:
+                pre_events_lines.append(line)
+            else:
+                post_events_lines.append(line)
+
+    # Combine existing and fetched events
+    # Prune existing events that have completely passed
+    existing_events = [ev for ev in existing_events if not is_past_event(ev['date'])]
+
+    all_events = existing_events.copy()
+
+
+    existing_normalized = [normalize_name(e['name']) for e in existing_events]
+
+    for fe in fetched_events:
+        cont = get_continent(fe['location'])
+        norm_name = normalize_name(fe['name'])
+        
+        # If the event with same name already exists, update it? Or if it's already there, just ignore.
+        # Let's replace the existing one with the updated info from the script.
+        if norm_name in existing_normalized:
+            # Update existing
+            for i, ev in enumerate(all_events):
+                if normalize_name(ev['name']) == norm_name:
+                    all_events[i] = {
+                        "name": fe['name'],
+                        "date": fe['date'],
+                        "location": fe['location'],
+                        "register": fe['register'],
+                        "continent": cont,
+                        "line": fe['line']
+                    }
+        else:
+            all_events.append({
+                "name": fe['name'],
+                "date": fe['date'],
+                "location": fe['location'],
+                "register": fe['register'],
+                "continent": cont,
+                "line": fe['line']
+            })
+
+    # Distribute by continent
+    for ev in all_events:
+        if ev['continent'] in continents_events:
+            continents_events[ev['continent']].append(ev)
+        else:
+            print(f"Unknown continent {ev['continent']} for event {ev['name']}")
+
+
+    # Sort events in each continent by date
+    for cont in continents_events:
+        continents_events[cont].sort(key=lambda x: parse_date(x['date']))
+
+    # Generate new README lines
+    new_readme_lines = pre_events_lines.copy()
+
+    for cont in sorted(continents_events.keys()):
+        new_readme_lines.append(f"### {cont}")
+        new_readme_lines.append("| Event Name | Date | Location | Register |")
+        new_readme_lines.append("|------------|------|----------|----------|")
+        for ev in continents_events[cont]:
+            new_readme_lines.append(ev['line'])
+
+    new_readme_lines.extend(post_events_lines)
+
+    # Write out the new README
+    with open(readme_path, "w", encoding="utf-8") as f:
+        f.write("\n".join(new_readme_lines) + "\n")
+
+    print("README.md updated successfully!")
+
+
+if __name__ == "__main__":
+    main()
