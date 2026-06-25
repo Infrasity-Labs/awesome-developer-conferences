@@ -8,18 +8,13 @@ from datetime import datetime
 def fetch_events_from_api():
     url = "https://dev.events/"
 
-    # Bypass SSL verification if there are local cert issues
-    ctx = ssl.create_default_context()
-    ctx.check_hostname = False
-    ctx.verify_mode = ssl.CERT_NONE
-
     req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     try:
-        with urllib.request.urlopen(req, context=ctx) as response:
+        with urllib.request.urlopen(req) as response:
             html = response.read().decode('utf-8')
     except Exception as e:
         print(f"Failed to fetch data: {e}")
-        return []  
+        return []
 
     try:
         from bs4 import BeautifulSoup
@@ -47,7 +42,7 @@ def fetch_events_from_api():
     for script in scripts:
         try:
             event = json.loads(script.string)
-        except:
+        except (json.JSONDecodeError, TypeError):
             continue
             
         if event.get('@type') not in ['EducationEvent', 'Event']:
@@ -69,7 +64,8 @@ def fetch_events_from_api():
             continue
             
         # Filter past events
-        if end_date.timestamp() < datetime.now().timestamp():
+        from datetime import timezone
+        if end_date < datetime.now(timezone.utc):
             continue
             
         name = (event.get('name') or 'N/A').replace('|', '\\|')
@@ -126,36 +122,43 @@ def fetch_events_from_api():
 
 def get_continent(location):
     loc_lower = location.lower()
-    if 'online' in loc_lower:
-        if ' & online' not in loc_lower:
-            return 'Online'
-    if any(x in loc_lower for x in ['usa', 'canada', 'united states']):
+    
+    def has_term(terms):
+        for term in terms:
+            pattern = r'\b' + re.escape(term) + r'\b'
+            if re.search(pattern, loc_lower):
+                return True
+        return False
+
+    if 'online' in loc_lower and ' & online' not in loc_lower:
+        return 'Online'
+    if has_term(['usa', 'canada', 'united states']):
         return 'North America'
-    if any(x in loc_lower for x in ['uk', 'germany', 'austria', 'france', 'portugal', 'czechia', 'czech republic', 'luxembourg', 'netherlands', 'poland', 'denmark', 'switzerland', 'belgium', 'ireland', 'italy', 'spain', 'sweden', 'norway', 'finland', 'united kingdom']):
+    if has_term(['uk', 'germany', 'austria', 'france', 'portugal', 'czechia', 'czech republic', 'luxembourg', 'netherlands', 'poland', 'denmark', 'switzerland', 'belgium', 'ireland', 'italy', 'spain', 'sweden', 'norway', 'finland', 'united kingdom']):
         return 'Europe'
-    if any(x in loc_lower for x in ['brazil', 'peru', 'argentina', 'colombia', 'chile']):
+    if has_term(['brazil', 'peru', 'argentina', 'colombia', 'chile']):
         return 'South America'
-    if any(x in loc_lower for x in ['vietnam', 'korea', 'china', 'japan', 'indonesia', 'india', 'qatar', 'singapore', 'taiwan', 'thailand', 'malaysia', 'philippines']):
+    if has_term(['vietnam', 'korea', 'china', 'japan', 'indonesia', 'india', 'qatar', 'singapore', 'taiwan', 'thailand', 'malaysia', 'philippines']):
         return 'Asia'
-    if any(x in loc_lower for x in ['nigeria', 'south africa', 'kenya', 'egypt']):
+    if has_term(['nigeria', 'south africa', 'kenya', 'egypt']):
         return 'Africa'
-    if any(x in loc_lower for x in ['australia', 'new zealand']):
+    if has_term(['australia', 'new zealand']):
         return 'Australia'
+        
     # Fallbacks based on city if no country is present
-    if 'london' in loc_lower or 'munich' in loc_lower or 'berlin' in loc_lower or 'paris' in loc_lower or 'amsterdam' in loc_lower:
+    if has_term(['london', 'munich', 'berlin', 'paris', 'amsterdam']):
         return 'Europe'
-    if 'san francisco' in loc_lower or 'new york' in loc_lower or 'orlando' in loc_lower or 'los angeles' in loc_lower or 'salt lake city' in loc_lower or 'indianapolis' in loc_lower or 'california' in loc_lower:
+    if has_term(['san francisco', 'new york', 'orlando', 'los angeles', 'salt lake city', 'indianapolis', 'california']):
         return 'North America'
-    if 'são paulo' in loc_lower:
+    if has_term(['são paulo']):
         return 'South America'
-    if 'hanoi' in loc_lower or 'tokyo' in loc_lower or 'seoul' in loc_lower or 'mumbai' in loc_lower or 'bengaluru' in loc_lower:
+    if has_term(['hanoi', 'tokyo', 'seoul', 'mumbai', 'bengaluru']):
         return 'Asia'
-    if 'lagos' in loc_lower:
+    if has_term(['lagos']):
         return 'Africa'
-    if 'melbourne' in loc_lower or 'sydney' in loc_lower:
+    if has_term(['melbourne', 'sydney']):
         return 'Australia'
     
-    # default to online if we can't figure it out
     return 'Online'
 
 def normalize_name(name):
@@ -180,15 +183,21 @@ def parse_date(date_str):
 
 
 
-
-
 def is_past_event(date_str):
+    from datetime import datetime, timezone
+    now = datetime.now(timezone.utc)
+    today_str = now.strftime('%Y-%m-%d')
+    
+    # Try to find ISO dates (YYYY-MM-DD)
+    iso_dates = re.findall(r'\d{4}-\d{2}-\d{2}', date_str)
+    if iso_dates:
+        return max(iso_dates) < today_str
+        
+    # Fallback for non-ISO dates (approximate check by year and month)
     years = re.findall(r'\d{4}', date_str)
     if not years:
         return False
         
-    from datetime import datetime, timezone
-    now = datetime.now(timezone.utc)
     current_year = now.year
     current_month = now.month
     
@@ -197,13 +206,6 @@ def is_past_event(date_str):
         return True
         
     if max_year == current_year:
-        iso_dates = re.findall(r'\d{4}-(\d{2})-\d{2}', date_str)
-        if iso_dates:
-            max_month = max(int(m) for m in iso_dates)
-            if max_month < current_month:
-                return True
-            return False
-            
         months = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"]
         found_months = []
         lower_date = date_str.lower()
