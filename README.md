@@ -4,7 +4,9 @@
 
   [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
   [![Updated Daily](https://img.shields.io/github/last-commit/Infrasity-Labs/awersome-developer-conferences?label=last%20updated&color=brightgreen)](https://github.com/Infrasity-Labs/awersome-developer-conferences/commits/master)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
   [![Maintained by Infrasity](https://img.shields.io/badge/maintained%20by-Infrasity-7B6BFF)](https://www.infrasity.com/)
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/Infrasity-Labs/awersome-developer-conferences/blob/master/CONTRIBUTING.md)
 
 
   <img src="assets/Awesome.png" width="1000" alt="Awesome Developer Conferences Banner" />
@@ -12,7 +14,7 @@
 </div>
 
 <br><br>
-**Jump to:**
+**Find your region:**
 - [Africa](#africa) 
 - [Asia](#asia) 
 - [Australia](#australia) 
@@ -23,10 +25,12 @@
 
 
 <!-- EXPLANATION / ABOUT -->
-## Why this exists
-Every year, hundreds of developer-focused conferences happen across the world such as KubeCon, PlatformCon, DevOpsCon, Open Source Summit and the information about them is scattered across blog posts, sponsor pages, and aggregator sites.
+## What is this?
+Finding the right tech conference shouldn't require scraping fifty different scattered blogs, sponsor pages, and aggregator sites.
 
-This repo brings all of that into one place. This list is carefully curated to help developers, DevRel, and software engineers find the best events to attend, network, and speak at globally. You come here to find your next favourite conference without searching randomly. The list is sorted by region (Asia, Europe, the Americas, and beyond), making it easy to spot what's happening near you.
+This repository is a carefully curated, daily-updated directory of the world's best developer, cloud-native, and open-source events including KubeCon, PlatformCon, DevOpsCon, and Open Source Summit.
+
+At Infrasity, we run developer marketing for DevTools and B2B SaaS. We spend countless hours researching which conferences actually deliver value for attending, speaking, or sponsoring. Instead of keeping that data siloed, we open-sourced it.
 
 ---
 
@@ -158,8 +162,12 @@ This repo brings all of that into one place. This list is carefully curated to h
 
 ## About
 
-Maintained by **[Infrasity](https://infrasity.com)** — a developer marketing agency working with DevTools and B2B SaaS companies.
+Maintained by **[Infrasity](https://infrasity.com)**- a developer marketing agency helping DevTool startups and B2B SaaS companies with technical content, DevRel strategy, and GTM.
 
-We do this in public because we live in this space — every role here is one we'd consider hiring for ourselves.
+We maintain this list because we research these events for our clients. If you're a DevRel or developer marketing team looking for conference strategy, [let's talk](https://infrasity.com).
 
-[infrasity.com](https://infrasity.com) · [LinkedIn](https://linkedin.com/company/infrasity)
+[infrasity.com](https://infrasity.com) · [LinkedIn](https://linkedin.com/company/infrasity) 
+
+---
+
+*Missing an event? [Open a PR](CONTRIBUTING.md) or [file an issue](https://github.com/Infrasity-Labs/awersome-developer-conferences/issues/new).*
