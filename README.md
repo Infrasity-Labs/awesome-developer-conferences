@@ -191,7 +191,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Open Source Summit NA | May 17-19 2027 | Vancouver, Canada | [↗](https://events.linuxfoundation.org/open-source-summit-north-america/) |
 | apidays New York 2027 | May 2027 | New York, NY (USA) | [↗](https://www.apidays.global/events/new-york) |
 | DevOpsCon | Sept 28 - Oct 2 | New York, United States | [↗](https://devopscon.io/new-york/) |
-### Online
+### Virtual/Online
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | Conf42 Observability 2026 | 2026-09-10 | Online | [↗](https://www.conf42.com/obs2026) |
@@ -203,6 +203,21 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Open Source Observability Day | 2026-10-23 | Online | [↗](https://osoday.com) |
 | Conf42 Platform Engineering 2026 | 2026-11-05 | Online | [↗](https://www.conf42.com/platform2026) |
 | AI for Developers | 2026-12-17 to 2026-12-18 | Online | [↗](https://aiconference.dev/) |
+| Dot by Dot: Mandala Art Workshop | 2026-06-27 | Unknown | [↗](https://lu.ma/ii7cv45o) |
+| Architecting Agentic GraphRAG: A Deep Dive into Neo4j Aura Agents | 2026-06-27 | Gurugram, in | [↗](https://www.meetup.com/graphdb-delhi-ncr/events/315211010/) |
+| From Idea to App: Building with Kiro IDE and Kiro CLI | 2026-06-27 | Virtual/Online | [↗](https://www.meetup.com/aws-sbg-at-bennett-university/events/315338020/) |
+| AI DEV DAY INDIA 2026 | 2026-06-28 | Noida, in | [↗](https://www.meetup.com/agilewow/events/314973254/) |
+| Business Development The Magnetic Offer Matrix: Designing Irresistible Services | 2026-06-30 | Virtual/Online | [↗](https://www.meetup.com/kaasaa/events/315251666/) |
+| From Test Cases to Intelligent Testing with UiPath Test Suite & Agentic Testing | 2026-07-04 | Noida, in | [↗](https://www.meetup.com/agentic-ai-community-delhi/events/315165740/) |
+| Atlassian Team '26 Recap - Community Led Conference | 2026-07-04 | Delhi, in | [↗](https://www.meetup.com/noida-atlassian-community-events/events/315056834/) |
+| AI Builder's Mixer: Delhi Edition | 2026-07-05 | Gurugram, in | [↗](https://www.meetup.com/up-powerbiclub/events/315232672/) |
+| How can a Context Lake cut down up to 80% of your token usage? | 2026-07-07 | Virtual/Online | [↗](https://www.meetup.com/platform-engineers-new-delhi/events/315316255/) |
+| Health & Energy The Power of Pause: Using Rest as a Strategic Advantage | 2026-07-07 | Virtual/Online | [↗](https://www.meetup.com/kaasaa/events/315253284/) |
+| Beyond Code Generation: Building a Governed AI Engineering Lifecycle with OpenCode | 2026-07-08 | Unknown | [↗](https://lu.ma/7kfbalcf) |
+| Build real-time search and query with Redis | 2026-07-08 | Virtual/Online | [↗](https://www.meetup.com/redis-delhi/events/315383417/) |
+| n8n New Delhi Community Meetup | 2026-07-11 | Unknown | [↗](https://lu.ma/n8n-d1jb) |
+| IN PERSON! Apache Kafka® Meetup Noida - July 2026 | 2026-07-11 | Noida, in | [↗](https://www.meetup.com/gurgaon-kafka/events/315393033/) |
+
 ### South America
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
