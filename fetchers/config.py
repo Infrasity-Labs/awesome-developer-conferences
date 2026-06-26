@@ -80,3 +80,25 @@ def is_event_relevant(event_text):
         return False
         
     return True
+
+def parse_date(date_str):
+    """
+    Parses a date string (including non-ISO formats with month names) 
+    into a sortable YYYY-MM-DD format.
+    """
+    import re
+    match = re.search(r'\d{4}-\d{2}-\d{2}', date_str)
+    if match:
+        return match.group(0)
+    
+    months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "June", "July", "Sept"]
+    if any(m in date_str for m in months):
+        year_match = re.search(r'\d{4}', date_str)
+        year = year_match.group(0) if year_match else "9999"
+        
+        for i, m in enumerate(months):
+            if m in date_str:
+                month = (i % 12) + 1
+                return f"{year}-{month:02d}-01"
+    
+    return "9999-99-99"

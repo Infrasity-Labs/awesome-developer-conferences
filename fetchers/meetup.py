@@ -176,18 +176,16 @@ if __name__ == "__main__":
                     parts = row.split('|')
                     if len(parts) >= 4:
                         date_str = parts[2].strip().split(' to ')[0].strip()
-                        return config.parse_date(date_str)
-                    return "9999-99-99"
+                        try:
+                            return datetime.strptime(date_str, "%Y-%m-%d")
+                        except ValueError:
+                            pass
+                    return datetime.max
                 
                 existing_rows.sort(key=extract_date)
                 new_table_content = '\n'.join(existing_rows) + '\n'
                 readme_content = readme_content[:match.start()] + header_and_table_header + new_table_content + readme_content[match.end():]
-                
-    with open(readme_path, 'w', encoding='utf-8') as f:
-        f.write(readme_content)
-        readme_content = readme_content[:match.start()] + header_and_table_header + new_table_content + readme_content[match.end():]
-                
-    with open('README.md', 'w', encoding='utf-8') as f:
-        f.write(readme_content)
+        with open(readme_path, 'w', encoding='utf-8') as f:
+         f.write(readme_content)
     
     print("Done integrating Meetup events.")

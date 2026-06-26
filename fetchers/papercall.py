@@ -183,7 +183,7 @@ if __name__ == "__main__":
         region_events.sort(key=lambda x: x['date'])
         
         # Regex to find the section and its table
-        pattern = re.compile(rf"(## {region}\n.*?\| Event Name.*?\|\n\|---.*?\|\n)(.*?)(?=\n## |\Z)", re.DOTALL)
+        pattern = re.compile(rf"(### {region}\n.*?\| Event Name.*?\|\n\|---.*?\|\n)(.*?)(?=\n### |\Z)", re.DOTALL)
         match = pattern.search(readme_content)
         
         if match:

@@ -42,20 +42,30 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 |------------|------|----------|----------|
 | KubeCon + CloudNativeCon | June 18-19, 2026 | Mumbai, India | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/) |
 | KubeCon + CloudNativeCon | July 28-30 2026 | Yokohama, Japan | [↗](https://www.cncf.io/kubecon-cloudnativecon-events/) |
+| India SaaS & Marketing Tech Summit | 2026-07-15 | Bengaluru, India | [↗](https://whysummits.com/india-saas-marketing-tech-summit-2026) |
 | Kubernetes Community Days Vietnam 2026 | 2026-07-25 | Hanoi (Vietnam) | [↗](https://2026.vietopeninfra.org/en/) |
 | KCD & OpenInfra Days Vietnam 2026 | 2026-07-25 | Hanoi (Vietnam) | [↗](https://2026.vietopeninfra.org) |
+| DevConf.IN | 2026-08-01 to 2026-08-02 | Bengaluru, India | [↗](https://www.devconf.info/in) |
 | Open Source Summit Korea | 2026-08-11 | Seoul (South Korea) | [↗](https://events.linuxfoundation.org/open-source-summit-korea/) |
 | apidays India | 2026-08-19 to 2026-08-20 | Bengaluru, India | [↗](https://www.apidays.global/events/india) |
 | KubeCon + CloudNativeCon | Sep 7-9 2026 | Shanghai, China | [↗](https://www.cncf.io/kubecon-cloudnativecon-events/) |
 | OSPOlogy + OSPO Summit China | 2026-09-07 | Shanghai (China) | [↗](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/co-located-events/ospology-ospo-summit/#about) |
 | KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China | 2026-09-08 to 2026-09-09 | Shanghai (China) | [↗](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/) |
 | AGNTCon + MCPCon Japan | 2026-09-10 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/agntcon-mcpcon-japan/) |
+| WeAreDevelopers India | 2026-10-01 | Bengaluru, India | [↗](https://www.wearedevelopers.com/conference-india) |
+| Cypher AI Conference | 2026-10-01 to 2026-10-03 | Bengaluru, India | [↗](https://cypher.analyticsindiamag.com) |
 | Cypher 2026 | 2026-10-07 to 2026-10-09 | Bengaluru (India) | [↗](https://cypher.analyticsindiamag.com) |
 | Kubernetes Community Days Indonesia 2026 | 2026-10-24 | Bandung (Indonesia) | [↗](https://cloudnative.id) |
+| GITEX Global | 2026-12-01 | Dubai, UAE | [↗](https://www.gitex.com) |
 | Open Source Summit Japan 2026 | 2026-12-07 to 2026-12-09 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/open-source-summit-japan/) |
 | Web Summit Qatar | Jan 27 - Feb 3 2027 | Doha, Qatar | [↗](https://qatar.websummit.com) |
 | apidays Singapore 2027 | 2027-04-13 to 2027-04-14 | Singapore | [↗](https://www.apidays.global/events/singapore) |
 | Great International Developer Summit (GIDS) | 2027-04-27 to 2027-04-30 | Bengaluru (India) | [↗](https://developersummit.com/) |
+| AIBoomi Events | TBA | Bengaluru, India | [↗](https://saasboomi.org/events) |
+| AIBoomi Annual | TBA | Chennai, India | [↗](https://annual.aiboomi.org) |
+| NASSCOM Tech Events | TBA | India | [↗](https://nasscom.in/events) |
+| Tech in Asia Events | TBA | Singapore | [↗](https://www.techinasia.com/events) |
+| IDC Asia Pacific Summits | TBA | Singapore | [↗](https://www.idc.com/ap/events) |
 ### Australia
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -66,6 +76,8 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | DevOpsCon | June 15-19 2026 | Berlin, Germany | [↗](https://devopscon.io/berlin/) |
+| KubeCon + CloudNativeCon | June 18-19, 2026 | Mumbai, India | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/) |
+| DevOpsCon | June 15-19 2026 | Berlin, Germany | [↗](https://devopscon.io/berlin/) |
 | OWASP Global AppSec EU 2026 - CFP (Vienna, Austria) | 2026-06-25 to 2026-06-26 | Vienna (Austria) | [↗](https://www.owasp.org) |
 | PlatformCon | 2026-06-25 | New York, United States | [↗](https://platformconlive.fr) |
 | AgentCon - Orlando | 2026-06-26 | Orlando, FL (USA) | [↗](https://agentcon.city/orlando) |
@@ -75,7 +87,10 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Cloud Native Summit 2026 | 2026-06-29 to 2026-06-30 | Munich (Germany) | [↗](https://cloudnativesummit.de/) |
 | Automotive Open Source Summit 2026 | 2026-06-30 | Starnberg (Germany) | [↗](https://www.automotive-oss.org/event/2026/summary) |
 | Business Development The Magnetic Offer Matrix: Designing Irresistible Services | 2026-06-30 | Virtual/Online | [↗](https://www.meetup.com/kaasaa/events/315251666/) |
+| GITEX AI Europe | 2026-06-30 to 2026-07-01 | Berlin, Germany | [↗](https://www.gitex.com/gitex-ai-europe) |
+| GITEX AI Europe | 2026-06-30 to 2026-07-01 | Berlin, Germany | [↗](https://www.gitex.com/gitex-ai-europe) |
 | SaaSiest | 2026-07-01 | London, United Kingdom | [↗](https://yellowo.co.uk/2026-events-directory/) |
+| KubeCon + CloudNativeCon | July 28-30 2026 | Yokohama, Japan | [↗](https://www.cncf.io/kubecon-cloudnativecon-events/) |
 | From Test Cases to Intelligent Testing with UiPath Test Suite & Agentic Testing | 2026-07-04 | Noida, in | [↗](https://www.meetup.com/agentic-ai-community-delhi/events/315165740/) |
 | Atlassian Team '26 Recap - Community Led Conference | 2026-07-04 | Delhi, in | [↗](https://www.meetup.com/noida-atlassian-community-events/events/315056834/) |
 | AI Builder's Mixer: Delhi Edition | 2026-07-05 | Gurugram, in | [↗](https://www.meetup.com/up-powerbiclub/events/315232672/) |
@@ -83,6 +98,8 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Health & Energy The Power of Pause: Using Rest as a Strategic Advantage | 2026-07-07 | Virtual/Online | [↗](https://www.meetup.com/kaasaa/events/315253284/) |
 | apidays Munich | 2026-07-08 to 2026-07-09 | Munich, Germany | [↗](https://www.apidays.global/events/munich) |
 | Build real-time search and query with Redis | 2026-07-08 | Virtual/Online | [↗](https://www.meetup.com/redis-delhi/events/315383417/) |
+| WeAreDevelopers World Congress | 2026-07-08 to 2026-07-10 | Berlin, Germany | [↗](https://www.wearedevelopers.com/world-congress) |
+| WeAreDevelopers World Congress | 2026-07-08 to 2026-07-10 | Berlin, Germany | [↗](https://www.wearedevelopers.com/world-congress) |
 | IN PERSON! Apache Kafka® Meetup Noida - July 2026 | 2026-07-11 | Noida, in | [↗](https://www.meetup.com/gurgaon-kafka/events/315393033/) |
 | India SaaS & Marketing Tech Summit | 2026-07-15 | Bengaluru, India | [↗](https://whysummits.com/india-saas-marketing-tech-summit-2026) |
 | From Code to Insight: Agentic AI, MCP, and Automation in Practice | 2026-07-16 | Keynes (UK) | [↗](https://www.meetup.com/pydata-milton-keynes/) |
@@ -98,6 +115,8 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | GopherCon Latam 2026 | 2026-08-21 to 2026-08-22 | Florianópolis (Brazil) | [↗](https://gopherconlatam.org) |
 | ICFP 2026 | 2026-08-24 to 2026-08-29 | Indianapolis (USA) | [↗](https://icfp26.sigplan.org/) |
 | KCD SF Bay Area 2026 | 2026-09-01 | California (USA) | [↗](https://community2.cncf.io/events/details/cncf-kcd-sf-bay-area-presents-kcd-san-francisco-bay-area-2026/) |
+| KubeCon + CloudNativeCon | Sep 7-9 2026 | Shanghai, China | [↗](https://www.cncf.io/kubecon-cloudnativecon-events/) |
+| Open Source Summit EU | Sep 16-18 2026 | Vienna, Austria | [↗](https://events.linuxfoundation.org/open-source-summit-europe/) |
 | OSPOlogy + OSPO Summit China | 2026-09-07 | Shanghai (China) | [↗](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/co-located-events/ospology-ospo-summit/#about) |
 | KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China | 2026-09-08 to 2026-09-09 | Shanghai (China) | [↗](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/) |
 | Percona Live Amsterdam | 2026-09-09 to 2026-09-11 | Amsterdam (Netherlands) | [↗](http://perconalive.com/) |
@@ -120,6 +139,8 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | ServerlessDays Cardiff 2026 | 2026-10-02 to 2026-10-03 | Cardiff (UK) | [↗](https://cardiff.serverlessdays.io/) |
 | Kubernetes Community Day's Argentina 2026 | 2026-10-02 | Buenos Aires (Argentina) | [↗](https://ocgroups.dev/cncf/group/6vnv695) |
 | Observability Summit Europe | 2026-10-05 | Prague (Czechia) | [↗](https://events.linuxfoundation.org/observability-summit-europe/) |
+| Devoxx Belgium | 2026-10-05 to 2026-10-09 | Antwerp, Belgium | [↗](https://devoxx.be) |
+| Devoxx Belgium | 2026-10-05 to 2026-10-09 | Antwerp, Belgium | [↗](https://devoxx.be) |
 | Cypher 2026 | 2026-10-07 to 2026-10-09 | Bengaluru (India) | [↗](https://cypher.analyticsindiamag.com) |
 | Open Source Conference Luxembourg | 2026-10-07 | Belval (Luxembourg) | [↗](https://conference.opensource.lu) |
 | Open Source Summit Europe | 2026-10-07 to 2026-10-09 | Prague (Czechia) | [↗](https://events.linuxfoundation.org/open-source-summit-europe/) |
@@ -133,6 +154,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Cloud Native Summit - APAC 2026 | 2026-10-28 to 2026-10-29 | Melbourne (Australia) | [↗](https://www.cloudnative.ai/) |
 | apidays Australia | 2026-10-28 to 2026-10-29 | Melbourne, Australia | [↗](https://www.apidays.global/events/australia) |
 | Dutch Cloud Native Day 2026 | 2026-10-29 to 2026-10-30 | Utrecht (Netherlands) | [↗](https://dutchcloudnativeday.nl) |
+| Web Summit Lisbon | Nov 9-12 2026 | Lisbon, Portugal | [↗](https://websummit.com) |
 | Open Source Analytics Conference | 2026-11-02 | San Francisco, CA (U.S.A.) & Online | [↗](https://osacon.io) |
 | Open Source in Finance Forum New York | 2026-11-04 to 2026-11-05 | New York, NY (USA) | [↗](https://events.linuxfoundation.org/open-source-finance-forum-new-york/) |
 | OWASP Global AppSec US 2026 - CFP (San Francisco) | 2026-11-05 to 2026-11-06 | San Francisco, CA (USA) | [↗](https://owasp.glueup.com/event/owasp-global-appsec-usa-2026-167174/) |
@@ -153,28 +175,13 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Open Source Summit Japan 2026 | 2026-12-07 to 2026-12-09 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/open-source-summit-japan/) |
 | KCD Provence | 2026-12-10 | Aix-en-Provence (France) | [↗](https://cloudnative-provence.fr/) |
 | AI for Developers | 2026-12-17 to 2026-12-18 | Online | [↗](https://aiconference.dev/) |
+| Web Summit Qatar | Jan 27 - Feb 3 2027 | Doha, Qatar | [↗](https://qatar.websummit.com) |
 | apidays Singapore 2027 | 2027-04-13 to 2027-04-14 | Singapore | [↗](https://www.apidays.global/events/singapore) |
 | Great International Developer Summit (GIDS) | 2027-04-27 to 2027-04-30 | Bengaluru (India) | [↗](https://developersummit.com/) |
+| apidays Amsterdam 2027 | June 2027 | Amsterdam, Netherlands | [↗](https://www.apidays.global/events/amsterdam) |
 | KubeCon + CloudNativeCon North America 2027 | 2027-11-08 to 2027-11-11 | New Orleans, LA (USA) | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2027/) |
 | Open Source Summit Europe 2027 | 2027-11-20 | Glasgow (UK) | [↗](https://events.linuxfoundation.org/open-source-summit-europe-2027/) |
 | KubeCon + CloudNativeCon Europe 2028 | 2028-04-24 | Berlin (Germany) | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2028/) |
-| KubeCon + CloudNativeCon | June 18-19, 2026 | Mumbai, India | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/) |
-| KubeCon + CloudNativeCon | July 28-30 2026 | Yokohama, Japan | [↗](https://www.cncf.io/kubecon-cloudnativecon-events/) |
-| KubeCon + CloudNativeCon | Sep 7-9 2026 | Shanghai, China | [↗](https://www.cncf.io/kubecon-cloudnativecon-events/) |
-| Web Summit Qatar | Jan 27 - Feb 3 2027 | Doha, Qatar | [↗](https://qatar.websummit.com) |
-### Australia
-| Event Name | Date | Location | Register |
-|------------|------|----------|----------|
-### Europe
-| Event Name | Date | Location | Register |
-|------------|------|----------|----------|
-| GITEX AI Europe | 2026-06-30 to 2026-07-01 | Berlin, Germany | [↗](https://www.gitex.com/gitex-ai-europe) |
-| WeAreDevelopers World Congress | 2026-07-08 to 2026-07-10 | Berlin, Germany | [↗](https://www.wearedevelopers.com/world-congress) |
-| Devoxx Belgium | 2026-10-05 to 2026-10-09 | Antwerp, Belgium | [↗](https://devoxx.be) |
-| DevOpsCon | June 15-19 2026 | Berlin, Germany | [↗](https://devopscon.io/berlin/) |
-| Open Source Summit EU | Sep 16-18 2026 | Vienna, Austria | [↗](https://events.linuxfoundation.org/open-source-summit-europe/) |
-| Web Summit Lisbon | Nov 9-12 2026 | Lisbon, Portugal | [↗](https://websummit.com) |
-| apidays Amsterdam 2027 | June 2027 | Amsterdam, Netherlands | [↗](https://www.apidays.global/events/amsterdam) |
 | meshcloud Con'26 | TBA | Frankfurt, Germany | [↗](https://con26.meshcloud.io/ ) |
 ### North America
 | Event Name | Date | Location | Register |
@@ -182,7 +189,9 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | UN Open Source Week | 2026-06-22 to 2026-06-26 | New York, NY (USA) | [↗](https://www.un.org/digital-emerging-technologies/content/open-source-week-2025) |
 | AgentCon - Orlando | 2026-06-26 | Orlando, FL (USA) | [↗](https://agentcon.city/orlando) |
 | DevRelCon | July 22-23 2026 | New York, United States | [↗](https://nyc.devrelcon.dev) |
+| WeAreDevelopers North America | 2026-09-01 | San Jose, USA | [↗](https://www.wearedevelopers.com/world-congress-north-america) |
 | Dreamforce | Sep 15-17 2026 | San Francisco, United States | [↗](https://www.salesforce.com/dreamforce/) |
+| All Things Open | 2026-10-25 | Raleigh, USA | [↗](https://allthingsopen.org) |
 | KubeCon + CloudNativeCon | Nov 9-12 2026 | Salt Lake City, Utah, United States | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) |
 | Microsoft Ignite | Nov 17-20 2026 | San Francisco, United States | [↗](https://ignite.microsoft.com/en-US/home) |
 | AWS re:Invent | Nov 30-Dec 4 2026 | Las Vegas, United States | [↗](https://aws.amazon.com/events/reinvent/) |
@@ -191,9 +200,24 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Open Source Summit NA | May 17-19 2027 | Vancouver, Canada | [↗](https://events.linuxfoundation.org/open-source-summit-north-america/) |
 | apidays New York 2027 | May 2027 | New York, NY (USA) | [↗](https://www.apidays.global/events/new-york) |
 | DevOpsCon | Sept 28 - Oct 2 | New York, United States | [↗](https://devopscon.io/new-york/) |
+| Open Source Summit North America | TBA | Minneapolis, USA | [↗](https://events.linuxfoundation.org/open-source-summit-north-america) |
 ### Online
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
+| Dot by Dot: Mandala Art Workshop | 2026-06-27 | Unknown | [↗](https://lu.ma/ii7cv45o) |
+| Architecting Agentic GraphRAG: A Deep Dive into Neo4j Aura Agents | 2026-06-27 | Gurugram, in | [↗](https://www.meetup.com/graphdb-delhi-ncr/events/315211010/) |
+| From Idea to App: Building with Kiro IDE and Kiro CLI | 2026-06-27 | Virtual/Online | [↗](https://www.meetup.com/aws-sbg-at-bennett-university/events/315338020/) |
+| AI DEV DAY INDIA 2026 | 2026-06-28 | Noida, in | [↗](https://www.meetup.com/agilewow/events/314973254/) |
+| Business Development The Magnetic Offer Matrix: Designing Irresistible Services | 2026-06-30 | Virtual/Online | [↗](https://www.meetup.com/kaasaa/events/315251666/) |
+| From Test Cases to Intelligent Testing with UiPath Test Suite & Agentic Testing | 2026-07-04 | Noida, in | [↗](https://www.meetup.com/agentic-ai-community-delhi/events/315165740/) |
+| Atlassian Team '26 Recap - Community Led Conference | 2026-07-04 | Delhi, in | [↗](https://www.meetup.com/noida-atlassian-community-events/events/315056834/) |
+| AI Builder's Mixer: Delhi Edition | 2026-07-05 | Gurugram, in | [↗](https://www.meetup.com/up-powerbiclub/events/315232672/) |
+| How can a Context Lake cut down up to 80% of your token usage? | 2026-07-07 | Virtual/Online | [↗](https://www.meetup.com/platform-engineers-new-delhi/events/315316255/) |
+| Health & Energy The Power of Pause: Using Rest as a Strategic Advantage | 2026-07-07 | Virtual/Online | [↗](https://www.meetup.com/kaasaa/events/315253284/) |
+| Beyond Code Generation: Building a Governed AI Engineering Lifecycle with OpenCode | 2026-07-08 | Unknown | [↗](https://lu.ma/7kfbalcf) |
+| Build real-time search and query with Redis | 2026-07-08 | Virtual/Online | [↗](https://www.meetup.com/redis-delhi/events/315383417/) |
+| n8n New Delhi Community Meetup | 2026-07-11 | Unknown | [↗](https://lu.ma/n8n-d1jb) |
+| IN PERSON! Apache Kafka® Meetup Noida - July 2026 | 2026-07-11 | Noida, in | [↗](https://www.meetup.com/gurgaon-kafka/events/315393033/) |
 | Conf42 Observability 2026 | 2026-09-10 | Online | [↗](https://www.conf42.com/obs2026) |
 | The AI-Native Workplace Summit 2026 | 2026-09-16 | Online | [↗](https://ainativeworkplace.com/) |
 | Conf42 AI Agents 2026 | 2026-09-24 | Online | [↗](https://www.conf42.com/agents2026) |
@@ -206,16 +230,14 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 ### South America
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
+| KCD Lima Perú 2026 | 2026-07-18 | Lima (Peru) | [↗](https://kcdlima.pe) |
+| GopherCon Latam 2026 | 2026-08-21 to 2026-08-22 | Florianópolis (Brazil) | [↗](https://gopherconlatam.org) |
+| Devopsdays Campinas | 2026-09-19 | Campinas (Brazil) | [↗](https://devopsdays.org/events/2026-campinas) |
+| Kubernetes Community Day's Argentina 2026 | 2026-10-02 | Buenos Aires (Argentina) | [↗](https://ocgroups.dev/cncf/group/6vnv695) |
+| PlatformCon | 2026-11-07 | São Paulo, Brazil | [↗](https://platformconlive.fr) |
 ---
 
 <!-- FOOTER -->
-| AIBoomi Events | TBA | Bengaluru, India | [↗](https://saasboomi.org/events) |
-| AIBoomi Annual | TBA | Chennai, India | [↗](https://annual.aiboomi.org) |
-| NASSCOM Tech Events | TBA | India | [↗](https://nasscom.in/events) |
-| Tech in Asia Events | TBA | Singapore | [↗](https://www.techinasia.com/events) |
-| IDC Asia Pacific Summits | TBA | Singapore | [↗](https://www.idc.com/ap/events) |
-| Open Source Summit North America | TBA | Minneapolis, USA | [↗](https://events.linuxfoundation.org/open-source-summit-north-america) |
-
 ## About
 
 Maintained by **[Infrasity](https://infrasity.com)**<br>A developer marketing agency helping DevTool startups and B2B SaaS companies with technical content, DevRel strategy, and GTM.

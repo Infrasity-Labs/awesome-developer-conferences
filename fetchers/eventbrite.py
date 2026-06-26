@@ -117,7 +117,7 @@ if __name__ == "__main__":
         if not region_events:
             continue
             
-        pattern = re.compile(rf"(## {region}\n.*?\| Event Name.*?\|\n\|---.*?\|\n)(.*?)(?=\n## |\Z)", re.DOTALL)
+        pattern = re.compile(rf"(### {region}\n.*?\| Event Name.*?\|\n\|---.*?\|\n)(.*?)(?=\n### |\Z)", re.DOTALL)
         match = pattern.search(readme_content)
         
         if match:
