@@ -40,10 +40,32 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 ### Asia
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| UN Open Source Week | 2026-06-22 to 2026-06-26 | New York, NY (USA) | [↗](https://www.un.org/digital-emerging-technologies/content/open-source-week-2025) |
-| PlatformCon | 2026-06-23 | London, United Kingdom | [↗](https://platformconlive.fr) |
-| MWCP 2026 | 2026-06-23 to 2026-06-24 | Paris (France) | [↗](https://ampcommunity.online/mwcp-2026) |
-| Open Source in Finance Forum London | 2026-06-25 | London (UK) | [↗](https://events.linuxfoundation.org/open-source-finance-forum-london/) |
+| KubeCon + CloudNativeCon | June 18-19, 2026 | Mumbai, India | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/) |
+| KubeCon + CloudNativeCon | July 28-30 2026 | Yokohama, Japan | [↗](https://www.cncf.io/kubecon-cloudnativecon-events/) |
+| Kubernetes Community Days Vietnam 2026 | 2026-07-25 | Hanoi (Vietnam) | [↗](https://2026.vietopeninfra.org/en/) |
+| KCD & OpenInfra Days Vietnam 2026 | 2026-07-25 | Hanoi (Vietnam) | [↗](https://2026.vietopeninfra.org) |
+| Open Source Summit Korea | 2026-08-11 | Seoul (South Korea) | [↗](https://events.linuxfoundation.org/open-source-summit-korea/) |
+| apidays India | 2026-08-19 to 2026-08-20 | Bengaluru, India | [↗](https://www.apidays.global/events/india) |
+| KubeCon + CloudNativeCon | Sep 7-9 2026 | Shanghai, China | [↗](https://www.cncf.io/kubecon-cloudnativecon-events/) |
+| OSPOlogy + OSPO Summit China | 2026-09-07 | Shanghai (China) | [↗](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/co-located-events/ospology-ospo-summit/#about) |
+| KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China | 2026-09-08 to 2026-09-09 | Shanghai (China) | [↗](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/) |
+| AGNTCon + MCPCon Japan | 2026-09-10 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/agntcon-mcpcon-japan/) |
+| Cypher 2026 | 2026-10-07 to 2026-10-09 | Bengaluru (India) | [↗](https://cypher.analyticsindiamag.com) |
+| Kubernetes Community Days Indonesia 2026 | 2026-10-24 | Bandung (Indonesia) | [↗](https://cloudnative.id) |
+| Open Source Summit Japan 2026 | 2026-12-07 to 2026-12-09 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/open-source-summit-japan/) |
+| Web Summit Qatar | Jan 27 - Feb 3 2027 | Doha, Qatar | [↗](https://qatar.websummit.com) |
+| apidays Singapore 2027 | 2027-04-13 to 2027-04-14 | Singapore | [↗](https://www.apidays.global/events/singapore) |
+| Great International Developer Summit (GIDS) | 2027-04-27 to 2027-04-30 | Bengaluru (India) | [↗](https://developersummit.com/) |
+### Australia
+| Event Name | Date | Location | Register |
+|------------|------|----------|----------|
+| PlatformCon | 2026-10-28 | Sydney, Australia | [↗](https://platformconlive.fr) |
+| Cloud Native Summit - APAC 2026 | 2026-10-28 to 2026-10-29 | Melbourne (Australia) | [↗](https://www.cloudnative.ai/) |
+| apidays Australia | 2026-10-28 to 2026-10-29 | Melbourne, Australia | [↗](https://www.apidays.global/events/australia) |
+### Europe
+| Event Name | Date | Location | Register |
+|------------|------|----------|----------|
+| DevOpsCon | June 15-19 2026 | Berlin, Germany | [↗](https://devopscon.io/berlin/) |
 | OWASP Global AppSec EU 2026 - CFP (Vienna, Austria) | 2026-06-25 to 2026-06-26 | Vienna (Austria) | [↗](https://www.owasp.org) |
 | PlatformCon | 2026-06-25 | New York, United States | [↗](https://platformconlive.fr) |
 | AgentCon - Orlando | 2026-06-26 | Orlando, FL (USA) | [↗](https://agentcon.city/orlando) |
@@ -157,8 +179,8 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 ### North America
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| WeAreDevelopers North America | 2026-09-01 | San Jose, USA | [↗](https://www.wearedevelopers.com/world-congress-north-america) |
-| All Things Open | 2026-10-25 | Raleigh, USA | [↗](https://allthingsopen.org) |
+| UN Open Source Week | 2026-06-22 to 2026-06-26 | New York, NY (USA) | [↗](https://www.un.org/digital-emerging-technologies/content/open-source-week-2025) |
+| AgentCon - Orlando | 2026-06-26 | Orlando, FL (USA) | [↗](https://agentcon.city/orlando) |
 | DevRelCon | July 22-23 2026 | New York, United States | [↗](https://nyc.devrelcon.dev) |
 | Dreamforce | Sep 15-17 2026 | San Francisco, United States | [↗](https://www.salesforce.com/dreamforce/) |
 | KubeCon + CloudNativeCon | Nov 9-12 2026 | Salt Lake City, Utah, United States | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) |
@@ -169,12 +191,18 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Open Source Summit NA | May 17-19 2027 | Vancouver, Canada | [↗](https://events.linuxfoundation.org/open-source-summit-north-america/) |
 | apidays New York 2027 | May 2027 | New York, NY (USA) | [↗](https://www.apidays.global/events/new-york) |
 | DevOpsCon | Sept 28 - Oct 2 | New York, United States | [↗](https://devopscon.io/new-york/) |
-### Virtual/Online
+### Online
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Dot by Dot: Mandala Art Workshop | 2026-06-27 | Unknown | [↗](https://lu.ma/ii7cv45o) |
-| Beyond Code Generation: Building a Governed AI Engineering Lifecycle with OpenCode | 2026-07-08 | Unknown | [↗](https://lu.ma/7kfbalcf) |
-| n8n New Delhi Community Meetup | 2026-07-11 | Unknown | [↗](https://lu.ma/n8n-d1jb) |
+| Conf42 Observability 2026 | 2026-09-10 | Online | [↗](https://www.conf42.com/obs2026) |
+| The AI-Native Workplace Summit 2026 | 2026-09-16 | Online | [↗](https://ainativeworkplace.com/) |
+| Conf42 AI Agents 2026 | 2026-09-24 | Online | [↗](https://www.conf42.com/agents2026) |
+| Dapr Day Virtual | 2026-10-08 | Online | [↗](https://community2.cncf.io/events/details/cncf-virtual-project-events-hosted-by-cncf-presents-dapr-day/) |
+| Minds Mastering Machines - M3: LLMs im Unternehmen | 2026-10-15 | Online | [↗](https://m3-konferenz.de/llm.php) |
+| KubeVirt Summit Virtual | 2026-10-15 | Online | [↗](https://community2.cncf.io/events/details/cncf-virtual-project-events-hosted-by-cncf-presents-kubevirt-summit-2026/) |
+| Open Source Observability Day | 2026-10-23 | Online | [↗](https://osoday.com) |
+| Conf42 Platform Engineering 2026 | 2026-11-05 | Online | [↗](https://www.conf42.com/platform2026) |
+| AI for Developers | 2026-12-17 to 2026-12-18 | Online | [↗](https://aiconference.dev/) |
 ### South America
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
