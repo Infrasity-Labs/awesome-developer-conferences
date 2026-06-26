@@ -19,18 +19,16 @@
 - [Asia](#asia) 
 - [Australia](#australia) 
 - [Europe](#europe) 
-- [North America](#north-america) ·
+- [North America](#north-america) 
 - [South America](#south-america) 
 - [Virtual/Online](#virtualonline) 
 
 
 <!-- EXPLANATION / ABOUT -->
-## The List
-Finding the right tech conference shouldn't require scraping fifty different scattered blogs, sponsor pages, and aggregator sites.
+## What You'll Find Here
+Finding the right tech conference shouldn't mean digging through dozens of blogs, sponsor pages, and aggregator sites.
 
-This repository is a carefully curated, daily-updated directory of the world's best developer, cloud-native, and open-source events including KubeCon, PlatformCon, DevOpsCon, and Open Source Summit.
-
-At Infrasity, we run developer marketing for DevTools and B2B SaaS. We spend countless hours researching which conferences actually deliver value for attending, speaking, or sponsoring. Instead of keeping that data siloed, we open-sourced it.
+This is a daily-updated directory of developer, cloud-native, and open-source conferences worldwide. It covers events like KubeCon, PlatformCon, DevOpsCon, and Open Source Summit. Whether you're looking to attend, speak, or find the right event to sponsor, everything is in one place and kept up to date.
 
 ---
 
@@ -74,7 +72,7 @@ At Infrasity, we run developer marketing for DevTools and B2B SaaS. We spend cou
 | Open Source in Finance Forum London | 2026-06-25 | London (UK) | [↗](https://events.linuxfoundation.org/open-source-finance-forum-london/) |
 | OWASP Global AppSec EU 2026 - CFP (Vienna, Austria) | 2026-06-25 to 2026-06-26 | Vienna (Austria) | [↗](https://www.owasp.org) |
 | Cloud Native Summit 2026 | 2026-06-29 to 2026-06-30 | Munich (Germany) | [↗](https://cloudnativesummit.de/) |
-| Automotive Oopen Source Summit 2026 | 2026-06-30 | Starnberg (Germany) | [↗](https://www.automotive-oss.org/event/2026/summary) |
+| Automotive Open Source Summit 2026 | 2026-06-30 | Starnberg (Germany) | [↗](https://www.automotive-oss.org/event/2026/summary) |
 | SaaSiest | 2026-07-01 | London, United Kingdom | [↗](https://yellowo.co.uk/2026-events-directory/) |
 | apidays Munich | 2026-07-08 to 2026-07-09 | Munich, Germany | [↗](https://www.apidays.global/events/munich) |
 | From Code to Insight: Agentic AI, MCP, and Automation in Practice | 2026-07-16 | Keynes (UK) | [↗](https://www.meetup.com/pydata-milton-keynes/) |
@@ -141,22 +139,33 @@ At Infrasity, we run developer marketing for DevTools and B2B SaaS. We spend cou
 ### Virtual/Online
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
+| Architecting Agentic GraphRAG: A Deep Dive into Neo4j Aura Agents | 2026-06-27 | Gurugram, in | [↗](https://www.meetup.com/graphdb-delhi-ncr/events/315211010/) |
+| From Idea to App: Building with Kiro IDE and Kiro CLI | 2026-06-27 | Virtual/Online | [↗](https://www.meetup.com/aws-sbg-at-bennett-university/events/315338020/) |
+| AI DEV DAY INDIA 2026 | 2026-06-28 | Noida, in | [↗](https://www.meetup.com/agilewow/events/314973254/) |
+| Business Development The Magnetic Offer Matrix: Designing Irresistible Services | 2026-06-30 | Virtual/Online | [↗](https://www.meetup.com/kaasaa/events/315251666/) |
+| From Test Cases to Intelligent Testing with UiPath Test Suite & Agentic Testing | 2026-07-04 | Noida, in | [↗](https://www.meetup.com/agentic-ai-community-delhi/events/315165740/) |
+| Atlassian Team '26 Recap - Community Led Conference | 2026-07-04 | Delhi, in | [↗](https://www.meetup.com/noida-atlassian-community-events/events/315056834/) |
+| AI Builder's Mixer: Delhi Edition | 2026-07-05 | Gurugram, in | [↗](https://www.meetup.com/up-powerbiclub/events/315232672/) |
+| How can a Context Lake cut down up to 80% of your token usage? | 2026-07-07 | Virtual/Online | [↗](https://www.meetup.com/platform-engineers-new-delhi/events/315316255/) |
+| Health & Energy The Power of Pause: Using Rest as a Strategic Advantage | 2026-07-07 | Virtual/Online | [↗](https://www.meetup.com/kaasaa/events/315253284/) |
+| Build real-time search and query with Redis | 2026-07-08 | Virtual/Online | [↗](https://www.meetup.com/redis-delhi/events/315383417/) |
+| IN PERSON! Apache Kafka® Meetup Noida - July 2026 | 2026-07-11 | Noida, in | [↗](https://www.meetup.com/gurgaon-kafka/events/315393033/) |
+| KCD Lima Perú 2026 | 2026-07-18 | Lima (Peru) | [↗](https://kcdlima.pe) |
+| GopherCon Latam 2026 | 2026-08-21 to 2026-08-22 | Florianópolis (Brazil) | [↗](https://gopherconlatam.org) |
 | Conf42 Observability 2026 | 2026-09-10 | Online | [↗](https://www.conf42.com/obs2026) |
 | The AI-Native Workplace Summit 2026 | 2026-09-16 | Online | [↗](https://ainativeworkplace.com/) |
+| Devopsdays Campinas | 2026-09-19 | Campinas (Brazil) | [↗](https://devopsdays.org/events/2026-campinas) |
 | Conf42 AI Agents 2026 | 2026-09-24 | Online | [↗](https://www.conf42.com/agents2026) |
+| Kubernetes Community Day's Argentina 2026 | 2026-10-02 | Buenos Aires (Argentina) | [↗](https://ocgroups.dev/cncf/group/6vnv695) |
 | Dapr Day Virtual | 2026-10-08 | Online | [↗](https://community2.cncf.io/events/details/cncf-virtual-project-events-hosted-by-cncf-presents-dapr-day/) |
 | Minds Mastering Machines - M3: LLMs im Unternehmen | 2026-10-15 | Online | [↗](https://m3-konferenz.de/llm.php) |
 | Open Source Observability Day | 2026-10-23 | Online | [↗](https://osoday.com) |
 | Conf42 Platform Engineering 2026 | 2026-11-05 | Online | [↗](https://www.conf42.com/platform2026) |
+| PlatformCon | 2026-11-07 | São Paulo, Brazil | [↗](https://platformconlive.fr) |
 | AI for Developers | 2026-12-17 to 2026-12-18 | Online | [↗](https://aiconference.dev/) |
 ### South America
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| KCD Lima Perú 2026 | 2026-07-18 | Lima (Peru) | [↗](https://kcdlima.pe) |
-| GopherCon Latam 2026 | 2026-08-21 to 2026-08-22 | Florianópolis (Brazil) | [↗](https://gopherconlatam.org) |
-| Devopsdays Campinas | 2026-09-19 | Campinas (Brazil) | [↗](https://devopsdays.org/events/2026-campinas) |
-| Kubernetes Community Day's Argentina 2026 | 2026-10-02 | Buenos Aires (Argentina) | [↗](https://ocgroups.dev/cncf/group/6vnv695) |
-| PlatformCon | 2026-11-07 | São Paulo, Brazil | [↗](https://platformconlive.fr) |
 ---
 
 <!-- FOOTER -->
@@ -171,4 +180,4 @@ We maintain this list because we research these events for our clients. If you'r
 
 ---
 
-*Missing an event? [Open a PR](CONTRIBUTING.md) or [file an issue](https://github.com/Infrasity-Labs/awersome-developer-conferences/issues/new).*
+Missing an event? [Open a PR](CONTRIBUTING.md) or [file an issue](https://github.com/Infrasity-Labs/awersome-developer-conferences/issues/new).

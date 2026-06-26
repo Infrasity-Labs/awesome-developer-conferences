@@ -58,7 +58,6 @@ If you want to improve existing Python fetchers, fix bugs, or add new ones, here
    ```
 
 4. **Run a fetcher locally to test your changes**:
-   *Note: Because `cons_tech.py` expects a `temp_confs_data` directory, you may need to clone the `conference-data` repository first if you are testing that specific script.*
    ```bash
    python fetchers/developer_events.py
    ```

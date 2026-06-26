@@ -4,6 +4,7 @@ import urllib.request
 import json
 import ssl
 from datetime import datetime
+import config
 
 def fetch_events_from_api():
     url = "https://dev.events/"
@@ -25,18 +26,8 @@ def fetch_events_from_api():
 
     scripts = soup.find_all('script', type='application/ld+json')
 
-    keywords = [
-        "developer relations", "devrel", "developer advocacy", "developer experience", 
-        "developer marketing", "developer ecosystem", "go-to-market", "gtm", "b2b saas", 
-        "product-led growth", "plg", "revenue operations", "revops", "api economy", 
-        "api management", "api monetization", "developer tools", "devtools", "sdk", 
-        "platform engineering", "observability", "cloud-native", "ai agents", "agentic ai", 
-        "llm", "ai developer tools", "developer-first", "technical audience", 
-        "call for papers", "cfp", "open source", "community-led growth", "saas scaling", 
-        "developer portal", "api-first", "developer platform", "yc startup", "tech lead",
-        "software", "programming", "backend", "frontend", "fullstack", "architecture",
-        "java", "javascript", "python", "ruby", "golang", "rust", "react", "vue"
-    ]
+    
+
 
     fetched_events = []
     for script in scripts:
@@ -72,7 +63,7 @@ def fetch_events_from_api():
         desc = (event.get('description') or '').lower()
         
         event_text = name.lower() + ' ' + desc
-        if not any(kw.lower() in event_text for kw in keywords):
+        if not config.is_event_relevant(event_text):
             continue
 
         link = event.get('url', '')

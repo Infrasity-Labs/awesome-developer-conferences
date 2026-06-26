@@ -2,6 +2,7 @@ import os
 import re
 import json
 from datetime import datetime, timezone
+import config
 try:
     import cloudscraper
     from bs4 import BeautifulSoup
@@ -21,16 +22,6 @@ def fetch_bigevent():
         print(f"Failed to fetch data from 10times: {e}")
         return []
     
-    keywords = [
-        "developer relations", "devrel", "developer advocacy", "developer experience", 
-        "developer marketing", "developer ecosystem", "go-to-market", "gtm", "b2b saas", 
-        "product-led growth", "plg", "revenue operations", "revops", "api economy", 
-        "api management", "api monetization", "developer tools", "devtools", "sdk", 
-        "platform engineering", "observability", "cloud-native", "ai agents", "agentic ai", 
-        "llm", "ai developer tools", "developer-first", "technical audience", 
-        "call for papers", "cfp", "open source", "community-led growth", "saas scaling", 
-        "developer portal", "api-first", "developer platform", "yc startup"
-    ]
 
     fetched_events = []
     current_time = datetime.now(timezone.utc)
@@ -91,7 +82,7 @@ def fetch_bigevent():
                 
                 # Keyword matching against name and description (if available)
                 event_text = (name + " " + event.get("description", "")).lower()
-                if not any(kw.lower() in event_text for kw in keywords):
+                if not config.is_event_relevant(event_text):
                     continue
 
                 register = f"[↗]({link})" if link else "N/A"

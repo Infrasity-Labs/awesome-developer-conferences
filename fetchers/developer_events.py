@@ -4,6 +4,7 @@ import urllib.request
 import json
 import ssl
 from datetime import datetime
+import config
 
 def fetch_events_from_api():
     url = "https://developers.events/all-events.json"
@@ -24,17 +25,6 @@ def fetch_events_from_api():
     except Exception as e:
         print(f"Failed to fetch data: {e}")
         return []
-
-    keywords = [
-        "developer relations", "devrel", "developer advocacy", "developer experience", 
-        "developer marketing", "developer ecosystem", "go-to-market", "gtm", "b2b saas", 
-        "product-led growth", "plg", "revenue operations", "revops", "api economy", 
-        "api management", "api monetization", "developer tools", "devtools", "sdk", 
-        "platform engineering", "observability", "cloud-native", "ai agents", "agentic ai", 
-        "llm", "ai developer tools", "developer-first", "technical audience", 
-        "call for papers", "cfp", "open source", "community-led growth", "saas scaling", 
-        "developer portal", "api-first", "developer platform", "yc startup"
-    ]
 
     fetched_events = []
     for event in data:
@@ -57,7 +47,7 @@ def fetch_events_from_api():
         tags = [tag.get('value', '').lower() for tag in (event.get('tags') or []) if isinstance(tag, dict)]
         event_text += ' ' + ' '.join(tags)
         
-        if not any(kw.lower() in event_text for kw in keywords):
+        if not config.is_event_relevant(event_text):
             continue
 
         name = (event.get('name') or 'N/A').replace('|', '\\|')

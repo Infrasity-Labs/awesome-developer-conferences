@@ -27,16 +27,16 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Clone confs.tech data
-        run: |
-          git clone --depth 1 https://github.com/tech-conferences/conference-data.git temp_confs_data
-
       - name: Run Fetchers
         run: |
           python fetchers/bigevent.py
           python fetchers/developer_events.py
           python fetchers/dev_events.py
-          python fetchers/cons_tech.py
+          python fetchers/papercall.py
+          python fetchers/flagships.py
+          python fetchers/meetup.py
+          python fetchers/eventbrite.py
+          python fetchers/luma.py
 
       - name: Commit and push changes
         run: |
