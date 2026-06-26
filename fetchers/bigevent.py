@@ -100,38 +100,7 @@ def fetch_bigevent():
     return fetched_events
 
 def get_continent(location):
-    loc_lower = location.lower()
-    if 'online' in loc_lower:
-        if ' & online' not in loc_lower:
-            return 'Online'
-    if any(x in loc_lower for x in ['usa', 'canada', 'united states']):
-        return 'North America'
-    if any(x in loc_lower for x in ['uk', 'germany', 'austria', 'france', 'portugal', 'czechia', 'czech republic', 'luxembourg', 'netherlands', 'poland', 'denmark', 'switzerland', 'belgium', 'ireland', 'italy', 'spain', 'sweden', 'norway', 'finland', 'united kingdom']):
-        return 'Europe'
-    if any(x in loc_lower for x in ['brazil', 'peru', 'argentina', 'colombia', 'chile']):
-        return 'South America'
-    if any(x in loc_lower for x in ['vietnam', 'korea', 'china', 'japan', 'indonesia', 'india', 'qatar', 'singapore', 'taiwan', 'thailand', 'malaysia', 'philippines']):
-        return 'Asia'
-    if any(x in loc_lower for x in ['nigeria', 'south africa', 'kenya', 'egypt']):
-        return 'Africa'
-    if any(x in loc_lower for x in ['australia', 'new zealand']):
-        return 'Australia'
-    # Fallbacks based on city if no country is present
-    if 'london' in loc_lower or 'munich' in loc_lower or 'berlin' in loc_lower or 'paris' in loc_lower or 'amsterdam' in loc_lower:
-        return 'Europe'
-    if 'san francisco' in loc_lower or 'new york' in loc_lower or 'orlando' in loc_lower or 'los angeles' in loc_lower or 'salt lake city' in loc_lower or 'indianapolis' in loc_lower or 'california' in loc_lower:
-        return 'North America'
-    if 'são paulo' in loc_lower:
-        return 'South America'
-    if 'hanoi' in loc_lower or 'tokyo' in loc_lower or 'seoul' in loc_lower or 'mumbai' in loc_lower or 'bengaluru' in loc_lower:
-        return 'Asia'
-    if 'lagos' in loc_lower:
-        return 'Africa'
-    if 'melbourne' in loc_lower or 'sydney' in loc_lower:
-        return 'Australia'
-    
-    # default to online if we can't figure it out
-    return 'Online'
+    return config.determine_region(location)
 
 def normalize_name(name):
     return name.lower().replace(' ', '').replace('-', '').replace('+', '')
@@ -287,6 +256,9 @@ def main():
                 "continent": cont,
                 "line": fe['line']
             })
+
+    # Deduplicate before distribution
+    all_events = config.deduplicate_events(all_events)
 
     # Distribute by continent
     for ev in all_events:

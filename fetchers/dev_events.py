@@ -112,45 +112,7 @@ def fetch_events_from_api():
 
 
 def get_continent(location):
-    loc_lower = location.lower()
-    
-    def has_term(terms):
-        for term in terms:
-            pattern = r'\b' + re.escape(term) + r'\b'
-            if re.search(pattern, loc_lower):
-                return True
-        return False
-
-    if 'online' in loc_lower and ' & online' not in loc_lower:
-        return 'Online'
-    if has_term(['usa', 'canada', 'united states']):
-        return 'North America'
-    if has_term(['uk', 'germany', 'austria', 'france', 'portugal', 'czechia', 'czech republic', 'luxembourg', 'netherlands', 'poland', 'denmark', 'switzerland', 'belgium', 'ireland', 'italy', 'spain', 'sweden', 'norway', 'finland', 'united kingdom']):
-        return 'Europe'
-    if has_term(['brazil', 'peru', 'argentina', 'colombia', 'chile']):
-        return 'South America'
-    if has_term(['vietnam', 'korea', 'china', 'japan', 'indonesia', 'india', 'qatar', 'singapore', 'taiwan', 'thailand', 'malaysia', 'philippines']):
-        return 'Asia'
-    if has_term(['nigeria', 'south africa', 'kenya', 'egypt']):
-        return 'Africa'
-    if has_term(['australia', 'new zealand']):
-        return 'Australia'
-        
-    # Fallbacks based on city if no country is present
-    if has_term(['london', 'munich', 'berlin', 'paris', 'amsterdam']):
-        return 'Europe'
-    if has_term(['san francisco', 'new york', 'orlando', 'los angeles', 'salt lake city', 'indianapolis', 'california']):
-        return 'North America'
-    if has_term(['são paulo']):
-        return 'South America'
-    if has_term(['hanoi', 'tokyo', 'seoul', 'mumbai', 'bengaluru']):
-        return 'Asia'
-    if has_term(['lagos']):
-        return 'Africa'
-    if has_term(['melbourne', 'sydney']):
-        return 'Australia'
-    
-    return 'Online'
+    return config.determine_region(location)
 
 def normalize_name(name):
     return name.lower().replace(' ', '').replace('-', '').replace('+', '')
@@ -313,6 +275,9 @@ def main():
                 "continent": cont,
                 "line": fe['line']
             })
+
+    # Deduplicate before distribution
+    all_events = config.deduplicate_events(all_events)
 
     # Distribute by continent
     for ev in all_events:

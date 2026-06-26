@@ -102,3 +102,72 @@ def parse_date(date_str):
                 return f"{year}-{month:02d}-01"
     
     return "9999-99-99"
+
+def determine_region(location):
+    if not location:
+        return 'Virtual/Online'
+    import re
+    loc = location.lower()
+    
+    if 'online' in loc or 'virtual' in loc:
+        if ' & online' not in loc and ' and virtual' not in loc:
+            return 'Virtual/Online'
+
+    def has_word(words):
+        pattern = r'\b(' + '|'.join(re.escape(w) for w in words) + r')\b'
+        return bool(re.search(pattern, loc))
+
+    # Africa
+    if has_word(['africa', 'nigeria', 'kenya', 'egypt', 'lagos', 'nairobi', 'cairo', 'durban', 'johannesburg']):
+        return 'Africa'
+        
+    # Australia
+    if has_word(['australia', 'new zealand', 'sydney', 'melbourne', 'brisbane']):
+        return 'Australia'
+        
+    # South America
+    if has_word(['south america', 'latam', 'brazil', 'argentina', 'colombia', 'chile', 'peru', 'são paulo', 'sau paulo', 'buenos aires', 'lima', 'campinas', 'florianópolis']):
+        return 'South America'
+        
+    # Europe
+    europe_countries = ['uk', 'united kingdom', 'england', 'germany', 'france', 'spain', 'italy', 'netherlands', 'belgium', 'switzerland', 'austria', 'portugal', 'sweden', 'norway', 'denmark', 'finland', 'ireland', 'poland', 'czechia', 'czech republic', 'luxembourg', 'scotland', 'wales']
+    europe_cities = ['london', 'paris', 'berlin', 'munich', 'amsterdam', 'madrid', 'barcelona', 'rome', 'milan', 'vienna', 'zurich', 'geneva', 'brussels', 'lisbon', 'stockholm', 'oslo', 'copenhagen', 'helsinki', 'dublin', 'warsaw', 'prague', 'frankfurt', 'keynes', 'antwerp']
+    if has_word(europe_countries + europe_cities):
+        return 'Europe'
+        
+    # North America
+    na_countries = ['usa', 'united states', 'canada', 'mexico']
+    na_cities = ['san francisco', 'new york', 'nyc', 'los angeles', 'chicago', 'seattle', 'austin', 'boston', 'orlando', 'miami', 'las vegas', 'salt lake city', 'portland', 'toronto', 'vancouver', 'montreal', 'minneapolis', 'phoenix', 'raleigh', 'california', 'texas']
+    if has_word(na_countries + na_cities):
+        return 'North America'
+        
+    # Asia
+    asia_countries = ['india', 'china', 'japan', 'korea', 'vietnam', 'singapore', 'indonesia', 'malaysia', 'thailand', 'philippines', 'taiwan', 'qatar', 'uae', 'united arab emirates', 'israel', 'saudi arabia']
+    asia_cities = ['tokyo', 'seoul', 'shanghai', 'beijing', 'mumbai', 'bengaluru', 'bangalore', 'delhi', 'new delhi', 'gurugram', 'noida', 'pune', 'chennai', 'hyderabad', 'hanoi', 'ho chi minh', 'jakarta', 'kuala lumpur', 'bangkok', 'manila', 'taipei', 'dubai', 'doha', 'tel aviv']
+    if has_word(asia_countries + asia_cities):
+        return 'Asia'
+        
+    return 'Virtual/Online'
+
+def deduplicate_events(events):
+    import re
+    seen = {}
+    deduped = []
+    
+    for ev in events:
+        name = ev['name']
+        name_clean = re.sub(r'\[(.*?)\]\(.*?\)', r'\1', name).lower()
+        name_clean = re.sub(r'[^a-z0-9]', '', name_clean)
+        
+        # Use a combination of name, date, and location to avoid deleting different editions of the same conference series
+        date_clean = ev.get('date', '').strip().lower()
+        loc_clean = ev.get('location', '').strip().lower()
+        key = (name_clean, date_clean, loc_clean)
+        
+        if key not in seen:
+            seen[key] = True
+            deduped.append(ev)
+            
+    return deduped
+
+
