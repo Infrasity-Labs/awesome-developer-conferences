@@ -47,14 +47,15 @@ def main():
         if not in_events_section:
             pre_events_lines.append(line) if not post_events_lines else post_events_lines.append(line)
 
-    # 1. Re-evaluate regions for all events using the newly robust config.determine_region
-    for ev in all_events:
-        ev['continent'] = config.determine_region(ev['location'])
-
     # 2. Deduplicate
     deduped_events = config.deduplicate_events(all_events)
     
     # 3. Sort into continents
+    # 1. Re-evaluate regions for all events using the newly robust config.determine_region
+    for ev in deduped_events:
+        cont = config.determine_region(ev['location'], ev.get('name', ''), ev.get('register', ''))
+        ev['continent'] = cont
+
     continents_events = {
         'Africa': [],
         'Asia': [],

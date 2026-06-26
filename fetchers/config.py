@@ -103,24 +103,26 @@ def parse_date(date_str):
     
     return "9999-99-99"
 
-def determine_region(location):
+def determine_region(location, name='', link=''):
     import re
-    if not location:
-        return 'Virtual/Online'
-    loc = location.lower()
+    loc = (location or '').lower()
     
-    if 'online' in loc or 'virtual' in loc:
+    # If location explicitly says online/unknown, we will also scan the name and link to "rescue" it to a physical continent
+    is_virtual_loc = False
+    if 'online' in loc or 'virtual' in loc or 'unknown' in loc or not loc:
         if ' & online' not in loc and ' and virtual' not in loc:
-            return 'Virtual/Online'
+            is_virtual_loc = True
+            
+    search_text = loc if not is_virtual_loc else f"{loc} {name} {link}".lower()
             
     def has_word(word_list):
         for w in word_list:
-            if re.search(rf"\b{re.escape(w)}\b", loc):
+            if re.search(rf"\b{re.escape(w)}\b", search_text):
                 return True
         return False
 
     # Africa
-    if has_word(['africa', 'nigeria', 'kenya', 'egypt', 'lagos', 'nairobi', 'cairo', 'durban', 'johannesburg', 'tunisia', 'mauritius', 'togo', 'cameroon', 'libya', 'ghana', 'morocco', 'rwanda', 'uganda', 'senegal', 'tunis', 'lomé', 'yaoundé', 'tripoli', 'casablanca']):
+    if has_word(['africa', 'nigeria', 'kenya', 'egypt', 'lagos', 'nairobi', 'cairo', 'durban', 'johannesburg', 'tunisia', 'mauritius', 'togo', 'cameroon', 'libya', 'ghana', 'morocco', 'rwanda', 'uganda', 'senegal', 'tunis', 'lomé', 'yaoundé', 'tripoli', 'casablanca', 'ho']):
         return 'Africa'
         
     # Australia
@@ -133,7 +135,7 @@ def determine_region(location):
         
     # Europe
     europe_countries = ['uk', 'united kingdom', 'england', 'germany', 'france', 'spain', 'italy', 'netherlands', 'belgium', 'switzerland', 'austria', 'portugal', 'sweden', 'norway', 'denmark', 'finland', 'ireland', 'poland', 'czechia', 'czech republic', 'luxembourg', 'scotland', 'wales', 'slovenia', 'russia', 'kosovo', 'bulgaria', 'romania', 'hungary', 'latvia', 'bosnia', 'herzegovina', 'croatia', 'macedonia', 'greece', 'turkey', 'estonia', 'malta', 'serbia', 'slovakia', 'lithuania', 'cyprus', 'iceland']
-    europe_cities = ['london', 'paris', 'berlin', 'munich', 'amsterdam', 'madrid', 'barcelona', 'rome', 'milan', 'vienna', 'zurich', 'geneva', 'brussels', 'lisbon', 'stockholm', 'oslo', 'copenhagen', 'helsinki', 'dublin', 'warsaw', 'prague', 'frankfurt', 'keynes', 'antwerp', 'maribor', 'oulianovsk', 'pristina', 'sofia', 'cluj-napoca', 'cluj', 'budapest', 'jurmala', 'luka', 'zadar', 'riga', 'skopje', 'athens', 'iai', 'istanbul', 'krakow', 'vilnius', 'tallinn', 'rovinj', 'mainz', 'bucharest', 'dusseldorf', 'porto']
+    europe_cities = ['london', 'paris', 'berlin', 'munich', 'amsterdam', 'madrid', 'barcelona', 'rome', 'milan', 'vienna', 'zurich', 'geneva', 'brussels', 'lisbon', 'stockholm', 'oslo', 'copenhagen', 'helsinki', 'dublin', 'warsaw', 'prague', 'frankfurt', 'keynes', 'antwerp', 'maribor', 'oulianovsk', 'pristina', 'sofia', 'cluj-napoca', 'cluj', 'budapest', 'jurmala', 'luka', 'zadar', 'riga', 'skopje', 'athens', 'iai', 'istanbul', 'krakow', 'vilnius', 'tallinn', 'rovinj', 'mainz', 'bucharest', 'dusseldorf', 'porto', 'adria']
     if has_word(europe_countries + europe_cities):
         return 'Europe'
         
@@ -145,9 +147,11 @@ def determine_region(location):
         
     # Asia
     asia_countries = ['india', 'china', 'japan', 'korea', 'vietnam', 'singapore', 'indonesia', 'malaysia', 'thailand', 'philippines', 'taiwan', 'qatar', 'uae', 'united arab emirates', 'israel', 'saudi arabia', 'pakistan', 'bangladesh', 'sri lanka', 'nepal', 'oman', 'bahrain', 'kuwait', 'jordan', 'lebanon']
-    asia_cities = ['tokyo', 'seoul', 'shanghai', 'beijing', 'mumbai', 'bengaluru', 'bangalore', 'delhi', 'new delhi', 'gurugram', 'noida', 'pune', 'chennai', 'hyderabad', 'hanoi', 'ho chi minh', 'jakarta', 'kuala lumpur', 'bangkok', 'manila', 'taipei', 'dubai', 'doha', 'tel aviv', 'riyadh', 'ahmedabad']
+    asia_cities = ['tokyo', 'seoul', 'shanghai', 'beijing', 'mumbai', 'bengaluru', 'bangalore', 'delhi', 'new delhi', 'gurugram', 'noida', 'pune', 'chennai', 'hyderabad', 'hanoi', 'ho chi minh', 'jakarta', 'kuala lumpur', 'bangkok', 'manila', 'taipei', 'dubai', 'doha', 'tel aviv', 'riyadh', 'ahmedabad', 'bennett']
     if has_word(asia_countries + asia_cities):
         return 'Asia'
+        
+    return 'Virtual/Online'
         
     return 'Virtual/Online'
 
