@@ -104,19 +104,21 @@ def determine_region(location):
         return 'North America'
     if any(x in loc_lower for x in ['uk', 'germany', 'austria', 'france', 'portugal', 'czechia', 'czech republic', 'spain', 'belgium', 'netherlands']):
         return 'Europe'
-    if any(x in loc_lower for x in ['india', 'japan', 'china', 'uae', 'singapore', 'australia']):
+    if any(x in loc_lower for x in ['india', 'japan', 'china', 'uae', 'singapore']):
         return 'Asia'
+    if any(x in loc_lower for x in ['australia', 'new zealand']):
+        return 'Australia'
+    if any(x in loc_lower for x in ['brazil', 'peru', 'argentina', 'colombia', 'chile']):
+        return 'South America'
     return 'Virtual/Online'
 
 if __name__ == "__main__":
     print("Fetching events from Meetup...")
     events = fetch_events_from_api()
     print(f"Found {len(events)} events matching criteria.")
-    
-    if not events:
-        exit(0)
-        
-    with open('README.md', 'r', encoding='utf-8') as f:
+    import os
+    readme_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "README.md"))
+    with open(readme_path, 'r', encoding='utf-8') as f:
         readme_content = f.read()
         
     regions = {
@@ -137,7 +139,7 @@ if __name__ == "__main__":
         if not region_events:
             continue
             
-        pattern = re.compile(rf"(## {region}\n.*?\| Event Name.*?\|\n\|---.*?\|\n)(.*?)(?=\n## |\Z)", re.DOTALL)
+        pattern = re.compile(rf"(### {region}\n.*?\| Event Name.*?\|\n\|---.*?\|\n)(.*?)(?=\n### |\Z)", re.DOTALL)
         match = pattern.search(readme_content)
         
         if match:
@@ -174,15 +176,16 @@ if __name__ == "__main__":
                     parts = row.split('|')
                     if len(parts) >= 4:
                         date_str = parts[2].strip().split(' to ')[0].strip()
-                        try:
-                            return datetime.strptime(date_str, "%Y-%m-%d")
-                        except:
-                            pass
-                    return datetime.max
+                        return config.parse_date(date_str)
+                    return "9999-99-99"
                 
                 existing_rows.sort(key=extract_date)
                 new_table_content = '\n'.join(existing_rows) + '\n'
                 readme_content = readme_content[:match.start()] + header_and_table_header + new_table_content + readme_content[match.end():]
+                
+    with open(readme_path, 'w', encoding='utf-8') as f:
+        f.write(readme_content)
+        readme_content = readme_content[:match.start()] + header_and_table_header + new_table_content + readme_content[match.end():]
                 
     with open('README.md', 'w', encoding='utf-8') as f:
         f.write(readme_content)

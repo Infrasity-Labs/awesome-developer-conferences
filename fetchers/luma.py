@@ -108,10 +108,13 @@ def determine_region(location):
         return 'North America'
     if any(x in loc_lower for x in ['uk', 'germany', 'austria', 'france', 'portugal', 'czechia', 'czech republic', 'spain', 'belgium', 'netherlands', 'london', 'berlin', 'paris']):
         return 'Europe'
-    if any(x in loc_lower for x in ['india', 'japan', 'china', 'uae', 'singapore', 'australia', 'bangalore', 'singapore', 'tokyo']):
+    if any(x in loc_lower for x in ['india', 'japan', 'china', 'uae', 'singapore', 'bangalore', 'tokyo']):
         return 'Asia'
+    if any(x in loc_lower for x in ['australia', 'new zealand', 'sydney', 'melbourne']):
+        return 'Australia'
+    if any(x in loc_lower for x in ['brazil', 'peru', 'argentina', 'colombia', 'chile', 'são paulo', 'lima', 'buenos aires']):
+        return 'South America'
     return 'Virtual/Online'
-
 if __name__ == "__main__":
     print("Fetching events from Luma...")
     events = fetch_events_from_api()
