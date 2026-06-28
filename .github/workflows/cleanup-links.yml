@@ -1,0 +1,66 @@
+name: Cleanup Broken Links
+
+on:
+  schedule:
+    # Run once a week on Sundays at midnight UTC
+    - cron: '0 0 * * 0'
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Find broken links (Lychee)
+        # We use lychee to check all links in README.md
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --format json --output lychee_report.json --accept 200,403,429 './README.md'
+          fail: false
+
+      - name: Automatically remove broken events from README
+        run: |
+          python -c "
+          import json
+          import os
+
+          if os.path.exists('lychee_report.json'):
+              with open('lychee_report.json', 'r') as f:
+                  data = json.load(f)
+              
+              # Lychee's JSON format puts broken links inside a 'fail_map' key
+              fail_map = data.get('fail_map', {})
+              broken_urls = list(fail_map.keys())
+
+              if broken_urls:
+                  print(f'Found {len(broken_urls)} broken URLs. Removing them from README.md...')
+                  with open('README.md', 'r') as f:
+                      lines = f.readlines()
+                  
+                  # Rewrite README, skipping rows that contain any broken URL
+                  with open('README.md', 'w') as f:
+                      for line in lines:
+                          if not any(url in line for url in broken_urls):
+                              f.write(line)
+              else:
+                  print('No broken links found.')
+          "
+
+      - name: Commit and push cleaned README
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          
+          # Only commit if there are actually changes
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: remove expired events with broken links"
+            git push
+          else
+            echo "No changes to commit. README is clean."
+          fi

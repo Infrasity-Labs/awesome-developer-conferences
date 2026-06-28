@@ -7,65 +7,110 @@ from datetime import datetime
 import config
 
 def fetch_events_from_api():
-    url = "https://developers.events/all-events.json"
+    url = "https://infosec-conferences.com/"
 
-    # Bypass SSL verification if there are local cert issues
-    ctx = ssl.create_default_context()
-
-    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     try:
-        with urllib.request.urlopen(req, context=ctx) as response:
-            data = json.loads(response.read().decode('utf-8'))
+        import cloudscraper
+        scraper = cloudscraper.create_scraper()
+        html = scraper.get(url).text
     except Exception as e:
-        print(f"Failed to fetch data: {e}")
+        print(f"Failed to fetch data from infosec-conferences.com: {e}")
+        raise
+
+    try:
+        from bs4 import BeautifulSoup
+        soup = BeautifulSoup(html, 'html.parser')
+    except ImportError:
+        print("Please install beautifulsoup4")
         return []
 
-    fetched_events = []
-    for event in data:
-        dates = event.get('date', [])
-        if not dates:
-            continue
-        
-        # Dates are in milliseconds, convert to seconds
-        start_timestamp = dates[0] / 1000.0
-        start_date = datetime.utcfromtimestamp(start_timestamp)
-        end_timestamp = dates[-1] / 1000.0
-        
-        # Filter past events
-        now_timestamp = datetime.now().timestamp()
-        if end_timestamp < now_timestamp:
-            continue
-            
-        # Match keywords against name and tags
-        event_text = event.get('name', '').lower()
-        tags = [tag.get('value', '').lower() for tag in (event.get('tags') or []) if isinstance(tag, dict)]
-        event_text += ' ' + ' '.join(tags)
-        
-        if not config.is_event_relevant(event_text):
-            continue
+    scripts = soup.find_all('script', type='application/ld+json')
 
-        name = (event.get('name') or 'N/A').replace('|', '\\|')
-        location = (event.get('location') or 'N/A').replace('|', '\\|')
-        link = event.get('hyperlink', '')
-        
-        if link:
-            register = f"[↗]({link})"
-        else:
-            register = "N/A"
-        
-        if len(dates) > 1:
-            end_date = datetime.utcfromtimestamp(end_timestamp)
-            date_str = f"{start_date.strftime('%Y-%m-%d')} to {end_date.strftime('%Y-%m-%d')}"
-        else:
-            date_str = start_date.strftime('%Y-%m-%d')
+    
+
+
+    fetched_events = []
+    for script in scripts:
+        try:
+            data = json.loads(script.string)
+        except (json.JSONDecodeError, TypeError):
+            continue
             
-        fetched_events.append({
-            "name": name,
-            "date": date_str,
-            "location": location,
-            "register": register,
-            "line": f"| {name} | {date_str} | {location} | {register} |"
-        })
+        events_list = data if isinstance(data, list) else [data]
+        
+        for event in events_list:
+            if not isinstance(event, dict):
+                continue
+            if event.get('@type') not in ['EducationEvent', 'Event']:
+                continue
+                
+            start_date_str = event.get('startDate')
+            end_date_str = event.get('endDate')
+            
+            if not start_date_str:
+                continue
+                
+            try:
+                start_date = datetime.fromisoformat(start_date_str.replace('Z', '+00:00'))
+                if end_date_str:
+                    end_date = datetime.fromisoformat(end_date_str.replace('Z', '+00:00'))
+                else:
+                    end_date = start_date
+            except Exception as e:
+                continue
+                
+            # Filter past events
+            now = datetime.now(end_date.tzinfo)
+            if end_date < now:
+                continue
+                
+            name = (event.get('name') or 'N/A').replace('|', '\\|')
+            desc = (event.get('description') or '').lower()
+            
+            event_text = name.lower() + ' ' + desc
+            if not config.is_event_relevant(event_text):
+                continue
+
+            link = event.get('url', '')
+            if link:
+                register = f"[↗]({link})"
+            else:
+                register = "N/A"
+                
+            # Determine location
+            attendance = event.get('eventAttendanceMode', '')
+            if 'Online' in attendance:
+                location = 'Online'
+            else:
+                loc_data = event.get('location', {})
+                if isinstance(loc_data, dict):
+                    address = loc_data.get('address', {})
+                    if isinstance(address, dict):
+                        city = address.get('addressLocality', '')
+                        country = address.get('addressCountry', '')
+                        location = f"{city}, {country}".strip(', ')
+                    else:
+                        location = str(address)
+                else:
+                    location = str(loc_data)
+                    
+                if not location or location == '{}' or location == ',':
+                    location = 'Unknown'
+                    
+            location = location.replace('|', '\\|')
+
+            if start_date.date() != end_date.date():
+                date_str = f"{start_date.strftime('%Y-%m-%d')} to {end_date.strftime('%Y-%m-%d')}"
+            else:
+                date_str = start_date.strftime('%Y-%m-%d')
+                
+            fetched_events.append({
+                "name": name,
+                "date": date_str,
+                "location": location,
+                "register": register,
+                "line": f"| {name} | {date_str} | {location} | {register} |"
+            })
     
     return fetched_events
 
@@ -96,15 +141,21 @@ def parse_date(date_str):
 
 
 
-
-
 def is_past_event(date_str):
+    from datetime import datetime, timezone
+    now = datetime.now(timezone.utc)
+    today_str = now.strftime('%Y-%m-%d')
+    
+    # Try to find ISO dates (YYYY-MM-DD)
+    iso_dates = re.findall(r'\d{4}-\d{2}-\d{2}', date_str)
+    if iso_dates:
+        return max(iso_dates) < today_str
+        
+    # Fallback for non-ISO dates (approximate check by year and month)
     years = re.findall(r'\d{4}', date_str)
     if not years:
         return False
         
-    from datetime import datetime, timezone
-    now = datetime.now(timezone.utc)
     current_year = now.year
     current_month = now.month
     
@@ -113,13 +164,6 @@ def is_past_event(date_str):
         return True
         
     if max_year == current_year:
-        iso_dates = re.findall(r'\d{4}-(\d{2})-\d{2}', date_str)
-        if iso_dates:
-            max_month = max(int(m) for m in iso_dates)
-            if max_month < current_month:
-                return True
-            return False
-            
         months = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"]
         found_months = []
         lower_date = date_str.lower()
@@ -178,7 +222,7 @@ def main():
                 continue
                 
             if line.startswith('|') and not line.startswith('| Event Name') and not line.startswith('|---') and not line.startswith('|------------'):
-                parts = [p.strip() for p in line.split('|')]
+                parts = [p.strip() for p in re.split(r'(?<!\\)\|', line)]
                 if len(parts) >= 5:
                     name = parts[1]
                     date_str = parts[2]
@@ -242,11 +286,12 @@ def main():
 
     # Distribute by continent
     for ev in all_events:
-        if ev['continent'] in continents_events:
-            continents_events[ev['continent']].append(ev)
+        cont = ev['continent']
+        if cont in continents_events:
+            continents_events[cont].append(ev)
         else:
-            print(f"Unknown continent {ev['continent']} for event {ev['name']}")
-
+            print(f"Unknown continent {cont} for event {ev['name']}. Defaulting to Virtual/Online.")
+            continents_events['Virtual/Online'].append(ev)
 
     # Sort events in each continent by date
     for cont in continents_events:

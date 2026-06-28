@@ -11,7 +11,7 @@ flagship_events = [
     },
     {
         "name": "WeAreDevelopers North America",
-        "date": "2026-09-01",
+        "date": "2026-09-22 to 2026-09-24",
         "location": "San Jose, USA",
         "register": "[↗](https://www.wearedevelopers.com/world-congress-north-america)"
     },
@@ -94,6 +94,42 @@ flagship_events = [
         "register": "[↗](https://devoxx.be)"
     },
     {
+        "name": "Google Cloud Next",
+        "date": "TBA",
+        "location": "Las Vegas, USA",
+        "register": "[↗](https://cloud.withgoogle.com/next)"
+    },
+    {
+        "name": "Microsoft Build",
+        "date": "TBA",
+        "location": "Seattle, USA",
+        "register": "[↗](https://build.microsoft.com/)"
+    },
+    {
+        "name": "NVIDIA GTC",
+        "date": "TBA",
+        "location": "San Jose, USA",
+        "register": "[↗](https://www.nvidia.com/gtc/)"
+    },
+    {
+        "name": "QCon London",
+        "date": "TBA",
+        "location": "London, UK",
+        "register": "[↗](https://qconlondon.com/)"
+    },
+    {
+        "name": "QCon New York",
+        "date": "TBA",
+        "location": "New York, USA",
+        "register": "[↗](https://qconnewyork.com/)"
+    },
+    {
+        "name": "QCon San Francisco",
+        "date": "TBA",
+        "location": "San Francisco, USA",
+        "register": "[↗](https://qconsf.com/)"
+    },
+    {
         "name": "Web Summit",
         "date": "2026-11-10",
         "location": "Lisbon, Portugal",
@@ -158,6 +194,60 @@ flagship_events = [
         "date": "TBA",
         "location": "Singapore",
         "register": "[↗](https://www.idc.com/ap/events)"
+    },
+    {
+        "name": "Stripe Sessions",
+        "date": "2027-04-29 to 2027-04-30",
+        "location": "San Francisco, USA",
+        "register": "[↗](https://stripe.com/sessions)"
+    },
+    {
+        "name": "Datadog DASH",
+        "date": "2027-06-09 to 2027-06-10",
+        "location": "New York, USA",
+        "register": "[↗](https://dash.datadoghq.com)"
+    },
+    {
+        "name": "ObservabilityCON",
+        "date": "2026-10-19 to 2026-10-21",
+        "location": "Virtual/Online",
+        "register": "[↗](https://grafana.com/events/observabilitycon)"
+    },
+    {
+        "name": "GrafanaCON",
+        "date": "2027-04-01",
+        "location": "Virtual/Online",
+        "register": "[↗](https://grafana.com/events/grafanacon)"
+    },
+    {
+        "name": "ObservabilityCON on the Road",
+        "date": "TBA",
+        "location": "Bengaluru, India",
+        "register": "[↗](https://grafana.com/events/observabilitycon-on-the-road/2026/bengaluru)"
+    },
+    {
+        "name": "HashiConf",
+        "date": "2026-10-26 to 2026-10-29",
+        "location": "Atlanta, USA",
+        "register": "[↗](https://www.hashicorp.com/en/conferences/hashiconf)"
+    },
+    {
+        "name": "Twilio SIGNAL",
+        "date": "2027-05-06 to 2027-05-07",
+        "location": "San Francisco, USA",
+        "register": "[↗](https://signal.twilio.com)"
+    },
+    {
+        "name": "Confluent Current",
+        "date": "2026-09-23",
+        "location": "London, UK",
+        "register": "[↗](https://current.confluent.io/london)"
+    },
+    {
+        "name": "MongoDB .local",
+        "date": "TBA",
+        "location": "Various Cities",
+        "register": "[↗](https://www.mongodb.com/events/mongodb-local)"
     }
 ]
 

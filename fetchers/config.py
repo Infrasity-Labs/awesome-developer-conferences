@@ -66,7 +66,12 @@ keywords = [
     # OLDER FALLBACKS JUST IN CASE
     "tech lead", "software", "programming", "backend", "frontend", "fullstack", 
     "architecture", "java", "javascript", "python", "ruby", "golang", "rust", 
-    "react", "vue"
+    "react", "vue",
+
+    #Devtools
+    "data streaming",  "event streaming", "kafka", "stream processing",
+     "data pipeline", "real-time data", "message queue", "event-driven"
+
 ]
 
 def is_event_relevant(event_text):

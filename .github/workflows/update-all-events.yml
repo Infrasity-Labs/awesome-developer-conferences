@@ -37,7 +37,7 @@ jobs:
           python fetchers/meetup.py
           python fetchers/eventbrite.py
           python fetchers/luma.py
-
+          python fetchers/infosec.py
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"

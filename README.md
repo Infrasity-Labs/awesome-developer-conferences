@@ -58,6 +58,8 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 |------------|------|----------|----------|
 | KubeCon + CloudNativeCon | June 18-19, 2026 | Mumbai, India | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-india/) |
 | AI DEV DAY INDIA 2026 | 2026-06-28 | Noida, in | [↗](https://www.meetup.com/agilewow/events/314973254/) |
+| Israel Machine Vision Conference (IMVC) 2026 | 2026-06-29 | Tel Aviv, IL | [↗](https://infosec-conferences.com/event/20260629-israel-machine-vision-conference-imvc-2026/) |
+| PhilSec 2026 | 2026-06-30 | Manila, PH | [↗](https://infosec-conferences.com/event/20260630-philsec-2026/) |
 | ReactNexus | 2026-07-02 to 2026-07-03 | Bengaluru (India) | [↗](https://reactnexus.com) |
 | From Test Cases to Intelligent Testing with UiPath Test Suite & Agentic Testing | 2026-07-04 | Noida, in | [↗](https://www.meetup.com/agentic-ai-community-delhi/events/315165740/) |
 | Atlassian Team '26 Recap - Community Led Conference | 2026-07-04 | Delhi, in | [↗](https://www.meetup.com/noida-atlassian-community-events/events/315056834/) |
@@ -119,6 +121,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | NASSCOM Tech Events | TBA | India | [↗](https://nasscom.in/events) |
 | Tech in Asia Events | TBA | Singapore | [↗](https://www.techinasia.com/events) |
 | IDC Asia Pacific Summits | TBA | Singapore | [↗](https://www.idc.com/ap/events) |
+| ObservabilityCON on the Road | TBA | Bengaluru, India | [↗](https://grafana.com/events/observabilitycon-on-the-road/2026/bengaluru) |
 ### Australia
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -144,10 +147,13 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | DevOpsCon | June 15-19 2026 | Berlin, Germany | [↗](https://devopscon.io/berlin/) |
 | Cloud Native Summit 2026 | 2026-06-29 to 2026-06-30 | Munich (Germany) | [↗](https://cloudnativesummit.de/) |
 | DWX | 2026-06-29 to 2026-07-02 | Mannheim (Germany) | [↗](https://www.developer-world.de/dwx) |
+| Ransomware Defence Summer Bootcamp by Virtual Routes | 2026-06-29 | Amsterdam, NL | [↗](https://infosec-conferences.com/event/20260629-ransomware-defence-summer-bootcamp-by-virtual-routes/) |
+| IEEE International Conference on Network Softwarization (IEEE NetSoft) 2026 | 2026-06-29 | Berlin, DE | [↗](https://infosec-conferences.com/event/20260629-ieee-international-conference-on-network-softwarization-ieee-netsoft/) |
 | Automotive Open Source Summit 2026 | 2026-06-30 | Starnberg (Germany) | [↗](https://www.automotive-oss.org/event/2026/summary) |
 | GITEX AI Europe | 2026-06-30 to 2026-07-01 | Berlin, Germany | [↗](https://www.gitex.com/gitex-ai-europe) |
 | FPGA Conference Europe | 2026-06-30 | Munich, Germany | [↗](https://www.fpga-conference.eu/) |
-| Automotive Oopen Source Summit 2026 | 2026-06-30 | Starnberg (Germany) | [↗](https://www.automotive-oss.org/event/2026/summary) |
+| Annual CyberPsychology, CyberTherapy and Social Networking Conference (CyPsy) 2026 | 2026-06-30 | Porto, PT | [↗](https://infosec-conferences.com/event/20260630-annual-cyberpsychology-cybertherapy-and-social-networking-conference-cypsy/) |
+| Automotive Europe 2026 | 2026-06-30 | Frankfurt, DE | [↗](https://infosec-conferences.com/event/20260630-automotive-europe-2026/) |
 | SaaSiest | 2026-07-01 | London, United Kingdom | [↗](https://yellowo.co.uk/2026-events-directory/) |
 | OWASP Chapter Frankfurt | 2026-07-01 to 2026-11-25 | Frankfurt am Main, Germany | [↗](https://owasp.org/www-chapter-frankfurt/) |
 | MCP Connect Travel Edition | 2026-07-02 | Paris (France) | [↗](https://luma.com/ng66frvi) |
@@ -155,7 +161,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Data & AI workshop | 2026-07-04 | Pristina (Kosovo) | [↗](https://gdg.community.dev/events/details/google-gdg-prishtina-presents-data-amp-ai-workshop-for-smart-solutions/) |
 | apidays Munich | 2026-07-08 to 2026-07-09 | Munich (Germany) | [↗](https://www.apidays.global/events/munich) |
 | WeAreDevelopers World Congress | 2026-07-08 to 2026-07-10 | Berlin, Germany | [↗](https://www.wearedevelopers.com/world-congress) |
-| WeAreDevelopers World Congress 2026 - Europe | 2026-07-08 to 2026-07-10 | Berlin (Germany) | [↗](https://www.wearedevelopers.com/world-congress) |
 | National Software Testing Conference | 2026-07-14 to 2026-07-15 | London (UK) | [↗](https://nationalsoftwaretestingconference.co.uk) |
 | Develop Conference | 2026-07-14 to 2026-07-16 | Brighton (UK) | [↗](https://www.developconference.com) |
 | From Code to Insight: Agentic AI, MCP, and Automation in Practice | 2026-07-16 | Keynes (UK) | [↗](https://www.meetup.com/pydata-milton-keynes/) |
@@ -222,6 +227,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | heise devSec | 2026-09-22 to 2026-09-23 | Marburg (Germany) | [↗](https://heise-devsec.de/cfp.php) |
 | bit summit 2026 | 2026-09-23 to 2026-09-24 | Hamburg (Germany) | [↗](https://bit-summit.com/) |
 | AI horizons 2026 | 2026-09-23 to 2026-09-24 | Prague (Czechia) | [↗](https://aihorizonsprague.cz) |
+| Confluent Current | 2026-09-23 | London, UK | [↗](https://current.confluent.io/london) |
 | OWASP AppSec Days Portugal 2026 - CFP | 2026-09-24 | Porto (Portugal) | [↗](https://appsecdays.pt) |
 | React Native Connection 2026 | 2026-09-24 | Paris (France) | [↗](https://reactnativeconnection.io/) |
 | TURN Conference 2026 | 2026-09-24 to 2026-09-25 | Weimar (Germany) | [↗](https://turn-conference.org/) |
@@ -412,6 +418,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | EKON \| Oktober Düsseldorf | 2026-10-23 to 2026-10-27 | Dusseldorf (Germany) | [↗](https://entwickler-konferenz.de/de) |
 | KCD Porto 2026 \| Collab with DevOps Days Portugal | 2026-11-19 to 2026-11-20 | Porto (Portugal) | [↗](https://community.cncf.io/events/details/cncf-kcd-porto-presents-kcd-porto-2026-collab-with-devops-days-portugal/) |
 | meshcloud Con'26 | TBA | Frankfurt, Germany | [↗](https://con26.meshcloud.io/ ) |
+| QCon London | TBA | London, UK | [↗](https://qconlondon.com/) |
 ### North America
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -423,6 +430,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Open Game Night | 2026-06-30 | Cheyenne, us | [↗](https://www.meetup.com/cbgcmeetup/events/315291023/) |
 | Agents in Production: correctness, context, and control | 2026-07-01 | San Francisco, US | [↗](https://www.meetup.com/surrealdb-san-francisco/events/315282200/) |
 | ChicagoRuby @ NinjaHoldings | 2026-07-01 | Chicago, us | [↗](https://www.meetup.com/chicagoruby/events/315151782/) |
+| DevRelCon | July 22-23 2026 | New York, United States | [↗](https://nyc.devrelcon.dev) |
 | How to create a Zoo management web app | 2026-07-02 | San Francisco, us | [↗](https://www.meetup.com/live-premium-project/events/315234900/) |
 | Perl Community Conference, Summer 2026 | 2026-07-03 to 2026-07-04 | Austin, TX (USA) | [↗](https://perlcommunity.org) |
 | Creating an Instagram Service in Django | 2026-07-03 | San Francisco, us | [↗](https://www.meetup.com/live-premium-project/events/315238381/) |
@@ -442,7 +450,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | SEI Summer Series 2026 | 2026-07-21 to 2026-07-23 | Arlington, VA (USA) | [↗](https://sei.cmu.edu/events/sei-summer-series/) |
 | DevRelCon New York 2026 | 2026-07-22 to 2026-07-23 | New York, NY (USA) | [↗](https://nyc.devrelcon.dev/) |
 | Legal Essentials for Game Developers: Privacy, Safety & IP | 2026-07-22 | San Francisco, us | [↗](https://www.meetup.com/monthly-sf-game-development-community/events/315300520/) |
-| Chain React 2026 | 2026-07-29 to 2026-07-31 | Portland, OR (USA) | [↗](https://chainreactconf.com/) |
 | Chain React Conf 2026 | 2026-07-30 to 2026-07-31 | Portland, OR (USA) | [↗](https://chainreactconf.com/) |
 | fintech_devcon | 2026-08-03 | Denver, United States | [↗](https://fintechdevcon.io/) |
 | Association for Software Testing - CAST 2026 | 2026-08-03 to 2026-08-05 | Cocoa Beach, FL (USA) | [↗](https://associationforsoftwaretesting.org/conference/cast-2026/) |
@@ -464,6 +471,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | swampUP 2026 | 2026-09-01 to 2026-09-03 | New York, NY (USA) | [↗](http://swampup.jfrog.com) |
 | seL4 Summit | 2026-09-01 to 2026-09-03 | Vancouver, BC (Canada) | [↗](https://events.linuxfoundation.org/sel4-summit/) |
 | CloudX 2026 | 2026-09-01 to 2026-09-03 | California (USA) | [↗](https://cloudxconf.com/) |
+| Dreamforce | Sep 15-17 2026 | San Francisco, United States | [↗](https://www.salesforce.com/dreamforce/) |
 | gRPConf North America | 2026-09-03 | Mountain View, CA (USA) | [↗](https://events.linuxfoundation.org/grpconf/) |
 | Vancouver Microsoft 365 Summit | 2026-09-03 | Vancouver, BC (Canada) | [↗](https://vancouver365summit.com/) |
 | Commit Your Code Conference | 2026-09-03 to 2026-09-04 | Dallas, TX (USA) | [↗](https://www.commityourcode.com) |
@@ -530,9 +538,12 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | SQLSaturday - Minnesota 2026 | 2026-10-24 | Saint Paul, MN (USA) | [↗](https://sqlsaturday.com/2026-10-24-sqlsaturday1153/) |
 | 2026 Power Platform Community Conference | 2026-10-25 to 2026-10-30 | Las Vegas, NV (USA) | [↗](https://powerplatformconf.com) |
 | Vibe Coding Con | 2026-10-26 to 2026-10-28 | Las Vegas, NV (USA) | [↗](http://Vibecodingcon.ai) |
+| HashiConf | 2026-10-26 to 2026-10-29 | Atlanta, USA | [↗](https://www.hashicorp.com/en/conferences/hashiconf) |
 | GitHub Universe 2026 | 2026-10-28 to 2026-10-29 | San Francisco, CA (USA) | [↗](https://githubuniverse.com/) |
 | Michigan Technology Conference 2026 | 2026-10-28 to 2026-10-30 | Rochester, MI (USA) | [↗](https://www.mitechcon.org/) |
 | JSConf Mexico | 2026-10-29 to 2026-10-30 | Guadalajara (Mexico) | [↗](https://www.jsconf.mx/en) |
+| Microsoft Ignite | Nov 17-20 2026 | San Francisco, United States | [↗](https://ignite.microsoft.com/en-US/home) |
+| AWS re:Invent | Nov 30-Dec 4 2026 | Las Vegas, United States | [↗](https://aws.amazon.com/events/reinvent/) |
 | Open Source Analytics Conference | 2026-11-02 | San Francisco, CA (USA) | [↗](https://osacon.io) |
 | Humanoid Robots Summit North America 2026 | 2026-11-03 to 2026-11-04 | Chicago, IL (USA) | [↗](https://acgrobotus.com/) |
 | Open Source in Finance Forum New York | 2026-11-04 to 2026-11-05 | New York, NY (USA) | [↗](https://events.linuxfoundation.org/open-source-finance-forum-new-york/) |
@@ -568,20 +579,24 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Tech Leader Summit | 2026-12-02 to 2026-12-04 | Clearwater, FL (USA) | [↗](https://techleadersummit.io) |
 | ArchConf | 2026-12-07 to 2026-12-10 | Clearwater, FL (USA) | [↗](https://archconf.com) |
 | BSides RDU 2026 | 2026-12-18 | Raleigh, NC (USA) | [↗](https://bsidesrdu.org) |
+| Google Cloud Next | April 13–15, 2027 | Las Vegas, USA | [↗](https://cloud.withgoogle.com/next) |
 | Analytics and Data Summit 2027 | 2027-04-13 to 2027-04-15 | Redwood Shores, CA (USA) | [↗](http://andouc.org) |
-| PyTorch Conference 2027 | 2027-10-06 to 2027-10-07 | San Jose, CA (USA) | [↗](https://events.linuxfoundation.org/pytorch-conference-2027/) |
-| KubeCon + CloudNativeCon North America 2027 | 2027-11-08 to 2027-11-11 | New Orleans, LA (USA) | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2027/) |
-| DevRelCon | July 22-23 2026 | New York, United States | [↗](https://nyc.devrelcon.dev) |
-| Dreamforce | Sep 15-17 2026 | San Francisco, United States | [↗](https://www.salesforce.com/dreamforce/) |
-| Microsoft Ignite | Nov 17-20 2026 | San Francisco, United States | [↗](https://ignite.microsoft.com/en-US/home) |
-| AWS re:Invent | Nov 30-Dec 4 2026 | Las Vegas, United States | [↗](https://aws.amazon.com/events/reinvent/) |
+| Stripe Sessions | 2027-04-29 to 2027-04-30 | San Francisco, USA | [↗](https://stripe.com/sessions) |
 | Forrester B2B Summit NA | May 3-5 2027 | Phoenix, United States | [↗](https://www.forrester.com/event/b2b-summit-north-america/) |
 | SaaStr Annual | May 11-12 2027 | California, United States | [↗](https://www.saastrannual2026.com) |
 | Open Source Summit NA | May 17-19 2027 | Vancouver, Canada | [↗](https://events.linuxfoundation.org/open-source-summit-north-america/) |
 | apidays New York 2027 | May 2027 | New York, NY (USA) | [↗](https://www.apidays.global/events/new-york) |
+| Twilio SIGNAL | 2027-05-06 to 2027-05-07 | San Francisco, USA | [↗](https://signal.twilio.com) |
+| Datadog DASH | 2027-06-09 to 2027-06-10 | New York, USA | [↗](https://dash.datadoghq.com) |
+| PyTorch Conference 2027 | 2027-10-06 to 2027-10-07 | San Jose, CA (USA) | [↗](https://events.linuxfoundation.org/pytorch-conference-2027/) |
+| KubeCon + CloudNativeCon North America 2027 | 2027-11-08 to 2027-11-11 | New Orleans, LA (USA) | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2027/) |
 | 2026 ICS Cybersecurity Conference \| Nashville | 2026-10-06 to 2026-10-08 | Nashville, TN (USA) | [↗](https://www.icscybersecurityconference.com/) |
 | Open Source Summit North America | TBA | Minneapolis, USA | [↗](https://events.linuxfoundation.org/open-source-summit-north-america) |
-
+| Microsoft Build | TBA | Seattle, USA | [↗](https://build.microsoft.com/) |
+| NVIDIA GTC | TBA | San Jose, USA | [↗](https://www.nvidia.com/gtc/) |
+| QCon New York | TBA | New York, USA | [↗](https://qconnewyork.com/) |
+| QCon San Francisco | TBA | San Francisco, USA | [↗](https://qconsf.com/) |
+| MongoDB .local | TBA | Various Cities | [↗](https://www.mongodb.com/events/mongodb-local) |
 ### South America
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -618,12 +633,22 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 |------------|------|----------|----------|
 | Cover6 Community | 2026-06-17 to 2026-07-01 | Online | [↗](https://www.meetup.com/cover6community) |
 | 🚀 Flutter Chicago Celebrates Disability Pride: Accessibility! | 2026-06-29 | Virtual/Online | [↗](https://www.meetup.com/flutter-chicago/events/315420318/) |
+| European Conference on Cyber Warfare and Security (ECCWS) 2026 | 2026-06-29 | Nottingham, GB | [↗](https://infosec-conferences.com/event/20260629-european-conference-on-cyber-warfare-and-security-eccws/) |
+| The ACM Web Conference 2026 | 2026-06-29 | Online | [↗](https://infosec-conferences.com/event/20260629-the-acm-web-conference-2026/) |
 | Business Development The Magnetic Offer Matrix: Designing Irresistible Services | 2026-06-30 | Virtual/Online | [↗](https://www.meetup.com/kaasaa/events/315251666/) |
 | Why API modernization is the prerequisite to full data path governance | 2026-06-30 | Virtual/Online | [↗](https://www.meetup.com/kong-raleigh/events/315284957/) |
 | Dynamo got you here. What comes next? | 2026-06-30 | Virtual/Online | [↗](https://www.meetup.com/chinamo/events/315406913/) |
 | Boulder Open Coffee Club (BOCC) | 2026-06-30 | Virtual/Online | [↗](https://www.meetup.com/boulder-open-coffee/events/315303829/) |
 | When AI Agents Write Your Code, Who Protects Your Database?  | 2026-06-30 | Virtual/Online | [↗](https://www.meetup.com/fullstack/events/315200244/) |
 | **Virtual Event** Using agentic AI bring a design system from Figma to code | 2026-06-30 | Virtual/Online | [↗](https://www.meetup.com/denverux/events/315215144/) |
+| From LLM vulnerabilities to AI agent red teaming &#038; continuous evaluation | 2026-06-30 | Online | [↗](https://infosec-conferences.com/event/20260630-from-llm-vulnerabilities-to-ai-agent-red-teaming/) |
+| ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec) 2026 | 2026-06-30 | Saarbrücken, DE | [↗](https://infosec-conferences.com/event/20260630-acm-conference-on-security-and-privacy-in-wireless/) |
+| Moving Past Legacy AD Bridging with Idira Identity Bridge | 2026-06-30 | Online | [↗](https://infosec-conferences.com/event/20260630-moving-past-legacy-ad-bridging-with-idira-identity/) |
+| EAI International Conference on Cloud Computing 2026 | 2026-06-30 | Derby, GB | [↗](https://infosec-conferences.com/event/20260630-eai-international-conference-on-cloud-computing-2026/) |
+| The future of digital trust: AI agents and the speed of fraud and financial crime | 2026-06-30 | Online | [↗](https://infosec-conferences.com/event/20260630-the-future-of-digital-trust-ai-agents-and/) |
+| Secure Your AI Before Attackers Do | 2026-06-30 | Online | [↗](https://infosec-conferences.com/event/20260630-secure-your-ai-before-attackers-do/) |
+| Full AI Security with CrowdStrike and Salt Security | 2026-06-30 | Online | [↗](https://infosec-conferences.com/event/20260630-full-ai-security-with-crowdstrike-and-salt-security/) |
+| New Config Extractors, a 4-VTI Phishkit Behavior Detection Set, and 30+ New YARA Rules | 2026-06-30 | Online | [↗](https://infosec-conferences.com/event/20260630-new-config-extractors-a-4-vti-phishkit-behavior-detection/) |
 | PHX~CURRENTS | 2026-07-01 | Virtual/Online | [↗](https://www.meetup.com/codephx/events/315218120/) |
 | TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros | 2026-07-01 | Virtual/Online | [↗](https://www.meetup.com/ac-phx/events/314093859/) |
 | Master Production-Ready AI Agents: Evaluate & Ship With Confidence | 2026-07-01 | Virtual/Online | [↗](https://www.meetup.com/data-science-dojo-phoenix/events/315368856/) |
@@ -634,7 +659,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | AI Coding Summit, London Edition | 2026-07-06 to 2026-07-07 | Online | [↗](https://aicodingsummit.com/) |
 | Health & Energy The Power of Pause: Using Rest as a Strategic Advantage | 2026-07-07 | Virtual/Online | [↗](https://www.meetup.com/kaasaa/events/315253284/) |
 | Going Meta S03E10 – a Series on Semantics, Knowledge Graphs and All Things AI | 2026-07-07 | Virtual/Online | [↗](https://www.meetup.com/graphdb-midwest/events/315381974/) |
-| How can a Context Lake cut down up to 80% of your token usage? | 2026-07-07 | Virtual/Online | [↗](https://www.meetup.com/platform-engineers-denver/events/315316262/) |
 | Beyond Code Generation: Building a Governed AI Engineering Lifecycle with OpenCode | 2026-07-08 | Unknown | [↗](https://lu.ma/7kfbalcf) |
 | Lineth Technical Deep Dive: Inside the Production-Grade ZK Rollup Stack | 2026-07-08 | Virtual/Online | [↗](https://www.meetup.com/lfdt-phoenix/events/315234101/) |
 | Architecture for Sustaining Open Source in Web 3 | 2026-07-08 | Virtual/Online | [↗](https://www.meetup.com/lfdt-north-carolina/events/314981958/) |
@@ -647,7 +671,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Conf42 Observability 2026 | 2026-09-10 | Online | [↗](https://www.conf42.com/obs2026) |
 | DragonJAR Security Conference 2026 - Presencial - Medellín | 2026-09-10 to 2026-09-11 | Medellin | [↗](https://www.dragonjarcon.org) |
 | PWNED CR 0x9 2025 | 2026-09-12 | San Jose Costa Rica | [↗](https://pwnedcr.com) |
-| PWNEDCR 0x9 | 2026-09-12 to 2026-09-13 | San José, Costa Rica | [↗](https://www.pwnedcr.com/) |
 | The AI-Native Workplace Summit 2026 | 2026-09-16 | Online | [↗](https://ainativeworkplace.com/) |
 | Secure Our Streets Conference 2026 | 2026-09-17 | Online | [↗](https://sos.asrg.io) |
 | DevOps Midwest 2026 | 2026-09-17 | St. Louis, MO | [↗](http://www.devopsmidwest.com) |
@@ -661,7 +684,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Subsurface 2026 — The Open Data and AI Conference | 2026-09-30 to 2026-10-02 | Online | [↗](https://www.dremio.com/subsurface/) |
 | kcpCON | 2026-10-01 | Online | [↗](https://community2.cncf.io/events/details/cncf-virtual-project-events-hosted-by-cncf-presents-kcpcon-2026/) |
 | 8.8 Unreal | 2026-10-01 | Teatro de Fundación CorpArtes CA660, Rosario Norte 660, Las Condes, Santiago | [↗](https://8dot8.org) |
-| BSides Bloomington 2026 | 2026-10-02 to 2026-10-03 | Bloomington, IN | [↗](https://bsidesbloomington.org) |
 | Dapr Day Virtual | 2026-10-08 | Online | [↗](https://community2.cncf.io/events/details/cncf-virtual-project-events-hosted-by-cncf-presents-dapr-day/) |
 | M365 Summit Mainz | 2026-10-12 to 2026-10-14 | Online | [↗](https://events.m365-summits.de/M365SummitMainzOktober#/) |
 | betterCode() Java | 2026-10-13 | Online | [↗](https://java.bettercode.eu) |
@@ -669,16 +691,14 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Minds Mastering Machines - M3: LLMs im Unternehmen | 2026-10-15 | Online | [↗](https://m3-konferenz.de/llm.php) |
 | KubeVirt Summit Virtual | 2026-10-15 | Online | [↗](https://community2.cncf.io/events/details/cncf-virtual-project-events-hosted-by-cncf-presents-kubevirt-summit-2026/) |
 | Conf42 DevSecOps 2026 | 2026-10-15 | Online | [↗](https://www.conf42.com/devsecops2026) |
+| ObservabilityCON | 2026-10-19 to 2026-10-21 | Virtual/Online | [↗](https://grafana.com/events/observabilitycon) |
 | P99 CONF 2026 | 2026-10-21 to 2026-10-22 | Online | [↗](https://www.p99conf.io/) |
 | Open Source Observability Day | 2026-10-23 | Online | [↗](https://osoday.com) |
 | React Advanced London - October 23 & 26, 2026 | 2026-10-23 to 2026-10-26 | Online | [↗](https://reactadvanced.com/) |
-| DevOpsDays Istanbul 2026 | 2026-10-24 | Istanbul | [↗](https://devopsdays.istanbul) |
 | Conf42 Prompt Engineering 2026 | 2026-10-29 | Online | [↗](https://www.conf42.com/prompt2026) |
 | Conf42 Platform Engineering 2026 | 2026-11-05 | Online | [↗](https://www.conf42.com/platform2026) |
-| Nullbyte Security Conference | 2026-11-07 | Salvador-BA | [↗](https://nullbyte-con.org) |
 | JSNation US 2026 - the main JS conference in US | 2026-11-16 to 2026-11-19 | NYC | [↗](https://jsnation.us/) |
 | betterCode() .NET 11.0 | 2026-11-17 | Online | [↗](https://net.bettercode.eu) |
-| rvatech/ Women in Technology Conference | 2026-11-17 | Richmond, Virginia | [↗](https://rvatech.com/rvatech-events/rvatech-women-in-technology-conference/) |
 | React Summit US | 2026-11-17 to 2026-11-20 | Online | [↗](https://reactsummit.us/) |
 | Conf42 MLOps 2026 | 2026-11-19 | Online | [↗](https://www.conf42.com/mlops2026) |
 | AppSec Days India 2026 Virtual Conference | 2026-11-21 | Online | [↗](https://india.appsecdays.org/) |
@@ -695,6 +715,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Power BI Summit 16. - 17. Februar 2027 | 2027-02-16 to 2027-02-17 | Online | [↗](https://events.m365-summits.de/PowerBISummit1617Februar2027) |
 | Monster Scale Summit 2027 | 2027-03-10 to 2027-03-11 | Online | [↗](https://www.scylladb.com/summit) |
 | North American M365 Summit 16.- 17. March 2027 | 2027-03-16 to 2027-03-17 | Online | [↗](https://events.m365-summits.de/NorthAmericanM365Summit1618Mrz2027) |
+| GrafanaCON | 2027-04-01 | Virtual/Online | [↗](https://grafana.com/events/grafanacon) |
 | AI & Copilot Summit 01.-02. Juni 2027 | 2027-06-01 to 2027-06-02 | Online | [↗](https://events.m365-summits.de/AICopilotSummit0102Juni2027) |
 ---
 
