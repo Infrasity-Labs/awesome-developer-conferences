@@ -152,7 +152,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Automotive Open Source Summit 2026 | 2026-06-30 | Starnberg (Germany) | [↗](https://www.automotive-oss.org/event/2026/summary) |
 | GITEX AI Europe | 2026-06-30 to 2026-07-01 | Berlin, Germany | [↗](https://www.gitex.com/gitex-ai-europe) |
 | FPGA Conference Europe | 2026-06-30 | Munich, Germany | [↗](https://www.fpga-conference.eu/) |
-| Automotive Oopen Source Summit 2026 | 2026-06-30 | Starnberg (Germany) | [↗](https://www.automotive-oss.org/event/2026/summary) |
 | Annual CyberPsychology, CyberTherapy and Social Networking Conference (CyPsy) 2026 | 2026-06-30 | Porto, PT | [↗](https://infosec-conferences.com/event/20260630-annual-cyberpsychology-cybertherapy-and-social-networking-conference-cypsy/) |
 | Automotive Europe 2026 | 2026-06-30 | Frankfurt, DE | [↗](https://infosec-conferences.com/event/20260630-automotive-europe-2026/) |
 | SaaSiest | 2026-07-01 | London, United Kingdom | [↗](https://yellowo.co.uk/2026-events-directory/) |
@@ -162,7 +161,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Data & AI workshop | 2026-07-04 | Pristina (Kosovo) | [↗](https://gdg.community.dev/events/details/google-gdg-prishtina-presents-data-amp-ai-workshop-for-smart-solutions/) |
 | apidays Munich | 2026-07-08 to 2026-07-09 | Munich (Germany) | [↗](https://www.apidays.global/events/munich) |
 | WeAreDevelopers World Congress | 2026-07-08 to 2026-07-10 | Berlin, Germany | [↗](https://www.wearedevelopers.com/world-congress) |
-| WeAreDevelopers World Congress 2026 - Europe | 2026-07-08 to 2026-07-10 | Berlin (Germany) | [↗](https://www.wearedevelopers.com/world-congress) |
 | National Software Testing Conference | 2026-07-14 to 2026-07-15 | London (UK) | [↗](https://nationalsoftwaretestingconference.co.uk) |
 | Develop Conference | 2026-07-14 to 2026-07-16 | Brighton (UK) | [↗](https://www.developconference.com) |
 | From Code to Insight: Agentic AI, MCP, and Automation in Practice | 2026-07-16 | Keynes (UK) | [↗](https://www.meetup.com/pydata-milton-keynes/) |
@@ -452,7 +450,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | SEI Summer Series 2026 | 2026-07-21 to 2026-07-23 | Arlington, VA (USA) | [↗](https://sei.cmu.edu/events/sei-summer-series/) |
 | DevRelCon New York 2026 | 2026-07-22 to 2026-07-23 | New York, NY (USA) | [↗](https://nyc.devrelcon.dev/) |
 | Legal Essentials for Game Developers: Privacy, Safety & IP | 2026-07-22 | San Francisco, us | [↗](https://www.meetup.com/monthly-sf-game-development-community/events/315300520/) |
-| Chain React 2026 | 2026-07-29 to 2026-07-31 | Portland, OR (USA) | [↗](https://chainreactconf.com/) |
 | Chain React Conf 2026 | 2026-07-30 to 2026-07-31 | Portland, OR (USA) | [↗](https://chainreactconf.com/) |
 | fintech_devcon | 2026-08-03 | Denver, United States | [↗](https://fintechdevcon.io/) |
 | Association for Software Testing - CAST 2026 | 2026-08-03 to 2026-08-05 | Cocoa Beach, FL (USA) | [↗](https://associationforsoftwaretesting.org/conference/cast-2026/) |
