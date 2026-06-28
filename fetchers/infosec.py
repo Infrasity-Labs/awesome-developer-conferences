@@ -14,8 +14,8 @@ def fetch_events_from_api():
         scraper = cloudscraper.create_scraper()
         html = scraper.get(url).text
     except Exception as e:
-        print(f"Failed to fetch data: {e}")
-        return []
+        print(f"Failed to fetch data from infosec-conferences.com: {e}")
+        raise
 
     try:
         from bs4 import BeautifulSoup
@@ -60,7 +60,8 @@ def fetch_events_from_api():
                 continue
                 
             # Filter past events
-            if end_date.replace(tzinfo=None) < datetime.now():
+            now = datetime.now(end_date.tzinfo)
+            if end_date < now:
                 continue
                 
             name = (event.get('name') or 'N/A').replace('|', '\\|')
@@ -221,7 +222,7 @@ def main():
                 continue
                 
             if line.startswith('|') and not line.startswith('| Event Name') and not line.startswith('|---') and not line.startswith('|------------'):
-                parts = [p.strip() for p in line.split('|')]
+                parts = [p.strip() for p in re.split(r'(?<!\\)\|', line)]
                 if len(parts) >= 5:
                     name = parts[1]
                     date_str = parts[2]
@@ -285,11 +286,12 @@ def main():
 
     # Distribute by continent
     for ev in all_events:
-        if ev['continent'] in continents_events:
-            continents_events[ev['continent']].append(ev)
+        cont = ev['continent']
+        if cont in continents_events:
+            continents_events[cont].append(ev)
         else:
-            print(f"Unknown continent {ev['continent']} for event {ev['name']}")
-
+            print(f"Unknown continent {cont} for event {ev['name']}. Defaulting to Virtual/Online.")
+            continents_events['Virtual/Online'].append(ev)
 
     # Sort events in each continent by date
     for cont in continents_events:
