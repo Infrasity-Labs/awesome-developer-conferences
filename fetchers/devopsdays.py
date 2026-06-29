@@ -16,7 +16,7 @@ def fetch_events_from_api():
     req = urllib.request.Request(base_url, headers={'User-Agent': 'Mozilla/5.0'})
     
     try:
-        with urllib.request.urlopen(req, context=ctx) as response:
+        with urllib.request.urlopen(req, context=ctx, timeout=15) as response:
             html = response.read().decode('utf-8')
     except Exception as e:
         print(f"Failed to fetch DevOpsDays: {e}")

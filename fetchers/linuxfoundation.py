@@ -13,7 +13,7 @@ def get_countries():
     try:
         url = "https://events.linuxfoundation.org/wp-json/wp/v2/lfevent-country?per_page=100"
         req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-        with urllib.request.urlopen(req, context=ctx) as response:
+        with urllib.request.urlopen(req, context=ctx, timeout=15) as response:
             data = json.loads(response.read().decode('utf-8'))
             for item in data:
                 countries[item['id']] = item['name']
@@ -38,7 +38,7 @@ def fetch_lf_events():
         url = f"https://events.linuxfoundation.org/wp-json/wp/v2/lfevent{year}?parent=0&per_page=100"
         req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
         try:
-            with urllib.request.urlopen(req, context=ctx) as response:
+            with urllib.request.urlopen(req, context=ctx, timeout=15) as response:
                 data = json.loads(response.read().decode('utf-8'))
         except Exception as e:
             print(f"Failed to fetch {url}: {e}")

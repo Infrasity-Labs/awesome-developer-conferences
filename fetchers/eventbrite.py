@@ -21,7 +21,7 @@ def fetch_events_from_api():
         req = urllib.request.Request(base_url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'})
         
         try:
-            with urllib.request.urlopen(req, context=ctx) as response:
+            with urllib.request.urlopen(req, context=ctx, timeout=15) as response:
                 html = response.read().decode('utf-8')
                 all_events_data.append(html)
             time.sleep(1)
