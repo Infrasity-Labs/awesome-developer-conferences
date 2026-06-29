@@ -13,7 +13,7 @@ def main():
         parser.error("Must specify --report or --fix")
         
     spell = SpellChecker()
-    spell.word_frequency.load_words(['unconference'])
+    spell.word_frequency.load_words(['unconference', 'intelligenza', 'artificiale'])
     
     safe_targets = {
         "open", "source", "summit", "conference", "developer", "engineering",

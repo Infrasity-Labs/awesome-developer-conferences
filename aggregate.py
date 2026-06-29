@@ -25,6 +25,7 @@ def main():
     print(f"Loaded {len(all_new_events)} total events from {len(source_counts)} fetchers.")
     
     regions = {
+        'Africa': [],
         'Asia': [],
         'Australia': [],
         'Europe': [],
@@ -35,7 +36,8 @@ def main():
     
     # Categorize events by region
     for event in all_new_events:
-        region = config.determine_region(event['location'])
+        loc = event.get('location') or 'Unknown'
+        region = config.determine_region(loc)
         if region in regions:
             regions[region].append(event)
             
@@ -45,7 +47,7 @@ def main():
         if not region_events:
             continue
             
-        pattern = re.compile(rf"(### {region}\n.*?\| Event Name.*?\|\n\|---.*?\|\n)(.*?)(?=\n### |\Z)", re.DOTALL)
+        pattern = re.compile(rf"(### {region}\n.*?\| Event Name.*?\|\n\|---.*?\|\n)(.*?)(?=\n### |\n## |\n---|\Z)", re.DOTALL)
         match = pattern.search(readme_content)
         
         if match:
@@ -58,7 +60,8 @@ def main():
                 
             existing_names = []
             for row in existing_rows:
-                parts = row.split('|')
+                # Use regex to split by unescaped pipes
+                parts = re.split(r'(?<!\\)\|', row)
                 if len(parts) >= 3:
                     name_clean = re.sub(r'\[(.*?)\]\(.*?\)', r'\1', parts[1].strip()).lower()
                     existing_names.append(name_clean)
@@ -76,25 +79,33 @@ def main():
                     line = event.get('line')
                     if not line:
                         line = f"| {event['name']} | {event['date']} | {event['location']} | {event['register']} |"
+                        
+                    # Skip if event is already in the past
+                    date_str = event.get('date', '').split(' to ')[-1].strip()
+                    try:
+                        dt = datetime.strptime(date_str, "%Y-%m-%d")
+                        if dt.timestamp() < datetime.now().timestamp():
+                            continue
+                    except:
+                        pass
+                        
                     existing_rows.append(line)
                     existing_names.append(name_clean)
                     new_rows_added += 1
                     total_added += 1
-                    
-            if new_rows_added > 0:
-                def extract_date(row):
-                    parts = row.split('|')
-                    if len(parts) >= 4:
-                        date_str = parts[2].strip().split(' to ')[0].strip()
-                        try:
-                            return datetime.strptime(date_str, "%Y-%m-%d")
-                        except:
-                            pass
-                    return datetime.max
-                
-                existing_rows.sort(key=extract_date)
-                new_table_content = '\n'.join(existing_rows) + '\n'
-                readme_content = readme_content[:match.start()] + header_and_table_header + new_table_content + readme_content[match.end():]
+            def extract_date(row):
+                parts = re.split(r'(?<!\\)\|', row)
+                if len(parts) >= 4:
+                    date_str = parts[2].strip().split(' to ')[0].strip()
+                    try:
+                        return datetime.strptime(date_str, "%Y-%m-%d")
+                    except:
+                        pass
+                return datetime.max
+            
+            existing_rows.sort(key=extract_date)
+            new_table_content = '\n'.join(existing_rows) + '\n'
+            readme_content = readme_content[:match.start()] + header_and_table_header + new_table_content + readme_content[match.end():]
                 
     with open('README.md', 'w', encoding='utf-8') as f:
         f.write(readme_content)

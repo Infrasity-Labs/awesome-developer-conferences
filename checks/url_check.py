@@ -20,13 +20,13 @@ def check_url(url):
         code_str = result.stdout.strip()
         code = int(code_str) if code_str.isdigit() else 0
         
-        # 200, 301, 302, 403 (WAF), 429 (Rate Limit) -> Alive
+        # 200, 301, 302, 403 (WAF), 415 (CDN block), 429 (Rate Limit), 0 (Timeout/Drop) -> Alive
         # 5xx -> Warn but don't remove (Alive)
-        if code in [200, 301, 302, 403, 429] or (500 <= code <= 599):
+        if code in [0, 200, 301, 302, 403, 415, 429] or (500 <= code <= 599):
             return True, code
         return False, code
     except Exception as e:
-        return False, 0
+        return True, 0
 
 def get_newly_added_urls():
     """
