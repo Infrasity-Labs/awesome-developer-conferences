@@ -17,7 +17,7 @@ If you know of a developer conference that isn't listed here yet, you can easily
 3. Add a new row to the Markdown table in chronological order based on the event's date.
 4. Follow the exact table format:
    ```markdown
-   | Event Name | MMM DD-DD, YYYY | City, Country | [↗](link) |
+   | Event Name |  YYYY-MM-DD to YYYY-MM-DD | City, Country | [↗](link) |
    ```
 5. Submit a **Pull Request** with a short description of the event you added!
 

@@ -41,7 +41,8 @@ def parse_readme(filepath="README.md"):
             
         # Check if it's a table row
         if line.startswith("|") and not line.startswith("|---") and not line.startswith("| Event Name"):
-            parts = [p.strip() for p in line.split('|')]
+            safe_line = line.replace('\\|', '{{PIPE}}')
+            parts = [p.strip().replace('{{PIPE}}', '|') for p in safe_line.split('|')]
             if len(parts) >= 5: # ['', 'Name', 'Date', 'Location', 'Register', '']
                 name_col = parts[1]
                 date_col = parts[2]

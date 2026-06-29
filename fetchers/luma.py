@@ -6,20 +6,28 @@ from datetime import datetime
 import config
 
 def fetch_events_from_api():
-    base_url = "https://lu.ma/explore"
+    KEYWORDS = ["developer", "kubernetes", "devops", "python", "ai", "software engineering", "backend", "cloud native"]
     
     ctx = ssl.create_default_context()
     ctx.check_hostname = False
     ctx.verify_mode = ssl.CERT_NONE
 
-    req = urllib.request.Request(base_url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'})
+    all_events_data = []
     
-    try:
-        with urllib.request.urlopen(req, context=ctx) as response:
-            html = response.read().decode('utf-8')
-    except Exception as e:
-        print(f"Failed to fetch Luma: {e}")
-        return []
+    import time
+    for kw in KEYWORDS:
+        kw_enc = urllib.parse.quote(kw)
+        base_url = f"https://lu.ma/explore?q={kw_enc}"
+        req = urllib.request.Request(base_url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'})
+        
+        try:
+            with urllib.request.urlopen(req, context=ctx) as response:
+                html = response.read().decode('utf-8')
+                all_events_data.append(html)
+            time.sleep(1)
+        except Exception as e:
+            print(f"Failed to fetch Luma for {kw}: {e}")
+            continue
 
     try:
         from bs4 import BeautifulSoup
@@ -56,6 +64,7 @@ def fetch_events_from_api():
         
     events = find_events(data)
     
+    fetched_events = []
     for item in events:
         name = item.get('name') or 'N/A'
         desc = item.get('description_short') or ''
@@ -90,15 +99,24 @@ def fetch_events_from_api():
         register = f"[↗]({url})" if url else "N/A"
         name_clean = name.replace('|', '\\|')
         
-        events.append({
+        fetched_events.append({
             "name": name_clean,
             "date": date_str,
             "location": location,
+            "url": url,
             "register": register,
             "line": f"| {name_clean} | {date_str} | {location} | {register} |"
         })
             
-    return events
+    # Deduplicate by URL
+    unique_events = []
+    seen_urls = set()
+    for ev in fetched_events:
+        if ev['url'] not in seen_urls:
+            unique_events.append(ev)
+            seen_urls.add(ev['url'])
+            
+    return unique_events
 
 def determine_region(location):
     loc_lower = location.lower()

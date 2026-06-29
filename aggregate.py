@@ -25,6 +25,7 @@ def main():
     print(f"Loaded {len(all_new_events)} total events from {len(source_counts)} fetchers.")
     
     regions = {
+        'Africa': [],
         'Asia': [],
         'Australia': [],
         'Europe': [],
@@ -35,7 +36,8 @@ def main():
     
     # Categorize events by region
     for event in all_new_events:
-        region = config.determine_region(event['location'])
+        loc = event.get('location') or 'Unknown'
+        region = config.determine_region(loc)
         if region in regions:
             regions[region].append(event)
             

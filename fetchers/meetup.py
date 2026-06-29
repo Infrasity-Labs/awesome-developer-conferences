@@ -4,97 +4,114 @@ import json
 from datetime import datetime
 import config
 import re
+from bs4 import BeautifulSoup
 
 def fetch_events_from_api():
-    base_url = "https://www.meetup.com/find/?keywords=developer&source=EVENTS"
+    KEYWORDS = ["developer", "kubernetes", "devops", "python", "ai developer", "software engineering", "backend", "cloud native"]
     
     ctx = ssl.create_default_context()
     ctx.check_hostname = False
     ctx.verify_mode = ssl.CERT_NONE
 
-    req = urllib.request.Request(base_url, headers={'User-Agent': 'Mozilla/5.0'})
+    all_events_data = []
     
-    try:
-        with urllib.request.urlopen(req, context=ctx) as response:
-            html = response.read().decode('utf-8')
-    except Exception as e:
-        print(f"Failed to fetch Meetup: {e}")
-        return []
-
-    try:
-        from bs4 import BeautifulSoup
-        soup = BeautifulSoup(html, 'html.parser')
-    except ImportError:
-        print("Please install beautifulsoup4")
-        return []
+    import time
+    for kw in KEYWORDS:
+        kw_enc = urllib.parse.quote(kw)
+        base_url = f"https://www.meetup.com/find/?keywords={kw_enc}&source=EVENTS"
+        req = urllib.request.Request(base_url, headers={'User-Agent': 'Mozilla/5.0'})
+        
+        try:
+            with urllib.request.urlopen(req, context=ctx) as response:
+                html = response.read().decode('utf-8')
+                all_events_data.append(html)
+            time.sleep(1) # delay to avoid rate limiting
+        except Exception as e:
+            print(f"Failed to fetch Meetup for {kw}: {e}")
+            continue
 
     events = []
     now_ts = datetime.now().timestamp()
     
-    scripts = soup.find_all('script', type='application/ld+json')
-    for script in scripts:
+    for html in all_events_data:
         try:
-            data = json.loads(script.string)
+            soup = BeautifulSoup(html, 'html.parser')
         except:
             continue
             
-        if not isinstance(data, list):
-            data = [data]
-            
-        for item in data:
-            if not isinstance(item, dict) or item.get('@type') != 'Event':
-                continue
-                
-            name = item.get('name') or 'N/A'
-            desc = item.get('description') or ''
-            url = item.get('url') or ''
-            start_date_str = item.get('startDate') or ''
-            
-            if not start_date_str:
-                continue
-                
+        scripts = soup.find_all('script', type='application/ld+json')
+        for script in scripts:
             try:
-                # e.g., 2026-07-15T18:00:00+05:30
-                dt = datetime.fromisoformat(start_date_str.replace('Z', '+00:00'))
-                if dt.timestamp() < now_ts:
-                    continue
-                date_str = dt.strftime("%Y-%m-%d")
+                data = json.loads(script.string)
             except:
                 continue
                 
-            event_text = name + " " + desc
-            if not config.is_event_relevant(event_text):
-                continue
+            if not isinstance(data, list):
+                data = [data]
                 
-            location_data = item.get('location')
-            location = "Online"
-            if isinstance(location_data, dict):
-                if location_data.get('@type') == 'Place':
-                    address = location_data.get('address')
-                    if isinstance(address, dict):
-                        city = address.get('addressLocality', '')
-                        country = address.get('addressCountry', '')
-                        location = f"{city}, {country}".strip(', ')
-                    else:
-                        location = location_data.get('name', 'Unknown')
-                elif location_data.get('@type') == 'VirtualLocation':
-                    location = "Virtual/Online"
+            for item in data:
+                if not isinstance(item, dict) or item.get('@type') != 'Event':
+                    continue
                     
-            if not location:
-                location = "Unknown"
+                name = item.get('name') or 'N/A'
+                desc = item.get('description') or ''
+                url = item.get('url') or ''
+                start_date_str = item.get('startDate') or ''
                 
-            register = f"[↗]({url})" if url else "N/A"
-            name_clean = name.replace('|', '\\|')
+                if not start_date_str:
+                    continue
+                    
+                try:
+                    # e.g., 2026-07-15T18:00:00+05:30
+                    dt = datetime.fromisoformat(start_date_str.replace('Z', '+00:00'))
+                    if dt.timestamp() < now_ts:
+                        continue
+                    date_str = dt.strftime("%Y-%m-%d")
+                except:
+                    continue
+                    
+                event_text = name + " " + desc
+                if not config.is_event_relevant(event_text):
+                    continue
+                    
+                location_data = item.get('location')
+                location = "Online"
+                if isinstance(location_data, dict):
+                    if location_data.get('@type') == 'Place':
+                        address = location_data.get('address')
+                        if isinstance(address, dict):
+                            city = address.get('addressLocality', '')
+                            country = address.get('addressCountry', '')
+                            location = f"{city}, {country}".strip(', ')
+                        else:
+                            location = location_data.get('name', 'Unknown')
+                    elif location_data.get('@type') == 'VirtualLocation':
+                        location = "Virtual/Online"
+                        
+                if not location:
+                    location = "Unknown"
+                    
+                register = f"[↗]({url})" if url else "N/A"
+                name_clean = name.replace('|', '\\|')
+                
+                events.append({
+                    "name": name_clean,
+                    "date": date_str,
+                    "location": location,
+                    "url": url,
+                    "register": register,
+                    "line": f"| {name_clean} | {date_str} | {location} | {register} |"
+                })
+                
+    # Deduplicate by URL
+    unique_events = []
+    seen_urls = set()
+    for ev in events:
+        if ev['url'] not in seen_urls:
+            unique_events.append(ev)
+            seen_urls.add(ev['url'])
             
-            events.append({
-                "name": name_clean,
-                "date": date_str,
-                "location": location,
-                "register": register,
-                "line": f"| {name_clean} | {date_str} | {location} | {register} |"
-            })
-            
-    return events
+    return unique_events
 
 def determine_region(location):
     loc_lower = location.lower()

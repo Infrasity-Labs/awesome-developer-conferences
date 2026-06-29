@@ -82,13 +82,15 @@ keywords = [
 ]
 
 def is_event_relevant(event_text):
-    """
-    Returns True if the event matches keywords.
-    """
     event_text = event_text.lower()
     
-    # Check keywords
-    if not any(kw.lower() in event_text for kw in keywords):
+    # Strict keywords (Commented out to broaden search)
+    # if not any(kw.lower() in event_text for kw in keywords):
+    #     return False
+        
+    # Broad Macro Filters (To prevent fetching cultural/unrelated events)
+    macro_keywords = ['tech', 'ai', 'software', 'developer', 'engineering', 'programming', 'startup', 'data', 'cloud', 'cybersecurity', 'hackathon', 'founder', 'machine learning']
+    if not any(kw in event_text for kw in macro_keywords):
         return False
         
     return True

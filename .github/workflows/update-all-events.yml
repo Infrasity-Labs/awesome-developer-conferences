@@ -63,6 +63,24 @@ jobs:
       - name: Fetch from Adatosystems
         run: python fetchers/adatosystems.py
         continue-on-error: true
+      - name: Fetch from CNCF
+        run: python fetchers/cncf.py
+        continue-on-error: true
+      - name: Fetch from GDG
+        run: python fetchers/gdg.py
+        continue-on-error: true
+      - name: Fetch from DevOpsDays
+        run: python fetchers/devopsdays.py
+        continue-on-error: true
+
+      - name: Fetch from Linux Foundation
+        run: python fetchers/linuxfoundation.py
+        continue-on-error: true
+      - name: Fetch from Gemini AI Discovery
+        run: python fetchers/gemini_discovery.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        continue-on-error: true
 
       - name: Aggregate and Deduplicate
         run: |
