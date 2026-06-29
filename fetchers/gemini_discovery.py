@@ -29,7 +29,7 @@ def query_gemini(api_key, prompt):
     ctx.verify_mode = ssl.CERT_NONE
     
     try:
-        with urllib.request.urlopen(req, context=ctx, timeout=15) as response:
+        with urllib.request.urlopen(req, context=ctx, timeout=30) as response:
             data = json.loads(response.read().decode('utf-8'))
             text = data['candidates'][0]['content']['parts'][0]['text']
             return text
