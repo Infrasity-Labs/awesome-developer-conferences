@@ -32,6 +32,7 @@ def fetch_bevy_events(base_api_url):
         if not results:
             break
             
+        past_events_count = 0
         for item in results:
             name = item.get('title') or 'N/A'
             event_url = item.get('url') or ''
@@ -46,6 +47,7 @@ def fetch_bevy_events(base_api_url):
                     start_date_str = start_date_str[:19] # Strip timezone offset for simple iso format
                 dt = datetime.fromisoformat(start_date_str)
                 if dt.timestamp() < now_ts:
+                    past_events_count += 1
                     continue
                 date_str = dt.strftime("%Y-%m-%d")
             except:
@@ -76,6 +78,11 @@ def fetch_bevy_events(base_api_url):
                 "register": register,
                 "line": f"| {name_clean} | {date_str} | {location} | {register} |"
             })
+            
+        # If the entire page was past events, we can stop fetching further pages!
+        if past_events_count >= len(results):
+            print(f"Reached past events on page {page}. Stopping.")
+            break
             
         if not data.get('links', {}).get('next'):
             break
