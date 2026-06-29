@@ -70,7 +70,14 @@ keywords = [
 
     #Devtools
     "data streaming",  "event streaming", "kafka", "stream processing",
-     "data pipeline", "real-time data", "message queue", "event-driven"
+     "data pipeline", "real-time data", "message queue", "event-driven",
+
+    # Enterprise AI 
+    "enterprise AI", "AI leaders", "enterprise AI strategy", "AI adoption",
+    "AI decision makers", "chief AI officer", "CAIO", "VP audience",
+    "AI-powered enterprise", "AI summit", "enterprise AI buyers",
+    "founder investor matchmaking", "venture connect", "AI conference series",
+    "AI era", "AI-native enterprise", "AI infrastructure leaders"
 
 ]
 

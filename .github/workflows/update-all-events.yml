@@ -38,6 +38,10 @@ jobs:
           python fetchers/eventbrite.py
           python fetchers/luma.py
           python fetchers/infosec.py
+          python fetchers/joindin.py
+          python fetchers/adatosystems.py
+          python spell_check.py
+          python dedupe_readme.py
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"

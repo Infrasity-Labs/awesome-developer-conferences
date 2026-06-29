@@ -1,2 +1,3 @@
 cloudscraper==1.2.71
 beautifulsoup4==4.12.3
+pyspellchecker==0.9.0

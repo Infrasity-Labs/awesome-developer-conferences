@@ -248,6 +248,18 @@ flagship_events = [
         "date": "TBA",
         "location": "Various Cities",
         "register": "[↗](https://www.mongodb.com/events/mongodb-local)"
+    },
+    {
+        "name": "HumanX Europe",
+        "date": "2026-09-22 to 2026-09-24",
+        "location": "Amsterdam, Netherlands",
+        "register": "[↗](https://www.humanx.co/europe)"
+    },
+    {
+        "name": "HumanX US",
+        "date": "2027-03-07 to 2027-03-10",
+        "location": "Las Vegas, USA",
+        "register": "[↗](https://www.humanx.co/us)"
     }
 ]
 
