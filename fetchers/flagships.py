@@ -277,94 +277,13 @@ def determine_region(location):
 
 if __name__ == "__main__":
     print(f"Injecting {len(flagship_events)} flagship events into README.md...")
-    
-    with open('README.md', 'r', encoding='utf-8') as f:
-        readme_content = f.read()
-        
-    regions = {
-        'Asia': [],
-        'Australia': [],
-        'Europe': [],
-        'North America': [],
-        'South America': [],
-        'Virtual/Online': []
-    }
-    
-    # Filter past events
-    valid_events = []
-    now_ts = datetime.now().timestamp()
-    for e in flagship_events:
-        if e["date"] == "TBA":
-            e["line"] = f"| {e['name']} | {e['date']} | {e['location']} | {e['register']} |"
-            valid_events.append(e)
-            continue
-            
-        date_str = e["date"].split(" to ")[-1]
-        try:
-            end_dt = datetime.strptime(date_str, "%Y-%m-%d")
-            if end_dt.timestamp() >= now_ts:
-                e["line"] = f"| {e['name']} | {e['date']} | {e['location']} | {e['register']} |"
-                valid_events.append(e)
-        except Exception as err:
-            pass
-            
-    for event in valid_events:
-        region = determine_region(event['location'])
-        if region in regions:
-            regions[region].append(event)
-            
-    for region, region_events in regions.items():
-        if not region_events:
-            continue
-            
-        pattern = re.compile(rf"(### {region}\n.*?\| Event Name.*?\|\n\|---.*?\|\n)(.*?)(?=\n### |\Z)", re.DOTALL)
-        match = pattern.search(readme_content)
-        
-        if match:
-            header_and_table_header = match.group(1)
-            existing_table_content = match.group(2)
-            
-            existing_rows = existing_table_content.strip().split('\n')
-            if existing_rows == ['']:
-                existing_rows = []
-                
-            existing_names = []
-            for row in existing_rows:
-                parts = row.split('|')
-                if len(parts) >= 3:
-                    name_clean = re.sub(r'\[(.*?)\]\(.*?\)', r'\1', parts[1].strip()).lower()
-                    existing_names.append(name_clean)
-                    
-            new_rows_added = 0
-            for event in region_events:
-                name_clean = re.sub(r'\[(.*?)\]\(.*?\)', r'\1', event['name']).lower()
-                is_duplicate = False
-                for ex_name in existing_names:
-                    if name_clean in ex_name or ex_name in name_clean:
-                        is_duplicate = True
-                        break
-                        
-                if not is_duplicate:
-                    existing_rows.append(event['line'])
-                    existing_names.append(name_clean)
-                    new_rows_added += 1
-                    
-            if new_rows_added > 0:
-                def extract_date(row):
-                    parts = row.split('|')
-                    if len(parts) >= 4:
-                        date_str = parts[2].strip().split(' to ')[0].strip()
-                        try:
-                            return datetime.strptime(date_str, "%Y-%m-%d")
-                        except:
-                            pass
-                    return datetime.max
-                
-                existing_rows.sort(key=extract_date)
-                new_table_content = '\n'.join(existing_rows) + '\n'
-                readme_content = readme_content[:match.start()] + header_and_table_header + new_table_content + readme_content[match.end():]
-                
-    with open('README.md', 'w', encoding='utf-8') as f:
-        f.write(readme_content)
-    
-    print("Done integrating flagship events.")
+
+    import json
+    out_file = "events_flagships.json"
+    with open(out_file, 'w', encoding='utf-8') as f:
+        json.dump(flagship_events, f, indent=2)
+    print(f"Saved {len(flagship_events)} events to {out_file}")
+
+if __name__ == "__main__":
+    if "main" in locals() or "main" in globals():
+        main()

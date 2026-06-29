@@ -3,6 +3,7 @@ import re
 import urllib.request
 import json
 import ssl
+ssl._create_default_https_context = ssl._create_unverified_context
 from datetime import datetime
 import config
 
@@ -10,7 +11,7 @@ def fetch_events_from_api():
     url = "https://developers.events/all-events.json"
 
     # Bypass SSL verification if there are local cert issues
-    ctx = ssl.create_default_context()
+    ctx = ssl._create_unverified_context()
 
     req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     try:
@@ -151,125 +152,12 @@ def main():
         'South America': []
     }
 
-    # Read existing README to extract current events
-    readme_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "README.md"))
-    with open(readme_path, "r", encoding="utf-8") as f:
-        readme_lines = f.read().splitlines()
-    current_continent = None
-    in_events_section = False
-    pre_events_lines = []
-    post_events_lines = []
-    existing_events = []
-
-    for line in readme_lines:
-        if line.startswith('## 📍 Event Schedule'):
-            in_events_section = True
-            pre_events_lines.append(line)
-            continue
-        
-        if in_events_section:
-            if line.startswith('---'):
-                in_events_section = False
-                post_events_lines.append(line)
-                continue
-            
-            if line.startswith('### '):
-                current_continent = line.replace('### ', '').strip()
-                continue
-                
-            if line.startswith('|') and not line.startswith('| Event Name') and not line.startswith('|---') and not line.startswith('|------------'):
-                parts = [p.strip() for p in line.split('|')]
-                if len(parts) >= 5:
-                    name = parts[1]
-                    date_str = parts[2]
-                    location = parts[3]
-                    register = parts[4]
-                    existing_events.append({
-                        "name": name,
-                        "date": date_str,
-                        "location": location,
-                        "register": register,
-                        "continent": current_continent,
-                        "line": line
-                    })
-            continue
-            
-        if not in_events_section:
-            if current_continent is None:
-                pre_events_lines.append(line)
-            else:
-                post_events_lines.append(line)
-
-    # Combine existing and fetched events
-    # Prune existing events that have completely passed
-    existing_events = [ev for ev in existing_events if not is_past_event(ev['date'])]
-
-    all_events = existing_events.copy()
-
-
-    existing_normalized = [normalize_name(e['name']) for e in existing_events]
-
-    for fe in fetched_events:
-        cont = get_continent(fe['location'])
-        norm_name = normalize_name(fe['name'])
-        
-        # If the event with same name already exists, update it? Or if it's already there, just ignore.
-        # Let's replace the existing one with the updated info from the script.
-        if norm_name in existing_normalized:
-            # Update existing
-            for i, ev in enumerate(all_events):
-                if normalize_name(ev['name']) == norm_name:
-                    all_events[i] = {
-                        "name": fe['name'],
-                        "date": fe['date'],
-                        "location": fe['location'],
-                        "register": fe['register'],
-                        "continent": cont,
-                        "line": fe['line']
-                    }
-        else:
-            all_events.append({
-                "name": fe['name'],
-                "date": fe['date'],
-                "location": fe['location'],
-                "register": fe['register'],
-                "continent": cont,
-                "line": fe['line']
-            })
-
-    # Deduplicate before distribution
-    all_events = config.deduplicate_events(all_events)
-
-    # Distribute by continent
-    for ev in all_events:
-        if ev['continent'] in continents_events:
-            continents_events[ev['continent']].append(ev)
-        else:
-            print(f"Unknown continent {ev['continent']} for event {ev['name']}")
-
-
-    # Sort events in each continent by date
-    for cont in continents_events:
-        continents_events[cont].sort(key=lambda x: parse_date(x['date']))
-
-    # Generate new README lines
-    new_readme_lines = pre_events_lines.copy()
-
-    for cont in sorted(continents_events.keys()):
-        new_readme_lines.append(f"### {cont}")
-        new_readme_lines.append("| Event Name | Date | Location | Register |")
-        new_readme_lines.append("|------------|------|----------|----------|")
-        for ev in continents_events[cont]:
-            new_readme_lines.append(ev['line'])
-
-    new_readme_lines.extend(post_events_lines)
-
-    # Write out the new README
-    with open(readme_path, "w", encoding="utf-8") as f:
-        f.write("\n".join(new_readme_lines) + "\n")
-
-    print("README.md updated successfully!")
-
+    import json
+    out_file = "events_developer_events.json"
+    with open(out_file, 'w', encoding='utf-8') as f:
+        json.dump(fetched_events, f, indent=2)
+    print(f"Saved {len(fetched_events)} events to {out_file}")
 
 if __name__ == "__main__":
-    main()
+    if "main" in locals() or "main" in globals():
+        main()

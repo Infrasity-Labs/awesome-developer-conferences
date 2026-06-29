@@ -28,7 +28,7 @@ def fetch_events_from_api():
         print("Please install beautifulsoup4")
         return []
 
-    fetched_events = []
+    events = []
     now_ts = datetime.now().timestamp()
     
     scripts = soup.find_all('script', type='application/ld+json')
@@ -86,7 +86,7 @@ def fetch_events_from_api():
             register = f"[↗]({url})" if url else "N/A"
             name_clean = name.replace('|', '\\|')
             
-            fetched_events.append({
+            events.append({
                 "name": name_clean,
                 "date": date_str,
                 "location": location,
@@ -94,7 +94,7 @@ def fetch_events_from_api():
                 "line": f"| {name_clean} | {date_str} | {location} | {register} |"
             })
             
-    return fetched_events
+    return events
 
 def determine_region(location):
     loc_lower = location.lower()
@@ -117,75 +117,10 @@ if __name__ == "__main__":
     events = fetch_events_from_api()
     print(f"Found {len(events)} events matching criteria.")
     import os
-    readme_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "README.md"))
-    with open(readme_path, 'r', encoding='utf-8') as f:
-        readme_content = f.read()
-        
-    regions = {
-        'Asia': [],
-        'Australia': [],
-        'Europe': [],
-        'North America': [],
-        'South America': [],
-        'Virtual/Online': []
-    }
-    
-    for event in events:
-        region = determine_region(event['location'])
-        if region in regions:
-            regions[region].append(event)
-            
-    for region, region_events in regions.items():
-        if not region_events:
-            continue
-            
-        pattern = re.compile(rf"(### {region}\n.*?\| Event Name.*?\|\n\|---.*?\|\n)(.*?)(?=\n### |\Z)", re.DOTALL)
-        match = pattern.search(readme_content)
-        
-        if match:
-            header_and_table_header = match.group(1)
-            existing_table_content = match.group(2)
-            
-            existing_rows = existing_table_content.strip().split('\n')
-            if existing_rows == ['']:
-                existing_rows = []
-                
-            existing_names = []
-            for row in existing_rows:
-                parts = row.split('|')
-                if len(parts) >= 3:
-                    name_clean = re.sub(r'\[(.*?)\]\(.*?\)', r'\1', parts[1].strip()).lower()
-                    existing_names.append(name_clean)
-                    
-            new_rows_added = 0
-            for event in region_events:
-                name_clean = re.sub(r'\[(.*?)\]\(.*?\)', r'\1', event['name']).lower()
-                is_duplicate = False
-                for ex_name in existing_names:
-                    if name_clean in ex_name or ex_name in name_clean:
-                        is_duplicate = True
-                        break
-                        
-                if not is_duplicate:
-                    existing_rows.append(event['line'])
-                    existing_names.append(name_clean)
-                    new_rows_added += 1
-                    
-            if new_rows_added > 0:
-                def extract_date(row):
-                    parts = row.split('|')
-                    if len(parts) >= 4:
-                        date_str = parts[2].strip().split(' to ')[0].strip()
-                        try:
-                            return datetime.strptime(date_str, "%Y-%m-%d")
-                        except ValueError:
-                            pass
-                    return datetime.max
-                
-                existing_rows.sort(key=extract_date)
-                new_table_content = '\n'.join(existing_rows) + '\n'
-                readme_content = readme_content[:match.start()] + header_and_table_header + new_table_content + readme_content[match.end():]
-        with open(readme_path, 'w', encoding='utf-8') as f:
-         f.write(readme_content)
-    
-    print("Done integrating Meetup events.")
+
+    import json
+    out_file = "events_meetup.json"
+    with open(out_file, 'w', encoding='utf-8') as f:
+        json.dump(events, f, indent=2)
+    print(f"Saved {len(events)} events to {out_file}")
+

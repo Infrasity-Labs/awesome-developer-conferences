@@ -1,3 +1,11 @@
-cloudscraper==1.2.71
 beautifulsoup4==4.12.3
+certifi==2026.6.17
+charset-normalizer==3.4.7
+cloudscraper==1.2.71
+idna==3.18
+pyparsing==3.3.2
 pyspellchecker==0.9.0
+requests==2.34.2
+requests-toolbelt==1.0.0
+soupsieve==2.8.4
+urllib3==2.7.0
