@@ -29,19 +29,23 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Find broken links
-        id: url_check
+      - name: Find and remove broken links
         run: |
-          python checks/url_check.py --all --report > dead_links_report.md
-        continue-on-error: true
-
-      - name: Create Issue From File
-        if: steps.url_check.outcome == 'failure'
-        uses: peter-evans/create-issue-from-file@e8ef132d6df98ed982188e460ebb3b5d4ef3a9cd # v5
-        with:
-          title: Broken links detected in README
-          content-filepath: dead_links_report.md
-          labels: report, automated issue
+          python checks/url_check.py --all --fix
+          
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: auto-remove dead links"
+            git pull --rebase origin master
+            git push
+          else
+            echo "No broken links found. Everything is clean!"
+          fi
 
       - name: Create Failure Issue
         if: failure()

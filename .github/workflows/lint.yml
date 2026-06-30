@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   lint:
@@ -33,11 +33,17 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Check Dates
-        run: python checks/date_check.py --report
+      - name: Check and Fix Dates
+        run: python checks/date_check.py --fix
 
-      - name: Check Spelling
-        run: python checks/spell_check.py --report
+      - name: Check and Fix Spelling
+        run: python checks/spell_check.py --fix
 
-      - name: Check URLs (New additions only)
-        run: python checks/url_check.py --diff-only --report
+      - name: Check and Fix URLs (New additions only)
+        run: python checks/url_check.py --diff-only --fix
+
+      - name: Commit Auto-fixes
+        uses: stefanzweifel/git-auto-commit-action@8621497c8c39c287612f0a15b3c3b53f65bdeeb6 # v5
+        with:
+          commit_message: "chore: auto-fix PR linting issues"
+          file_pattern: "README.md"

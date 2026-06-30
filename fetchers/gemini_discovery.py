@@ -6,14 +6,16 @@ from datetime import datetime
 import config
 
 def query_gemini(api_key, prompt):
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={api_key}"
+    # Strip any hidden characters like newlines from the API key
+    api_key = api_key.strip()
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent?key={api_key}"
     
     payload = {
         "contents": [{
             "parts": [{"text": prompt}]
         }],
         "tools": [{
-            "googleSearch": {}
+            "googleSearchRetrieval": {}
         }],
         "systemInstruction": {
             "parts": [{"text": "You are a web scraper. You must ONLY output a valid JSON array of event objects. No markdown blocks like ```json. Just raw JSON."}]
@@ -34,6 +36,11 @@ def query_gemini(api_key, prompt):
             text = data['candidates'][0]['content']['parts'][0]['text']
             return text
     except Exception as e:
+        if hasattr(e, 'read'):
+            try:
+                print(f"Gemini API error body: {e.read().decode('utf-8', errors='replace')}")
+            except Exception:
+                pass
         print(f"Gemini API error: {e}")
         return "[]"
 
@@ -44,9 +51,9 @@ def fetch_events_from_gemini():
         return []
         
     queries = [
-        ("Search for upcoming software developer conferences and meetups in Africa happening in 2026. Give me exactly 15 events. Output a JSON array with keys: 'name', 'date' (YYYY-MM-DD), 'location', 'url'.", False),
-        ("Search for upcoming software engineering conferences in South America in 2026. Give me exactly 15 events. Output a JSON array with keys: 'name', 'date' (YYYY-MM-DD), 'location', 'url'.", False),
-        ("Search Google for 'call for speakers developer site:sessionize.com' for upcoming 2026 events. Give me exactly 15 events. Output a JSON array with keys: 'name', 'date' (YYYY-MM-DD), 'location', 'url'.", False),
+        ("Search for upcoming software developer conferences and meetups in Africa happening in 2026. Give me up to 15 events. Output a JSON array with keys: 'name', 'date' (YYYY-MM-DD), 'location', 'url'.", False),
+        ("Search for upcoming software engineering conferences in South America in 2026. Give me up to 15 events. Output a JSON array with keys: 'name', 'date' (YYYY-MM-DD), 'location', 'url'.", False),
+        ("Search Google for 'call for speakers developer site:sessionize.com' for upcoming 2026 events. Give me up to 15 events. Output a JSON array with keys: 'name', 'date' (YYYY-MM-DD), 'location', 'url'.", False),
         ("Search for upcoming 'Apache Software Foundation' or 'Community Over Code' conferences in 2026. Give me up to 10 events. Output a JSON array with keys: 'name', 'date' (YYYY-MM-DD), 'location', 'url'.", True),
         ("Search for upcoming 'OWASP Global AppSec' or OWASP chapter events in 2026. Give me up to 10 events. Output a JSON array with keys: 'name', 'date' (YYYY-MM-DD), 'location', 'url'.", True),
         ("Search for upcoming regional 'PyCon' conferences globally in 2026. Give me up to 10 events. Output a JSON array with keys: 'name', 'date' (YYYY-MM-DD), 'location', 'url'.", True),
