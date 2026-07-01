@@ -4,6 +4,8 @@ import urllib.request
 import ssl
 from datetime import datetime
 import config
+import time
+import urllib.error
 
 def query_gemini(api_key, prompt):
     # Strip any hidden characters like newlines from the API key
@@ -30,19 +32,37 @@ def query_gemini(api_key, prompt):
     ctx.check_hostname = False
     ctx.verify_mode = ssl.CERT_NONE
     
-    try:
-        with urllib.request.urlopen(req, context=ctx, timeout=30) as response:
-            data = json.loads(response.read().decode('utf-8'))
-            text = data['candidates'][0]['content']['parts'][0]['text']
-            return text
-    except Exception as e:
-        if hasattr(e, 'read'):
+    import time
+    
+    max_retries = 3
+    retry_delay = 10
+    
+    for attempt in range(max_retries):
+        try:
+            with urllib.request.urlopen(req, context=ctx, timeout=30) as response:
+                data = json.loads(response.read().decode('utf-8'))
+                text = data['candidates'][0]['content']['parts'][0]['text']
+                return text
+        except urllib.error.HTTPError as e:
+            if e.code == 429:
+                if attempt < max_retries - 1:
+                    print(f"Rate limited (429). Retrying in {retry_delay} seconds...")
+                    time.sleep(retry_delay)
+                    retry_delay *= 2
+                    continue
+            
             try:
-                print(f"Gemini API error body: {e.read().decode('utf-8', errors='replace')}")
+                error_body = e.read().decode('utf-8', errors='replace')
+                print(f"Gemini API error body: {error_body}")
             except Exception:
                 pass
-        print(f"Gemini API error: {e}")
-        return "[]"
+            print(f"Gemini API error: {e}")
+            return "[]"
+        except Exception as e:
+            print(f"Gemini API error: {e}")
+            return "[]"
+            
+    return "[]"
 
 def fetch_events_from_gemini():
     api_key = os.environ.get("GEMINI_API_KEY")
@@ -64,9 +84,11 @@ def fetch_events_from_gemini():
     events = []
     now_ts = datetime.now().timestamp()
     
+    import time
     for query, skip_relevance in queries:
         print(f"Running Gemini search: {query}")
         result_text = query_gemini(api_key, query)
+        time.sleep(10) # 10s delay to stay well under 15 RPM
         try:
             # Strip potential markdown formatting if model disobeys
             clean_text = result_text.strip()
