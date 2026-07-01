@@ -7,67 +7,55 @@ import config
 
 def fetch_events_from_api():
     KEYWORDS = ["developer", "kubernetes", "devops", "python", "ai", "software engineering", "backend", "cloud native"]
+    LOCATIONS = [
+        ("San Francisco", 37.7749, -122.4194),
+        ("New York", 40.7128, -74.0060),
+        ("London", 51.5074, -0.1278),
+        ("Berlin", 52.5200, 13.4050),
+        ("Bangalore", 12.9716, 77.5946),
+        ("Singapore", 1.3521, 103.8198),
+        ("Tokyo", 35.6895, 139.6917),
+        ("Sydney", -33.8688, 151.2093),
+        ("Paris", 48.8566, 2.3522),
+        ("Toronto", 43.6510, -79.3470)
+    ]
     
     ctx = ssl.create_default_context()
     ctx.check_hostname = False
     ctx.verify_mode = ssl.CERT_NONE
 
-    all_events_data = []
-    
+    events = []
+    seen_api_ids = set()
     import time
     for kw in KEYWORDS:
         kw_enc = urllib.parse.quote(kw)
-        base_url = f"https://lu.ma/explore?q={kw_enc}"
-        req = urllib.request.Request(base_url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'})
-        
-        try:
-            with urllib.request.urlopen(req, context=ctx, timeout=15) as response:
-                html = response.read().decode('utf-8')
-                all_events_data.append(html)
-            time.sleep(1)
-        except Exception as e:
-            print(f"Failed to fetch Luma for {kw}: {e}")
-            continue
+        for loc_name, lat, lon in LOCATIONS:
+            api_url = f"https://api.luma.com/discover/get-paginated-events?keyword={kw_enc}&latitude={lat}&longitude={lon}&pagination_limit=50"
+            req = urllib.request.Request(api_url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'})
+            
+            try:
+                with urllib.request.urlopen(req, context=ctx, timeout=15) as response:
+                    data = json.loads(response.read().decode('utf-8'))
+                    if 'entries' in data:
+                        for entry in data['entries']:
+                            event = entry.get('event')
+                            if event and event.get('api_id') not in seen_api_ids:
+                                seen_api_ids.add(event['api_id'])
+                                events.append(entry)
+                time.sleep(0.5)
+            except Exception as e:
+                print(f"Failed to fetch Luma API for {kw} at {loc_name}: {e}")
+                continue
 
-    try:
-        from bs4 import BeautifulSoup
-        soup = BeautifulSoup(html, 'html.parser')
-    except ImportError:
-        print("Please install beautifulsoup4")
-        return []
-
-    events = []
     now_ts = datetime.now().timestamp()
     
-    # Luma embeds state in __NEXT_DATA__
-    script = soup.find('script', id='__NEXT_DATA__')
-    if not script:
-        return []
-        
-    try:
-        data = json.loads(script.string)
-    except:
-        return []
-        
-    # Recursively search for 'event' objects in the json tree
-    def find_events(obj):
-        found = []
-        if isinstance(obj, dict):
-            if 'event' in obj and isinstance(obj['event'], dict) and 'name' in obj['event']:
-                found.append(obj['event'])
-            for v in obj.values():
-                found.extend(find_events(v))
-        elif isinstance(obj, list):
-            for i in obj:
-                found.extend(find_events(i))
-        return found
-        
-    events = find_events(data)
-    
     fetched_events = []
-    for item in events:
+    for entry in events:
+        item = entry.get('event') or {}
+        calendar = entry.get('calendar') or {}
+        
         name = item.get('name') or 'N/A'
-        desc = item.get('description_short') or ''
+        desc = calendar.get('description_short') or ''
         url_id = item.get('url')
         url = f"https://lu.ma/{url_id}" if url_id else ''
         start_date_str = item.get('start_at') or ''
@@ -84,17 +72,19 @@ def fetch_events_from_api():
             continue
             
         event_text = name + " " + desc
-        if not config.is_event_relevant(event_text):
-            continue
             
         # Location logic
         location = "Unknown"
-        if item.get('geo_latitude') and item.get('geo_longitude'):
+        if item.get('location_type') == 'online' or (item.get('virtual_info') or {}).get('has_access'):
+            location = "Virtual/Online"
+        elif item.get('geo_address_info') and item['geo_address_info'].get('city'):
+            location = item['geo_address_info'].get('city')
+            if item['geo_address_info'].get('country_code'):
+                location += f", {item['geo_address_info'].get('country_code')}"
+        elif item.get('timezone'):
             location = item.get('timezone', 'Unknown')
             if '/' in location:
                 location = location.split('/')[-1].replace('_', ' ')
-        elif item.get('is_online'):
-            location = "Virtual/Online"
             
         register = f"[↗]({url})" if url else "N/A"
         name_clean = name.replace('|', '\\|')
