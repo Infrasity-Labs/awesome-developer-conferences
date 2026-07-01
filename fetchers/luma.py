@@ -38,8 +38,9 @@ def fetch_events_from_api():
                     data = json.loads(response.read().decode('utf-8'))
                     if 'entries' in data:
                         for entry in data['entries']:
-                            if 'event' in entry and entry['event'].get('api_id') not in seen_api_ids:
-                                seen_api_ids.add(entry['event']['api_id'])
+                            event = entry.get('event')
+                            if event and event.get('api_id') not in seen_api_ids:
+                                seen_api_ids.add(event['api_id'])
                                 events.append(entry)
                 time.sleep(0.5)
             except Exception as e:
@@ -74,7 +75,7 @@ def fetch_events_from_api():
             
         # Location logic
         location = "Unknown"
-        if item.get('location_type') == 'online' or item.get('virtual_info', {}).get('has_access'):
+        if item.get('location_type') == 'online' or (item.get('virtual_info') or {}).get('has_access'):
             location = "Virtual/Online"
         elif item.get('geo_address_info') and item['geo_address_info'].get('city'):
             location = item['geo_address_info'].get('city')
