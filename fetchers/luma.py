@@ -30,22 +30,32 @@ def fetch_events_from_api():
     for kw in KEYWORDS:
         kw_enc = urllib.parse.quote(kw)
         for loc_name, lat, lon in LOCATIONS:
-            api_url = f"https://api.luma.com/discover/get-paginated-events?keyword={kw_enc}&latitude={lat}&longitude={lon}&pagination_limit=50"
-            req = urllib.request.Request(api_url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'})
-            
-            try:
-                with urllib.request.urlopen(req, context=ctx, timeout=15) as response:
-                    data = json.loads(response.read().decode('utf-8'))
-                    if 'entries' in data:
-                        for entry in data['entries']:
-                            event = entry.get('event')
-                            if event and event.get('api_id') not in seen_api_ids:
-                                seen_api_ids.add(event['api_id'])
-                                events.append(entry)
-                time.sleep(0.5)
-            except Exception as e:
-                print(f"Failed to fetch Luma API for {kw} at {loc_name}: {e}")
-                continue
+            cursor = ""
+            for page in range(5): # Max 5 pages per combo (50 * 5 = 250 events)
+                api_url = f"https://api.luma.com/discover/get-paginated-events?keyword={kw_enc}&latitude={lat}&longitude={lon}&pagination_limit=50"
+                if cursor:
+                    api_url += f"&pagination_cursor={cursor}"
+                    
+                req = urllib.request.Request(api_url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'})
+                
+                try:
+                    with urllib.request.urlopen(req, context=ctx, timeout=15) as response:
+                        data = json.loads(response.read().decode('utf-8'))
+                        if 'entries' in data:
+                            for entry in data['entries']:
+                                event = entry.get('event')
+                                if event and event.get('api_id') not in seen_api_ids:
+                                    seen_api_ids.add(event['api_id'])
+                                    events.append(entry)
+                        
+                        if data.get('has_more') and data.get('next_cursor'):
+                            cursor = data['next_cursor']
+                        else:
+                            break # No more pages
+                    time.sleep(0.5)
+                except Exception as e:
+                    print(f"Failed to fetch Luma API for {kw} at {loc_name}: {e}")
+                    break
 
     now_ts = datetime.now().timestamp()
     
