@@ -11,8 +11,10 @@ def fetch_events_from_api():
 
     try:
         import requests
-        headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36'}
-        html = requests.get(url, headers=headers, timeout=15).text
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36'}
+        response = requests.get(url, headers=headers, timeout=15)
+        response.raise_for_status()
+        html = response.content.decode('utf-8')
     except Exception as e:
         print(f"Failed to fetch data: {e}")
         return []
