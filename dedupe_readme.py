@@ -44,7 +44,6 @@ def clean_readme():
                 if not is_dup:
                     if name_clean in seen_names:
                         is_dup = True
-                        break
                             
                 if not is_dup:
                     if url:
