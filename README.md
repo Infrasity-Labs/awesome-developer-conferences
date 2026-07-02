@@ -1076,7 +1076,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Founders & Freelancers Networking | 2026-07-09 | Berlin, DE | [↗](https://lu.ma/12lx07za) |
 | LOOSH x EVEN Sober Rave | 2026-07-09 | Berlin, DE | [↗](https://lu.ma/i1dz15i6) |
 | MiroMeetups Berlin: The Idea Jam ✨ | 2026-07-09 | Berlin, DE | [↗](https://lu.ma/3dpg392p) |
-| Sharing learnings: Product Development with Agents | 2026-07-09 | Berlin, DE | [↗](https://lu.ma/i1lk2rze) |
+| Sharing learning: Product Development with Agents | 2026-07-09 | Berlin, DE | [↗](https://lu.ma/i1lk2rze) |
 | An Intimate Dinner for Ecom & Marketing Leaders | 2026-07-09 | Berlin, DE | [↗](https://lu.ma/t3j3nega) |
 | Django User Group Berlin July Meetup | 2026-07-09 | Berlin, DE | [↗](https://lu.ma/9pmwcjpn) |
 | Brothers Of The Heart | 2026-07-09 | Berlin, DE | [↗](https://lu.ma/tz3g9rt4) |
@@ -2065,7 +2065,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | ETHWomen Toronto 2026 | 2026-07-22 | Toronto, CA | [↗](https://lu.ma/ETHWomen) |
 | Institutional breakfast Presented by Shefi & BACI | 2026-07-22 | Toronto, CA | [↗](https://lu.ma/Shefi_Toronto26) |
 | Intelligems Lounge @ DotDev | 2026-07-22 | Toronto, CA | [↗](https://lu.ma/6zuovemi) |
-| Bitcoin Devleoper Conference - btcplusplus *consensus edition* 📜✨ | 2026-07-22 | Toronto, CA | [↗](https://lu.ma/cne7j4i7) |
+| Bitcoin Developer Conference - btcplusplus *consensus edition* 📜✨ | 2026-07-22 | Toronto, CA | [↗](https://lu.ma/cne7j4i7) |
 | Superteam Drives: Futurist Edition | 2026-07-22 | Toronto, CA | [↗](https://lu.ma/superteam-tvf8) |
 | Founder & Funder Lounge at The Futurist Conference | 2026-07-22 | Toronto, CA | [↗](https://lu.ma/afnrxbtm) |
 | Self Custody in the Real World by Tangem | 2026-07-22 | Toronto, CA | [↗](https://lu.ma/tangem) |
@@ -2543,7 +2543,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Brick City Jam x Art.Walk.Love: Spirit Fest & Night Market At All Points West Distillery | 2026-07-04 | Newark, US | [↗](https://lu.ma/q74atpud) |
 | Community Day: Picnic, Hiking & Games in NYC | 2026-07-04 | Bronx, US | [↗](https://lu.ma/0mravtpe) |
 | Richmond Charity Hike | 2026-07-04 | Richmond, GB | [↗](https://lu.ma/vlua71mi) |
-| In-Person Street Wisdom Walkshop in Farnham UK, Saturday 4th July 2026, 2pm UK time | 2026-07-04 | Farnham, GB | [↗](https://lu.ma/cpni266y) |
+| In-Person Street Wisdom Workshop in Farnham UK, Saturday 4th July 2026, 2pm UK time | 2026-07-04 | Farnham, GB | [↗](https://lu.ma/cpni266y) |
 | Easy morning run | 2026-07-04 | Bad Saarow, DE | [↗](https://lu.ma/a6ommmsc) |
 | Confidence Flow by Confidence Club | 2026-07-04 | Bad Saarow, DE | [↗](https://lu.ma/sfdlx8u6) |
 | Connected confidence workshop | 2026-07-04 | Bad Saarow, DE | [↗](https://lu.ma/ohiqspvk) |
@@ -2778,7 +2778,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | 🧘iiyon!! Pilates in KX Pilates🩵 | 2026-07-11 | Shinjuku City, JP | [↗](https://lu.ma/h94dgp8r) |
 | WebX Tokyo Pub Crawl | 2026-07-11 | Minato City, JP | [↗](https://lu.ma/webx-pubcrawl) |
 | 7/12(日)7:30 代々木公園ラン | 2026-07-11 | Shibuya, JP | [↗](https://lu.ma/9miz5fi0) |
-| Padel (format Americano) – 4 padel Saint-Ouen | 2026-07-11 | Saint-Ouen-sur-Seine, FR | [↗](https://lu.ma/9pg5inyx) |
+| Padel (format Americano) – 4 padel Saint-Open | 2026-07-11 | Saint-Open-sur-Seine, FR | [↗](https://lu.ma/9pg5inyx) |
 | Build Your Digital Workforce: How Businesses Use AI to Scale | 2026-07-11 | Markham, CA | [↗](https://lu.ma/upf0o0of) |
 | Google AI Professional Certificate - Weekend Intensive Day 2 of 2 | 2026-07-12 | Virtual/Online | [↗](https://www.meetup.com/ai-professionals-chicago/events/315439372/) |
 | Sound & Ceremony | 2026-07-12 | Surry Hills, AU | [↗](https://lu.ma/ykf78e55) |
