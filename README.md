@@ -2113,7 +2113,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Building an AI resume optimization tool with Matthew Christiansen: Session 2 | 2026-07-30 | Atlanta, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-atlanta-presents-building-an-ai-resume-optimization-tool-with-matthew-christiansen-session-2/) |
 | Introduction to Mathematical Concepts - class 4/4 | 2026-08-01 | Sherbrooke, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-sherbrooke-presents-introduction-to-mathematical-concepts-class-44/) |
 | fintech_devcon | 2026-08-03 | Denver, United States | [↗](https://fintechdevcon.io/) |
-| Association for Software Testing - CAST 2026 | 2026-08-03 to 2026-08-05 | Cocoa Beach, FL (USA) | [↗](https://associationforsoftwaretesting.org/conference/cast-2026/) |
 | GopherCon 2026 | 2026-08-03 to 2026-08-06 | Washington D.C. (USA) | [↗](https://gophercon.com) |
 | For Students: How to Talk About Your Projects in an Interview | 2026-08-03 | Pittsburgh, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-pittsburgh-presents-for-students-how-to-talk-about-your-projects-in-an-interview/) |
 | AppSec Village - DEF CON 34 | 2026-08-07 to 2026-08-09 | Nevada (USA) | [↗](https://www.appsecvillage.com) |
@@ -2188,7 +2187,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | GAIL Workshop: A Deep Dive with Norbert Kremer | 2026-09-19 | Newport Beach, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-newport-beach-presents-gail-workshop-a-deep-dive-with-norbert-kremer/) |
 | Day of Data SLC 2026 | 2026-09-19 | Salt Lake City, Utah | [↗](https://www.utahgeekevents.com) |
 | STARWEST | 2026-09-20 to 2026-09-25 | Anaheim, CA (USA) | [↗](https://starwest.techwell.com) |
-| Targeting Quality 2026 | 2026-09-21 to 2026-09-22 | Cambridge, ON (Canada) | [↗](https://targetingquality.ca/) |
 | Prairie Dev Con 2026 | 2026-09-21 to 2026-09-22 | Winnipeg, MB (Canada) | [↗](https://www.prairiedevcon.com) |
 | Explore DDD 2026 | 2026-09-21 to 2026-09-25 | Denver, CO (USA) | [↗](http://exploreddd.com) |
 | Devopsdays Denver | 2026-09-22 to 2026-09-23 | Denver, CO (USA) | [↗](https://devopsdays.org/events/2026-denver) |
@@ -3015,7 +3013,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | The AI-Native Workplace Summit 2026 | 2026-09-16 | Online | [↗](https://ainativeworkplace.com/) |
 | uxcon vienna | 2026-09-16 | Online | [↗](https://www.uxcon.io) |
 | AI Power Agents 2026 | 2026-09-16 to 2026-09-17 | Herzliya | [↗](https://aipoweragentsconf.com) |
-| Secure Our Streets Conference 2026 | 2026-09-17 | Online | [↗](https://sos.asrg.io) |
 | DevOps Midwest 2026 | 2026-09-17 | St. Louis, MO | [↗](http://www.devopsmidwest.com) |
 | ValuSignal 2026 | 2026-09-18 to 2026-09-19 | Online | [↗](http://www.valusignal.com) |
 | dotJS | 2026-09-18 | Folies Bergère | [↗](https://joind.in/event/dotjs) |
@@ -3023,7 +3020,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Data & AI Saturday VitÃ³ria 2026 | 2026-09-19 | VitÃ³ria, EspÃ­rito Santo | [↗](https://ties.dev.br) |
 | STARWEST | 2026-09-20 | Online | [↗](https://starwest.techwell.com) |
 | DevOpsDays Rockies 2026 | 2026-09-22 to 2026-09-23 | Denver, CO | [↗](https://talks.devopsdays.org/dodroxrox26/cfp) |
-| Lost in a Lightfield Online Conference 2026 | 2026-09-23 | Unknown | [↗](https://conference.lostinalightfield.com) |
 | World Conference on Public Health and Epidemiology | 2026-09-23 to 2026-09-25 | Feldkirchen, Bavaria | [↗](https://www.epidemiology.thesciencequest.org) |
 | WeAreDevelopers World Congress North America | 2026-09-23 | San Jose, CA, U.S.A. | [↗](https://www.wearedevelopers.com/world-congress-us) |
 | AI Community Days in Cebu, Philippines | 2026-09-23 | Cebu City, Central Visayas | [↗](https://aicommunitydays.ai) |
