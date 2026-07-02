@@ -86,7 +86,7 @@ def main():
     
     dead_events = []
     
-    with ThreadPoolExecutor(max_workers=5) as executor:
+    with ThreadPoolExecutor(max_workers=50) as executor:
         future_to_event = {executor.submit(check_url, ev['url']): ev for ev in urls_to_check}
         for future in as_completed(future_to_event):
             ev = future_to_event[future]
