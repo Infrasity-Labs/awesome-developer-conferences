@@ -260,6 +260,48 @@ flagship_events = [
         "date": "2027-03-07 to 2027-03-10",
         "location": "Las Vegas, USA",
         "register": "[↗](https://www.humanx.co/us)"
+    },
+    {
+        "name": "AI Engineer Europe",
+        "date": "2026-04-08 to 2026-04-10",
+        "location": "Europe",
+        "register": "[↗](https://www.ai.engineer/europe/2026)"
+    },
+    {
+        "name": "AI Engineer Miami",
+        "date": "2026-04-20",
+        "location": "Miami, USA",
+        "register": "[↗](https://www.ai.engineer/miami/2026)"
+    },
+    {
+        "name": "AI Engineer Singapore",
+        "date": "2026-05-15 to 2026-05-20",
+        "location": "Singapore",
+        "register": "[↗](https://www.ai.engineer/singapore/2026)"
+    },
+    {
+        "name": "AI Engineer Paris",
+        "date": "2026-09-23 to 2026-09-24",
+        "location": "Paris, France",
+        "register": "[↗](https://www.ai.engineer/paris/2026)"
+    },
+    {
+        "name": "AI Engineer NYC",
+        "date": "2026-10-12 to 2026-10-14",
+        "location": "New York, USA",
+        "register": "[↗](https://www.ai.engineer/nyc/2026)"
+    },
+    {
+        "name": "AI Engineer Shanghai",
+        "date": "2026-11-05 to 2026-11-06",
+        "location": "Shanghai, China",
+        "register": "[↗](https://www.ai.engineer/shanghai/2026)"
+    },
+    {
+        "name": "AI Engineer Code",
+        "date": "TBA",
+        "location": "Virtual/Online",
+        "register": "[↗](https://www.ai.engineer/code/2026)"
     }
 ]
 
