@@ -4,28 +4,27 @@ import json
 from datetime import datetime, timezone
 import config
 try:
-    import cloudscraper
+    from playwright.sync_api import sync_playwright
     from bs4 import BeautifulSoup
 except ImportError:
-    print("Please install required packages: pip install cloudscraper beautifulsoup4")
+    print("Please install required packages: pip install playwright beautifulsoup4")
     exit(1)
 
 def fetch_bigevent():
     url = "https://bigevent.io/events/topic/developer/"
     
     try:
-        scraper = cloudscraper.create_scraper(
-            browser={
-                'browser': 'chrome',
-                'platform': 'windows',
-                'desktop': True
-            }
-        )
-        with scraper.get(url, timeout=15) as response:
-            response.raise_for_status()
-            soup = BeautifulSoup(response.text, 'html.parser')
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            page = browser.new_page(user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36')
+            page.goto(url, wait_until='networkidle')
+            import time
+            time.sleep(3) # Give extra time for JS to load the JSON-LD
+            html_content = page.content()
+            soup = BeautifulSoup(html_content, 'html.parser')
+            browser.close()
     except Exception as e:
-        print(f"Failed to fetch data from 10times: {e}")
+        print(f"Failed to fetch data from 10times (bigevent.io) using Playwright: {e}")
         return []
     
 
