@@ -8,33 +8,34 @@ import config
 def fetch_events_from_api():
     KEYWORDS = ["developer", "kubernetes", "devops", "python", "ai", "software-engineering", "backend", "cloud-native"]
     
-    ctx = ssl.create_default_context()
-    ctx.check_hostname = False
-    ctx.verify_mode = ssl.CERT_NONE
+    try:
+        from playwright.sync_api import sync_playwright
+        from bs4 import BeautifulSoup
+    except ImportError:
+        print("Please install playwright and beautifulsoup4")
+        return []
 
     all_events_data = []
     
     import time
-    for kw in KEYWORDS:
-        kw_enc = urllib.parse.quote(kw)
-        base_url = f"https://www.eventbrite.com/d/online/{kw_enc}/"
-        req = urllib.request.Request(base_url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'})
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        page = browser.new_page(user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36')
         
-        try:
-            with urllib.request.urlopen(req, context=ctx, timeout=15) as response:
-                html = response.read().decode('utf-8')
+        for kw in KEYWORDS:
+            kw_enc = urllib.parse.quote(kw)
+            base_url = f"https://www.eventbrite.com/d/online/{kw_enc}/"
+            
+            try:
+                page.goto(base_url, wait_until='domcontentloaded', timeout=15000)
+                time.sleep(2) # Give it time to load dynamic JSON-LD
+                html = page.content()
                 all_events_data.append(html)
-            time.sleep(1)
-        except Exception as e:
-            print(f"Failed to fetch Eventbrite for {kw}: {e}")
-            continue
-
-    try:
-        from bs4 import BeautifulSoup
-        soup = BeautifulSoup(html, 'html.parser')
-    except ImportError:
-        print("Please install beautifulsoup4")
-        return []
+            except Exception as e:
+                print(f"Failed to fetch Eventbrite for {kw}: {e}")
+                continue
+                
+        browser.close()
 
     fetched_events = []
     now_ts = datetime.now().timestamp()

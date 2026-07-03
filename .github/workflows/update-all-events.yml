@@ -13,7 +13,6 @@ permissions:
 jobs:
   update-all-events:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
 
     steps:
       - name: Checkout repository
@@ -29,6 +28,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+          playwright install chromium
 
       - name: Fetch from Bigevent
         run: python fetchers/bigevent.py
@@ -48,9 +48,9 @@ jobs:
       - name: Fetch from Meetup
         run: python fetchers/meetup.py
         continue-on-error: true
-      - name: Fetch from Eventbrite
-        run: python fetchers/eventbrite.py
-        continue-on-error: true
+      # - name: Fetch from Eventbrite
+      #   run: python fetchers/eventbrite.py
+      #   continue-on-error: true
       - name: Fetch from Luma
         run: python fetchers/luma.py
         continue-on-error: true
@@ -113,7 +113,7 @@ jobs:
             github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              title: '🚨 Workflow Failed: update-all-events',
+              title: 'Workflow Failed: update-all-events',
               body: `The scheduled workflow **update-all-events** has failed.\n\nPlease check the logs: https://github.com/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`,
               labels: ['report', 'automated issue']
             })
