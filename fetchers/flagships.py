@@ -1,6 +1,8 @@
 import re
 from datetime import datetime
 
+from requests.help import main
+
 # Hardcoded flagship events that do not appear on aggregator sites
 flagship_events = [
     {
@@ -328,4 +330,4 @@ if __name__ == "__main__":
 
 if __name__ == "__main__":
     if "main" in locals() or "main" in globals():
-        main()
+     main()
