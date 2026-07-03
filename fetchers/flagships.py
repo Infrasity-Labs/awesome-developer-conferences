@@ -264,7 +264,7 @@ flagship_events = [
     {
         "name": "AI Engineer Europe",
         "date": "2026-04-08 to 2026-04-10",
-        "location": "Europe",
+        "location": "London, UK",
         "register": "[↗](https://www.ai.engineer/europe/2026)"
     },
     {
