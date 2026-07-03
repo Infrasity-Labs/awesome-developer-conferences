@@ -41,6 +41,9 @@ def fetch_events_from_api():
             
         desc = (event.get('description') or '').lower()
         event_text = name.lower() + ' ' + desc
+                
+        if not config.is_event_relevant(event_text):
+            continue
             
         link = event.get('website_uri') or event.get('href') or ''
         register = f"[↗]({link})" if link else "N/A"

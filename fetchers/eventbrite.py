@@ -18,24 +18,30 @@ def fetch_events_from_api():
     all_events_data = []
     
     import time
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-        page = browser.new_page(user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36')
-        
-        for kw in KEYWORDS:
-            kw_enc = urllib.parse.quote(kw)
-            base_url = f"https://www.eventbrite.com/d/online/{kw_enc}/"
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            page = browser.new_page(user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36')
             
-            try:
-                page.goto(base_url, wait_until='domcontentloaded', timeout=15000)
-                time.sleep(2) # Give it time to load dynamic JSON-LD
-                html = page.content()
-                all_events_data.append(html)
-            except Exception as e:
-                print(f"Failed to fetch Eventbrite for {kw}: {e}")
-                continue
+            for kw in KEYWORDS:
+                kw_enc = urllib.parse.quote(kw)
+                base_url = f'https://www.eventbrite.com/d/online/{kw_enc}/'
                 
-        browser.close()
+                try:
+                    page.goto(base_url, wait_until='domcontentloaded', timeout=15000)
+                    time.sleep(2) # Give it time to load dynamic JSON-LD
+                    html = page.content()
+                    all_events_data.append(html)
+                except Exception as e:
+                    print(f'Failed to fetch Eventbrite for {kw}: {e}')
+                    continue
+                    
+            browser.close()
+    except Exception as e:
+        print(f'Failed to fetch Eventbrite events using Playwright: {e}')
+        return []
+                
+    browser.close()
 
     fetched_events = []
     now_ts = datetime.now().timestamp()
