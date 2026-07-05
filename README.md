@@ -41,7 +41,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Unlocking GDG: A Beginner's Guide | 2026-06-30 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-the-catholic-university-of-eastern-africa-nairobi-kenya-presents-unlocking-gdg-a-beginners-guide/) |
 | Supercharging CI/CD: Tooling and GitOps with Google Antigravity | 2026-06-30 | Mbarara, Uganda | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-mbarara-presents-supercharging-cicd-tooling-and-gitops-with-google-antigravity/) |
 | Pet Projects: The 2026 Edition | 2026-06-30 | Cape Town, South Africa | [↗](https://gdg.community.dev/events/details/google-gdg-cape-town-presents-pet-projects-the-2026-edition/) |
-| Production-Ready Backend: Observability, Zero-Downtime Deployments, and Secure Architecture | 2026-07-01 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-production-ready-backend-observability-zero-downtime-deployments-and-secure-architecture/) |
 | Canva Masterclass: Design Like a Pro | 2026-07-01 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-canva-masterclass-design-like-a-pro/) |
 | Python Essentials 1: Transforming Data Skills | 2026-07-01 | Nakuru, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kabarak-university-nakuru-kenya-presents-python-essentials-1-transforming-data-skills/) |
 | Creating Cloud-Native Applications: From Concept to Launch with Google AI Studio | 2026-07-02 | Mbarara, Uganda | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-mbarara-presents-creating-cloud-native-applications-from-concept-to-launch-with-google-ai-studio/) |
@@ -155,7 +154,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | 【IVSサイドイベント】朝活もくもくDev会 ☕️ カフェで作業＆カジュアル交流会 in 京都 | 2026-07-03 | Kioto, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kyoto-university-kyoto-japan-presents-ivssaidoibento-zhao-huo-mokumokudevhui-kahuedezuo-ye-kaziyuarujiao-liu-hui-in-jing-du/) |
 | CloudThat Learning Impact Awards 2026 | 2026-07-03 | Sterling's Mac Hotel, Bengaluru, IN | [↗](https://infosec-conferences.com/event/20260703-cloudthat-learning-impact-awards-2026/) |
 | Exhibition: Data, Otherwise \| VizChitra 2026 | 2026-07-03 | Bengaluru, IN | [↗](https://lu.ma/zn2itpi2) |
-| All-In: How Poker-Playing Founders Bet Big and Built Billion-Dollar Startups | 2026-07-03 | Bengaluru, IN | [↗](https://lu.ma/uh9nbve7) |
 | Founder Pitches by CEDAT | 2026-07-03 | Bengaluru, IN | [↗](https://lu.ma/6xqf8y3k) |
 | From Bangalore to the Bay | 2026-07-03 | Bengaluru, IN | [↗](https://lu.ma/zmt01mmn) |
 | Demo Day - First-Time Builders Showcase AI Products | 2026-07-03 | Bengaluru, IN | [↗](https://lu.ma/28r4ufmw) |
@@ -181,8 +179,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Wonder of Wonders 2026: Andhra Pradesh | 2026-07-04 | Visakhapatnam, India | [↗](https://gdg.community.dev/events/details/google-gdg-vizag-presents-wonder-of-wonders-2026-andhra-pradesh/) |
 | Introduction to AI: A Beginner's Guide (Part 1) | 2026-07-04 | Doha, Qatar | [↗](https://gdg.community.dev/events/details/google-gdg-doha-presents-introduction-to-ai-a-beginners-guide-part-1/) |
 | Unlock Efficiency: Master Antigravity skills & Gemini | 2026-07-04 | Kanpur, India | [↗](https://gdg.community.dev/events/details/google-gdg-kanpur-presents-unlock-efficiency-master-antigravity-skills-amp-gemini/) |
-| Build with AI 2026 -2 | 2026-07-04 | Xiamen, China | [↗](https://gdg.community.dev/events/details/google-gdg-xiamen-presents-build-with-ai-2026-2/) |
-| 東北Tech道場 第23期 石巻道場 #7 | 2026-07-04 | Ishinomaki, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-ishinomaki-presents-dong-bei-techdao-chang-di-23qi-shi-juan-dao-chang-7/) |
 | Designing Modern AI Systems: LLMs, RAG, Agents & Workflows | 2026-07-04 | Visnagar, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sankalchand-patel-university-visnagar-india-presents-designing-modern-ai-systems-llms-rag-agents-amp-workflows/) |
 | Cloud Under the Hood | 2026-07-04 | Bangalore, India | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-bengaluru-presents-cloud-under-the-hood/) |
 | Gemini DevDive | 2026-07-04 | Kochi, India | [↗](https://gdg.community.dev/events/details/google-gdg-cochin-presents-gemini-devdive/) |
@@ -237,7 +233,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Founder Mixer(Bengaluru) | 2026-07-05 | Bengaluru, IN | [↗](https://lu.ma/gzh5b1ar) |
 | AI Careers Mixer \| Bengaluru Edition | 2026-07-05 | Bengaluru, IN | [↗](https://lu.ma/b6fyttea) |
 | The (Offline) Writers' Room #12 \| Indiranagar | 2026-07-05 | Bengaluru, IN | [↗](https://lu.ma/efsq0l3j) |
-| The Aretaxia Bookclub #14 | 2026-07-05 | Bengaluru, IN | [↗](https://lu.ma/3z34fupg) |
 | Founders Building Toward YC F26 · Signal Walk // 001 | 2026-07-05 | Bengaluru, IN | [↗](https://lu.ma/5871znne) |
 | Founders Building Toward YC F26 · Signal Walk — Power Walk | 2026-07-05 | Bengaluru, IN | [↗](https://lu.ma/staaake-6rfi) |
 | JumpStart Bharat - Bengaluru: Founders' Adda | 2026-07-05 | Bengaluru, IN | [↗](https://lu.ma/mp5tb5r5) |
@@ -381,7 +376,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Angular TLV -  July 2026 Meetup | 2026-07-14 | Tel Aviv-Yafo, Israel | [↗](https://gdg.community.dev/events/details/google-gdg-tel-aviv-presents-angular-tlv-july-2026-meetup/) |
 | Summer Upskill Series - Leadership & Professional Grooming | 2026-07-14 | Peshawar, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-institute-of-management-sciences-peshawar-pakistan-presents-summer-upskill-series-leadership-amp-professional-grooming/) |
 | India SaaS & Marketing Tech Summit | 2026-07-15 | Bengaluru, India | [↗](https://whysummits.com/india-saas-marketing-tech-summit-2026) |
-| AI Agent Lab Workshop - ADK Launchpad | 2026-07-15 | Landran, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-chandigarh-group-of-colleges-coe-campus-landran-india-presents-ai-agent-lab-workshop-adk-launchpad-1/) |
 | Unbounded: Build with AI Creative Lab | 2026-07-15 | Bhilai, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-rungta-college-of-engineering-and-technology-bhilai-india-presents-unbounded-build-with-ai-creative-lab/) |
 | Gemma x Hugging Face Bengaluru Meetup | 2026-07-15 | Bengaluru, IN | [↗](https://lu.ma/cqo8g0a2) |
 | ScrewUps: Climate x Failure Flavour Edition • Jul 15 • Bangalore | 2026-07-15 | Bengaluru, IN | [↗](https://lu.ma/ksmqfcfi) |
@@ -1739,7 +1733,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | DevFest Paris 2026 | 2026-11-27 | Paris (France) | [↗](https://devfest.gdgparis.fr/) |
 | TechMids Conf 2026 | 2026-11-27 | Birmingham, UK | [↗](http://conf.techmids.io) |
 | Devfest Belgium 2026 | 2026-11-27 | Mons, Belgium | [↗](https://gdg.community.dev/events/details/google-gdg-mons-presents-devfest-belgium-2026/) |
-| The Repair Summit | 2026-11-28 | Dublin (UK) | [↗](https://dublinmaker.ie/repair-summit-2026/) |
 | IT Security Summit Munich 2026 | 2026-11-30 to 2026-12-04 | Munich (Germany) | [↗](https://it-security-summit.com/munich/) |
 | ESPC | 2026-11-30 | Amsterdam, Netherlands | [↗](https://www.sharepointeurope.com) |
 | apidays Paris | 2026-12-01 to 2026-12-03 | Paris, France | [↗](https://www.apidays.global/events/paris) |
