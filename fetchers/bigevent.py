@@ -4,25 +4,36 @@ import json
 from datetime import datetime, timezone
 import config
 try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass  
+
+BROWSERLESS_TOKEN = os.environ.get("BROWSERLESS_TOKEN")  
+BROWSERLESS_WS = f"wss://production-sfo.browserless.io/chromium/playwright?token={BROWSERLESS_TOKEN}"
+
+try:
     from playwright.sync_api import sync_playwright
     from bs4 import BeautifulSoup
 except ImportError:
     print("Please install required packages: pip install playwright beautifulsoup4")
     exit(1)
 
+
+
 def fetch_bigevent():
     url = "https://bigevent.io/events/topic/developer/"
     
     try:
         with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True)
+            browser = p.chromium.connect(BROWSERLESS_WS)
             page = browser.new_page(user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36')
-            page.goto(url, wait_until='networkidle')
+            page.goto(url, wait_until='domcontentloaded', timeout=60000)
             import time
             time.sleep(3) # Give extra time for JS to load the JSON-LD
             html_content = page.content()
-            soup = BeautifulSoup(html_content, 'html.parser')
             browser.close()
+            soup = BeautifulSoup(html_content, 'html.parser')
     except Exception as e:
         print(f"Failed to fetch data from 10times (bigevent.io) using Playwright: {e}")
         return []
@@ -85,10 +96,8 @@ def fetch_bigevent():
                     
                 location = location or 'N/A'
                 
-                # Keyword matching against name and description (if available)
-                event_text = (name + " " + event.get("description", "")).lower()
-                if not config.is_event_relevant(event_text):
-                    continue
+                # The URL is already filtered to /topic/developer/, so we trust all events from here!
+                # We skip the strict keyword matching.
 
                 register = f"[↗]({link})" if link else "N/A"
                 
