@@ -80,6 +80,7 @@ jobs:
         run: python fetchers/gemini_discovery.py
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          BROWSERLESS_TOKEN: ${{ secrets.BROWSERLESS_TOKEN }}
         continue-on-error: true
 
       - name: Aggregate and Deduplicate

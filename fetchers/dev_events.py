@@ -5,18 +5,28 @@ import json
 import ssl
 from datetime import datetime
 import config
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass  
+
+BROWSERLESS_TOKEN = os.environ.get("BROWSERLESS_TOKEN")  
+BROWSERLESS_WS = f"wss://production-sfo.browserless.io/chromium/playwright?token={BROWSERLESS_TOKEN}"
 
 def fetch_events_from_api():
     url = "https://dev.events/"
 
     try:
-        import requests
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36'}
-        response = requests.get(url, headers=headers, timeout=15)
-        response.raise_for_status()
-        html = response.content.decode('utf-8')
+        from playwright.sync_api import sync_playwright
+        with sync_playwright() as p:
+            browser = p.chromium.connect(BROWSERLESS_WS)
+            page = browser.new_page(user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36')
+            page.goto(url, wait_until='domcontentloaded', timeout=60000)
+            html = page.content()
+            browser.close()
     except Exception as e:
-        print(f"Failed to fetch data: {e}")
+        print(f"Failed to fetch data using Playwright: {e}")
         return []
 
     try:
