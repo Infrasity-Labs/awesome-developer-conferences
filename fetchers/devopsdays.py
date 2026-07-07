@@ -25,11 +25,15 @@ def fetch_events_from_api():
     soup = BeautifulSoup(html, 'html.parser')
     
     events = []
+    raw_count = 0
+    filtered_count = 0
     now_ts = datetime.now().timestamp()
     
     for ev in soup.select('a.events-page-event'):
+        raw_count += 1
         href = ev.get('href', '')
         if not href.startswith('/events/2026') and not href.startswith('/events/2027'):
+            filtered_count += 1
             continue # Only grab current/next year
             
         url = "https://devopsdays.org" + href
@@ -38,6 +42,7 @@ def fetch_events_from_api():
         # text is like "Jul 4: Kraków"
         parts = text.split(':', 1)
         if len(parts) < 2:
+            filtered_count += 1
             continue
             
         date_raw = parts[0].strip()
@@ -54,6 +59,7 @@ def fetch_events_from_api():
             try:
                 dt = datetime.strptime(date_str, "%Y-%m-%d")
                 if dt.timestamp() < now_ts:
+                    filtered_count += 1
                     continue
             except:
                 pass
@@ -73,6 +79,7 @@ def fetch_events_from_api():
             "line": f"| {name_clean} | {date_str} | {location} | {register} |"
         })
         
+    print(f"[DevOpsDays] Total raw events: {raw_count} | Filtered out: {filtered_count} | Successfully fetched: {len(events)}")
     return events
 
 if __name__ == "__main__":

@@ -18,13 +18,17 @@ def fetch_events_from_api():
         
     events = data.get('events', [])
     fetched_events = []
+    raw_count = 0
+    filtered_count = 0
     
     for event in events:
+        raw_count += 1
         name = (event.get('name') or 'N/A').replace('|', '\\|')
         start_date_str = event.get('start_date')
         end_date_str = event.get('end_date')
         
         if not start_date_str:
+            filtered_count += 1
             continue
             
         try:
@@ -34,15 +38,18 @@ def fetch_events_from_api():
             else:
                 end_date = start_date
         except Exception:
+            filtered_count += 1
             continue
             
         if end_date.replace(tzinfo=None) < datetime.now():
+            filtered_count += 1
             continue
             
         desc = (event.get('description') or '').lower()
         event_text = name.lower() + ' ' + desc
                 
         if not config.is_event_relevant(event_text):
+            filtered_count += 1
             continue
             
         link = event.get('website_uri') or event.get('href') or ''
@@ -64,6 +71,7 @@ def fetch_events_from_api():
             "line": f"| {name} | {date_str} | {location} | {register} |"
         })
         
+    print(f"[JoindIn] Total raw events: {raw_count} | Filtered out: {filtered_count} | Successfully fetched: {len(fetched_events)}")
     return fetched_events
 
 def main():

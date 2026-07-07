@@ -42,19 +42,25 @@ def fetch_events_from_api():
 
 
     fetched_events = []
+    raw_count = 0
+    filtered_count = 0
     for script in scripts:
+        raw_count += 1
         try:
             event = json.loads(script.string)
         except (json.JSONDecodeError, TypeError):
+            filtered_count += 1
             continue
             
         if event.get('@type') not in ['EducationEvent', 'Event']:
+            filtered_count += 1
             continue
             
         start_date_str = event.get('startDate')
         end_date_str = event.get('endDate')
         
         if not start_date_str:
+            filtered_count += 1
             continue
             
         try:
@@ -64,11 +70,13 @@ def fetch_events_from_api():
             else:
                 end_date = start_date
         except Exception as e:
+            filtered_count += 1
             continue
             
         # Filter past events
         from datetime import timezone
         if end_date < datetime.now(timezone.utc):
+            filtered_count += 1
             continue
             
         name = (event.get('name') or 'N/A').replace('|', '\\|')
@@ -117,6 +125,7 @@ def fetch_events_from_api():
             "line": f"| {name} | {date_str} | {location} | {register} |"
         })
     
+    print(f"[DevEvents] Total raw events: {raw_count} | Filtered out: {filtered_count} | Successfully fetched: {len(fetched_events)}")
     return fetched_events
 
 

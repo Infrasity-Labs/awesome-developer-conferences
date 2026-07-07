@@ -12,6 +12,8 @@ def fetch_bevy_events(base_api_url):
     ctx.verify_mode = ssl.CERT_NONE
     
     events = []
+    raw_count = 0
+    filtered_count = 0
     now_ts = datetime.now().timestamp()
     
     page = 1
@@ -34,11 +36,13 @@ def fetch_bevy_events(base_api_url):
             
         past_events_count = 0
         for item in results:
+            raw_count += 1
             name = item.get('title') or 'N/A'
             event_url = item.get('url') or ''
             start_date_str = item.get('start_date') or ''
             
             if not start_date_str:
+                filtered_count += 1
                 continue
                 
             try:
@@ -48,9 +52,11 @@ def fetch_bevy_events(base_api_url):
                 dt = datetime.fromisoformat(start_date_str)
                 if dt.timestamp() < now_ts:
                     past_events_count += 1
+                    filtered_count += 1
                     continue
                 date_str = dt.strftime("%Y-%m-%d")
             except:
+                filtered_count += 1
                 continue
                 
             chapter = item.get('chapter') or {}
@@ -103,6 +109,7 @@ def fetch_bevy_events(base_api_url):
         page += 1
         time.sleep(1)
         
+    print(f"[GDG] Total raw events: {raw_count} | Filtered out: {filtered_count} | Successfully fetched: {len(events)}")
     return events
 
 if __name__ == "__main__":

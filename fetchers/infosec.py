@@ -30,6 +30,8 @@ def fetch_events_from_api():
 
 
     fetched_events = []
+    raw_count = 0
+    filtered_count = 0
     for script in scripts:
         try:
             data = json.loads(script.string)
@@ -39,15 +41,19 @@ def fetch_events_from_api():
         events_list = data if isinstance(data, list) else [data]
         
         for event in events_list:
+            raw_count += 1
             if not isinstance(event, dict):
+                filtered_count += 1
                 continue
             if event.get('@type') not in ['EducationEvent', 'Event']:
+                filtered_count += 1
                 continue
                 
             start_date_str = event.get('startDate')
             end_date_str = event.get('endDate')
             
             if not start_date_str:
+                filtered_count += 1
                 continue
                 
             try:
@@ -57,11 +63,13 @@ def fetch_events_from_api():
                 else:
                     end_date = start_date
             except Exception as e:
+                filtered_count += 1
                 continue
                 
             # Filter past events
             now = datetime.now(end_date.tzinfo)
             if end_date < now:
+                filtered_count += 1
                 continue
                 
             name = (event.get('name') or 'N/A').replace('|', '\\|')
@@ -110,6 +118,7 @@ def fetch_events_from_api():
                 "line": f"| {name} | {date_str} | {location} | {register} |"
             })
     
+    print(f"[InfoSec] Total raw events: {raw_count} | Filtered out: {filtered_count} | Successfully fetched: {len(fetched_events)}")
     return fetched_events
 
 
