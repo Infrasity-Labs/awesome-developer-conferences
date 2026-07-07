@@ -30,58 +30,31 @@ jobs:
           pip install -r requirements.txt
           playwright install chromium
 
-      - name: Fetch from Bigevent
-        run: python fetchers/bigevent.py
-        continue-on-error: true
-      - name: Fetch from Developer Events
-        run: python fetchers/developer_events.py
-        continue-on-error: true
-      - name: Fetch from Dev Events
-        run: python fetchers/dev_events.py
-        continue-on-error: true
-      - name: Fetch from Papercall
-        run: python fetchers/papercall.py
-        continue-on-error: true
-      - name: Fetch from Flagships
-        run: python fetchers/flagships.py
-        continue-on-error: true
-      - name: Fetch from Meetup
-        run: python fetchers/meetup.py
-        continue-on-error: true
-      # - name: Fetch from Eventbrite
-      #   run: python fetchers/eventbrite.py
-      #   continue-on-error: true
-      - name: Fetch from Luma
-        run: python fetchers/luma.py
-        continue-on-error: true
-      - name: Fetch from Infosec
-        run: python fetchers/infosec.py
-        continue-on-error: true
-      - name: Fetch from Joindin
-        run: python fetchers/joindin.py
-        continue-on-error: true
-      - name: Fetch from Adatosystems
-        run: python fetchers/adatosystems.py
-        continue-on-error: true
-      - name: Fetch from CNCF
-        run: python fetchers/cncf.py
-        continue-on-error: true
-      - name: Fetch from GDG
-        run: python fetchers/gdg.py
-        continue-on-error: true
-      - name: Fetch from DevOpsDays
-        run: python fetchers/devopsdays.py
-        continue-on-error: true
-
-      - name: Fetch from Linux Foundation
-        run: python fetchers/linuxfoundation.py
-        continue-on-error: true
-      - name: Fetch from Gemini AI Discovery
-        run: python fetchers/gemini_discovery.py
+      - name: Run Fetchers
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           BROWSERLESS_TOKEN: ${{ secrets.BROWSERLESS_TOKEN }}
         continue-on-error: true
+        run: |
+          python fetchers/bigevent.py &
+          python fetchers/developer_events.py &
+          python fetchers/dev_events.py &
+          python fetchers/papercall.py &
+          python fetchers/flagships.py &
+          python fetchers/meetup.py &
+          # python fetchers/eventbrite.py &
+          python fetchers/luma.py &
+          python fetchers/infosec.py &
+          python fetchers/joindin.py &
+          python fetchers/adatosystems.py &
+          python fetchers/cncf.py &
+          python fetchers/gdg.py &
+          python fetchers/devopsdays.py &
+          python fetchers/linuxfoundation.py &
+          python fetchers/gemini_discovery.py &
+          
+          # Wait for all background fetchers to finish
+          wait
 
       - name: Aggregate and Deduplicate
         run: |

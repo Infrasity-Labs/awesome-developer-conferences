@@ -44,6 +44,8 @@ def fetch_events_from_api():
     browser.close()
 
     fetched_events = []
+    raw_count = 0
+    filtered_count = 0
     now_ts = datetime.now().timestamp()
     
     for html in all_events_data:
@@ -63,7 +65,9 @@ def fetch_events_from_api():
                 data = [data]
                 
             for item in data:
+                raw_count += 1
                 if not isinstance(item, dict) or item.get('@type') != 'Event':
+                    filtered_count += 1
                     continue
                     
                 name = item.get('name') or 'N/A'
@@ -72,18 +76,22 @@ def fetch_events_from_api():
                 start_date_str = item.get('startDate') or ''
                 
                 if not start_date_str:
+                    filtered_count += 1
                     continue
                     
                 try:
                     dt = datetime.fromisoformat(start_date_str.replace('Z', '+00:00'))
                     if dt.timestamp() < now_ts:
+                        filtered_count += 1
                         continue
                     date_str = dt.strftime("%Y-%m-%d")
                 except:
+                    filtered_count += 1
                     continue
                     
                 event_text = name + " " + desc
                 if not config.is_event_relevant(event_text):
+                    filtered_count += 1
                     continue
                     
                 location = "Online" # Based on the /d/online URL
@@ -108,6 +116,7 @@ def fetch_events_from_api():
             unique_events.append(ev)
             seen_urls.add(ev['url'])
             
+    print(f"[Eventbrite] Total raw events: {raw_count} | Filtered out: {filtered_count} | Successfully fetched: {len(unique_events)}")
     return unique_events
 
 def determine_region(location):

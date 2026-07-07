@@ -321,6 +321,10 @@ def determine_region(location):
 
 if __name__ == "__main__":
     print(f"Injecting {len(flagship_events)} flagship events into README.md...")
+    
+    raw_count = len(flagship_events)
+    filtered_count = 0
+    print(f"[Flagships] Total raw events: {raw_count} | Filtered out: {filtered_count} | Successfully fetched: {len(flagship_events)}")
 
     import json
     out_file = "events_flagships.json"

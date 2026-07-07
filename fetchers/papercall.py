@@ -20,6 +20,8 @@ def fetch_events_from_api():
 
 
     events = []
+    raw_count = 0
+    filtered_count = 0
     
     # PaperCall has pages. We'll scrape up to 10 pages for upcoming events
     for page in range(1, 11):
@@ -40,6 +42,7 @@ def fetch_events_from_api():
             break
             
         for item in event_blocks:
+            raw_count += 1
             title_node = item.find('var', class_='atc_title')
             start_node = item.find('var', class_='atc_date_start')
             end_node = item.find('var', class_='atc_date_end')
@@ -47,6 +50,7 @@ def fetch_events_from_api():
             desc_node = item.find('var', class_='atc_description')
             
             if not title_node or not start_node:
+                filtered_count += 1
                 continue
                 
             name = title_node.text.strip().replace('|', '\\|')
@@ -77,10 +81,12 @@ def fetch_events_from_api():
                 end_dt = datetime.strptime(end_date_str, "%B %d, %Y")
             except Exception as e:
                 # Fallback parse logic if format is weird
+                filtered_count += 1
                 continue
                 
             # Filter past events
             if end_dt.timestamp() < datetime.now().timestamp():
+                filtered_count += 1
                 continue
                 
             # Keywords matching
@@ -90,6 +96,7 @@ def fetch_events_from_api():
                 event_text += ' ' + t.text.strip().lower()
                 
             if not config.is_event_relevant(event_text):
+                filtered_count += 1
                 continue
                 
             if link:
@@ -118,6 +125,7 @@ def fetch_events_from_api():
         if not next_btn or 'disabled' in next_btn.get('class', []):
             break
             
+    print(f"[Papercall] Total raw events: {raw_count} | Filtered out: {filtered_count} | Successfully fetched: {len(events)}")
     return events
 
 def determine_region(location):
