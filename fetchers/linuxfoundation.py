@@ -29,6 +29,8 @@ def fetch_lf_events():
     countries_map = get_countries()
     
     events = []
+    raw_count = 0
+    filtered_count = 0
     now_ts = datetime.now().timestamp()
     
     current_year = datetime.now().year
@@ -47,12 +49,14 @@ def fetch_lf_events():
         if not isinstance(data, list):
             continue
         for item in data:
+            raw_count += 1
             name = item.get('title', {}).get('rendered', '')
             name = name.replace('&#038;', '&').replace('&#8211;', '-').replace('&#8217;', "'").replace('&#8220;', '"').replace('&#8221;', '"')
             
             meta = item.get('meta', {})
             start_date_str = meta.get('lfes_date_start', '')
             if not start_date_str:
+                filtered_count += 1
                 continue
                 
             try:
@@ -60,9 +64,11 @@ def fetch_lf_events():
                 start_date_str = start_date_str.replace('/', '-')
                 dt = datetime.strptime(start_date_str, "%Y-%m-%d")
                 if dt.timestamp() < now_ts:
+                    filtered_count += 1
                     continue
                 date_str = dt.strftime("%Y-%m-%d")
             except Exception as e:
+                filtered_count += 1
                 continue
                 
             city = meta.get('lfes_city', '')
@@ -98,6 +104,7 @@ def fetch_lf_events():
                 "line": f"| {name_clean} | {date_str} | {location} | {register} |"
             })
             
+    print(f"[LinuxFoundation] Total raw events: {raw_count} | Filtered out: {filtered_count} | Successfully fetched: {len(events)}")
     return events
 
 if __name__ == "__main__":

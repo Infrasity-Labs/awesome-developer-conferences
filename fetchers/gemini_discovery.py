@@ -6,6 +6,11 @@ from datetime import datetime
 import config
 import time
 import urllib.error
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass  
 
 def query_gemini(api_key, prompt):
     # Strip any hidden characters like newlines from the API key
@@ -82,6 +87,8 @@ def fetch_events_from_gemini():
     ]
     
     events = []
+    raw_count = 0
+    filtered_count = 0
     now_ts = datetime.now().timestamp()
     
     import time
@@ -105,7 +112,9 @@ def fetch_events_from_gemini():
                 continue
                 
             for item in ai_events:
+                raw_count += 1
                 if not isinstance(item, dict):
+                    filtered_count += 1
                     continue
                 name = item.get('name', 'N/A').replace('|', '\\|')
                 date_str = item.get('date', '9999-99-99')
@@ -116,14 +125,17 @@ def fetch_events_from_gemini():
                 try:
                     dt = datetime.strptime(date_str, "%Y-%m-%d")
                     if dt.timestamp() < now_ts:
+                        filtered_count += 1
                         continue
                 except:
+                    filtered_count += 1
                     continue
                     
                 # Relevance filter
                 if not skip_relevance:
                     event_text = name + " " + location
                     if not config.is_event_relevant(event_text):
+                        filtered_count += 1
                         continue
                     
                 register = f"[↗]({url})" if url else "N/A"
@@ -148,6 +160,7 @@ def fetch_events_from_gemini():
             unique_events.append(ev)
             seen_urls.add(ev['url'])
             
+    print(f"[GeminiDiscovery] Total raw events: {raw_count} | Filtered out: {filtered_count} | Successfully fetched: {len(unique_events)}")
     return unique_events
 
 if __name__ == "__main__":
