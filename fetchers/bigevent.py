@@ -40,6 +40,8 @@ def fetch_bigevent():
     
 
     fetched_events = []
+    raw_count = 0
+    filtered_count = 0
     current_time = datetime.now(timezone.utc)
     current_year = current_time.year
     
@@ -57,10 +59,13 @@ def fetch_bigevent():
                         break
             
             for item in event_items:
+                raw_count += 1
                 if not isinstance(item, dict):
+                    filtered_count += 1
                     continue
                 event = item.get("item")
                 if not isinstance(event, dict) or event.get("@type") != "Event":
+                    filtered_count += 1
                     continue
                     
                 name = event.get("name") or 'N/A'
@@ -74,6 +79,7 @@ def fetch_bigevent():
                 year_match = re.search(r'\d{4}', date_str)
                 event_year = int(year_match.group()) if year_match else current_year
                 if event_year < current_year:
+                    filtered_count += 1
                     continue
                     
                 location = "Unknown"
@@ -111,6 +117,7 @@ def fetch_bigevent():
         except json.JSONDecodeError:
             print("Failed to parse JSON-LD from BigEvent.")
 
+    print(f"[BigEvent] Total raw events: {raw_count} | Filtered out: {filtered_count} | Successfully fetched: {len(fetched_events)}")
     return fetched_events
 
 def get_continent(location):

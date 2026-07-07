@@ -21,9 +21,13 @@ def fetch_events_from_api():
         return []
 
     fetched_events = []
+    raw_count = 0
+    filtered_count = 0
     for event in data:
+        raw_count += 1
         dates = event.get('date', [])
         if not dates:
+            filtered_count += 1
             continue
         
         # Dates are in milliseconds, convert to seconds
@@ -34,6 +38,7 @@ def fetch_events_from_api():
         # Filter past events
         now_timestamp = datetime.now().timestamp()
         if end_timestamp < now_timestamp:
+            filtered_count += 1
             continue
             
         # Match keywords against name and tags
@@ -42,6 +47,7 @@ def fetch_events_from_api():
         event_text += ' ' + ' '.join(tags)
         
         if not config.is_event_relevant(event_text):
+            filtered_count += 1
             continue
 
         name = (event.get('name') or 'N/A').replace('|', '\\|')
@@ -67,6 +73,7 @@ def fetch_events_from_api():
             "line": f"| {name} | {date_str} | {location} | {register} |"
         })
     
+    print(f"[DeveloperEvents] Total raw events: {raw_count} | Filtered out: {filtered_count} | Successfully fetched: {len(fetched_events)}")
     return fetched_events
 
 

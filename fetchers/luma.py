@@ -60,7 +60,10 @@ def fetch_events_from_api():
     now_ts = datetime.now().timestamp()
     
     fetched_events = []
+    raw_count = 0
+    filtered_count = 0
     for entry in events:
+        raw_count += 1
         item = entry.get('event') or {}
         calendar = entry.get('calendar') or {}
         
@@ -71,14 +74,17 @@ def fetch_events_from_api():
         start_date_str = item.get('start_at') or ''
         
         if not start_date_str:
+            filtered_count += 1
             continue
             
         try:
             dt = datetime.fromisoformat(start_date_str.replace('Z', '+00:00'))
             if dt.timestamp() < now_ts:
+                filtered_count += 1
                 continue
             date_str = dt.strftime("%Y-%m-%d")
         except:
+            filtered_count += 1
             continue
             
         event_text = name + " " + desc
@@ -116,6 +122,7 @@ def fetch_events_from_api():
             unique_events.append(ev)
             seen_urls.add(ev['url'])
             
+    print(f"[Luma] Total raw events: {raw_count} | Filtered out: {filtered_count} | Successfully fetched: {len(unique_events)}")
     return unique_events
 
 def determine_region(location):

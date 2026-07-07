@@ -27,10 +27,14 @@ def fetch_events():
         
     table = tables[0]
     fetched_events = []
+    raw_count = 0
+    filtered_count = 0
     
     for tr in table.find_all('tr')[1:]:
+        raw_count += 1
         tds = tr.find_all('td')
         if len(tds) < 8:
+            filtered_count += 1
             continue
             
         name = tds[0].text.strip().replace('|', '\\|')
@@ -49,6 +53,7 @@ def fetch_events():
             url = cfp_link_elem['href']
             
         if not start_date_str:
+            filtered_count += 1
             continue
             
         try:
@@ -58,13 +63,16 @@ def fetch_events():
             else:
                 end_date = start_date
         except Exception:
+            filtered_count += 1
             continue
             
         if end_date < datetime.now():
+            filtered_count += 1
             continue
             
         event_text = name.lower()
         if not config.is_event_relevant(event_text):
+            filtered_count += 1
             continue
             
         register = f"[↗]({url})" if url else "N/A"
@@ -86,6 +94,7 @@ def fetch_events():
             "line": f"| {name} | {date_str} | {location} | {register} |"
         })
         
+    print(f"[AdatoSystems] Total raw events: {raw_count} | Filtered out: {filtered_count} | Successfully fetched: {len(fetched_events)}")
     return fetched_events
 
 def main():
