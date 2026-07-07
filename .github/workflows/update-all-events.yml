@@ -11,8 +11,28 @@ permissions:
   issues: write
 
 jobs:
-  update-all-events:
+  fetch-events:
     runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        script: 
+          - bigevent
+          - developer_events
+          - dev_events
+          - papercall
+          - flagships
+          - meetup
+          # - eventbrite
+          - luma
+          - infosec
+          - joindin
+          - adatosystems
+          - cncf
+          - gdg
+          - devopsdays
+          - linuxfoundation
+          - gemini_discovery
 
     steps:
       - name: Checkout repository
@@ -30,31 +50,45 @@ jobs:
           pip install -r requirements.txt
           playwright install chromium
 
-      - name: Run Fetchers
+      - name: Run Fetcher (${{ matrix.script }})
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           BROWSERLESS_TOKEN: ${{ secrets.BROWSERLESS_TOKEN }}
+        run: python fetchers/${{ matrix.script }}.py
         continue-on-error: true
+
+      - name: Upload Events JSON Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: events-${{ matrix.script }}
+          path: events_*.json
+          if-no-files-found: ignore
+
+  aggregate-and-push:
+    needs: fetch-events
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
+
+      - name: Download all JSON artifacts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: events-*
+          merge-multiple: true
+          path: .
+
+      - name: Set up Python
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
         run: |
-          python fetchers/bigevent.py &
-          python fetchers/developer_events.py &
-          python fetchers/dev_events.py &
-          python fetchers/papercall.py &
-          python fetchers/flagships.py &
-          python fetchers/meetup.py &
-          # python fetchers/eventbrite.py &
-          python fetchers/luma.py &
-          python fetchers/infosec.py &
-          python fetchers/joindin.py &
-          python fetchers/adatosystems.py &
-          python fetchers/cncf.py &
-          python fetchers/gdg.py &
-          python fetchers/devopsdays.py &
-          python fetchers/linuxfoundation.py &
-          python fetchers/gemini_discovery.py &
-          
-          # Wait for all background fetchers to finish
-          wait
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
       - name: Aggregate and Deduplicate
         run: |

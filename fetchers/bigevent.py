@@ -26,16 +26,42 @@ def fetch_bigevent():
     
     try:
         with sync_playwright() as p:
-            browser = p.chromium.connect(BROWSERLESS_WS)
-            page = browser.new_page(user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36')
-            page.goto(url, wait_until='domcontentloaded', timeout=60000)
-            import time
-            time.sleep(3) # Give extra time for JS to load the JSON-LD
-            html_content = page.content()
-            browser.close()
-            soup = BeautifulSoup(html_content, 'html.parser')
+                       html = None
+        if BROWSERLESS_TOKEN:
+                browser = None
+                try:
+                    browser = p.chromium.connect(BROWSERLESS_WS)
+                    page = browser.new_page(user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36')
+                    page.goto(url, wait_until='domcontentloaded')
+                    
+                    import time
+                    time.sleep(2) # Give it time to load dynamic JSON-LD
+                    
+                    html = page.content()
+                except Exception as e:
+                    print(f"Browserless run failed ({e}). Falling back to local Playwright...")
+                finally:
+                    if browser:
+                        browser.close()
+            
+        if not html:
+                browser = None
+                try:
+                    browser = p.chromium.launch(headless=True)
+                    page = browser.new_page(user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36')
+                    page.goto(url, wait_until='domcontentloaded', timeout=60000)
+                    
+                    import time
+                    time.sleep(2) # Give it time to load dynamic JSON-LD
+                    
+                    html = page.content()
+                finally:
+                    if browser:
+                        browser.close()
+            
+        soup = BeautifulSoup(html, 'html.parser')
     except Exception as e:
-        print(f"Failed to fetch data from 10times (bigevent.io) using Playwright: {e}")
+        print(f"Failed to fetch data using Playwright: {e}")
         return []
     
 
