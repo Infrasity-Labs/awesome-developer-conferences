@@ -47,7 +47,7 @@ def main():
         if not region_events:
             continue
             
-        pattern = re.compile(rf"(### {region}\n.*?\| Event Name.*?\|\n\|---.*?\|\n)(.*?)(?=\n### |\n## |\n---|\Z)", re.DOTALL)
+        pattern = re.compile(rf"(### {region}\n.*?\| Event Name.*?\|\n\|---.*?\|\n)(.*?)(?=\n</details>|\n### |\n## |\n---|\Z)", re.DOTALL)
         match = pattern.search(readme_content)
         
         if match:
@@ -103,8 +103,25 @@ def main():
                         pass
                 return datetime.max
             
-            existing_rows.sort(key=extract_date)
-            new_table_content = '\n'.join(existing_rows) + '\n'
+            upcoming = []
+            past = []
+            invalid = []
+            today_dt = datetime.now()
+            for r in existing_rows:
+                if not r.strip(): continue
+                dt = extract_date(r)
+                if dt == datetime.max:
+                    invalid.append(r)
+                elif dt >= today_dt:
+                    upcoming.append((dt, r))
+                else:
+                    past.append((dt, r))
+                    
+            upcoming.sort(key=lambda x: x[0])
+            past.sort(key=lambda x: x[0], reverse=True)
+            sorted_rows = [x[1] for x in upcoming] + [x[1] for x in past] + invalid
+            
+            new_table_content = '\n'.join(sorted_rows) + '\n'
             readme_content = readme_content[:match.start()] + header_and_table_header + new_table_content + readme_content[match.end():]
                 
     with open('README.md', 'w', encoding='utf-8') as f:
