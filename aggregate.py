@@ -106,7 +106,7 @@ def main():
             upcoming = []
             past = []
             invalid = []
-            today_dt = datetime.now()
+            today_dt = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
             for r in existing_rows:
                 if not r.strip(): continue
                 dt = extract_date(r)
