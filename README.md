@@ -418,7 +418,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Google I/O Extended Chennai 2026 | 2026-07-25 | Chennai, India | [↗](https://gdg.community.dev/events/details/google-gdg-chennai-presents-google-io-extended-chennai-2026/) |
 | 東北TECH道場 秋田道場 2026年7月 オフライン | 2026-07-25 | Akita, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-tohoku-tech-dojo-akita-presents-dong-bei-techdao-chang-qiu-tian-dao-chang-2026nian-7yue-ohurain-1/) |
 | Google Cloud Next Extended Da Nang 2025 | 2026-07-26 | Da Nang (Vietnam) | [↗](https://gdg.community.dev/e/m8jfvc) |
-| AI Mobile Coders <Bengaluru/> Building Intelligent Mobile Apps with AI | 2026-07-26 | Bengaluru, IN | [↗](https://lu.ma/yxjylf9o) |
+| AI Mobile Coders &lt;Bengaluru/&gt; Building Intelligent Mobile Apps with AI | 2026-07-26 | Bengaluru, IN | [↗](https://lu.ma/yxjylf9o) |
 | AI House 2026: The Biggest GenAI Internship & Hiring Mela | 2026-07-26 | Bengaluru, IN | [↗](https://lu.ma/gqn9wl58) |
 | Teachers' Playdate by Kurios Oasis | 2026-07-26 | Singapore, SG | [↗](https://lu.ma/anqmn8gs) |
 | Baithak by The Musafir Collective \| Qawwali Edition | 2026-07-26 | Singapore, SG | [↗](https://lu.ma/26july3pm) |
@@ -595,7 +595,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | 🇸🇬 Stepping Up with Ya Kun & Kitchen Haus Next-Gen Owners | 2026-07-07 | Singapore, SG | [↗](https://lu.ma/2t20wh6x) |
 | Code to Couture: Algorithm of Style (Professionals, Founders, Engineers) by VALENTINO Designer + Sneak Peek at AI-Enabled Jewellery Design | 2026-07-07 | Singapore, SG | [↗](https://lu.ma/f5sd6ng9) |
 | AI For Normies - Copilot | 2026-07-07 | Singapore, SG | [↗](https://lu.ma/ganngip4) |
-| <AI> Industry Mixer: Humans VS Agents | 2026-07-07 | Singapore, SG | [↗](https://lu.ma/wx0ai52g) |
+| &lt;AI&gt; Industry Mixer: Humans VS Agents | 2026-07-07 | Singapore, SG | [↗](https://lu.ma/wx0ai52g) |
 | CyberSkillz Starter: Career Resilience & LinkedIn Branding for Cyber Professionals | 2026-07-07 | Singapore, SG | [↗](https://lu.ma/cyberskillz) |
 | [Reading Group] AI Safety - Frustrations at the Frontier | 2026-07-07 | Singapore, SG | [↗](https://lu.ma/z210k9kh) |
 | Learn & Build - Codex 101 | 2026-07-07 | Singapore, SG | [↗](https://lu.ma/y6t0zc1t) |
@@ -4225,7 +4225,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 
 ---
 
-<!-- FOOTER -->
 ## About
 
 Maintained by **[Infrasity](https://infrasity.com)**<br>A developer marketing agency helping DevTool startups and B2B SaaS companies with technical content, DevRel strategy, and GTM.
