@@ -23,7 +23,7 @@ jobs:
           - papercall
           - flagships
           - meetup
-          # - eventbrite
+
           - luma
           - infosec
           - joindin
