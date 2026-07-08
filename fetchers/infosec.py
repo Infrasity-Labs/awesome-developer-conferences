@@ -5,17 +5,56 @@ import json
 import ssl
 from datetime import datetime
 import config
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
+
+BROWSERLESS_TOKEN = os.environ.get("BROWSERLESS_TOKEN")
+BROWSERLESS_WS = f"wss://production-sfo.browserless.io/chromium/playwright?token={BROWSERLESS_TOKEN}"
 
 def fetch_events_from_api():
     url = "https://infosec-conferences.com/"
 
     try:
-        import cloudscraper
-        scraper = cloudscraper.create_scraper()
-        html = scraper.get(url).text
+        from playwright.sync_api import sync_playwright
+        with sync_playwright() as p:
+            html = None
+            if BROWSERLESS_TOKEN:
+                browser = None
+                try:
+                    browser = p.chromium.connect(BROWSERLESS_WS)
+                    page = browser.new_page(user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36')
+                    page.goto(url, wait_until='domcontentloaded')
+                    
+                    import time
+                    time.sleep(2) # Give it time to load dynamic JSON-LD
+                    
+                    html = page.content()
+                except Exception as e:
+                    print(f"Browserless run failed ({e}). Falling back to local Playwright...")
+                finally:
+                    if browser:
+                        browser.close()
+            
+            if not html:
+                browser = None
+                try:
+                    browser = p.chromium.launch(headless=True)
+                    page = browser.new_page(user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36')
+                    page.goto(url, wait_until='domcontentloaded', timeout=60000)
+                    
+                    import time
+                    time.sleep(2) # Give it time to load dynamic JSON-LD
+                    
+                    html = page.content()
+                finally:
+                    if browser:
+                        browser.close()
     except Exception as e:
-        print(f"Failed to fetch data from infosec-conferences.com: {e}")
-        raise
+        print(f"Failed to fetch data using Playwright: {e}")
+        return []
 
     try:
         from bs4 import BeautifulSoup

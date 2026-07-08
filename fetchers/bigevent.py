@@ -26,8 +26,8 @@ def fetch_bigevent():
     
     try:
         with sync_playwright() as p:
-                       html = None
-        if BROWSERLESS_TOKEN:
+            html = None
+            if BROWSERLESS_TOKEN:
                 browser = None
                 try:
                     browser = p.chromium.connect(BROWSERLESS_WS)
@@ -44,7 +44,7 @@ def fetch_bigevent():
                     if browser:
                         browser.close()
             
-        if not html:
+            if not html:
                 browser = None
                 try:
                     browser = p.chromium.launch(headless=True)
