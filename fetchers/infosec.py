@@ -13,6 +13,7 @@ except ImportError:
 
 BROWSERLESS_TOKEN = os.environ.get("BROWSERLESS_TOKEN")
 BROWSERLESS_WS = f"wss://production-sfo.browserless.io/chromium/playwright?token={BROWSERLESS_TOKEN}"
+USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36'
 
 def fetch_events_from_api():
     url = "https://infosec-conferences.com/"
@@ -25,11 +26,10 @@ def fetch_events_from_api():
                 browser = None
                 try:
                     browser = p.chromium.connect(BROWSERLESS_WS)
-                    page = browser.new_page(user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36')
+                    page = browser.new_page(user_agent=USER_AGENT)
                     page.goto(url, wait_until='domcontentloaded')
                     
-                    import time
-                    time.sleep(2) # Give it time to load dynamic JSON-LD
+                    page.wait_for_timeout(2000) 
                     
                     html = page.content()
                 except Exception as e:
@@ -42,11 +42,11 @@ def fetch_events_from_api():
                 browser = None
                 try:
                     browser = p.chromium.launch(headless=True)
-                    page = browser.new_page(user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36')
+                    page = browser.new_page(user_agent=USER_AGENT)
+
                     page.goto(url, wait_until='domcontentloaded', timeout=60000)
                     
-                    import time
-                    time.sleep(2) # Give it time to load dynamic JSON-LD
+                    page.wait_for_timeout(2000)
                     
                     html = page.content()
                 finally:
