@@ -178,6 +178,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Paper Flower Workshop | 2026-07-09 | Singapore, SG | [↗](https://lu.ma/hs8xd7ml) |
 | pgBouncing: AI Frontier Dinner & Drinks | 2026-07-09 | Singapore, SG | [↗](https://lu.ma/nr1b0732) |
 | Zero to One, Unfiltered: Building Neurostellar | 2026-07-09 | Bengaluru, IN | [↗](https://lu.ma/zi3e5sbh) |
+| ARC Industry Leadership Forum Asia: Bangalore 2026 | 2026-07-09 | Bangalore, IN | [↗](https://infosec-conferences.com/event/20260709-arc-industry-leadership-forum-asia-bangalore-2026/) |
 | Concept to Live – Your 2-Hour Website Blueprint | 2026-07-10 | Al Khobar, Saudi Arabia | [↗](https://gdg.community.dev/events/details/google-gdg-al-khobar-presents-concept-to-live-your-2-hour-website-blueprint/) |
 | AI Connect Season 2: The Next Chapter of Application Security | 2026-07-10 | Bengaluru, IN | [↗](https://lu.ma/1icjhoht) |
 | Female Founders Reset: Morning Yoga & Connection | 2026-07-10 | Singapore, SG | [↗](https://lu.ma/e6rqk041) |
@@ -2272,6 +2273,8 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Mood Swings - Live Music & Wine Evening | 2026-07-09 | New York, US | [↗](https://lu.ma/50n9qdfp) |
 | Executive Dinner & Peer Discussion | 2026-07-09 | New York, US | [↗](https://lu.ma/9jaezrg1) |
 | Flatiron AI Reading Group (FLAIR) | 2026-07-09 | New York, US | [↗](https://lu.ma/sapien-jul9) |
+| CISOXToronto 2026 | 2026-07-09 | Toronto, CA | [↗](https://infosec-conferences.com/event/20260709-cisoxtoronto-2026/) |
+| FutureCon CyberSecurity Conference: Vancouver 2026 | 2026-07-09 | Vancouver, CA | [↗](https://infosec-conferences.com/event/20260709-futurecon-cybersecurity-conference-vancouver-2026/) |
 | Summercon 2026 | 2026-07-10 to 2026-07-11 | New York, NY (USA) | [↗](https://www.summercon.org) |
 | Hands-On: Developing in the Era of AI with Google Antigravity | 2026-07-10 | Saint Louis, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-st-louis-presents-hands-on-developing-in-the-era-of-ai-with-google-antigravity/) |
 | BSidesPGH 2026 | 2026-07-10 | Pittsburgh, PA (USA) | [↗](https://bsidespgh.com) |
@@ -2338,6 +2341,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | The Engineering Roles That Will Matter In The AI Era By Thine AI | 2026-07-10 | San Francisco, US | [↗](https://lu.ma/vadtl2sj) |
 | Cansbridge Toronto Friday Meetup | 2026-07-10 | Toronto, CA | [↗](https://lu.ma/8l2ttt4d) |
 | Soft Landing Opening Reception | 2026-07-10 | Toronto, CA | [↗](https://lu.ma/new-noqo) |
+| TechWalk \| NYC, 7/10 | 2026-07-10 | New York, US | [↗](https://lu.ma/v7iby4v6) |
 | MCP Toolbox: Bridging BigQuery and AI Agents | 2026-07-11 | Venice, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-culver-city-presents-mcp-toolbox-bridging-bigquery-and-ai-agents/) |
 | Getting Started with Agents through MCP, ADK and A2A | 2026-07-11 | Edmonton, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-edmonton-presents-getting-started-with-agents-through-mcp-adk-and-a2a/) |
 | AI Study Group Northern Colorado Kickoff | 2026-07-11 | Fort Collins, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-northern-colorado-androidchrome-presents-ai-study-group-northern-colorado-kickoff-2026-07-11/) |
@@ -3079,7 +3083,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Clear your Brain Fog | 2026-07-03 | San Francisco, US | [↗](https://lu.ma/wwcce1yc) |
 | HIGH SIGNAL \| Presented by KTN | 2026-07-03 | New York, US | [↗](https://lu.ma/bk7tms8m) |
 | Pitch and Run Friday - The Original PNR | 2026-07-03 | New York | [↗](https://lu.ma/vrqiepu2) |
-| TechWalk \| NYC, 7/3 | 2026-07-03 | New York, US | [↗](https://lu.ma/43i8dsil) |
 | Cake Decorating Workshop 🍰 | 2026-07-03 | New York, US | [↗](https://lu.ma/ly0a6yl6) |
 | Mosaic Pottery Workshop | 2026-07-03 | New York, US | [↗](https://lu.ma/ak1qazou) |
 | Un Seul Corps｜Piercing Performance with酱油 | 2026-07-03 | New York, US | [↗](https://lu.ma/accentisa-fet2) |
@@ -3340,6 +3343,10 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | DIY Bag Charms Workshop: Message in a Bottle | 2026-07-09 | Brooklyn, US | [↗](https://lu.ma/xn0v7w2q) |
 | 朝ヨガプラン @下北沢【関根英人】 | 2026-07-09 | Setagaya City, JP | [↗](https://lu.ma/xsxtb4yu) |
 | TrailBabes Bouldering | 2026-07-09 | Annandale, AU | [↗](https://lu.ma/qqh6h713) |
+| The Franchise of Chaos: Inside the ShinyHunters Ecosystem | 2026-07-09 | Online | [↗](https://infosec-conferences.com/event/20260709-the-franchise-of-chaos-inside-the-shinyhunters-ecosystem/) |
+| INTERFACE Wyoming 2026 | 2026-07-09 | Cheyenne, US | [↗](https://infosec-conferences.com/event/20260709-interface-wyoming-2026/) |
+| Modernizing 3D Secure for the Age of Social Engineering and Authenticated Fraud | 2026-07-09 | Online | [↗](https://infosec-conferences.com/event/20260709-modernizing-3d-secure-for-the-age-of-social/) |
+| Finding Truth in Complex Data | 2026-07-09 | Online | [↗](https://infosec-conferences.com/event/20260709-finding-truth-in-complex-data/) |
 | AIConnect: Global Virtual Job & Career Networking Event for AI Specialists | 2026-07-10 | Virtual/Online | [↗](https://www.meetup.com/ac-phx/events/314700366/) |
 | KCD Istanbul 2026 | 2026-07-10 | İstanbul, Türkiye | [↗](https://community2.cncf.io/events/details/cncf-kcd-istanbul-presents-kcd-istanbul-2026/) |
 | Python Presentation Night @ Virtual (PPN #149) | 2026-07-10 | Virtual/Online | [↗](https://www.meetup.com/pymntos-twin-cities-python-user-group/events/315412359/) |
