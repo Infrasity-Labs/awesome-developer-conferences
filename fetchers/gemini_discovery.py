@@ -124,7 +124,7 @@ def fetch_events_from_gemini():
                 # Filter out bad dates
                 try:
                     dt = datetime.strptime(date_str, "%Y-%m-%d")
-                    if dt.timestamp() < now_ts:
+                    if dt.date() < datetime.fromtimestamp(now_ts, dt.tzinfo).date():
                         filtered_count += 1
                         continue
                 except:
