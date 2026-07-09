@@ -69,7 +69,7 @@ def fetch_events_from_api():
                 try:
                     # e.g., 2026-07-15T18:00:00+05:30
                     dt = datetime.fromisoformat(start_date_str.replace('Z', '+00:00'))
-                    if dt.timestamp() < now_ts:
+                    if dt.date() < datetime.fromtimestamp(now_ts, dt.tzinfo).date():
                         filtered_count += 1
                         continue
                     date_str = dt.strftime("%Y-%m-%d")

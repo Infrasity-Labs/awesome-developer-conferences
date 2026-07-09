@@ -106,8 +106,8 @@ def fetch_events_from_api():
                 continue
                 
             # Filter past events
-            now = datetime.now(end_date.tzinfo)
-            if end_date < now:
+            now_date = datetime.now(end_date.tzinfo).date()
+            if end_date.date() < now_date:
                 filtered_count += 1
                 continue
                 

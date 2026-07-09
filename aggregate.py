@@ -84,7 +84,7 @@ def main():
                     date_str = event.get('date', '').split(' to ')[-1].strip()
                     try:
                         dt = datetime.strptime(date_str, "%Y-%m-%d")
-                        if dt.timestamp() < datetime.now().timestamp():
+                        if dt.date() < datetime.now().date():
                             continue
                     except:
                         pass

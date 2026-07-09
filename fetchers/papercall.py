@@ -85,7 +85,7 @@ def fetch_events_from_api():
                 continue
                 
             # Filter past events
-            if end_dt.timestamp() < datetime.now().timestamp():
+            if end_dt.date() < datetime.now().date():
                 filtered_count += 1
                 continue
                 
