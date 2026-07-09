@@ -95,7 +95,7 @@ def fetch_bevy_events(base_api_url):
                 if len(start_date_str) > 19:
                     start_date_str = start_date_str[:19]
                 dt = datetime.fromisoformat(start_date_str)
-                if dt.timestamp() >= now_ts:
+                if dt.date() >= datetime.fromtimestamp(now_ts, dt.tzinfo).date():
                     future_events_count += 1
             except:
                 continue
