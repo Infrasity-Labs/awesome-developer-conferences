@@ -66,7 +66,7 @@ def fetch_events():
             filtered_count += 1
             continue
             
-        if end_date < datetime.now():
+        if end_date.date() < datetime.now().date():
             filtered_count += 1
             continue
             
