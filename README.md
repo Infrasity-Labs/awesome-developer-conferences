@@ -2727,7 +2727,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Open Data Jam - Celebrating Scarborough | 2026-07-22 | Toronto, CA | [↗](https://lu.ma/rb38f1hw) |
 | Regulation & Compliance Breakfast @ Futurist | 2026-07-22 | Toronto, CA | [↗](https://lu.ma/compliance_breakfast) |
 | DevRelCon NYC | 2026-07-22 to 2026-07-23 | New York, USA | [↗](https://nyc.devrelcon.dev) |
-| Bitcoin Devleoper Conference - btcplusplus *consensus edition* 📜✨ | 2026-07-22 | Toronto, CA | [↗](https://lu.ma/cne7j4i7) |
+| Bitcoin Developer Conference - btcplusplus *consensus edition* 📜✨ | 2026-07-22 | Toronto, CA | [↗](https://lu.ma/cne7j4i7) |
 | Create with Google AI: Building Multi-Modal Experiences | 2026-07-23 | Burnaby, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-burnaby-presents-create-with-google-ai-building-multi-modal-experiences/) |
 | GAIL executive coding Jam session 1 | 2026-07-23 | Atlanta, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-atlanta-presents-gail-executive-coding-jam-session-1/) |
 | [IN-PERSON] GDG DFW Social Club #29: Flying Saucer Cypress Waters/Coppell/Dallas | 2026-07-23 | Southlake, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-southlake-presents-in-person-gdg-dfw-social-club-29-flying-saucer-cypress-waterscoppelldallas/) |
@@ -3633,7 +3633,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Daikanyama Morning Code | 2026-07-11 | Meguro City | [↗](https://lu.ma/s7r2eva8) |
 | International Accessibility Initiative - Guinness World Record Community Celebration | 2026-07-11 | Brampton, CA | [↗](https://lu.ma/w36stpi8) |
 | Control Architecture #1: How Discord Handles Millions of Users | 2026-07-11 | Addis Ababa, Ethiopia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-hilcoe-school-of-computer-science-and-technology-addis-ababa-ethiopia-presents-control-architecture-1-how-discord-handles-millions-of-users/) |
-| Padel (format Americano) – 4 padel Saint-Ouen | 2026-07-11 | Saint-Ouen-sur-Seine, FR | [↗](https://lu.ma/9pg5inyx) |
+| Padel (format Americano) – 4 padel Saint-Open | 2026-07-11 | Saint-Open-sur-Seine, FR | [↗](https://lu.ma/9pg5inyx) |
 | Google AI Professional Certificate - Weekend Intensive Day 2 of 2 | 2026-07-12 | Virtual/Online | [↗](https://www.meetup.com/ai-professionals-chicago/events/315439372/) |
 | Sound & Ceremony | 2026-07-12 | Surry Hills, AU | [↗](https://lu.ma/ykf78e55) |
 | 【GINZA Pickleball Social🎾】 ラケットスポーツの新定番！今話題の「ピックルボール」体験会✨ | 2026-07-12 | Chiyoda City, JP | [↗](https://lu.ma/2aqntqsy) |
