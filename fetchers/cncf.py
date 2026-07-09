@@ -46,7 +46,7 @@ def fetch_bevy_events(base_api_url):
                 if len(start_date_str) > 19:
                     start_date_str = start_date_str[:19] # Strip timezone offset for simple iso format
                 dt = datetime.fromisoformat(start_date_str)
-                if dt.timestamp() < now_ts:
+                if dt.date() < datetime.fromtimestamp(now_ts, dt.tzinfo).date():
                     filtered_count += 1
                     continue
                 date_str = dt.strftime("%Y-%m-%d")

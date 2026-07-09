@@ -41,7 +41,7 @@ def fetch_events_from_api():
             filtered_count += 1
             continue
             
-        if end_date.replace(tzinfo=None) < datetime.now():
+        if end_date.date() < datetime.now().date():
             filtered_count += 1
             continue
             

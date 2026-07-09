@@ -94,7 +94,7 @@ def fetch_events_from_api():
             
         # Filter past events
         from datetime import timezone
-        if end_date < datetime.now(timezone.utc):
+        if end_date.date() < datetime.now(timezone.utc).date():
             filtered_count += 1
             continue
             
