@@ -19,6 +19,10 @@
 
 This is a daily-updated directory of developer, cloud-native, and open-source conferences worldwide. It covers events like KubeCon, PlatformCon, DevOpsCon, and Open Source Summit. Whether you're looking to attend, speak, or find the right event to sponsor, everything is in one place and kept up to date.
 
+ --- 
+> **Notice:** Due to the massive number of events in this directory, GitHub's web interface
+  may truncate the bottom of this page. To view the complete list, please **[view the Raw file here](https://raw.githubusercontent.com/Infrasity-Labs/awesome-developer-conferences/master/README.md)** or **clone the repository** to your local machine.
+
 ---
 
 <!-- THE TABULAR DATA -->
@@ -5052,8 +5056,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 ## About
 
 Maintained by **[Infrasity](https://infrasity.com)**<br>A developer marketing agency helping DevTool startups and B2B SaaS companies with technical content, DevRel strategy, and GTM.
-
-We maintain this list because we research these events for our clients. If you're a DevRel or developer marketing team looking for conference strategy, [let's talk](https://infrasity.com).
 
 [infrasity.com](https://infrasity.com) · [LinkedIn](https://linkedin.com/company/infrasity) 
 
