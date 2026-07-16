@@ -34,8 +34,10 @@ def fetch_bigevent():
                     page = browser.new_page(user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36')
                     page.goto(url, wait_until='domcontentloaded')
                     
-                    import time
-                    time.sleep(2) # Give it time to load dynamic JSON-LD
+                    try:
+                        page.wait_for_selector('script.rank-math-schema', timeout=15000)
+                    except Exception:
+                        pass
                     
                     html = page.content()
                 except Exception as e:
@@ -44,15 +46,16 @@ def fetch_bigevent():
                     if browser:
                         browser.close()
             
-            if not html:
+            if not html or 'rank-math-schema' not in html:
                 browser = None
                 try:
                     browser = p.chromium.launch(headless=True)
                     page = browser.new_page(user_agent='Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36')
                     page.goto(url, wait_until='domcontentloaded', timeout=60000)
-                    
-                    import time
-                    time.sleep(2) # Give it time to load dynamic JSON-LD
+                    try:
+                        page.wait_for_selector('script.rank-math-schema', timeout=15000)
+                    except Exception:
+                        pass
                     
                     html = page.content()
                 finally:
