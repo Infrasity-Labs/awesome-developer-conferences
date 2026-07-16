@@ -16,147 +16,155 @@ BROWSERLESS_WS = f"wss://production-sfo.browserless.io/chromium/playwright?token
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36'
 
 def fetch_events_from_api():
-    url = "https://infosec-conferences.com/"
-
+    base_url = "https://infosec-conferences.com/"
+    
     try:
         from playwright.sync_api import sync_playwright
-        with sync_playwright() as p:
-            html = None
-            if BROWSERLESS_TOKEN:
-                browser = None
-                try:
-                    browser = p.chromium.connect(BROWSERLESS_WS)
-                    page = browser.new_page(user_agent=USER_AGENT)
-                    page.goto(url, wait_until='domcontentloaded')
-                    
-                    page.wait_for_timeout(2000) 
-                    
-                    html = page.content()
-                except Exception as e:
-                    print(f"Browserless run failed ({e}). Falling back to local Playwright...")
-                finally:
-                    if browser:
-                        browser.close()
-            
-            if not html:
-                browser = None
-                try:
-                    browser = p.chromium.launch(headless=True)
-                    page = browser.new_page(user_agent=USER_AGENT)
-
-                    page.goto(url, wait_until='domcontentloaded', timeout=60000)
-                    
-                    page.wait_for_timeout(2000)
-                    
-                    html = page.content()
-                finally:
-                    if browser:
-                        browser.close()
-    except Exception as e:
-        print(f"Failed to fetch data using Playwright: {e}")
-        return []
-
-    try:
         from bs4 import BeautifulSoup
-        soup = BeautifulSoup(html, 'html.parser')
     except ImportError:
-        print("Please install beautifulsoup4")
+        print("Please install playwright and beautifulsoup4")
         return []
-
-    scripts = soup.find_all('script', type='application/ld+json')
-
-    
-
-
+        
     fetched_events = []
     raw_count = 0
     filtered_count = 0
-    for script in scripts:
-        try:
-            data = json.loads(script.string)
-        except (json.JSONDecodeError, TypeError):
-            continue
-            
-        events_list = data if isinstance(data, list) else [data]
-        
-        for event in events_list:
-            raw_count += 1
-            if not isinstance(event, dict):
-                filtered_count += 1
-                continue
-            if event.get('@type') not in ['EducationEvent', 'Event']:
-                filtered_count += 1
-                continue
-                
-            start_date_str = event.get('startDate')
-            end_date_str = event.get('endDate')
-            
-            if not start_date_str:
-                filtered_count += 1
-                continue
-                
-            try:
-                start_date = datetime.fromisoformat(start_date_str.replace('Z', '+00:00'))
-                if end_date_str:
-                    end_date = datetime.fromisoformat(end_date_str.replace('Z', '+00:00'))
-                else:
-                    end_date = start_date
-            except Exception as e:
-                filtered_count += 1
-                continue
-                
-            # Filter past events
-            now_date = datetime.now(end_date.tzinfo).date()
-            if end_date.date() < now_date:
-                filtered_count += 1
-                continue
-                
-            name = (event.get('name') or 'N/A').replace('|', '\\|')
-            desc = (event.get('description') or '').lower()
-            
-            event_text = name.lower() + ' ' + desc
-
-            link = event.get('url', '')
-            if link:
-                register = f"[↗]({link})"
-            else:
-                register = "N/A"
-                
-            # Determine location
-            attendance = event.get('eventAttendanceMode', '')
-            if 'Online' in attendance:
-                location = 'Online'
-            else:
-                loc_data = event.get('location', {})
-                if isinstance(loc_data, dict):
-                    address = loc_data.get('address', {})
-                    if isinstance(address, dict):
-                        city = address.get('addressLocality', '')
-                        country = address.get('addressCountry', '')
-                        location = f"{city}, {country}".strip(', ')
-                    else:
-                        location = str(address)
-                else:
-                    location = str(loc_data)
-                    
-                if not location or location == '{}' or location == ',':
-                    location = 'Unknown'
-                    
-            location = location.replace('|', '\\|')
-
-            if start_date.date() != end_date.date():
-                date_str = f"{start_date.strftime('%Y-%m-%d')} to {end_date.strftime('%Y-%m-%d')}"
-            else:
-                date_str = start_date.strftime('%Y-%m-%d')
-                
-            fetched_events.append({
-                "name": name,
-                "date": date_str,
-                "location": location,
-                "register": register,
-                "line": f"| {name} | {date_str} | {location} | {register} |"
-            })
     
+    try:
+        with sync_playwright() as p:
+            browser = None
+            if BROWSERLESS_TOKEN:
+                try:
+                    browser = p.chromium.connect(BROWSERLESS_WS)
+                except Exception as e:
+                    print(f"Browserless run failed ({e}). Falling back to local Playwright...")
+            
+            if not browser:
+                try:
+                    browser = p.chromium.launch(headless=True)
+                except Exception as e:
+                    print(f"Failed to launch local Playwright: {e}")
+                    return []
+                    
+            page = browser.new_page(user_agent=USER_AGENT)
+            
+            page_num = 1
+            while True:
+                url = base_url if page_num == 1 else f"{base_url}page/{page_num}/"
+                print(f"Fetching {url} ...")
+                
+                try:
+                    response = page.goto(url, wait_until='domcontentloaded', timeout=60000)
+                    if response and response.status == 404:
+                        break
+                        
+                    page.wait_for_timeout(2000)
+                    html = page.content()
+                except Exception as e:
+                    print(f"Failed to fetch {url}: {e}")
+                    break
+                    
+                soup = BeautifulSoup(html, 'html.parser')
+                scripts = soup.find_all('script', type='application/ld+json')
+                
+                events_on_page = 0
+                for script in scripts:
+                    try:
+                        data = json.loads(script.string)
+                    except (json.JSONDecodeError, TypeError):
+                        continue
+                        
+                    events_list = data if isinstance(data, list) else [data]
+                    
+                    for event in events_list:
+                        raw_count += 1
+                        if not isinstance(event, dict):
+                            filtered_count += 1
+                            continue
+                        if event.get('@type') not in ['EducationEvent', 'Event']:
+                            filtered_count += 1
+                            continue
+                            
+                        start_date_str = event.get('startDate')
+                        end_date_str = event.get('endDate')
+                        
+                        if not start_date_str:
+                            filtered_count += 1
+                            continue
+                            
+                        try:
+                            start_date = datetime.fromisoformat(start_date_str.replace('Z', '+00:00'))
+                            if end_date_str:
+                                end_date = datetime.fromisoformat(end_date_str.replace('Z', '+00:00'))
+                            else:
+                                end_date = start_date
+                        except Exception as e:
+                            filtered_count += 1
+                            continue
+                            
+                        # Filter past events
+                        now_date = datetime.now(end_date.tzinfo).date()
+                        if end_date.date() < now_date:
+                            filtered_count += 1
+                            continue
+                            
+                        name = (event.get('name') or 'N/A').replace('|', '\\|')
+                        desc = (event.get('description') or '').lower()
+            
+                        link = event.get('url', '')
+                        if link:
+                            register = f"[↗]({link})"
+                        else:
+                            register = "N/A"
+                            
+                        # Determine location
+                        attendance = event.get('eventAttendanceMode', '')
+                        if 'Online' in attendance:
+                            location = 'Online'
+                        else:
+                            loc_data = event.get('location', {})
+                            if isinstance(loc_data, dict):
+                                address = loc_data.get('address', {})
+                                if isinstance(address, dict):
+                                    city = address.get('addressLocality', '')
+                                    country = address.get('addressCountry', '')
+                                    location = f"{city}, {country}".strip(', ')
+                                else:
+                                    location = str(address)
+                            else:
+                                location = str(loc_data)
+                                
+                            if not location or location == '{}' or location == ',':
+                                location = 'Unknown'
+                                
+                        location = location.replace('|', '\\|')
+            
+                        if start_date.date() != end_date.date():
+                            date_str = f"{start_date.strftime('%Y-%m-%d')} to {end_date.strftime('%Y-%m-%d')}"
+                        else:
+                            date_str = start_date.strftime('%Y-%m-%d')
+                            
+                        fetched_events.append({
+                            "name": name,
+                            "date": date_str,
+                            "location": location,
+                            "register": register,
+                            "line": f"| {name} | {date_str} | {location} | {register} |"
+                        })
+                        events_on_page += 1
+                        
+                if events_on_page == 0:
+                    break
+                page_num += 1
+                
+    except Exception as e:
+        print(f"Failed during Playwright execution: {e}")
+    finally:
+        if 'browser' in locals() and browser:
+            try:
+                browser.close()
+            except Exception:
+                pass
+
     print(f"[InfoSec] Total raw events: {raw_count} | Filtered out: {filtered_count} | Successfully fetched: {len(fetched_events)}")
     return fetched_events
 
