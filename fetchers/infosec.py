@@ -109,8 +109,6 @@ def fetch_events_from_api():
                             
                         name = (event.get('name') or 'N/A').replace('|', '\\|')
                         desc = (event.get('description') or '').lower()
-                        
-                        event_text = name.lower() + ' ' + desc
             
                         link = event.get('url', '')
                         if link:
@@ -158,11 +156,14 @@ def fetch_events_from_api():
                     break
                 page_num += 1
                 
-            if browser:
-                browser.close()
-                
     except Exception as e:
         print(f"Failed during Playwright execution: {e}")
+    finally:
+        if 'browser' in locals() and browser:
+            try:
+                browser.close()
+            except Exception:
+                pass
 
     print(f"[InfoSec] Total raw events: {raw_count} | Filtered out: {filtered_count} | Successfully fetched: {len(fetched_events)}")
     return fetched_events

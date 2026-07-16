@@ -83,17 +83,18 @@ def fetch_events_from_api():
                         continue
                         
                     name = (event.get('name') or 'N/A').replace('|', '\\|')
-                    if name in seen_event_names:
-                        continue
-                    seen_event_names.add(name)
-                    new_events_found += 1
-                    
                     start_date_str = event.get('startDate')
-                    end_date_str = event.get('endDate')
-                    
                     if not start_date_str:
                         filtered_count += 1
                         continue
+                    
+                    event_key = (name, start_date_str)
+                    if event_key in seen_event_names:
+                        continue
+                    seen_event_names.add(event_key)
+                    new_events_found += 1
+                    
+                    end_date_str = event.get('endDate')
                         
                     try:
                         start_date = datetime.fromisoformat(start_date_str.replace('Z', '+00:00'))
@@ -160,11 +161,14 @@ def fetch_events_from_api():
                     break
                 page_num += 1
                 
-            if browser:
-                browser.close()
-                
     except Exception as e:
         print(f"Failed during Playwright execution: {e}")
+    finally:
+        if 'browser' in locals() and browser:
+            try:
+                browser.close()
+            except Exception:
+                pass
 
     print(f"[DevEvents] Total raw events (including duplicates): {raw_count} | Filtered out: {filtered_count} | Successfully fetched: {len(fetched_events)}")
     return fetched_events
