@@ -13,7 +13,7 @@ Please check the options that apply to your PR:
 
 ## Checklist
 Before marking this PR as ready for review, please ensure the following:
-- [ ] I have read the [CONTRIBUTING.md](../CONTRIBUTING.md) guidelines.
+- [ ] I have read the [CONTRIBUTING.md](/CONTRIBUTING.md) guidelines.
 - [ ] If I added a new Python script/fetcher, I have tested it locally to ensure it fetches events without crashing.
 - [ ] I have not manually deleted past events (the automation handles this).
 - [ ] I have not committed any API keys, client secrets, or `.env` files.

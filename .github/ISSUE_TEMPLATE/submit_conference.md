@@ -1,8 +1,8 @@
 ---
-    name: Submit a New Conference/Event
-    about: Suggest a new developer event to be added to the directory
-    title: '[Event]: <Event Name>'
-    labels: 'new event'
+name: Submit a New Conference/Event
+about: Suggest a new developer event to be added to the directory
+title: '[Event]: <Event Name>'
+labels: 'new event'
 ---
     
 ## Event Details
