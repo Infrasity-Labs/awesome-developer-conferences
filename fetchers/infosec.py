@@ -28,6 +28,7 @@ def fetch_events_from_api():
     fetched_events = []
     raw_count = 0
     filtered_count = 0
+    seen_event_names = set()
     
     try:
         with sync_playwright() as p:
@@ -66,7 +67,7 @@ def fetch_events_from_api():
                 soup = BeautifulSoup(html, 'html.parser')
                 scripts = soup.find_all('script', type='application/ld+json')
                 
-                events_on_page = 0
+                new_events_found = 0
                 for script in scripts:
                     try:
                         data = json.loads(script.string)
@@ -83,6 +84,12 @@ def fetch_events_from_api():
                         if event.get('@type') not in ['EducationEvent', 'Event']:
                             filtered_count += 1
                             continue
+                            
+                        name = (event.get('name') or 'N/A').replace('|', '\\|')
+                        if name in seen_event_names:
+                            continue
+                        seen_event_names.add(name)
+                        new_events_found += 1
                             
                         start_date_str = event.get('startDate')
                         end_date_str = event.get('endDate')
@@ -107,7 +114,6 @@ def fetch_events_from_api():
                             filtered_count += 1
                             continue
                             
-                        name = (event.get('name') or 'N/A').replace('|', '\\|')
                         desc = (event.get('description') or '').lower()
             
                         link = event.get('url', '')
@@ -150,9 +156,8 @@ def fetch_events_from_api():
                             "register": register,
                             "line": f"| {name} | {date_str} | {location} | {register} |"
                         })
-                        events_on_page += 1
                         
-                if events_on_page == 0:
+                if new_events_found == 0:
                     break
                 page_num += 1
                 
@@ -165,7 +170,7 @@ def fetch_events_from_api():
             except Exception:
                 pass
 
-    print(f"[InfoSec] Total raw events: {raw_count} | Filtered out: {filtered_count} | Successfully fetched: {len(fetched_events)}")
+    print(f"[InfoSec] Total raw events (including duplicates): {raw_count} | Filtered out: {filtered_count} | Successfully fetched: {len(fetched_events)}")
     return fetched_events
 
 
