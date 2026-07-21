@@ -33,8 +33,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Get Creative with AI: Video Production Workshop | 2026-07-20 | Ismailia, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-ismailia-presents-get-creative-with-ai-video-production-workshop/) |
-| Introduction to React JS: A Comprehensive Beginner's Session | 2026-07-20 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-introduction-to-react-js-a-comprehensive-beginners-session/) |
 | Ruby Conf Africa 2026 | 2026-07-21 to 2026-07-22 | Nairobi (Kenya) | [↗](https://rubyconf.africa/) |
 | Developers Conference 2026 | 2026-07-23 to 2026-07-25 | Moka (Mauritius) | [↗](https://conference.mscc.mu/) |
 | API Conf Lagos 2026 | 2026-07-24 to 2026-07-25 | Lagos (Nigeria) | [↗](https://apiconf.net/) |
@@ -77,6 +75,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Google IO Extended Egypt | 2026-08-15 | New Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-new-cairo-presents-google-io-extended-egypt-1/) |
 | NG Kenya 2026 | 2026-08-21 to 2026-08-22 | Nairobi (Kenya) | [↗](https://ng-kenya.com) |
 | PyCon Togo 2026 | 2026-08-21 to 2026-08-23 | Lomé (Togo) | [↗](https://pycontg.pytogo.org/) |
+| ABU Tech Fest 2026 | 2026-08-22 | Zaria, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ahmadu-bello-university-zaria-nigeria-presents-abu-tech-fest-2026/) |
 | OT SECURITY FIRST Johannesburg | 2026-08-27 | Johannesburg | [↗](https://dev.events/conferences/ot-security-first-johannesburg-o8jznjs0) |
 | Kotlin's 15th Birthday Bash: Code & Celebrate! | 2026-08-29 | Abakaliki, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-abakaliki-presents-kotlins-15th-birthday-bash-code-amp-celebrate/) |
 | PIMA Health Medical Hackathon (Kickoff, Sumbit your Idea, Build, Pitch & Win) | 2026-09-05 | Ogbomosho, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ladoke-akintola-university-of-technology-ogbomosho-nigeria-presents-pima-health-medical-hackathon-kickoff-sumbit-your-idea-build-pitch-amp-win/) |
@@ -89,6 +88,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | DevFest Ado-Ekiti 2026 | 2026-10-02 | Ado, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-ado-ekiti-presents-devfest-ado-ekiti-2026/) |
 | DevFest Tripoli 2026 | 2026-10-03 | Tripoli (Libya) | [↗](https://gdg.community.dev/events/details/google-gdg-tripoli-presents-devfest-tripoli-2026-build-secure-scale/) |
 | RenderCon Kenya 2026 | 2026-10-03 | Nairobi | [↗](https://dev.events/conferences/render-con-kenya-2026-s6-a7rmd) |
+| DevFest Mauritius 2026 | 2026-10-03 | Flic en Flac, Mauritius | [↗](https://gdg.community.dev/events/details/google-gdg-mauritius-presents-devfest-mauritius-2026/) |
 | Test Automation Innovation Summit Johannesburg | 2026-10-14 | Johannesburg (South Africa) | [↗](https://www.testautomationinnovationsummit.com/johannesburg) |
 | Inspire Africa Conference 2026 | 2026-10-14 to 2026-10-15 | Lagos | [↗](https://dev.events/conferences/inspire-africa-conference-2026-l6k-bikr) |
 | Test Automation Innovation Summit \| Johannesburg | 2026-10-14 | Johannesburg | [↗](https://dev.events/conferences/test-automation-innovation-summit-johannesburg-tb7ggdts) |
@@ -118,6 +118,8 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Digital Transformation Summit South Africa 2027 | 2027-03-10 | Johannesburg | [↗](https://dev.events/conferences/digital-transformation-summit-south-africa-2027-xwtdlt4x) |
 | Cyber Security Summit South Africa 2027 | 2027-03-11 | Johannesburg | [↗](https://dev.events/conferences/cyber-security-summit-south-africa-2027-mhdpatwo) |
 | Tech Unite Africa 2027 | 2027-03-26 | Lagos | [↗](https://dev.events/conferences/tech-unite-africa-2027-ngojbjbp) |
+| Get Creative with AI: Video Production Workshop | 2026-07-20 | Ismailia, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-ismailia-presents-get-creative-with-ai-video-production-workshop/) |
+| Introduction to React JS: A Comprehensive Beginner's Session | 2026-07-20 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-introduction-to-react-js-a-comprehensive-beginners-session/) |
 | Google I/O Extended Gusau 2026 | 2026-07-18 | Gusau, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-gusau-presents-google-io-extended-gusau-2026/) |
 | Google I/O Extended Uyo 2026 | 2026-07-18 | Uyo, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-uyo-presents-google-io-extended-uyo-2026/) |
 | OSM Kenya × GDG Training: Validating EE Road Network with OSM Road Data in GEE | 2026-07-18 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-for-earth-engine-nairobi-presents-osm-kenya-x-gdg-training-validating-ee-road-network-with-osm-road-data-in-gee/) |
@@ -157,14 +159,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| GDG on Campus SKHU 0720 내부 운영진 회의 | 2026-07-20 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkonghoe-university-seoul-south-korea-presents-gdg-on-campus-skhu-0720-naebu-unyeongjin-hoeyi/) |
-| Nanyang Business School x SAP Labs East Asia Singapore Leadership Dialogue - The Future of Enterprise in an AI-Native World | 2026-07-20 | Singapore, SG | [↗](https://lu.ma/a0zcopxm) |
-| Claude for Design (Intermediate Level) | 2026-07-20 | Singapore, SG | [↗](https://lu.ma/LLSG3) |
-| Roundtable & Happy Hour - Cracking India's Payments Puzzle: Winning the Next 50 Million Travelers | 2026-07-20 | Singapore, SG | [↗](https://lu.ma/821ko28c) |
-| Build with AI: KDU Sri Lanka Buildathon | 2026-07-20 | Colombo, Sri Lanka | [↗](https://gdg.community.dev/events/details/google-gdg-sri-lanka-presents-build-with-ai-kdu-sri-lanka-buildathon/) |
-| Founders' Mondays - The Work Room: TBC | 2026-07-20 | Singapore, SG | [↗](https://lu.ma/clink7wm) |
-| GSoC Meetup @Google Ananta | 2026-07-20 | Bangalore, India | [↗](https://gdg.community.dev/events/details/google-gdg-bangalore-presents-gsoc-meetup-google-ananta/) |
-| Future of Finance, Padel Meetup SG [20 JULY 2026] | 2026-07-20 | Singapore, SG | [↗](https://lu.ma/5f1yfght) |
 | Startup Pitches by CEDAT | 2026-07-21 | Bengaluru, IN | [↗](https://lu.ma/sp3jprh2) |
 | AI & Digital Transformation for Business Leaders - AIM ASEAN Certification x Temasek Polytechnic | 2026-07-21 | Singapore, SG | [↗](https://lu.ma/wusxp61q) |
 | AI For Everyday Work | 2026-07-21 | Singapore, SG | [↗](https://lu.ma/qoderworksg) |
@@ -198,6 +192,11 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Swag Distribution & Workshop - Gemma For Bharat Hackathon ft. Miro | 2026-07-22 | Kolkata, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-jis-university-kolkata-india-presents-swag-distribution-amp-workshop-gemma-for-bharat-hackathon-ft-miro/) |
 | The One About Recommenders (ft. OCBC AI Labs) | 2026-07-22 | Singapore, SG | [↗](https://lu.ma/k4kt1mm1) |
 | Mastermind Wednesday \| Week 1: The Token Economy | 2026-07-22 | Singapore, SG | [↗](https://lu.ma/n53n75tr) |
+| Operational Technology Cybersecurity Expert Panel Forum 2026 | 2026-07-22 | Singapore (City), SG | [↗](https://infosec-conferences.com/event/20260722-operational-technology-cybersecurity-expert-panel-forum-2026/) |
+| Gartner Security &amp; Risk Management Summit: Tokyo 2026 | 2026-07-22 | Tokyo, JP | [↗](https://infosec-conferences.com/event/20260722-gartner-security-and-risk-management-summit-tokyo-2026/) |
+| Simulations of Reality: Physics and AI | 2026-07-22 | Bengaluru, IN | [↗](https://lu.ma/xa89j6pf) |
+| RUN RUN RUN 5km | 2026-07-22 | Singapore, SG | [↗](https://lu.ma/m00jan2w) |
+| Your Startup's Control Room: Building with Zo Computer | 2026-07-22 | Singapore, SG | [↗](https://lu.ma/c21s8ni5) |
 | 【GoogleのAI開発最前線】研究開発のリアルとこれからの技術 | 2026-07-23 | Ishikawa, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kanazawa-institute-of-technology-ishikawa-japan-presents-googlenoaikai-fa-zui-qian-xian-yan-jiu-kai-fa-noriarutokorekaranoji-shu/) |
 | ILTA x ILTN Evening \| Governing Legal AI Before Someone Does It For You | 2026-07-23 | Bengaluru, IN | [↗](https://lu.ma/mhpptvj2) |
 | Run 1 Phase 3 Graduation Dinner | 2026-07-23 | Singapore, SG | [↗](https://lu.ma/sh4geyg2) |
@@ -222,6 +221,8 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Exhibitor and Media Pass | 2026-07-23 | Singapore, SG | [↗](https://lu.ma/kkf6iukm) |
 | AI and Our Future Series: AI and Study | 2026-07-23 | Singapore, SG | [↗](https://lu.ma/vklgz9je) |
 | Fireside Chat with Prof. Rajesh Gopakumar \| Director, ICTS-TIFR \| at SPC India | 2026-07-23 | Bengaluru, IN | [↗](https://lu.ma/drrajesh) |
+| Women in Fintech | 2026-07-23 | Bengaluru, IN | [↗](https://lu.ma/6185hqa7) |
+| CBD杀糕局 NUMB x At Sucre | 2026-07-23 | Singapore, SG | [↗](https://lu.ma/rek7xku7) |
 | The Founder Talks - Unite \| Build \| Explore | 2026-07-24 | Bengaluru, IN | [↗](https://lu.ma/4w7tn5ph) |
 | Launch Your First AI Bot in 3 Hours | 2026-07-24 | Singapore, SG | [↗](https://lu.ma/f266w6j0) |
 | The Hard Way: F&B Founders Who Defied the Odds | 2026-07-24 | Singapore, SG | [↗](https://lu.ma/ztdpc75f) |
@@ -246,6 +247,8 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Impact Mixer \| NBV Cohort 4 Closing Night \| Invite-Only | 2026-07-24 | Bengaluru, IN | [↗](https://lu.ma/j1lpr2cs) |
 | Female Founders Reset: Morning Yoga & Connection | 2026-07-24 | Singapore, SG | [↗](https://lu.ma/pjeznnfd) |
 | Projet: Hack & Hire | 2026-07-24 | Singapore, SG | [↗](https://lu.ma/vznzd2b7) |
+| Co-work Fridays @ SQCo - The Stage: AI Employees in Production | 2026-07-24 | Singapore, SG | [↗](https://lu.ma/d1j8o8o5) |
+| Mentorship Mixers: From Idea to Game Night | 2026-07-24 | Singapore, SG | [↗](https://lu.ma/iiia53f0) |
 | Kubernetes Community Days Vietnam 2026 | 2026-07-25 | Hanoi (Vietnam) | [↗](https://2026.vietopeninfra.org/en/) |
 | KCD & OpenInfra Days Vietnam 2026 | 2026-07-25 | Hanoi (Vietnam) | [↗](https://2026.vietopeninfra.org) |
 | Build With AI: Session 2 | 2026-07-25 | Greater Noida, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-greater-noida-institute-of-technology-greater-noida-india-presents-build-with-ai-session-2/) |
@@ -296,6 +299,8 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | World Models Mini Builds: Bengaluru Edition \| ai&weekends | 2026-07-25 | Bengaluru, IN | [↗](https://lu.ma/iunn7xyz) |
 | Songwriter Sessions Ft. Ananya Sharma & Vinay Prasad | 2026-07-25 | Bengaluru, IN | [↗](https://lu.ma/4dl3ue4e) |
 | Liquid Convo \| SIP & MIX | 2026-07-25 | Singapore, SG | [↗](https://lu.ma/xadgaofi) |
+| Introduction to AI: A Beginner's Guide (Part 1) (ASIS Qatar) | 2026-07-25 | Doha, Qatar | [↗](https://gdg.community.dev/events/details/google-gdg-doha-presents-introduction-to-ai-a-beginners-guide-part-1-asis-qatar/) |
+| Build with AI Sri Lanka 2026 - AI for Industries | 2026-07-25 | Colombo, Sri Lanka | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-sri-lanka-presents-build-with-ai-sri-lanka-2026-ai-for-industries/) |
 | Google Cloud Next Extended Da Nang 2025 | 2026-07-26 | Da Nang (Vietnam) | [↗](https://gdg.community.dev/e/m8jfvc) |
 | AI Mobile Coders &lt;Bengaluru/&gt; Building Intelligent Mobile Apps with AI | 2026-07-26 | Bengaluru, IN | [↗](https://lu.ma/yxjylf9o) |
 | AI House 2026: The Biggest GenAI Internship & Hiring Mela | 2026-07-26 | Bengaluru, IN | [↗](https://lu.ma/gqn9wl58) |
@@ -316,6 +321,9 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Build with fal \| Bangalore | 2026-07-26 | Bengaluru, IN | [↗](https://lu.ma/fal-wxfy) |
 | Build with Antigravity - Final Edition | 2026-07-26 | Gandhinagar, India | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-gandhinagar-presents-build-with-antigravity-final-edition/) |
 | Happy Girl Walk: East Coast | 2026-07-26 | Singapore, SG | [↗](https://lu.ma/b8dltx5o) |
+| Workshop: Building with Google Antigravity | 2026-07-26 | Motihari, India | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-motihari-presents-workshop-building-with-google-antigravity-1/) |
+| Entrepreneur's Mixer (Bengaluru) | 2026-07-26 | Bengaluru, IN | [↗](https://lu.ma/rrehl2wo) |
+| STROLLER SUNDAYS | 2026-07-26 | Singapore, SG | [↗](https://lu.ma/spd0kovv) |
 | Running with Special Olympics 🏃 | 2026-07-27 | Singapore, SG | [↗](https://lu.ma/loslvc28) |
 | Stablecon Roundtable: Can Treasurers Pay and Move Money Better with Digital Assets? | 2026-07-27 | Singapore, SG | [↗](https://lu.ma/stablecon-5rb0) |
 | GDG KL Meetup #4 @ Great Eastern Malaysia | 2026-07-27 | Kuala Lumpur, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-kuala-lumpur-presents-gdg-kl-meetup-4-great-eastern-malaysia/) |
@@ -331,6 +339,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Global CIO 200 | 2026-07-28 | Bangalore | [↗](https://dev.events/conferences/global-cio-200-mhjrz7np) |
 | SGInnovate x Trainocate Tech Talk Round 2! Agent-a-Thon | 2026-07-28 | Singapore, SG | [↗](https://lu.ma/zo8ogmrt) |
 | Flutter Meetup #36 | 2026-07-28 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-taipei-presents-flutter-meetup-36/) |
+| XenConnect Singapore | 2026-07-28 | Singapore, SG | [↗](https://lu.ma/yczcyfsj) |
 | Google Antigravity IDE: Mini Hackathon by GDGoC ZUJ | 2026-07-29 | Amman, Jordan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-al-zaytoonah-university-of-jordan-amman-jordan-presents-google-antigravity-ide-mini-hackathon-by-gdgoc-zuj/) |
 | Built Different: Your Unfair Advantage Is Already In The Room - FSO Speaker Series | 2026-07-29 | Singapore, SG | [↗](https://lu.ma/h53xo8co) |
 | Meet Your Private AI Memory — Live Sharing Session | 2026-07-29 | Singapore, SG | [↗](https://lu.ma/dks39twm) |
@@ -368,6 +377,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Meet Zo Computer: Your Introduction to AI-Powered Cloud Computers | 2026-07-31 | Singapore, SG | [↗](https://lu.ma/v03gu5wx) |
 | Women in AI Summit｜HerS.Ground × Google | 2026-07-31 | Singapore, SG | [↗](https://lu.ma/nb86nh8l) |
 | Vibe Coders SG #2 - Securing Vibe Coded Apps | 2026-07-31 | Singapore, SG | [↗](https://lu.ma/4ptmrf91) |
+| Runway AI Festival Singapore | 2026-07-31 | Singapore, SG | [↗](https://lu.ma/wo7etwow) |
 | DevConf.IN | 2026-08-01 to 2026-08-02 | Bengaluru, India | [↗](https://www.devconf.info/in) |
 | Build with AI Arabia | 2026-08-01 | Amman, Jordan | [↗](https://gdg.community.dev/events/details/google-gdg-amman-presents-build-with-ai-arabia/) |
 | Sự kiện Kick-off AI Riser Vietnam 2026: Biến Ý tưởng thành Sản phẩm | 2026-08-01 | Ho Chi Minh City, Vietnam | [↗](https://gdg.community.dev/events/details/google-gdg-live-vietnam-presents-su-kien-kick-off-ai-riser-vietnam-2026-bien-y-tuong-thanh-san-pham/) |
@@ -384,6 +394,10 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Google I/O Extended Kolkata 2026 | 2026-08-01 | Kolkata, India | [↗](https://gdg.community.dev/events/details/google-gdg-kolkata-presents-google-io-extended-kolkata-2026/) |
 | Cloud Next Extended Jakarta 2026 x KodingDeepDive | 2026-08-01 | Jakarta, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-jakarta-presents-cloud-next-extended-jakarta-2026-x-kodingdeepdive/) |
 | Alo in the wild | 2026-08-01 | Bengaluru, IN | [↗](https://lu.ma/9oa4bt7m) |
+| From Code to Career: Anti-Gravity Virtual Tech Summit & Challenge Finale | 2026-08-01 | Amman, Jordan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-al-zaytoonah-university-of-jordan-amman-jordan-presents-from-code-to-career-anti-gravity-virtual-tech-summit-amp-challenge-finale/) |
+| Science Sante BLR #3 | 2026-08-01 | Bengaluru, IN | [↗](https://lu.ma/4ao10wil) |
+| MAGES GAME DEV SERIES (August) | 2026-08-01 | Singapore, SG | [↗](https://lu.ma/mages-s3s3) |
+| The Narrative Engine | 2026-08-01 | Singapore, SG | [↗](https://lu.ma/n6a7qlji) |
 | Developer Summer Matsuri | 2026-08-02 | Kobe, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-greater-kwansai-presents-developer-summer-matsuri/) |
 | PLG Breakdown: Uber | 2026-08-02 | Bengaluru, IN | [↗](https://lu.ma/b309mhdi) |
 | Brand Marketing 101 for Founders | 2026-08-02 | Bengaluru, IN | [↗](https://lu.ma/irhvdvdh) |
@@ -396,14 +410,19 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Seventh heaven: An EDM only event | 2026-08-02 | Bengaluru, IN | [↗](https://lu.ma/l6ynkpn5) |
 | Trail Chats: Pulau Ubin (Stepping out of Comfort Zones) | 2026-08-02 | Singapore, SG | [↗](https://lu.ma/gdwmyu40) |
 | Health & Wellness Networking Event | 2026-08-02 | Bengaluru, IN | [↗](https://lu.ma/cn51wp76) |
+| Sunday Reset: Yoga for Women \| R Movement | 2026-08-02 | Singapore, SG | [↗](https://lu.ma/upm84nhh) |
 | AGI Playground 2026 @Singapore | 2026-08-03 | Singapore, SG | [↗](https://lu.ma/n9r72dc9) |
 | AI Demo Night for Technical Founders + Builders | 2026-08-03 | Singapore, SG | [↗](https://lu.ma/kv9l4u2z) |
+| WIZ x 出海同学会 x Momentum Works｜Side Event · AGI Playground 2026 @ Singapore | 2026-08-03 | Singapore, SG | [↗](https://lu.ma/w43zkn8a) |
+| Beyond The Herd - AI Beyond The Algorithm: How Technology Reshapes Society, Work & Power | 2026-08-03 | Singapore, SG | [↗](https://lu.ma/t8ta0efu) |
 | TOOCON #44 | 2026-08-04 | Kaohsiung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-kaohsiung-presents-toocon-44/) |
 | Ecom North \| Singapore Summit | 2026-08-04 | Singapore, SG | [↗](https://lu.ma/ecomnorth-02jo) |
 | Seniors Capture National Day 乐龄定格国庆瞬间 - 4 Aug 26 2pm | 2026-08-04 | Singapore, SG | [↗](https://lu.ma/ef59w3ld) |
 | Google Builders Night: Building Next-Gen AI Agents | 2026-08-04 | Singapore, SG | [↗](https://lu.ma/w634pt8j) |
 | ClickHouse Singapore August 2026 Edition | 2026-08-04 | Singapore, SG | [↗](https://lu.ma/clickh-2r4t) |
 | Tech Tour Exclusive for Conference Delegates: Hyundai Discovery Tour | 2026-08-04 | Singapore, SG | [↗](https://lu.ma/kntul70i) |
+| The House of AI by The AI Capitol x Mandala Club | 2026-08-04 | Singapore, SG | [↗](https://lu.ma/dn1r57kd) |
+| AGI Playground 2026 Side Event with Antler | 2026-08-04 | Singapore, SG | [↗](https://lu.ma/founder-5ry1) |
 | Founder F**K ups - Comes back to Singapore | 2026-08-05 | Singapore, SG | [↗](https://lu.ma/4631xc4c) |
 | Demo Day - Share & Network | 2026-08-05 | Singapore, SG | [↗](https://lu.ma/b7uyoips) |
 | DataHack Summit 2026 | 2026-08-05 to 2026-08-08 | Bengaluru | [↗](https://dev.events/conferences/data-hack-summit-2026-le1pztci) |
@@ -412,6 +431,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | AI Tinkerers x Redis: Built for Speed | 2026-08-05 | Singapore, SG | [↗](https://lu.ma/l5sp6wol) |
 | Building the Agentic AI Infrastructure | 2026-08-05 | Singapore, SG | [↗](https://lu.ma/u40ccs9i) |
 | UX Confessions: Singapore Edition | 2026-08-05 | Singapore, SG | [↗](https://lu.ma/8iqgrgus) |
+| The tomorrow of B2C Growth [LIVE WORKSHOP] | 2026-08-05 | Bengaluru, IN | [↗](https://lu.ma/zgfeh16b) |
 | Roast My TechStack #8 | 2026-08-06 | Singapore, SG | [↗](https://lu.ma/dyqtud52) |
 | 💰 Runway Unfiltered: Cashflow Mistakes (and How to Fix Them) | 2026-08-06 | Singapore, SG | [↗](https://lu.ma/rg0doidf) |
 | Startup Sports Day | 2026-08-06 | Singapore, SG | [↗](https://lu.ma/qao9wl5e) |
@@ -420,6 +440,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Community Over Code Asia 2026 | 2026-08-07 to 2026-08-09 | Beijing | [↗](https://dev.events/conferences/community-over-code-asia-2026-3maxctog) |
 | Singapore Roadshow | 2026-08-07 | Singapore | [↗](https://dev.events/conferences/singapore-roadshow-usd-hcid) |
 | CTrIBE Bengaluru Meetup | 2026-08-07 | Bengaluru, IN | [↗](https://lu.ma/zg3d3425) |
+| 把AI用成合伙人，从底层原理到一线打法 | 2026-08-07 | Singapore, SG | [↗](https://lu.ma/l400b2ph) |
 | PyCon Indonesia 2026 | 2026-08-08 to 2026-08-09 | Jakarta (Indonesia) | [↗](https://pycon.id) |
 | OpenMetadata is coming to Bangalore! | 2026-08-08 | Bengaluru, IN | [↗](https://lu.ma/sb4szw7k) |
 | Startup Networking Open House \| Coffee with Founders | 2026-08-08 | Bengaluru, IN | [↗](https://lu.ma/pjbyqemb) |
@@ -434,12 +455,15 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | UbuCon Asia 2026 @ COSCUP | 2026-08-08 to 2026-08-09 | Taipei | [↗](https://dev.events/conferences/ubu-con-asia-2026-coscup-wgulon-t) |
 | Prophet & Loss | 2026-08-08 | Bengaluru, IN | [↗](https://lu.ma/q4b1kyp0) |
 | Peanuts as a Service - For Communitypreneurs | 2026-08-08 | Bengaluru, IN | [↗](https://lu.ma/a8cpx8ap) |
+| GDG Jogjakarta Meetup: Workshop on Gemma 4 E4B | 2026-08-08 | Yogyakarta, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-jogjakarta-presents-gdg-jogjakarta-meetup-workshop-on-gemma-4-e4b/) |
 | Google Cloud Next Extended Ho Chi Minh 2026 | 2026-08-09 | Ho Chi Minh City, Vietnam | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-hcmc-presents-google-cloud-next-extended-ho-chi-minh-2026/) |
 | AI Riser Vietnam 2026: Vibe Coding Day | 2026-08-09 | Ho Chi Minh City, Vietnam | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-hcmc-presents-ai-riser-vietnam-2026-vibe-coding-day/) |
 | Therapists Who Build: India's (And The World's!) First Ever Hackathon For Therapists | 2026-08-09 | Bengaluru, IN | [↗](https://lu.ma/w4fhuuq3) |
 | Featured Singapore National Day Movie-Trace Project Movie Premiere | 2026-08-09 | Singapore, SG | [↗](https://lu.ma/j7rucbgk) |
+| Ship it \| Replit x TPF | 2026-08-09 | Bengaluru, IN | [↗](https://lu.ma/h2wg0ikz) |
 | Building Customer Success AI Agent with LangChain and Gemini | 2026-08-10 | Haifa, Israel | [↗](https://gdg.community.dev/events/details/google-gdg-haifa-presents-building-customer-success-ai-agent-with-langchain-and-gemini/) |
 | Devcampus: Campus Tech Challenge | 2026-08-10 | Bengaluru, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-alliance-university-bengaluru-india-presents-devcampus-campus-tech-challenge/) |
+| Women in AI: In Conversation | 2026-08-10 | Bengaluru, IN | [↗](https://lu.ma/q2666rvr) |
 | Open Source Summit Korea | 2026-08-11 | Seoul (South Korea) | [↗](https://events.linuxfoundation.org/open-source-summit-korea/) |
 | NBS-PRI-ECGI Public Lecture Series on Sustainable Business: A Financial Handbook for Sustainability | 2026-08-11 | Singapore, SG | [↗](https://lu.ma/63ema284) |
 | Singapore AI & Robotics Demo Night (Aug 2026) | 2026-08-11 | Singapore, SG | [↗](https://lu.ma/fkdeawho) |
@@ -457,6 +481,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Is freedom an illusion? | 2026-08-13 | Singapore, SG | [↗](https://lu.ma/gbmt68ly) |
 | The 3Cs: "Compassion, Connection & Community" Peer-led conversations on ADHD, Autism & AuDHD | 2026-08-13 | Singapore, SG | [↗](https://lu.ma/baljsduw) |
 | ✨ Terra Goddesses Salon: Responsible AI — Power, Promise & Planetary Limits - with Elizabeth Hernandez✨ | 2026-08-13 | Singapore, SG | [↗](https://lu.ma/4eyi5i5s) |
+| The Enterprise Selling Roundtable Dinner | 2026-08-13 | Singapore, SG | [↗](https://lu.ma/enterprise_selling_sg) |
 | AI Connect: Learn, Network & Grow – AIM ASEAN Certification | 2026-08-15 | Singapore, SG | [↗](https://lu.ma/1utsy1mh) |
 | Singapore Gallery Month 2026 Launch Party | 2026-08-15 | Singapore, SG | [↗](https://lu.ma/tv51ihws) |
 | PyCon Korea 2026 | 2026-08-15 to 2026-08-17 | Seoul | [↗](https://dev.events/conferences/py-con-korea-2026-gqnr9d54) |
@@ -483,6 +508,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Beyond GenAI: Crafting the Future of Customer-Facing Enterprise Applications by Amadeus and Contenstack - This is a mini Hackathon - Part 2 | 2026-08-22 | Bengaluru, IN | [↗](https://lu.ma/cry1xp93) |
 | Google I/O Extended Coding Jam Kuala Lumpur 2026 | 2026-08-22 | Kuala Lumpur, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-kuala-lumpur-presents-google-io-extended-coding-jam-kuala-lumpur-2026/) |
 | Information Technology Conference 2026 | 2026-08-22 | New Delhi | [↗](https://dev.events/conferences/information-technology-conference-2026-sc-kbdcy) |
+| Nauti: All Things Naughty and Nautical | 2026-08-22 | Singapore, SG | [↗](https://lu.ma/qz9fhz66) |
 | Collectors' Home Tour \| A Modest Collection in Pasir Ris - Session 1 | 2026-08-23 | Singapore, SG | [↗](https://lu.ma/m6gqyin2) |
 | Singapore Lab Expo 2026 | 2026-08-25 | Singapore, SG | [↗](https://lu.ma/jcnhpip7) |
 | AI in the Wild: Building Your Personal OS to Thrive in the GenAI Era | 2026-08-25 | Singapore, SG | [↗](https://lu.ma/vj2546bx) |
@@ -511,6 +537,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Code Renaissance: A Handcrafted Meetup | 2026-09-05 | Kaohsiung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-kaohsiung-presents-code-renaissance-a-handcrafted-meetup/) |
 | The Rise of Big Data & Machine Learning with Cloud Computing at JSYP11 Congress | 2026-09-05 | Amman, Jordan | [↗](https://gdg.community.dev/events/details/google-gdg-amman-presents-the-rise-of-big-data-amp-machine-learning-with-cloud-computing-at-jsyp11-congress/) |
 | Creators & Connoisseurs: A Speed Dating Soirée - Session 1 | 2026-09-05 | Singapore, SG | [↗](https://lu.ma/i0ca8pjy) |
+| Workshop: Build Your Own AI Agents | 2026-09-05 | Singapore, SG | [↗](https://lu.ma/zchmacab) |
 | MCP Dev Summit Shanghai | 2026-09-06 | Shanghai (China) | [↗](https://www.lfopensource.cn/mcp-dev-summit-shanghai/) |
 | OSPOlogy + OSPO Summit China | 2026-09-07 | Shanghai (China) | [↗](https://www.lfopensource.cn/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/co-located-events/ospology-ospo-summit/#about) |
 | AI Builders #1 - Agentic | 2026-09-08 | Tel Aviv (Israel) | [↗](https://www.aibuildersday.com/) |
@@ -533,6 +560,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | AIM ASEAN Singapore 2026: National Policy Convening | 2026-09-15 | Singapore, SG | [↗](https://lu.ma/99f5gia5) |
 | AIM ASEAN Singapore 2026: Flagship Forum | 2026-09-15 | Singapore, SG | [↗](https://lu.ma/azljrdvu) |
 | Topic "Patent strategy - steps to consider in enforcing patent protection" - Health/Bio Coffee Club Sg Collab with Joyce A Tan & Partners | 2026-09-16 | Singapore, SG | [↗](https://lu.ma/ilzcb5q1) |
+| Antino AI Summit 2026 | 2026-09-18 | Bengaluru, IN | [↗](https://lu.ma/q0e73l9i) |
 | KCD Gujarat 2026 | 2026-09-19 | Ahmedabad (India) | [↗](https://www.kcdgujarat.com/) |
 | Gartner Data & Analytics Summit | 2026-09-21 to 2026-09-22 | Mumbai | [↗](https://dev.events/conferences/gartner-data-and-analytics-summit-0h5ear8z) |
 | TIE Capital Partners - Roundtable Singapore | 2026-09-22 | Singapore, SG | [↗](https://lu.ma/qem62d3y) |
@@ -660,6 +688,14 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | apidays Singapore 2027 | 2027-04-13 to 2027-04-14 | Singapore | [↗](https://www.apidays.global/events/singapore) |
 | Great International Developer Summit (GIDS) | 2027-04-27 to 2027-04-30 | Bengaluru (India) | [↗](https://developersummit.com/) |
 | DCCI Malaysia Expo | 2027-05-04 to 2027-05-05 | Kuala Lumpur | [↗](https://dev.events/conferences/dcci-malaysia-expo-wpsjvpb8) |
+| GDG on Campus SKHU 0720 내부 운영진 회의 | 2026-07-20 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkonghoe-university-seoul-south-korea-presents-gdg-on-campus-skhu-0720-naebu-unyeongjin-hoeyi/) |
+| Nanyang Business School x SAP Labs East Asia Singapore Leadership Dialogue - The Future of Enterprise in an AI-Native World | 2026-07-20 | Singapore, SG | [↗](https://lu.ma/a0zcopxm) |
+| Claude for Design (Intermediate Level) | 2026-07-20 | Singapore, SG | [↗](https://lu.ma/LLSG3) |
+| Roundtable & Happy Hour - Cracking India's Payments Puzzle: Winning the Next 50 Million Travelers | 2026-07-20 | Singapore, SG | [↗](https://lu.ma/821ko28c) |
+| Build with AI: KDU Sri Lanka Buildathon | 2026-07-20 | Colombo, Sri Lanka | [↗](https://gdg.community.dev/events/details/google-gdg-sri-lanka-presents-build-with-ai-kdu-sri-lanka-buildathon/) |
+| Founders' Mondays - The Work Room: TBC | 2026-07-20 | Singapore, SG | [↗](https://lu.ma/clink7wm) |
+| GSoC Meetup @Google Ananta | 2026-07-20 | Bangalore, India | [↗](https://gdg.community.dev/events/details/google-gdg-bangalore-presents-gsoc-meetup-google-ananta/) |
+| Future of Finance, Padel Meetup SG [20 JULY 2026] | 2026-07-20 | Singapore, SG | [↗](https://lu.ma/5f1yfght) |
 | Build with AI Kaohsiung 2026：I/O Extended | 2026-07-19 | Kaohsiung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-kaohsiung-presents-build-with-ai-kaohsiung-2026io-extended/) |
 | Google Cloud Next Extended Bangkok 26 | 2026-07-19 | Bangkok, Thailand | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-bangkok-presents-google-cloud-next-extended-bangkok-26/) |
 | ESG Meet N' Greet - Singapore | 2026-07-19 | Singapore, SG | [↗](https://lu.ma/6php33ld) |
@@ -872,14 +908,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | [Reading Group] Frustrations at the Frontier - Part 2 | 2026-07-14 | Singapore, SG | [↗](https://lu.ma/luaxsjz3) |
 | FS-ISAC: APAC Summit 2026 | 2026-07-14 | Singapore (City), SG | [↗](https://infosec-conferences.com/event/20260714-fs-isac-apac-summit-2026/) |
 | WPRC SG: Future of Stablecoins - Lessons learned (& to learn) | 2026-07-14 | Singapore, SG | [↗](https://lu.ma/whitep-ezya) |
-| Antigravity × Gemma: The AI Builder Bootcamp | 2026-07-13 | Bhilai, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-rungta-college-of-engineering-and-technology-bhilai-india-presents-antigravity-x-gemma-the-ai-builder-bootcamp/) |
-| Proposal Management in the Age of AI - APMP | 2026-07-13 | Singapore, SG | [↗](https://lu.ma/e54qu91o) |
-| WorldFirst × Dear You《给阿嬷的情书》(Teochew) - Client Appreciation Evening | 2026-07-13 | Singapore, SG | [↗](https://lu.ma/mngrshxm) |
-| Structured Foundational Models (ft. Revolut) | 2026-07-13 | Singapore, SG | [↗](https://lu.ma/11lz7n5x) |
-| WT Pickleball | 2026-07-13 | Singapore, SG | [↗](https://lu.ma/16gk54np) |
-| WebX 2026 | 2026-07-13 | Tokyo, JP | [↗](https://infosec-conferences.com/event/20260713-webx-2026/) |
-| Founders' Mondays - The Work Room: Signal labs day | 2026-07-13 | Singapore, SG | [↗](https://lu.ma/f23z9ixq) |
-| Google Cloud Arcade Program'26 | 2026-07-13 | Gwalior, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-institute-of-technology-and-management-gwalior-india-presents-google-cloud-arcade-program26/) |
 | Web Summit Qatar | Jan 27 - Feb 3 2027 | Doha, Qatar | [↗](https://qatar.websummit.com) |
 | AIBoomi Events | TBA | Bengaluru, India | [↗](https://saasboomi.org/events) |
 | AIBoomi Annual | TBA | Chennai, India | [↗](https://annual.aiboomi.org) |
@@ -928,6 +956,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | KCD Kubernetes Community Days Melbourne 2026 | 2026-08-04 | Melbourne (Australia) | [↗](https://community2.cncf.io/events/details/cncf-kcd-australia-presents-kcd-melbourne-2026/) |
 | Data and AI Bootcamp - Brisbane 2026 | 2026-08-04 | Brisbane (Australia) | [↗](https://brisbanebootcamp.com) |
 | Visa \| Stablecoins in Asia-Pacific: Who's Building, Who's Moving, and What Australia's Missing \| The National Dialogue | 2026-08-04 | Sydney, AU | [↗](https://lu.ma/tnd-visa-syd) |
+| Ashurst \| Funds: A Gateway to Tokenisation of Finance \| The National Dialogue | 2026-08-04 | Sydney, AU | [↗](https://lu.ma/ashurst-lunch) |
 | KSUG.AI Australia #65 – Melbourne Meetup @AWS – 5 Aug 2026 | 2026-08-05 | Melbourne, Victoria | [↗](https://au.ksug.ai) |
 | Thomson Geer \| When Value Moves: Stablecoins and the Redrawing of Payments and Finance \| The National Dialogue | 2026-08-05 | Sydney, AU | [↗](https://lu.ma/tnd-thomsongeer) |
 | The National Dialogue, Sydney Edition: Predict, Scale, Succeed hosted by Mallesons | 2026-08-05 | Sydney, AU | [↗](https://lu.ma/tnd-mallesons) |
@@ -943,12 +972,14 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | AI Summit 2026 Sydney | 2026-08-13 | Sydney, AU | [↗](https://lu.ma/m86e2kod) |
 | Best in Tech Founder Soiree | 2026-08-13 | Sydney, AU | [↗](https://lu.ma/hyni4jzb) |
 | Global Security Bootcamp Sydney 2026 | 2026-08-13 | Sydney | [↗](https://dev.events/conferences/global-security-bootcamp-sydney-2026-mecpbivm) |
+| GDG Brisbane presents: Build & Tell | 2026-08-21 | Brisbane, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-brisbane-presents-gdg-brisbane-presents-build-amp-tell/) |
 | Global Security Bootcamp Adelaide 2026 | 2026-08-22 | Adelaide (Australia) | [↗](https://www.globalsecurity.community/chapters/adelaide/) |
 | PyCon Australia | 2026-08-26 to 2026-08-30 | Brisbane (Australia) | [↗](https://2026.pycon.org.au) |
 | TechTalk: Building AI to Forecast Supply Chains, Cities and Critical Systems w/ Flora Salim, CEO & Co‑founder @ DataCruiser | 2026-08-26 | Sydney, AU | [↗](https://lu.ma/1vzac3m3) |
 | PyCon AU 2026 | 2026-08-26 to 2026-08-30 | Brisbane | [↗](https://dev.events/conferences/py-con-au-2026-znqcyqso) |
 | Building the Future with RAG Using MongoDB Atlas & Gemma4 | 2026-08-27 | Melbourne, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-melbourne-presents-building-the-future-with-rag-using-mongodb-atlas-amp-gemma4/) |
 | AlphaGenome in Action: Solving Real Genomics Use-Cases with AI | 2026-08-27 | Sydney, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-ai-for-science-australia-presents-alphagenome-in-action-solving-real-genomics-use-cases-with-ai/) |
+| Future Tech Collective - August 27th | 2026-08-27 | Sydney, AU | [↗](https://lu.ma/vsrcyibq) |
 | OWASP New Zealand Day - 2026 - Training | 2026-09-01 to 2026-09-02 | Auckland, New Zealand | [↗](https://appsec.org.nz/conference/) |
 | Days of Knowledge ANZ 2026 | 2026-09-03 to 2026-09-04 | Melbourne (Australia) | [↗](https://directionsforpartners.com/dokanz2026) |
 | 2026 High Flyers Growth Summit (Sydney) | 2026-09-08 | Sydney, AU | [↗](https://lu.ma/pueuxc8i) |
@@ -991,9 +1022,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Corinium: OT Security Melbourne 2026 | 2026-07-14 | Melbourne, AU | [↗](https://infosec-conferences.com/event/20260714-corinium-ot-security-melbourne-2026/) |
 | Corinium: CISO Melbourne 2026 | 2026-07-14 | Melbourne, AU | [↗](https://infosec-conferences.com/event/20260714-corinium-ciso-melbourne-2026/) |
 | EgoVerse X Lightwheel Gathering @RSS2026 | 2026-07-14 | Sydney, AU | [↗](https://lu.ma/25esiw9r) |
-| Community Breakfast 🥐🍵🍳 (CBD - Pitt St) | 2026-07-13 | Sydney, AU | [↗](https://lu.ma/4b80poqc) |
-| IEEE World Congress on Services (IEEE SERVICES) 2026 | 2026-07-13 | Sydney, AU | [↗](https://infosec-conferences.com/event/20260713-ieee-world-congress-on-services-ieee-services-2026/) |
-| WorldEngine AI & Galaxea RSS 2026 Afterparty & Mixer | 2026-07-13 | Sydney, AU | [↗](https://lu.ma/nmqwfp64) |
 
 </details>
 
@@ -1003,32 +1031,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Soirée de closing Fleuret 🤺 | 2026-07-20 | Paris, FR | [↗](https://lu.ma/yr7hvc3e) |
-| Built, Not Bought: Go-to-Market for Modern Consumer Brands | 2026-07-20 | Berlin, DE | [↗](https://lu.ma/yyhduol5) |
-| 🔵 Focus Warriors Circle — ADHD Peer Support | 2026-07-20 | Berlin, DE | [↗](https://lu.ma/gm4tysqd) |
-| The Linked Creatives Hub – Bringing Creative Industries Together | 2026-07-20 | London, GB | [↗](https://lu.ma/v7fhwks2) |
-| Cambridge Alumni for Sustainability: Summer Social - 20 July | 2026-07-20 | London, GB | [↗](https://lu.ma/pq6mqgzt) |
-| The Agent Economy: What Could Possibly Go Wrong? | 2026-07-20 | London, GB | [↗](https://lu.ma/s1uyta08) |
-| Babes in London: Ice, Sauna & Recovery for Ambitious Babes | 2026-07-20 | London, GB | [↗](https://lu.ma/06y80kjo) |
-| Strategy Mastermind \| London Founders & Investors | 2026-07-20 | London, GB | [↗](https://lu.ma/3wevo9yy) |
-| Arc Blockrun Workshop | 2026-07-20 | London, GB | [↗](https://lu.ma/sem5m0uq) |
-| The Right to Remain Human - An Evening with Thomas Hübl | 2026-07-20 | Berlin, DE | [↗](https://lu.ma/jz8f70sf) |
-| Dîner Cinéma @ Stóra | 2026-07-20 | Paris, FR | [↗](https://lu.ma/difnyhja) |
-| Inside AI: From Early Ideas to Modern Approaches and Best Practices | 2026-07-20 | Warsaw, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-warszawa-presents-inside-ai-from-early-ideas-to-modern-approaches-and-best-practices/) |
-| AMA @sugaroverflow - 20 June 2026 | 2026-07-20 | London, GB | [↗](https://lu.ma/fs0lxiag) |
-| LISA Presents: Andrew Draganov - AIs, AGI, and what it might do | 2026-07-20 | London, GB | [↗](https://lu.ma/ygkitm6h) |
-| Sound Bath: Find Your Ground @ The Maqam Centre | 2026-07-20 | London, GB | [↗](https://lu.ma/5siqrj1r) |
-| Slow Poke Run Club: Monday Run | 2026-07-20 | Berlin, DE | [↗](https://lu.ma/nnb1ysc0) |
-| Own Pace Monday #41 - Speed Endurance | 2026-07-20 | Berlin, DE | [↗](https://lu.ma/nsvk59k3) |
-| Material Circle | 2026-07-20 | London, GB | [↗](https://lu.ma/iy32sf62) |
-| IoD Web3 SIG: Roundtable | 2026-07-20 | London, GB | [↗](https://lu.ma/rm4m9yub) |
-| Health, Tech, Psych Network Meetup - Topic: Healthcare Careers in the Age of AI: Are You Ready for What's Next? | 2026-07-20 | Berlin, DE | [↗](https://lu.ma/dixcaty1) |
-| The Shuttle Collective | 2026-07-20 | London, GB | [↗](https://lu.ma/lsgbbwl3) |
-| AI Enthusiasts - Tech: The Return of the Fable | 2026-07-20 | Berlin, DE | [↗](https://lu.ma/6t9ww4sk) |
-| Weekly Girlies Pilates | 2026-07-20 | Berlin, DE | [↗](https://lu.ma/zgzqikzo) |
-| Endorphins & Exchanges – Founders Co-work & Run | 2026-07-20 | Berlin, DE | [↗](https://lu.ma/m64b8qqi) |
-| Yorkseed Paris Basecamp - Summer Co-Work | 2026-07-20 | Paris, FR | [↗](https://lu.ma/uflmyz4m) |
-| Mistral AI & HEC IA - Dinner | 2026-07-20 | Paris, FR | [↗](https://lu.ma/0jaswvez) |
 | Demystifying AI Agents: A Hands-On Workshop | 2026-07-21 | Frankfurt, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-rhein-main-presents-demystifying-ai-agents-a-hands-on-workshop/) |
 | Developer Impact Days 2026 (Event 1 of 3) | 2026-07-21 | Berlin, DE | [↗](https://lu.ma/mqyltn2z) |
 | Neulandpro Meetup in Berlin | 2026-07-21 | Berlin, DE | [↗](https://lu.ma/7anc49wt) |
@@ -1076,6 +1078,8 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Stripe Community Paris #2 x Anthropic : Claude Clinic, Landing page roast & 🌭 Hot Dog Party | 2026-07-21 | Paris, FR | [↗](https://lu.ma/gibw92a0) |
 | La Table de Kore : 와인 & Dine | 2026-07-21 | Paris, FR | [↗](https://lu.ma/jcqs2fe9) |
 | Brazilian Rhythms & FitDance Class in London | 2026-07-21 | London, GB | [↗](https://lu.ma/tj6zzfql) |
+| Tuesday Office Lunch | 2026-07-21 | Berlin, DE | [↗](https://lu.ma/nzy27fu0) |
+| Wellness Sauna Night 🌿🔥🌊 | 2026-07-21 | Berlin, DE | [↗](https://lu.ma/6h5mmrt4) |
 | Beer.JS Summit 2026 | 2026-07-22 | Sofia (Bulgaria) | [↗](https://beerjssummit2025.eventbrite.nl) |
 | Practically AI: July Lightening Talks | 2026-07-22 | Manchester, England | [↗](https://www.meetup.com/practically-ai-applied-ai-for-software-engineers-manchester) |
 | Comment préparer sa première levée ? Avec Super Capital | 2026-07-22 | Paris, FR | [↗](https://lu.ma/dx0rwv9n) |
@@ -1134,6 +1138,10 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | The Inner Board Meeting – a dinner with female founders | 2026-07-22 | London, GB | [↗](https://lu.ma/6ntgakk2) |
 | Pizza Party for Founders by GetPizza | 2026-07-22 | Paris, FR | [↗](https://lu.ma/s14a3n15) |
 | AI Circle: London Happy Hour | 2026-07-22 | London, GB | [↗](https://lu.ma/e6n8aiqj) |
+| SuperSeed - Tennis & Pimms at The Hurlingham Club | 2026-07-22 | London, GB | [↗](https://lu.ma/f6mterxf) |
+| Startup Lab x Specialist Briefings: AI Innovation vs. Regulation - Is the UK Falling Behind or Playing it Safe? | 2026-07-22 | London, GB | [↗](https://lu.ma/hypbskyo) |
+| 🇬🇧 Wednesday - London Bridge \| Os M Ritmos Brasileiros | 2026-07-22 | London, GB | [↗](https://lu.ma/aa68ldym) |
+| The Winner Takes It All - Can AI design life that beats nature? | 2026-07-22 | Berlin, DE | [↗](https://lu.ma/m37mk27k) |
 | Pragma Lisbon 2026 | 2026-07-23 | Lisbon (Portugal) | [↗](https://ethglobal.com/events/pragma-lisbon2026) |
 | Codelab: Build an AI Agent with Agent Development Kit | 2026-07-23 | Groningen, Netherlands | [↗](https://gdg.community.dev/events/details/google-gdg-groningen-presents-codelab-build-an-ai-agent-with-agent-development-kit/) |
 | n8n - Cosa fa e come funziona (in collaborazione con PyVenice) | 2026-07-23 | Venice, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-venezia-presents-n8n-cosa-fa-e-come-funziona-in-collaborazione-con-pyvenice/) |
@@ -1217,6 +1225,9 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Apéro Live Music Sessions: DJ Set par Ponaroid | 2026-07-23 | Paris, FR | [↗](https://lu.ma/b9nu19he) |
 | La Table de Kore : Saveurs Coréennes | 2026-07-23 | Paris, FR | [↗](https://lu.ma/fylgbkcn) |
 | Hot Girls, Cool Tech \| After 5 drinks | 2026-07-23 | London, GB | [↗](https://lu.ma/yy9ih5xi) |
+| Fundraising for Physical AI: How VCs evaluate startups | 2026-07-23 | London, GB | [↗](https://lu.ma/0hkplvr0) |
+| Atelier : reprendre la main sur son smartphone | 2026-07-23 | Paris, FR | [↗](https://lu.ma/ioq3cdzg) |
+| Vernissage @ La Hune | 2026-07-23 | Paris, FR | [↗](https://lu.ma/e0rou848) |
 | ETHGlobal Lisbon Hackathon | 2026-07-24 to 2026-07-26 | Lisbon (Portugal) | [↗](https://ethglobal.com/events/lisbon2026) |
 | Astro Apéro by Well in France x Anemoi Astrology | 2026-07-24 | Paris, FR | [↗](https://lu.ma/wif-astro-apero) |
 | Offline Walk #8 \| Special Late Night edition | 2026-07-24 | Paris, FR | [↗](https://lu.ma/re7ysx3c) |
@@ -1248,6 +1259,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Little Lago Kollective presents: Bushman - WeAreiDyll Records in conversation with DaMystri1 | 2026-07-24 | London, GB | [↗](https://lu.ma/1w0150lh) |
 | Tea & Organic Ambient. Open Tearoom | 2026-07-24 | Berlin, DE | [↗](https://lu.ma/ojxe5ibi) |
 | The Pulse Homemade Supper #5 Paris (Moonshot Founders + Operators) | 2026-07-24 | Paris, FR | [↗](https://lu.ma/jpri7ac6) |
+| HADI! HADI! #2 — PRE PRIDE EDITION 🏳️‍🌈 | 2026-07-24 | Berlin, DE | [↗](https://lu.ma/x2zm0gsi) |
 | Build with AI: Fast Prototyping as Your GTM Strategy | 2026-07-25 | Ahlen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-build-with-ai-fast-prototyping-as-your-gtm-strategy/) |
 | Berlin. Vibe Coding Club: Lovable | 2026-07-25 | Berlin, DE | [↗](https://lu.ma/4ulf84km) |
 | DroneAid Berlin Workshop - 25 July 2026 | 2026-07-25 | Berlin, DE | [↗](https://lu.ma/d6e5se2m) |
@@ -1285,6 +1297,9 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Yoga In The Park & Picnic | 2026-07-25 | London, GB | [↗](https://lu.ma/wnmccthd) |
 | LOAD FC | 2026-07-25 | Berlin, DE | [↗](https://lu.ma/gil1qa3h) |
 | Go West in the Open Air: Wusterwitz -> Pritzerde Hike 25km | 2026-07-25 | Berlin, DE | [↗](https://lu.ma/kk7dxf4k) |
+| EnergoBreathing + Sacred Amazonian Hapé Ceremony | 2026-07-25 | London, GB | [↗](https://lu.ma/zmq4n0da) |
+| Female Founders Breakfast: Berlin | 2026-07-25 | Berlin, DE | [↗](https://lu.ma/md9z14g3) |
+| Карл-Маркс-Аллее - витрина социализма | 2026-07-25 | Berlin, DE | [↗](https://lu.ma/bwpjijyf) |
 | #125th Event ✨ AI & Cloud Workshop + 🎤 Special Developer Guest: (Surprise!) | 2026-07-26 | Sarajevo, Bosnia and Herzegovina | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-sarajevo-presents-125th-event-ai-amp-cloud-workshop-special-developer-guest-surprise/) |
 | DANCE! by SBC & Kathi 🪩 | 2026-07-26 | Berlin, DE | [↗](https://lu.ma/3mep9wii) |
 | Pilates & Plates | 2026-07-26 | Berlin, DE | [↗](https://lu.ma/5h2aqeem) |
@@ -1307,6 +1322,11 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Sprint & Flo - Running Technique Workshop (Foundations) | 2026-07-26 | London, GB | [↗](https://lu.ma/mnkn3t5q) |
 | Rooted in Resonance - Into the Mycelium. An immersive live bass sound journey. | 2026-07-26 | Berlin, DE | [↗](https://lu.ma/9ghacxf4) |
 | ATELIER DE PARFUMERIE | 2026-07-26 | Paris, FR | [↗](https://lu.ma/bjfrx9ot) |
+| Powering Asia: Summer Badminton @ Paddington | 2026-07-26 | London, GB | [↗](https://lu.ma/dlu08xlp) |
+| Aperitivo Collective at Vitis | 2026-07-26 | London, GB | [↗](https://lu.ma/e1bgpfhz) |
+| SUNDAY MINDFUL LONGRUN by RUN-N-RAVE | 2026-07-26 | Berlin, DE | [↗](https://lu.ma/s5mjyvwr) |
+| Yoga & Japanese Green Tea #2 | 2026-07-26 | Berlin, DE | [↗](https://lu.ma/mv1i6tyd) |
+| The Noor Sports Club BERLIN | 2026-07-26 | Berlin, DE | [↗](https://lu.ma/m2ufkkc1) |
 | Earthly Apothecary by Herby At Heart | 2026-07-27 | Berlin, DE | [↗](https://lu.ma/kuvwfzj1) |
 | R&D Social Run \| 5k Innovation Loop | 2026-07-27 | Berlin, DE | [↗](https://lu.ma/jazvtnl8) |
 | Panel Discussion on Artist Rights | 2026-07-27 | Berlin, DE | [↗](https://lu.ma/8j645wp0) |
@@ -1321,6 +1341,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Intro to the Decks with Anna-Marie \| Beginners workshop | 2026-07-27 | London, GB | [↗](https://lu.ma/dsgoh9fm) |
 | Gæmz Meetup #73 (London) | 2026-07-27 | London, GB | [↗](https://lu.ma/wgytyqya) |
 | Proof of Play: An Evening with Gamma | 2026-07-27 | London, GB | [↗](https://lu.ma/gamma-aileaders) |
+| AMA @sugaroverflow - 27 June 2026 | 2026-07-27 | London, GB | [↗](https://lu.ma/fs0lxiag) |
 | Paris AI, ML, and Computer Vision Meetup | 2026-07-28 | Paris, FR | [↗](https://lu.ma/voxel51-lojh) |
 | 4WARD's Berlin Climate & Sustainability Networking Meetup | 2026-07-28 | Berlin, DE | [↗](https://lu.ma/9se2jej9) |
 | AI & Tech Networking in Paris | 2026-07-28 | Paris, FR | [↗](https://lu.ma/f5gpz9hk) |
@@ -1346,6 +1367,11 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Startup Funding & Networking: VCs, Angels & Founders | 2026-07-28 | London, GB | [↗](https://lu.ma/ntl-1q03) |
 | Leap Monthly Breakfast: Connect, Pitch & Innovate ☕️ | 2026-07-28 | Berlin, DE | [↗](https://lu.ma/ipylneug) |
 | FOUNDA MET x The Delta - Curated Cofounder Dating #5 | 2026-07-28 | Berlin, DE | [↗](https://lu.ma/1y3a0cs3) |
+| Dust - A Morning for High Performers | 2026-07-28 | London, GB | [↗](https://lu.ma/dust-pv6d) |
+| Dramaturgy Drop-In ✍🏾✨ | 2026-07-28 | London, GB | [↗](https://lu.ma/3avcwlc7) |
+| Reading Salon For Ruminators: Session 4 | 2026-07-28 | London, GB | [↗](https://lu.ma/0cm047ht) |
+| Zone 1: Inhabitation Modelmaking and Collage Workshop w Soumia Sadoun | 2026-07-28 | London, GB | [↗](https://lu.ma/usxkand9) |
+| July Swifty Lunch | 2026-07-28 | Paris, FR | [↗](https://lu.ma/jel0h5ku) |
 | Tech Space | 2026-07-29 | Saint-Vincent, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-valle-daosta-presents-tech-space-27/) |
 | AI Builders Night \| Loop Engineering Edition | 2026-07-29 | Paris, FR | [↗](https://lu.ma/be1ld1ai) |
 | CTO Craft Mixers: Berlin | 2026-07-29 | Berlin, DE | [↗](https://lu.ma/cj9l61ke) |
@@ -1359,6 +1385,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Prototyping the Future | 2026-07-29 | Paris, FR | [↗](https://lu.ma/sn9hqq14) |
 | Hands-On Workshop Series-2: Build with Gemma 4 | 2026-07-29 | Romford, United Kingdom | [↗](https://gdg.community.dev/events/details/google-gdg-essex-presents-hands-on-workshop-series-2-build-with-gemma-4/) |
 | The Elegant Wanderer - Viola & Butoh Concert | 2026-07-29 | Berlin, DE | [↗](https://lu.ma/0jlj2dbm) |
+| BRICKS x DUFTE // Community Run | 2026-07-29 | Berlin, DE | [↗](https://lu.ma/8dzbyrog) |
 | TECHSPHERE - Episode 4 :  Building the future of Software testing with AI | 2026-07-30 | Mons, Belgium | [↗](https://gdg.community.dev/events/details/google-gdg-mons-presents-techsphere-episode-4-building-the-future-of-software-testing-with-ai/) |
 | The Missing Piece in Agentic AI: Payments | 2026-07-30 | Berlin, DE | [↗](https://lu.ma/agentic-payment) |
 | Recovery & Sleep by Dopamine | 2026-07-30 | Berlin, DE | [↗](https://lu.ma/6285y43y) |
@@ -1378,16 +1405,20 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Gezellig Sessions: Art + Live Music Night | 2026-07-30 | Berlin, DE | [↗](https://lu.ma/gezellig-300726) |
 | Berlin Race | 2026-07-30 | Berlin, DE | [↗](https://lu.ma/3dt0g33c) |
 | ELMAÎTRE presents: A TASTE OF RIVIERA — Une Soirée Saint-Tropez | 2026-07-30 | Berlin, DE | [↗](https://lu.ma/mwwhxdgx) |
+| Hands-On Workshop Series-3: Build with Gemma 4 | 2026-07-30 | Romford, United Kingdom | [↗](https://gdg.community.dev/events/details/google-gdg-essex-presents-hands-on-workshop-series-3-build-with-gemma-4/) |
 | Hands-On with Claude Code: Build Your First AI Workflow Agent ⚙️ | 2026-07-31 | Berlin, DE | [↗](https://lu.ma/co-idh8) |
 | Founder Reset | 2026-07-31 | Berlin, DE | [↗](https://lu.ma/1qroe3h7) |
 | Shakeout Run ADIDAS City Nights: Slow Poke Style | 2026-07-31 | Berlin, DE | [↗](https://lu.ma/45mwsa6s) |
 | build fridays berlin | 2026-07-31 | Berlin, DE | [↗](https://lu.ma/2jdk2zbf) |
 | Scent Experience: Kreiere den Duft, den du gerade brauchst | 2026-07-31 | Berlin, DE | [↗](https://lu.ma/brna5njo) |
 | commIT Berlin | 2026-07-31 | Berlin, DE | [↗](https://lu.ma/py25js8q) |
+| GALVANY x EKD | 2026-07-31 | Berlin, DE | [↗](https://lu.ma/gws9dj92) |
 | Generathon : 24h to Build the Future of Content | 2026-08-01 | Paris, FR | [↗](https://lu.ma/wobryy3j) |
 | 8x x Bella&Bona Mobile Hack | 2026-08-01 | Berlin, DE | [↗](https://lu.ma/59urrg5l) |
 | PILATES in the Park ☀️ Your Saturday Reset & Glow | 2026-08-01 | Berlin, DE | [↗](https://lu.ma/rdvowm1x) |
 | Adidas City Night 2026: Pre-Run Guided Warm up | 2026-08-01 | Berlin, DE | [↗](https://lu.ma/0jhtqx90) |
+| Touch Weights - Continual Learning Hack | 2026-08-01 | Berlin, DE | [↗](https://lu.ma/0fgouohr) |
+| CleanUp Berlin – Fulbright Association Global Day of Service | 2026-08-01 | Berlin, DE | [↗](https://lu.ma/lir3525i) |
 | 4th Tech Summit on Artificial Intelligence & Robotics | 2026-08-02 | Paris | [↗](https://artificialintelligence.averconferences.com) |
 | Generathon's Demo Night | 2026-08-02 | Paris, FR | [↗](https://lu.ma/0ffz5uey) |
 | Cake & Picnic- Summer 2026 | 2026-08-02 | Berlin, DE | [↗](https://lu.ma/n4c4tj5p) |
@@ -1413,6 +1444,8 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | La emprendedora de al lado · Cuando el cuerpo se calma, las ideas llegan | 2026-08-08 | Berlin, DE | [↗](https://lu.ma/8odea1v2) |
 | The Brownprint | 2026-08-08 | Berlin, DE | [↗](https://lu.ma/fnyhp2f5) |
 | 🏃‍♀️ ☕ Longevity Berlin Community Run & Coffee | 2026-08-08 | Berlin, DE | [↗](https://lu.ma/age-g2hd) |
+| (Health/Wellbeing) Coaches Meetup | 2026-08-08 | Berlin, DE | [↗](https://lu.ma/3p203m27) |
+| Ageing Gracefully: Understanding the Science Behind Longevity | 2026-08-08 | Berlin, DE | [↗](https://lu.ma/5qp3ae4r) |
 | JuliaCon 2026 | 2026-08-10 to 2026-08-15 | Rhineland Palatinate (Germany) | [↗](https://juliacon.org/2026) |
 | Startup Social Run | 2026-08-10 | Berlin, DE | [↗](https://lu.ma/znbytlg5) |
 | GopherCon UK | 2026-08-11 to 2026-08-13 | London (UK) | [↗](https://www.gophercon.co.uk/) |
@@ -1422,8 +1455,10 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | NLND Campus Tour | 2026-08-13 | Berlin, DE | [↗](https://lu.ma/l0w2jmyx) |
 | 💫 Open Mic & Creative Night (Summer) | 2026-08-13 | Berlin, DE | [↗](https://lu.ma/khjuohiq) |
 | Maker Basics: Woodworking | 2026-08-13 | Berlin, DE | [↗](https://lu.ma/v43ewzoo) |
+| Leap Open Office Day: Co-Working, Coffee & Quantum Vibes | 2026-08-13 | Berlin, DE | [↗](https://lu.ma/jfkv45au) |
 | Founders Court #04 | 2026-08-14 | Berlin, DE | [↗](https://lu.ma/qqzdrh76) |
 | Maker Basics: Laser Cutting | 2026-08-14 | Berlin, DE | [↗](https://lu.ma/denucwav) |
+| Bergfruende x Flat Earth Adventure Club x OUTO x Smartwool Hike | 2026-08-14 | Berlin, DE | [↗](https://lu.ma/i3lzb19x) |
 | Hack Glasgow | 2026-08-15 | Glasgow (UK) | [↗](https://hackglasgow.live/) |
 | GDG Ahlen x WiDS: Next-Gen AI – Agents, Ethics, and Data Integrity. | 2026-08-15 | Ahlen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-gdg-ahlen-x-wids-next-gen-ai-agents-ethics-and-data-integrity/) |
 | Pisco Sour x Ceramics Launch Pop Up I by Migration of Matter & Pisco Porton | 2026-08-15 | Berlin, DE | [↗](https://lu.ma/tp5pdnn1) |
@@ -1452,6 +1487,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | To Customer Value and Beyond by addressable value | 2026-08-27 | Berlin, DE | [↗](https://lu.ma/3l8jkvoe) |
 | Hacker Room Demo Day | 2026-08-27 | Berlin, DE | [↗](https://lu.ma/hacker-room-demo-day-3) |
 | TEDx CODE University | 2026-08-27 | Berlin, DE | [↗](https://lu.ma/4q8utmkl) |
+| Deep Tech Night: Quantum & Photonics | 2026-08-27 | Berlin, DE | [↗](https://lu.ma/iwroh3uo) |
 | Talleres de Verano de Subflash | 2026-08-28 | La Rioja, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-la-rioja-presents-talleres-de-verano-de-subflash/) |
 | State of the Map | 2026-08-28 to 2026-08-30 | Paris | [↗](https://dev.events/conferences/state-of-the-map-77e72sxy) |
 | BASTA! Herbst 2026 | 2026-08-28 to 2026-09-02 | Mainz | [↗](https://dev.events/conferences/basta-herbst-2026-4r1tx5zi) |
@@ -1463,6 +1499,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | desirelines book club: episode 3 | 2026-09-01 | Berlin, DE | [↗](https://lu.ma/h7bpipuv) |
 | Talleres Inteligencia Artificial CIMA 2026 | 2026-09-01 | Ponferrada, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-ponferrada-presents-talleres-inteligencia-artificial-cima-2026/) |
 | Science of Meditation & Nervous System Regulation 🧘‍♂️✨ | 2026-09-01 | Berlin, DE | [↗](https://lu.ma/age-pty3) |
+| Silent Book Club Session n. 45 - Gleisdreieck Park! | 2026-09-01 | Berlin, DE | [↗](https://lu.ma/erwx7msb) |
 | JavaZone | 2026-09-02 to 2026-09-03 | Lillestrøm (Norway) | [↗](https://2026.javazone.no) |
 | Build with AI : Google TensorFlow & Radiologie [In coming...] | 2026-09-02 | Nice, France | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-cote-dazur-university-nice-france-presents-build-with-ai-google-tensorflow-amp-radiologie-in-coming/) |
 | Developer Impact Days 2026 (Hybrid Event 2 of 3) \| Berlin | 2026-09-02 | Berlin, DE | [↗](https://lu.ma/961y6e4n) |
@@ -1495,6 +1532,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Circle Of Bytes - Innovate & Inspire - 2026 | 2026-09-08 to 2026-09-13 | Magaluf (Spain) | [↗](https://circleofbytes.com/social/event/38e4cb1a-4c9f-44c4-8d05-6b4c5405f6e1) |
 | Soirée de lancement : DRH, tous des héros | 2026-09-08 | Paris, FR | [↗](https://lu.ma/6k2gn6jt) |
 | PGDay UK 2026 | 2026-09-08 | London | [↗](https://dev.events/conferences/pg-day-uk-2026-d7lsrwkk) |
+| Women's AI Breakfast - Hypergrowth Playbook | 2026-09-08 | Berlin, DE | [↗](https://lu.ma/womens-ai-breakfast-32) |
 | Percona Live Amsterdam | 2026-09-09 to 2026-09-11 | Amsterdam (Netherlands) | [↗](http://perconalive.com/) |
 | Sooner Safer Happier LIVE 2026 | 2026-09-09 | London (UK) | [↗](https://www.soonersaferhappier.com/heretogether) |
 | Humanoid Robots Summit Europe 2026 | 2026-09-09 to 2026-09-11 | Stuttgart (Germany) | [↗](https://acgrobot.com/) |
@@ -1695,6 +1733,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Compass AI & Tech Summit | 2026-10-01 to 2026-10-02 | Budapest | [↗](https://dev.events/conferences/compass-ai-and-tech-summit-2mzn0-7o) |
 | AlligatorCon 2026 | 2026-10-01 to 2026-10-03 | Krakow | [↗](https://dev.events/conferences/alligator-con-2026-jiiam3c) |
 | bitcoin++ payments edition | 2026-10-01 to 2026-10-03 | Berlin | [↗](https://dev.events/conferences/bitcoin-payments-edition-xc0nhomi) |
+| Women Techmakers × B&R Industrial Automation GmbH | 2026-10-01 | Salzburgo, Austria | [↗](https://gdg.community.dev/events/details/google-gdg-salzburg-presents-women-techmakers-x-bampr-industrial-automation-gmbh/) |
 | ServerlessDays Cardiff 2026 | 2026-10-02 to 2026-10-03 | Cardiff (UK) | [↗](https://cardiff.serverlessdays.io/) |
 | DevFest Perros-Guirec 2026 | 2026-10-02 | Perros-Guirec (France) | [↗](https://devfest.codedarmor.fr/) |
 | Bizz Summit ES 2026 | 2026-10-02 to 2026-10-03 | Madrid (Spain) | [↗](https://bizzsummit.es) |
@@ -2049,6 +2088,31 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Hardware Pioneers Max 2027 | 2027-06-09 to 2027-06-10 | London | [↗](https://dev.events/conferences/hardware-pioneers-max-2027-d8-ch7pk) |
 | Home \| Product-Led Festival \| London | 2027-06-18 | London | [↗](https://dev.events/conferences/home-product-led-festival-london-ji0prvbi) |
 | KubeCon + CloudNativeCon Europe 2028 | 2028-04-24 | Berlin (Germany) | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2028/) |
+| Soirée de closing Fleuret 🤺 | 2026-07-20 | Paris, FR | [↗](https://lu.ma/yr7hvc3e) |
+| Built, Not Bought: Go-to-Market for Modern Consumer Brands | 2026-07-20 | Berlin, DE | [↗](https://lu.ma/yyhduol5) |
+| 🔵 Focus Warriors Circle — ADHD Peer Support | 2026-07-20 | Berlin, DE | [↗](https://lu.ma/gm4tysqd) |
+| The Linked Creatives Hub – Bringing Creative Industries Together | 2026-07-20 | London, GB | [↗](https://lu.ma/v7fhwks2) |
+| Cambridge Alumni for Sustainability: Summer Social - 20 July | 2026-07-20 | London, GB | [↗](https://lu.ma/pq6mqgzt) |
+| The Agent Economy: What Could Possibly Go Wrong? | 2026-07-20 | London, GB | [↗](https://lu.ma/s1uyta08) |
+| Babes in London: Ice, Sauna & Recovery for Ambitious Babes | 2026-07-20 | London, GB | [↗](https://lu.ma/06y80kjo) |
+| Strategy Mastermind \| London Founders & Investors | 2026-07-20 | London, GB | [↗](https://lu.ma/3wevo9yy) |
+| Arc Blockrun Workshop | 2026-07-20 | London, GB | [↗](https://lu.ma/sem5m0uq) |
+| The Right to Remain Human - An Evening with Thomas Hübl | 2026-07-20 | Berlin, DE | [↗](https://lu.ma/jz8f70sf) |
+| Dîner Cinéma @ Stóra | 2026-07-20 | Paris, FR | [↗](https://lu.ma/difnyhja) |
+| Inside AI: From Early Ideas to Modern Approaches and Best Practices | 2026-07-20 | Warsaw, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-warszawa-presents-inside-ai-from-early-ideas-to-modern-approaches-and-best-practices/) |
+| LISA Presents: Andrew Draganov - AIs, AGI, and what it might do | 2026-07-20 | London, GB | [↗](https://lu.ma/ygkitm6h) |
+| Sound Bath: Find Your Ground @ The Maqam Centre | 2026-07-20 | London, GB | [↗](https://lu.ma/5siqrj1r) |
+| Slow Poke Run Club: Monday Run | 2026-07-20 | Berlin, DE | [↗](https://lu.ma/nnb1ysc0) |
+| Own Pace Monday #41 - Speed Endurance | 2026-07-20 | Berlin, DE | [↗](https://lu.ma/nsvk59k3) |
+| Material Circle | 2026-07-20 | London, GB | [↗](https://lu.ma/iy32sf62) |
+| IoD Web3 SIG: Roundtable | 2026-07-20 | London, GB | [↗](https://lu.ma/rm4m9yub) |
+| Health, Tech, Psych Network Meetup - Topic: Healthcare Careers in the Age of AI: Are You Ready for What's Next? | 2026-07-20 | Berlin, DE | [↗](https://lu.ma/dixcaty1) |
+| The Shuttle Collective | 2026-07-20 | London, GB | [↗](https://lu.ma/lsgbbwl3) |
+| AI Enthusiasts - Tech: The Return of the Fable | 2026-07-20 | Berlin, DE | [↗](https://lu.ma/6t9ww4sk) |
+| Weekly Girlies Pilates | 2026-07-20 | Berlin, DE | [↗](https://lu.ma/zgzqikzo) |
+| Endorphins & Exchanges – Founders Co-work & Run | 2026-07-20 | Berlin, DE | [↗](https://lu.ma/m64b8qqi) |
+| Yorkseed Paris Basecamp - Summer Co-Work | 2026-07-20 | Paris, FR | [↗](https://lu.ma/uflmyz4m) |
+| Mistral AI & HEC IA - Dinner | 2026-07-20 | Paris, FR | [↗](https://lu.ma/0jaswvez) |
 | Gemini Summer of Code interns at the Liquid Galaxy Project, 2nd meeting | 2026-07-19 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-gemini-summer-of-code-interns-at-the-liquid-galaxy-project-2nd-meeting/) |
 | 📚 Offline Reading Party \| Rooftop edition \| Zoku \| Paris 17th | 2026-07-19 | Paris, FR | [↗](https://lu.ma/lxp01y53) |
 | Minor Figures x RUN-N-RAVE @ Ingwer Berlin | 2026-07-19 | Berlin, DE | [↗](https://lu.ma/runrave-ehbe) |
@@ -2398,27 +2462,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Solo Builders LDN: Coworking Session Vol. 1 | 2026-07-14 | London, GB | [↗](https://lu.ma/4z485m8m) |
 | WATCH PARTY FOOTBALL & HOT-DOGS - Demi-finale "France vs. ???" @La Montgolfière 18ème | 2026-07-14 | Paris, FR | [↗](https://lu.ma/sr4n9gav) |
 | Speed Pitching for Startup Founders to Angel and VC Investors | 2026-07-14 | London, GB | [↗](https://lu.ma/x77i5qa3) |
-| Berlin. Vibe Coding Club: Demo Night | 2026-07-13 | Berlin, DE | [↗](https://lu.ma/kba9bjzi) |
 | EuroPython 2026 | 2026-07-13 to 2026-07-19 | Krakow | [↗](https://dev.events/conferences/euro-python-2026-3mhkfkjw) |
-| LSEN Summer Drinks 2026 | 2026-07-13 | London, GB | [↗](https://lu.ma/ukvssd5h) |
-| Building Defensible Companies: Episode 3: From Idea-Exit In 4 Years. Christopher Dell: Founder Locale | 2026-07-13 | London, GB | [↗](https://lu.ma/79sb8w70) |
-| Footie T-shirt upcycling workshop with @patchmadebyeliza | 2026-07-13 | London, GB | [↗](https://lu.ma/9k8wszun) |
-| Stablecoin Meetup with Zebec | 2026-07-13 | London, GB | [↗](https://lu.ma/encode-whe0) |
-| Campaign Lab Summer Hack Night! | 2026-07-13 | London, GB | [↗](https://lu.ma/0jgxtvhs) |
-| LSEN Drinks 2026 | 2026-07-13 | London, GB | [↗](https://lu.ma/brv887ts) |
-| Permission to play - A flirt workshop for queer FLINTAs | 2026-07-13 | Berlin, DE | [↗](https://lu.ma/ab1y3fdu) |
-| Meet the Machines | 2026-07-13 | Berlin, DE | [↗](https://lu.ma/3pmdhqrq) |
-| AI Paper Reading Club - Benchmarking - Measuring Massive Multitask Language Understanding (MMLU) \| S01E06 | 2026-07-13 | Ourense, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-ourense-presents-ai-paper-reading-club-benchmarking-measuring-massive-multitask-language-understanding-mmlu-s01e06/) |
-| EIA London 2026 — Opening Day | 2026-07-13 | London, GB | [↗](https://lu.ma/0yijvpop) |
-| DroneAid: build a drone from parts to flight | 2026-07-13 | Paris, FR | [↗](https://lu.ma/ejzxrmf7) |
-| MEGA Picnic Bastille \| Celebrate Together | 2026-07-13 | Paris, FR | [↗](https://lu.ma/xoq20b2i) |
-| Comentamos el Google I/O Connect Berlin 2026, desde el Creator's Studio en Google Berlin | 2026-07-13 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-comentamos-el-google-io-connect-berlin-2026-desde-el-creators-studio-en-google-berlin/) |
-| How to Set Up a Business in the UK - Fireside Chat with Graeme Donnelly | 2026-07-13 | London, GB | [↗](https://lu.ma/nsbm371p) |
-| Cartesia Research Happy Hour in London | 2026-07-13 | London, GB | [↗](https://lu.ma/3p1u9pgf) |
-| Postnatales Yoga mit/ohne Baby 0+ mit Marion | 2026-07-13 | Berlin, DE | [↗](https://lu.ma/gxh5pinv) |
-| Bliss Reading Group - July 13 | 2026-07-13 | Berlin, DE | [↗](https://lu.ma/arud5ref) |
-| Own Pace Monday #40 - AYOP X Momentum | 2026-07-13 | Berlin, DE | [↗](https://lu.ma/tcudqrhc) |
-| Community Outreach Day | 2026-07-13 | Passau, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-passau-passau-germany-presents-community-outreach-day/) |
 | OWASP Chapter Frankfurt | 2026-07-01 to 2026-11-25 | Frankfurt am Main, Germany | [↗](https://owasp.org/www-chapter-frankfurt/) |
 | Open Source Summit EU | Sep 16-18 2026 | Vienna, Austria | [↗](https://events.linuxfoundation.org/open-source-summit-europe/) |
 | meshcloud Con'26 | TBA | Frankfurt, Germany | [↗](https://con26.meshcloud.io/ ) |
@@ -2432,46 +2476,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Pre-Dotdev Breakfast with Notify Me! | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/rglpzr6s) |
-| The (formerly Editions, now DotDev) Agency Brunch | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/pqfakgxw) |
-| Web3 Toronto Conference 2026 | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/Web3ToCon26) |
-| Media Accelerator & Startup Cohort | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/yecsdywh) |
-| Pickle Dot Dev | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/gmrxbxgh) |
-| AI Growth Summit Toronto | 2026-07-20 | Toronto | [↗](https://lu.ma/yyz-26) |
-| In Depth - GTM Dinner Salon (Hosted by Nima Mirpourian & Friends) | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/y1alr7y5) |
-| True Story Non-Fic Club: Strangers by Belle Burden | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/9ethhd3u) |
-| CryptoMonday Toronto @ Blockchain Futurist Conference | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/knepwzoe) |
-| Proof of Buckets 🏀✅ \| A Canada Crypto Week Side Event | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/yeujr4jn) |
-| Spring-a-ling: A Movement Playground # 8 | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/s7xxkzgc) |
-| The Support Heroes Presents: The Shopify App Show Live | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/yhtqna0f) |
-| Meraki Season 5 Episode 5 | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/pcfeuc5e) |
-| EY x ID8 Ventures \| Networking Session & Startup Pitch | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/5hatizry) |
-| Parent Strong - Monday morning walk + movement | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/ef6qkmw4) |
-| AI Agents For Personal Payments \| ClawBuilders.Club | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/qx6mgyob) |
-| Cataclysm by Malik Seneferu | 2026-07-20 | San Francisco, US | [↗](https://lu.ma/9g1byytu) |
-| Design & Deploy Workshop | 2026-07-20 | San Francisco, US | [↗](https://lu.ma/vs5ybrec) |
-| Embassy Curbside Dinner | 2026-07-20 | San Francisco, US | [↗](https://lu.ma/sb7ipkk0) |
-| Cafe Cursor San Francisco: Startup Edition | 2026-07-20 | San Francisco, US | [↗](https://lu.ma/cafe-cursor-sf-startups) |
-| Honest Feedback: AI Startups | 2026-07-20 | San Francisco, US | [↗](https://lu.ma/3ckvw4k5) |
-| Knightcap at The Well \| International Chess Day | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/bjj6x289) |
-| Informática Forense : Análisis Técnico de Antenas y Triangulación | 2026-07-20 | Tijuana, Mexico | [↗](https://gdg.community.dev/events/details/google-gdg-tijuana-presents-informatica-forense-analisis-tecnico-de-antenas-y-triangulacion/) |
-| Pitch and Run Monday | 2026-07-20 | New York, US | [↗](https://lu.ma/0yc5aeut) |
-| AI Cohort Communal Lunch | 2026-07-20 | New York, US | [↗](https://lu.ma/tavern-9tmm) |
-| CTO SUMMER LUNCH & COWORKING (July 20) | 2026-07-20 | New York, US | [↗](https://lu.ma/iqsmqc5g) |
-| NYC Deeptech Meetup #3 ft. Robotics with Intelligence Factory | 2026-07-20 | New York, US | [↗](https://lu.ma/9zpir1lq) |
-| The AI Storefront: How AI Is Changing Discovery and Shopping in Fashion | 2026-07-20 | New York, US | [↗](https://lu.ma/qoowlk8t) |
-| Generations: A relentless exploration of progress forged in sweat and dirt | 2026-07-20 | New York, US | [↗](https://lu.ma/w8ko6ua6) |
-| NeuroNYC’s Inaugural GP/LP Happy Hour | 2026-07-20 | New York, US | [↗](https://lu.ma/qlytyu5m) |
-| Pitch Your Way Into the Hacker House - powered by OnlyExit | 2026-07-20 | New York, US | [↗](https://lu.ma/pitch-hacker-house) |
-| Women in Tech - Yoga + Networking | 2026-07-20 | New York, US | [↗](https://lu.ma/zgub5p58) |
-| Chelsea Community Dinner | 2026-07-20 | New York, US | [↗](https://lu.ma/lf77sjoe) |
-| Drop-In Men's Work Group | 2026-07-20 | New York | [↗](https://lu.ma/sgx44ejd) |
-| Reading Rhythms Lower Manhattan: July 20 | 2026-07-20 | New York, US | [↗](https://lu.ma/e48kbsn2) |
-| Dance For Camera: Jake Urban | 2026-07-20 | New York, US | [↗](https://lu.ma/t9a36pz8) |
-| Homecoming - Inner Child Workshop | 2026-07-20 | New York, US | [↗](https://lu.ma/84hefaq1) |
-| BRIDGES: Executive Summit Welcome Dinner sponsored by Gunderson & Starbridge | 2026-07-20 | New York, US | [↗](https://lu.ma/41f9dg3v) |
-| BitcoinMondays - Featuring A Discussion On Saylor's Strategy | 2026-07-20 | New York, US | [↗](https://lu.ma/hiqg82pa) |
-| High Performance Training Session | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/hb24pmuv) |
 | SEI Summer Series 2026 | 2026-07-21 to 2026-07-23 | Arlington, VA (USA) | [↗](https://sei.cmu.edu/events/sei-summer-series/) |
 | Blast Wheels IRL Racing Tournament – Futurist Toronto 2026 | 2026-07-21 | Toronto, CA | [↗](https://lu.ma/BlastWheels_Day1) |
 | Meet Doginal Dogs @ Blockchain Futurist Conference | 2026-07-21 | Toronto, CA | [↗](https://lu.ma/DoginalDogs_Toronto26) |
@@ -2543,6 +2547,9 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | 1RG Silent Reading Club | 2026-07-21 | Toronto, CA | [↗](https://lu.ma/0p0fd6uv) |
 | FC SF • Founders Run & Coffee! | 2026-07-21 | San Francisco, US | [↗](https://lu.ma/2opylbqn) |
 | FC NYC • Founders Run & Coffee! | 2026-07-21 | New York, US | [↗](https://lu.ma/zm4q009z) |
+| All things software infrastructure | 2026-07-21 | San Francisco, us | [↗](https://www.meetup.com/noisebridge/events/314029990/) |
+| 9030 club reading "Inkling: Thinking Machines open-weights model": #61 - ML Paper Reading Group | 2026-07-21 | San Francisco, US | [↗](https://lu.ma/7fot1ept) |
+| Essentials of Buddhist Practice | 2026-07-21 | New York, US | [↗](https://lu.ma/w550gefe) |
 | Legal Essentials for Game Developers: Privacy, Safety & IP | 2026-07-22 | San Francisco, us | [↗](https://www.meetup.com/monthly-sf-game-development-community/events/315300520/) |
 | GDG Cloud Southlake #54: Richard Seroter: How to Build with AI and Not Lose Your Soul | 2026-07-22 | Southlake, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-southlake-presents-gdg-cloud-southlake-54-richard-seroter-how-to-build-with-ai-and-not-lose-your-soul/) |
 | Swift Rockies | 2026-07-22 | Calgary, Canada | [↗](https://swiftrockies.com) |
@@ -2649,6 +2656,17 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Just Do Things Workshop | 2026-07-22 | Toronto, CA | [↗](https://lu.ma/m94u2gcq) |
 | Modern Money Futurist 2026 | 2026-07-22 | Toronto, CA | [↗](https://lu.ma/ModernMoneyFuturist2026) |
 | Diligence Live — Toronto | 2026-07-22 | Toronto, CA | [↗](https://lu.ma/0xgau9jl) |
+| Data Debug SF: Monthly Meetup | 2026-07-22 | San Francisco, us | [↗](https://www.meetup.com/data-debug/events/315393963/) |
+| Foundry Live: Agentic AI Demo Night | 2026-07-22 | San Francisco, US | [↗](https://www.meetup.com/bay-area-research-in-nlp-and-ml/events/315475770/) |
+| Founders Inc: Open Campus Tuesday | 2026-07-22 | San Francisco, US | [↗](https://lu.ma/open-campus-11) |
+| YC Reject Pitch Night, hosted by Sanscritic @Workato HQ | 2026-07-22 | San Francisco, US | [↗](https://lu.ma/yc-reject-pitch-night) |
+| The Decade Ahead | 2026-07-22 | San Francisco, US | [↗](https://lu.ma/osffvtq0) |
+| JPMorgan Innovation Economy Connect @ Park Padel | 2026-07-22 | San Francisco, US | [↗](https://lu.ma/fitm9i74) |
+| Founders Breakfast: GTM Strategy’s & Tactics Leveraging AI | 2026-07-22 | New York, US | [↗](https://lu.ma/7e13v9p7) |
+| The New York IP Circle | 2026-07-22 | New York, US | [↗](https://lu.ma/o7q4sb83) |
+| Building Agents Workshop | 2026-07-22 | New York, US | [↗](https://lu.ma/filament-9dg1) |
+| Soma's Summer Happy Hour | 2026-07-22 | New York, US | [↗](https://lu.ma/e7cp12bw) |
+| WEB3 WELLNESS LOUNGE - Futurist Conference | 2026-07-22 | Toronto, CA | [↗](https://lu.ma/8tg0n6zy) |
 | Create with Google AI: Building Multi-Modal Experiences | 2026-07-23 | Burnaby, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-burnaby-presents-create-with-google-ai-building-multi-modal-experiences/) |
 | GAIL executive coding Jam session 1 | 2026-07-23 | Atlanta, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-atlanta-presents-gail-executive-coding-jam-session-1/) |
 | [IN-PERSON] GDG DFW Social Club #29: Flying Saucer Cypress Waters/Coppell/Dallas | 2026-07-23 | Southlake, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-southlake-presents-in-person-gdg-dfw-social-club-29-flying-saucer-cypress-waterscoppelldallas/) |
@@ -2779,6 +2797,21 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | The Dinner Table at Grandma's Home (Flatiron) | 2026-07-23 | New York, US | [↗](https://lu.ma/DinnerTableGrandmasHome1) |
 | Whop x Rain Founders Dinner | 2026-07-23 | New York, US | [↗](https://lu.ma/oavskysa) |
 | Emily & Youssef ft. Cassy at No More Café 🎶 ⭐ | 2026-07-23 | New York, US | [↗](https://lu.ma/spnjd8jx) |
+| How to create a Zoo management web app | 2026-07-23 | San Francisco, us | [↗](https://www.meetup.com/live-premium-project/events/315535708/) |
+| Georgian Tech Meetup SF 🇬🇪 | 2026-07-23 | San Francisco, US | [↗](https://lu.ma/rt4mof6i) |
+| Stephen Hosts Volleys & Vibes: SZN 6 x WEEK 3 | 2026-07-23 | San Francisco, US | [↗](https://lu.ma/ugzdbpbb) |
+| Thursday Communi-tea @ The Fold SF: Apollo Innovation Commons x Human Flourishing | 2026-07-23 | San Francisco, US | [↗](https://lu.ma/f2u8o6ej) |
+| Lexi @ Long Bridge | 2026-07-23 | San Francisco, US | [↗](https://lu.ma/kgq9er83) |
+| Kove Studio: West Village Launch Event | 2026-07-23 | New York, US | [↗](https://lu.ma/m7c36m26) |
+| 🌿 Healthtech Spritz 🍊 | 2026-07-23 | New York, US | [↗](https://lu.ma/46wupxmg) |
+| Inside Tik Tok Shop US | 2026-07-23 | New York, US | [↗](https://lu.ma/47ex38b1) |
+| NY SWIM WEEK - THE CANVAS SOHO LAUNCH | 2026-07-23 | New York, US | [↗](https://lu.ma/thecanvas-8hii) |
+| teagather \| a tarot night | 2026-07-23 | New York, US | [↗](https://lu.ma/3l2pf27e) |
+| Cake Decorating Workshop 🍰 | 2026-07-23 | New York, US | [↗](https://lu.ma/kvyq5src) |
+| Mosaic Pottery Workshop | 2026-07-23 | New York, US | [↗](https://lu.ma/g6bkrp6c) |
+| Pasta Making Party w/ Corgi and Allora | 2026-07-23 | New York, US | [↗](https://lu.ma/k8n2066r) |
+| Flique Launch Party | 2026-07-23 | New York, US | [↗](https://lu.ma/akkjz6hz) |
+| Ecstatic Dance Toronto - A Weekly Wellness Dance to Move, Release & Come Alive | 2026-07-23 | Toronto, CA | [↗](https://lu.ma/39he6h90) |
 | SolutionHacks 2026: Unleashing Innovation | 2026-07-24 | Toronto, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-toronto-metropolitan-university-toronto-canada-presents-solutionhacks-2026-unleashing-innovation/) |
 | Beyond the Prompt: AI and the Future of Intelligent Systems | 2026-07-24 | Lethbridge, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-lethbridge-presents-beyond-the-prompt-ai-and-the-future-of-intelligent-systems/) |
 | TechNisa Hacks | 2026-07-24 | Toronto, CA | [↗](https://lu.ma/iqg69jj3) |
@@ -2855,6 +2888,28 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Startup School Week: How to Break Into Startups | 2026-07-24 | San Francisco, US | [↗](https://lu.ma/pxijn023) |
 | YC SUS Game Night @ EF | 2026-07-24 | San Francisco, US | [↗](https://lu.ma/0pl3rlxm) |
 | lucky tile club - july 2026 edition | 2026-07-24 | Toronto, CA | [↗](https://lu.ma/nohi8tmc) |
+| Creating an Instagram Service in Django | 2026-07-24 | San Francisco, us | [↗](https://www.meetup.com/live-premium-project/events/315539905/) |
+| MENA Founder Dinner w Sprinto, Deel, and Viaka | 2026-07-24 | San Francisco, US | [↗](https://lu.ma/fd_sprinto_viaka) |
+| SF Comma Summer Hangout | 2026-07-24 | San Francisco, US | [↗](https://lu.ma/7u4yqf1n) |
+| Future Of Conversational AI: Private Dinner With Fish Audio | 2026-07-24 | San Francisco, US | [↗](https://lu.ma/nyht3gue) |
+| The Consumer Playbook Exchange for Cracked Marketers in SF | 2026-07-24 | San Francisco, US | [↗](https://lu.ma/fyvhu16l) |
+| Agent CTOs Fireside Chat \| YC Startup School | 2026-07-24 | San Francisco, US | [↗](https://lu.ma/4c67jnyj) |
+| Building For Doctors 101 | 2026-07-24 | San Francisco, US | [↗](https://lu.ma/7eyx3e6t) |
+| Whitepill Release Party with Scott Greer - NYC | 2026-07-24 | New York, US | [↗](https://lu.ma/wv8vmmn8) |
+| Founder Strength Club (Hosted by Andrew & Friends) | 2026-07-24 | New York, US | [↗](https://lu.ma/founderstrengthclub-jul2026) |
+| AI Growth Summit NYC | 2026-07-24 | New York | [↗](https://lu.ma/nyc26) |
+| Founder Coffee Meet | 2026-07-24 | New York, US | [↗](https://lu.ma/nl1d2wmt) |
+| Retail Women in Tech TechWalk \| NYC, 7/24 | 2026-07-24 | New York, US | [↗](https://lu.ma/f0lkj2gm) |
+| Hello, Robot! Hack Day with Viam and SPC | 2026-07-24 | New York, US | [↗](https://lu.ma/viam-spc-hack) |
+| Convergence Health Summit NYC Where Healthcare Innovation Meets Real-World Adoption | 2026-07-24 | New York, US | [↗](https://lu.ma/dx92m3zf) |
+| NYC Coffee Club \| Taking the Leap: Industry Vets Who Left to Build | 2026-07-24 | New York, US | [↗](https://lu.ma/ha3ty4li) |
+| Mnd Bod Pilates at Casa Cipriani | 2026-07-24 | New York, US | [↗](https://lu.ma/crj88azd) |
+| Aguadulce: A Fundraiser for Venezuela | 2026-07-24 | New York, US | [↗](https://lu.ma/aguadulce) |
+| Demo Day: Summer Design Hackathon | 2026-07-24 | New York, US | [↗](https://lu.ma/hackathon-demo-day) |
+| 🗽 NYC Founders: In Person Meetup with Special Guest Robert Manasier | 2026-07-24 | New York, US | [↗](https://lu.ma/oneday-g1ty) |
+| T4T Night Of Whimsy | 2026-07-24 | New York, US | [↗](https://lu.ma/accentisa-t4t) |
+| Beyond Vibe Coding: Let's Build Some (Fun) Agents! | 2026-07-24 | New York, US | [↗](https://lu.ma/bg6rgm4r) |
+| Toronto Solana VibeStation | 2026-07-24 | Toronto, CA | [↗](https://lu.ma/os70m03z) |
 | Shielding the Future: Secure Agents with Model Armor | 2026-07-25 | Venice, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-culver-city-presents-shielding-the-future-secure-agents-with-model-armor/) |
 | Red Hat & GDG Newport Beach | 2026-07-25 | Newport Beach, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-newport-beach-presents-red-hat-amp-gdg-newport-beach/) |
 | Build with AI: Come with an idea, leave with a working app. | 2026-07-25 | Chicago, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-chicago-presents-build-with-ai-come-with-an-idea-leave-with-a-working-app/) |
@@ -2901,6 +2956,12 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | LPL Poetry Workshop led by Nisha Srinivasa | 2026-07-25 | San Francisco, US | [↗](https://lu.ma/vv1drwyw) |
 | Ship 2 Prod \| YC AI SUS Black-Tie Yacht Gala | 2026-07-25 | San Francisco, US | [↗](https://lu.ma/ojidqyj8) |
 | Chillathalon #1 - The swim part | 2026-07-25 | Toronto, CA | [↗](https://lu.ma/nixukkdt) |
+| AI Builder Course in San Bruno | 2026-07-25 | San Francisco, us | [↗](https://www.meetup.com/ai-first-mindset/events/315606874/) |
+| Agent Engineering: Build Your First AI Agent — Free Intro Session | 2026-07-25 | San Jose, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-san-jose-presents-agent-engineering-build-your-first-ai-agent-free-intro-session/) |
+| Rain or Shine: Padel Session | 2026-07-25 | Toronto, CA | [↗](https://lu.ma/s0091amc) |
+| 444: Walk Club - 25th July | 2026-07-25 | Toronto, CA | [↗](https://lu.ma/mx881boi) |
+| Learning to Oil Paint (portrait) | 2026-07-25 | Toronto, CA | [↗](https://lu.ma/uexlzt1v) |
+| Walk, Talk & Host | 2026-07-25 | Toronto, CA | [↗](https://lu.ma/z4l14gnr) |
 | Case Closed: Sheridan's Official Case Study Competition | 2026-07-26 | Oakville, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sheridan-college-trafalgar-road-campus-oakville-canada-presents-case-closed-sheridans-official-case-study-competition/) |
 | Stillness In The Breeze: Watercolour & Sound Bath | 2026-07-26 | Toronto, CA | [↗](https://lu.ma/hi47xlq5) |
 | Kensington Market Art Fair | 2026-07-26 | Toronto, CA | [↗](https://lu.ma/jv4glt2y) |
@@ -2916,6 +2977,9 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | HCI International | 2026-07-26 to 2026-07-31 | Montreal | [↗](https://dev.events/conferences/hci-international-5ptpkn1s) |
 | Pages in the Park | 2026-07-26 | Toronto, CA | [↗](https://lu.ma/lttx2nlw) |
 | SAY SOMAALI COMMUNITY BBQ | 2026-07-26 | Toronto, CA | [↗](https://lu.ma/i3k4luy0) |
+| SF AI Code and Coffee Sunday July 26th 2026 @Salesforce Park! | 2026-07-26 | San Francisco, us | [↗](https://www.meetup.com/sf-code-coffee/events/315603643/) |
+| Evening session: All-Day Mahjong Party | 2026-07-26 | Toronto, CA | [↗](https://lu.ma/yrkt658a) |
+| 🌅 Golden Hour Potluck Picnic at R.C. Harris Water Treatment Plant 🌊 | 2026-07-26 | Toronto, CA | [↗](https://lu.ma/00dk2ic1) |
 | Reinforcement Learning & Why It Matters Now | 2026-07-27 | Toronto, CA | [↗](https://lu.ma/5mm6unjp) |
 | Data Drinks July 2026 [TORONTO] | 2026-07-27 | Toronto, CA | [↗](https://lu.ma/25zjslpr) |
 | Tech Pizza Monday: Papers Club Edition | 2026-07-27 | Toronto, CA | [↗](https://lu.ma/oa1kdflg) |
@@ -2942,6 +3006,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Full Moon Ceremony 🐺 🌕 | 2026-07-28 | Toronto, CA | [↗](https://lu.ma/e3kz42lu) |
 | Social Reading Night #19 | 2026-07-28 | Toronto, CA | [↗](https://lu.ma/fimxwzls) |
 | Stan Co-Working | 2026-07-28 | Toronto, CA | [↗](https://lu.ma/40w2i0kb) |
+| Weekly Slurp 5 | 2026-07-28 | Toronto, CA | [↗](https://lu.ma/y48h9z7u) |
 | Chain React 2026 | 2026-07-29 to 2026-07-31 | Portland, OR (USA) | [↗](https://chainreactconf.com/) |
 | Building with Google Antigravity | 2026-07-29 | San Diego, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-san-diego-presents-building-with-google-antigravity/) |
 | CO-RELATE | 2026-07-29 | Toronto, CA | [↗](https://lu.ma/0lbk070d) |
@@ -2954,6 +3019,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | State of Vulnerability Management Virtual Summit | 2026-07-29 | Tampa, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-tampa-bay-presents-state-of-vulnerability-management-virtual-summit/) |
 | Pain to Power Music Summit | 2026-07-29 | Toronto, CA | [↗](https://lu.ma/o9t1g5t4) |
 | Prediction Arc: In Conversation With Dr. Robin Hanson | 2026-07-29 | Toronto, CA | [↗](https://lu.ma/0ivcqfcs) |
+| Enterprise AI for LTMs and Structured Data | 2026-07-29 | San Francisco, US | [↗](https://www.meetup.com/aittg-sfsv/events/315767700/) |
 | Building an AI resume optimization tool with Matthew Christiansen: Session 2 | 2026-07-30 | Atlanta, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-atlanta-presents-building-an-ai-resume-optimization-tool-with-matthew-christiansen-session-2/) |
 | July Tech Mixer 2026 | 2026-07-30 | Mississauga, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-mississauga-presents-july-tech-mixer-2026/) |
 | AMA (Ask Me Anything) - Toronto! | 2026-07-30 | Toronto, CA | [↗](https://lu.ma/5zfnc79w) |
@@ -2969,9 +3035,13 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Philosophies of Nature Tarot Deck Exploration | 2026-07-30 | Toronto, CA | [↗](https://lu.ma/5op5i37x) |
 | FULL MOON HIKE TO CLOUD 9  "SOCIAL EVENT"  SUNSET AND MOON RISE | 2026-07-30 | Phoenix, us | [↗](https://www.meetup.com/amazing-arizona-adventures-triple-a/events/315729454/) |
 | Ladies Foodies Club Dinner-Is This the Future We're Creating? Facing the Climate Challenge Together | 2026-07-30 | Toronto, CA | [↗](https://lu.ma/3lerk2bl) |
+| SF Python July 29th @ GGU | 2026-07-30 | San Francisco, us | [↗](https://www.meetup.com/sfpython/events/315401935/) |
+| Quiet Sunrise Social #5 | 2026-07-30 | Toronto, CA | [↗](https://lu.ma/jxl0cak6) |
+| Cohere @ UofT: AMA with Aidan Gomez | 2026-07-30 | Toronto, CA | [↗](https://lu.ma/zckuenu3) |
 | M365 Community Days NYC | 2026-07-31 | New York | [↗](https://dev.events/conferences/m365-community-days-nyc-mvq952j2) |
 | AIAI Technology Leaders Toronto meetup | 2026-07-31 | Toronto, CA | [↗](https://lu.ma/liyy6331) |
 | Build with Gemma - GDG CDMX Hackday | 2026-07-31 | Mexico City, Mexico | [↗](https://gdg.community.dev/events/details/google-gdg-cdmx-presents-build-with-gemma-gdg-cdmx-hackday/) |
+| AI for Everyday Life (Beginner Friendly) | 2026-07-31 | Toronto, CA | [↗](https://lu.ma/2qy5gte2) |
 | Introduction to Mathematical Concepts - class 4/4 | 2026-08-01 | Sherbrooke, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-sherbrooke-presents-introduction-to-mathematical-concepts-class-44/) |
 | Zamtox Game Jam: Calling All Game Devs!  | 2026-08-01 | Phoenix, us | [↗](https://www.meetup.com/zamtox-gamelab/events/315081040/) |
 | Build With Gemma: Triage In Light Speed | 2026-08-01 | Waterloo, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-waterloo-presents-build-with-gemma-triage-in-light-speed/) |
@@ -2983,6 +3053,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Alexander Nicholson - Private Showroom | 2026-08-02 | Toronto, CA | [↗](https://lu.ma/s95ohn5g) |
 | Mama at Caribana! | 2026-08-02 | Toronto, CA | [↗](https://lu.ma/45qjdf8t) |
 | Maalin Community Run 001 | 2026-08-02 | Toronto, CA | [↗](https://lu.ma/9hqyl9gr) |
+| Restore & Reconnect | 2026-08-02 | Toronto, CA | [↗](https://lu.ma/2ruamfng) |
 | fintech_devcon | 2026-08-03 | Denver, United States | [↗](https://fintechdevcon.io/) |
 | GopherCon 2026 | 2026-08-03 to 2026-08-06 | Washington D.C. (USA) | [↗](https://gophercon.com) |
 | For Students: How to Talk About Your Projects in an Interview | 2026-08-03 | Pittsburgh, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-pittsburgh-presents-for-students-how-to-talk-about-your-projects-in-an-interview/) |
@@ -2993,10 +3064,12 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Apps in Motion Conference | 2026-08-04 | New York | [↗](https://dev.events/conferences/apps-in-motion-conference-b4diym1w) |
 | Tacos Locos | 2026-08-04 | Toronto, CA | [↗](https://lu.ma/ek70kg80) |
 | Journey into SOMAdi \| A Blissful Breath Awakening Journey | 2026-08-04 | Toronto, CA | [↗](https://lu.ma/irk3kn9u) |
+| Social Reading Night #20 | 2026-08-04 | Toronto, CA | [↗](https://lu.ma/5b0mcpcv) |
 | Building MCP Servers: A Hands-On Workshop | 2026-08-05 | Rochester, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-rochester-presents-building-mcp-servers-a-hands-on-workshop/) |
 | NEXT Canada Women Builders Breakfast | 2026-08-05 | Toronto, CA | [↗](https://lu.ma/yujcgvhf) |
 | Prenatal Movement Session | 2026-08-05 | Toronto, CA | [↗](https://lu.ma/0l36ljf1) |
 | Harnessing the security in Agentic AI Era | 2026-08-05 | Toronto, CA | [↗](https://lu.ma/tsms40f2) |
+| Toronto Rooftop Engineering Mixer – OpenAI Codex Community x Rootly AI | 2026-08-05 | Toronto, CA | [↗](https://lu.ma/84i9yn56) |
 | AI Learning Lab: Build Your First App with Antigravity 2.0 | 2026-08-06 | New York, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-brooklyn-presents-ai-learning-lab-build-your-first-app-with-antigravity-20/) |
 | Recon Village @ DEFCON 2026 | 2026-08-06 to 2026-08-09 | Las Vegas | [↗](https://dev.events/conferences/recon-village-defcon-2026-nn38lhny) |
 | Free and Open Source Yearly Conference | 2026-08-06 to 2026-08-09 | Vancouver | [↗](https://dev.events/conferences/free-and-open-source-yearly-conference-wmjewxia) |
@@ -3007,6 +3080,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Recon Village Call for Workshops | 2026-08-07 to 2026-08-09 | Las Vegas, Nevada | [↗](https://reconvillage.org) |
 | AppSec Village Wargame | 2026-08-07 to 2026-08-09 | Las Vegas | [↗](https://dev.events/conferences/app-sec-village-wargame-omkm0gmf) |
 | Tastes of Tomorrow - A Festival of Global Identities. Sweet? Savoury? Or Spicy? Presented by Generation1.ca | 2026-08-07 | Toronto, CA | [↗](https://lu.ma/8g07njpc) |
+| ODSC AI x Snowflake: Build an AI Agent in <60 Min \| SF | 2026-08-07 | San Francisco, us | [↗](https://www.meetup.com/san-francisco-odsc/events/315709338/) |
 | Beer City Code 2026 | 2026-08-08 to 2026-08-09 | Grand Rapids, MI (USA) | [↗](https://beercitycode.com) |
 | DefCon Training | 2026-08-08 to 2026-08-11 | Las Vegas, NV (USA) | [↗](https://training.defcon.org/pages/2026-las-vegas-call-for-trainers) |
 | AI, AML & Fintech: Insights into Success and Failure | 2026-08-08 | Ajax, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-ajax-presents-ai-aml-amp-fintech-insights-into-success-and-failure/) |
@@ -3016,8 +3090,10 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Yanbo’s Photo Wander #7: We're going to Toronto Island! | 2026-08-08 | Toronto, CA | [↗](https://lu.ma/v9hvyy63) |
 | SAWN Book Club: In-Person Event - Meet the Author! | 2026-08-08 | Toronto, CA | [↗](https://lu.ma/pi8r729t) |
 | HTML Day Toronto & Waterloo | 2026-08-08 | Toronto, CA | [↗](https://lu.ma/8li9ghzh) |
+| Summer Outdoor Yoga | 2026-08-08 | Toronto, CA | [↗](https://lu.ma/nzjkwueu) |
 | FREE Toronto Book Launch Event with Sharif Khan, author of THE SUFI SURFER | 2026-08-09 | Toronto, CA | [↗](https://lu.ma/6ygmj7rq) |
 | BON APPÉTIT: Pilates + Brunch | 2026-08-09 | Toronto, CA | [↗](https://lu.ma/bonappetit) |
+| Currently Reading - a Sunday morning mid-book club at Book People | 2026-08-09 | Toronto, CA | [↗](https://lu.ma/fesj88qu) |
 | ClueCon | 2026-08-10 | Chicago, United States | [↗](https://www.cluecon.com/) |
 | pgDay México 2026 | 2026-08-10 | Mexico City | [↗](https://dev.events/conferences/pg-day-mexico-2026-wal4kqq) |
 | Together Toronto | 2026-08-10 | Toronto, CA | [↗](https://lu.ma/together-toronto-august26) |
@@ -3027,6 +3103,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Render (RenderATL) 2026 | 2026-08-12 to 2026-08-13 | Atlanta, GA (USA) | [↗](https://www.renderatl.com) |
 | Spicy Romance: Club 22 by Tate James | 2026-08-12 | Toronto, CA | [↗](https://lu.ma/3be9poi8) |
 | Reading Rhythms Toronto Chapter - August 12th (East End Patio!) | 2026-08-12 | Toronto, CA | [↗](https://lu.ma/reading-1sop) |
+| San Francisco Data Engineering Meetup with ClickHouse | 2026-08-12 | San Francisco, US | [↗](https://www.meetup.com/clickhouse-silicon-valley-meetup-group/events/315649001/) |
 | The CEO's Guide to System Design: Grounding Your Systems in Real Context | 2026-08-13 | Providence, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-providence-presents-the-ceos-guide-to-system-design-grounding-your-systems-in-real-context/) |
 | SF AI Engineers: Aug | 2026-08-13 | San Francisco, us | [↗](https://www.meetup.com/san-francisco-ai-engineers/events/313912559/) |
 | Pacific Northwest Software Symposium | 2026-08-13 to 2026-08-14 | Seattle | [↗](https://dev.events/conferences/pacific-northwest-software-symposium-e34u6ty2) |
@@ -3333,6 +3410,46 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | PyTorch Conference 2027 | 2027-10-06 to 2027-10-07 | San Jose, CA (USA) | [↗](https://events.linuxfoundation.org/pytorch-conference-2027/) |
 | 6th Tech Summit on Big Data, Data Science & Machine Learning | 2027-10-18 to 2027-10-20 | Austin | [↗](https://dev.events/conferences/6th-tech-summit-on-big-data-data-science-and-machine-learning-xuhm4bit) |
 | KubeCon + CloudNativeCon North America 2027 | 2027-11-08 to 2027-11-11 | New Orleans, LA (USA) | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2027/) |
+| Pre-Dotdev Breakfast with Notify Me! | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/rglpzr6s) |
+| The (formerly Editions, now DotDev) Agency Brunch | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/pqfakgxw) |
+| Web3 Toronto Conference 2026 | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/Web3ToCon26) |
+| Media Accelerator & Startup Cohort | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/yecsdywh) |
+| Pickle Dot Dev | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/gmrxbxgh) |
+| AI Growth Summit Toronto | 2026-07-20 | Toronto | [↗](https://lu.ma/yyz-26) |
+| In Depth - GTM Dinner Salon (Hosted by Nima Mirpourian & Friends) | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/y1alr7y5) |
+| True Story Non-Fic Club: Strangers by Belle Burden | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/9ethhd3u) |
+| CryptoMonday Toronto @ Blockchain Futurist Conference | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/knepwzoe) |
+| Proof of Buckets 🏀✅ \| A Canada Crypto Week Side Event | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/yeujr4jn) |
+| Spring-a-ling: A Movement Playground # 8 | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/s7xxkzgc) |
+| The Support Heroes Presents: The Shopify App Show Live | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/yhtqna0f) |
+| Meraki Season 5 Episode 5 | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/pcfeuc5e) |
+| EY x ID8 Ventures \| Networking Session & Startup Pitch | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/5hatizry) |
+| Parent Strong - Monday morning walk + movement | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/ef6qkmw4) |
+| AI Agents For Personal Payments \| ClawBuilders.Club | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/qx6mgyob) |
+| Cataclysm by Malik Seneferu | 2026-07-20 | San Francisco, US | [↗](https://lu.ma/9g1byytu) |
+| Design & Deploy Workshop | 2026-07-20 | San Francisco, US | [↗](https://lu.ma/vs5ybrec) |
+| Embassy Curbside Dinner | 2026-07-20 | San Francisco, US | [↗](https://lu.ma/sb7ipkk0) |
+| Cafe Cursor San Francisco: Startup Edition | 2026-07-20 | San Francisco, US | [↗](https://lu.ma/cafe-cursor-sf-startups) |
+| Honest Feedback: AI Startups | 2026-07-20 | San Francisco, US | [↗](https://lu.ma/3ckvw4k5) |
+| Knightcap at The Well \| International Chess Day | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/bjj6x289) |
+| Informática Forense : Análisis Técnico de Antenas y Triangulación | 2026-07-20 | Tijuana, Mexico | [↗](https://gdg.community.dev/events/details/google-gdg-tijuana-presents-informatica-forense-analisis-tecnico-de-antenas-y-triangulacion/) |
+| Pitch and Run Monday | 2026-07-20 | New York, US | [↗](https://lu.ma/0yc5aeut) |
+| AI Cohort Communal Lunch | 2026-07-20 | New York, US | [↗](https://lu.ma/tavern-9tmm) |
+| CTO SUMMER LUNCH & COWORKING (July 20) | 2026-07-20 | New York, US | [↗](https://lu.ma/iqsmqc5g) |
+| NYC Deeptech Meetup #3 ft. Robotics with Intelligence Factory | 2026-07-20 | New York, US | [↗](https://lu.ma/9zpir1lq) |
+| The AI Storefront: How AI Is Changing Discovery and Shopping in Fashion | 2026-07-20 | New York, US | [↗](https://lu.ma/qoowlk8t) |
+| Generations: A relentless exploration of progress forged in sweat and dirt | 2026-07-20 | New York, US | [↗](https://lu.ma/w8ko6ua6) |
+| NeuroNYC’s Inaugural GP/LP Happy Hour | 2026-07-20 | New York, US | [↗](https://lu.ma/qlytyu5m) |
+| Pitch Your Way Into the Hacker House - powered by OnlyExit | 2026-07-20 | New York, US | [↗](https://lu.ma/pitch-hacker-house) |
+| Women in Tech - Yoga + Networking | 2026-07-20 | New York, US | [↗](https://lu.ma/zgub5p58) |
+| Chelsea Community Dinner | 2026-07-20 | New York, US | [↗](https://lu.ma/lf77sjoe) |
+| Drop-In Men's Work Group | 2026-07-20 | New York | [↗](https://lu.ma/sgx44ejd) |
+| Reading Rhythms Lower Manhattan: July 20 | 2026-07-20 | New York, US | [↗](https://lu.ma/e48kbsn2) |
+| Dance For Camera: Jake Urban | 2026-07-20 | New York, US | [↗](https://lu.ma/t9a36pz8) |
+| Homecoming - Inner Child Workshop | 2026-07-20 | New York, US | [↗](https://lu.ma/84hefaq1) |
+| BRIDGES: Executive Summit Welcome Dinner sponsored by Gunderson & Starbridge | 2026-07-20 | New York, US | [↗](https://lu.ma/41f9dg3v) |
+| BitcoinMondays - Featuring A Discussion On Saylor's Strategy | 2026-07-20 | New York, US | [↗](https://lu.ma/hiqg82pa) |
+| High Performance Training Session | 2026-07-20 | Toronto, CA | [↗](https://lu.ma/hb24pmuv) |
 | Open Source Days | 2026-07-19 | Los Angeles, CA (USA) & Online | [↗](https://events.linuxfoundation.org/open-source-days/) |
 | July Pink Power Flow – Mat Pilates | 2026-07-19 | Toronto, CA | [↗](https://lu.ma/9k5cs6d4) |
 | Civic Space Sunday | 2026-07-19 | Toronto | [↗](https://lu.ma/civic-space-2026-july) |
@@ -3575,7 +3692,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | NUIT Atelier: Retrospective Showroom Launch | 2026-07-17 | Toronto, CA | [↗](https://lu.ma/2sxndn22) |
 | Ecom Founder Connect Dinner NY | 2026-07-17 | New York, US | [↗](https://lu.ma/EcomFounderDinnerNY2026) |
 | Pitch and Run Friday - The Original PNR | 2026-07-17 | New York | [↗](https://lu.ma/vrqiepu2) |
-| Retail Women in Tech TechWalk \| NYC, 7/17 | 2026-07-17 | New York, US | [↗](https://lu.ma/f0lkj2gm) |
 | BÉIS x Nicole McLaughlin — Upcycling Workshop | 2026-07-17 | New York, US | [↗](https://lu.ma/0uvvaty8) |
 | The Instagram Playbook: What the Algorithm Actually Wants | 2026-07-17 | New York, US | [↗](https://lu.ma/23en9fye) |
 | Music & Medicine: What the Dancefloor and ResusRoom Have in Common | 2026-07-17 | New York, US | [↗](https://lu.ma/a1o0zrmx) |
@@ -3903,29 +4019,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Mindstone Toronto July AI Meetup | 2026-07-14 | Toronto, CA | [↗](https://lu.ma/ul1j15do) |
 | The Intersection - A Venn Social Series | 2026-07-14 | Toronto, CA | [↗](https://lu.ma/uy02e87x) |
 | SciPy 2026 | 2026-07-13 to 2026-07-19 | Minneapolis, MN (USA) | [↗](https://www.scipy2026.scipy.org/) |
-| FluidFM® OMNIUM Platform A versatile platform for precision single-cell manipulation | 2026-07-13 | Toronto, CA | [↗](https://lu.ma/6u6p2dyy) |
-| Tech Canada Advocates — Launch Event | 2026-07-13 | Toronto, CA | [↗](https://lu.ma/1qti2bs9) |
-| Sacred Echo | 2026-07-13 | Toronto, CA | [↗](https://lu.ma/25cxq4u8) |
-| Future of Us: After Party! | 2026-07-13 | San Francisco, US | [↗](https://lu.ma/future-of-us-afterparty) |
-| How to Break into SF as an Immigrant Founder | 2026-07-13 | San Francisco, US | [↗](https://lu.ma/3ilro47w) |
-| Bay Builders Hackathon | 2026-07-13 | San Francisco, US | [↗](https://lu.ma/qk34mnuv) |
-| Umbra Owner's Day | 2026-07-13 | New York, US | [↗](https://lu.ma/wv48gueb) |
-| Warrior Women Collection for Powerhouse women NYC by AYSHA NY: Launch VIP Cocktails and Shopping with Female Executives, Tastemakers July 13 | 2026-07-13 | New York, US | [↗](https://lu.ma/rscqtrmu) |
-| C2RE Private Investor Briefing - NYC | 2026-07-13 | New York, US | [↗](https://lu.ma/C2RENYC) |
-| NYC B2B: Pre-Seed + Seed Founders & Investors Meetup | 2026-07-13 | New York, US | [↗](https://lu.ma/157l9vo7) |
-| Reading Rhythms Upper West Side: July 13th - with Harlem Book Company Book Fair! | 2026-07-13 | New York, US | [↗](https://lu.ma/reading-txws) |
-| Unlocking Human Potential | 2026-07-13 | New York, US | [↗](https://lu.ma/bd1tjl03) |
-| Builders' Night with support from OpenAI | 2026-07-13 | San Francisco, US | [↗](https://lu.ma/u23xrvh6) |
-| Drink & Draw Toronto #100: 🥳 Celebrate our hundredth meetup 🥳 | 2026-07-13 | Toronto, CA | [↗](https://lu.ma/ei10m3ql) |
-| Learn to Build with AI | 2026-07-13 | New York, US | [↗](https://lu.ma/v_coding) |
-| Catalyst Documentary Screening | 2026-07-13 | Toronto, CA | [↗](https://lu.ma/w2zj6oll) |
-| GDSC Research Connect | 2026-07-13 | Burnaby, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-simon-fraser-university-burnaby-canada-presents-gdsc-research-connect/) |
-| fr8 gathering III | 2026-07-13 | San Francisco, US | [↗](https://lu.ma/2nzki92m) |
-| Off Season II × Canopy Party! | 2026-07-13 | San Francisco, US | [↗](https://lu.ma/fbrdwamb) |
-| AI Beyond the Screen | 2026-07-13 | New York, US | [↗](https://lu.ma/51tyh6y2) |
-| Meraki Season 5 Episode 4 | 2026-07-13 | Toronto, CA | [↗](https://lu.ma/4jsli8zs) |
-| Women's Tantric Embodiment | 2026-07-13 | Toronto, CA | [↗](https://lu.ma/3hc7gd0x) |
-| Google Cloud Arcade Facilitator 2026 | 2026-07-13 | Boca Raton, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-florida-atlantic-university-boca-raton-united-states-presents-google-cloud-arcade-facilitator-2026/) |
 | Chicago Cloud Computing Meetup | 2026-06-11 to 2026-12-10 | Chicago, Illinois | [↗](https://www.meetup.com/the-chicago-cloud-computing-meetup-group/) |
 | Digital Delivery Chicago: A Software Developer Meetup | 2026-01-20 to 2026-07-14 | Chicago, IL | [↗](https://www.meetup.com/js-chi/) |
 | Dreamforce | Sep 15-17 2026 | San Francisco, United States | [↗](https://www.salesforce.com/dreamforce/) |
@@ -3952,6 +4045,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | Talk and Cheers 3° Edição - 10 anos de WTM SJC | 2026-07-21 | São José dos Campos, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-sao-jose-dos-campos-presents-talk-and-cheers-3deg-edicao-10-anos-de-wtm-sjc/) |
+| Lanzamiento del Bootcamp: ¡Tu Puerta al Desarrollo! | 2026-07-21 | Oruro, Bolivia | [↗](https://gdg.community.dev/events/details/google-gdg-oruro-presents-lanzamiento-del-bootcamp-tu-puerta-al-desarrollo/) |
 | Hackathon - Impulsando la Innovación con Colsubsidio: Oportunidades y Desafíos | 2026-07-22 | Bogotá, Colombia | [↗](https://gdg.community.dev/events/details/google-gdg-bogota-presents-hackathon-impulsando-la-innovacion-con-colsubsidio-oportunidades-y-desafios/) |
 | AI Challenge in Healthcare: Live Session | 2026-07-22 | Medellin, Colombia | [↗](https://gdg.community.dev/events/details/google-gdg-medellin-presents-ai-challenge-in-healthcare-live-session/) |
 | Explorando o Poder dos Modelos Open Source com Llama | 2026-07-23 | Maringá, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-maringa-presents-explorando-o-poder-dos-modelos-open-source-com-llama/) |
@@ -4028,7 +4122,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | AI Construction Summit 2026 | 2026-07-17 | Lima, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-open-presents-ai-construction-summit-2026/) |
 | GDG Lima Meetup - Julio 2026 | 2026-07-17 | Lima, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-lima-presents-gdg-lima-meetup-julio-2026/) |
 | Recrutamento e Carreira na Era das IAs. | 2026-07-16 | Brasília, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-brasilia-presents-recrutamento-e-carreira-na-era-das-ias/) |
-| ¿Quién construye tech — y quién decide quién puede? | 2026-07-13 | Chimbote, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-chimbote-presents-quien-construye-tech-y-quien-decide-quien-puede/) |
 
 </details>
 
@@ -4038,49 +4131,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| UChicago Deep Tech Demo Day | 2026-07-20 | Unknown | [↗](https://lu.ma/polsky-07-20-2026-event-1686) |
-| AI木曜会┃第32回バレーしよう会｜@スポーツラボ芝浦 | 2026-07-20 | Minato City, JP | [↗](https://lu.ma/3lg35b2j) |
-| GPU, CUDA, and PyTorch Performance Optimizations | 2026-07-20 | Virtual/Online | [↗](https://www.meetup.com/ai-performance-engineering/events/313234366/) |
-| AICon'26: What If Machines Could Do It Better? | 2026-07-20 | Kensington, AU | [↗](https://lu.ma/m0w44us7) |
-| Воркшоп по машинному обучению | 2026-07-20 | Oral, Kazakhstan | [↗](https://gdg.community.dev/events/details/google-gdg-oral-presents-vorkshop-po-mashinnomu-obucheniiu/) |
-| Meet nTop at Farnborough International Airshow | 2026-07-20 | Farnborough, GB | [↗](https://lu.ma/1zd9t6kd) |
-| Seraphim Space Lunch: Farnborough Edition | 2026-07-20 | Farnborough, GB | [↗](https://lu.ma/SeraphimFarnborough) |
-| 【ナイトラン🏃🌙】 7/20(月) 20:00~21:00/ のんびり3キロランニング📍代々木公園 | 2026-07-20 | Shibuya, JP | [↗](https://lu.ma/xbs4jq1u) |
-| Get Certified DP-800: Secure, Optimize, & Ship SQL+AI Solutions (APAC) | 2026-07-20 | Virtual/Online | [↗](https://www.meetup.com/microsoft-reactor-redmond/events/315377813/) |
-| amuca® Buddy Club Blue Summer 2026 | 2026-07-20 | Zushi, JP | [↗](https://lu.ma/6vwd75o8) |
-| Morning 1-hour Pickle🍉 | 2026-07-20 | Toshima City, JP | [↗](https://lu.ma/mqdakn2u) |
-| Foundverse Sandbox: Build a Real App with AI | 2026-07-20 | Meguro City, JP | [↗](https://lu.ma/0fwqtoo1) |
-| OpenAI Build Week Community Build Night - Sydney | 2026-07-20 | Ultimo, AU | [↗](https://lu.ma/wq0ixqpe) |
-| CHREM 2026 | 2026-07-20 to 2026-07-22 | Chengdu | [↗](https://dev.events/conferences/chrem-2026-c6mixibt) |
-| July 20 - Best of ICRA (Day One) | 2026-07-20 | Virtual/Online | [↗](https://www.meetup.com/iowa-ai-ml-and-computer-vision-meetup/events/315673022/) |
-| 机器人和数字员工投资创业晚餐会 - 清华经管学院硅谷校友会夏季论坛 | 2026-07-20 | Palo Alto, US | [↗](https://lu.ma/2l62f1dq) |
-| Global Build Week Community Event – Tokyo | 2026-07-20 | Chiyoda City, JP | [↗](https://lu.ma/9ksxm746) |
-| Privacy Enhancing Technologies Symposium (PETS) 2026 | 2026-07-20 | Calgary, CA | [↗](https://infosec-conferences.com/event/20260720-privacy-enhancing-technologies-symposium-pets-2026/) |
-| NW Cyber Camp @ University of Oregon 2026 | 2026-07-20 | Eugene, US | [↗](https://infosec-conferences.com/event/20260720-nw-cyber-camp-university-of-oregon-2026/) |
-| FLGISA Annual Conference 2026 | 2026-07-20 | Aventura, US | [↗](https://infosec-conferences.com/event/20260720-flgisa-annual-conference-2026/) |
-| DeepLearn 2026 | 2026-07-20 | Orléans, FR | [↗](https://infosec-conferences.com/event/20260720-deeplearn-2026/) |
-| Stop AI Meeting Berkeley | 2026-07-20 | Berkeley, US | [↗](https://lu.ma/lp97mpyr) |
-| Monday Coworking Around NYC - Greenpoint - Founders, Creatives, Builders, Researchers, Supporters | 2026-07-20 | Brooklyn, US | [↗](https://lu.ma/h5dz2cdv) |
-| Uplift Coffee Chats -IN PERSON EVENT | 2026-07-20 | Hoboken, US | [↗](https://lu.ma/484rkj45) |
-| 📚 Girls Who Read: Summer Reading Party in the Park ☀️ | 2026-07-20 | Brooklyn, US | [↗](https://lu.ma/girlswho-rpjd) |
-| BYO BOOK | 2026-07-20 | Queens, US | [↗](https://lu.ma/luprf7t7) |
-| field trip with gladwell projects | 2026-07-20 | Jersey City, US | [↗](https://lu.ma/ea43kx9c) |
-| General Ideas reading group | 2026-07-20 | Brooklyn, US | [↗](https://lu.ma/w7crzqf7) |
-| Karma Trash Club: Tree Bed Takeover 🌳 | 2026-07-20 | Brooklyn, US | [↗](https://lu.ma/n4vucwfl) |
-| Reading Rhythms Queens: July 20th | 2026-07-20 | Queens, US | [↗](https://lu.ma/reading-6h8w) |
-| Read & Release | 2026-07-20 | Brooklyn, US | [↗](https://lu.ma/8zms79xl) |
-| Rooftop Sunset Workout (with Session Training) | 2026-07-20 | Brooklyn, US | [↗](https://lu.ma/the-0xxa) |
-| Set in NYC Book Club- July Meeting | 2026-07-20 | Brooklyn, US | [↗](https://lu.ma/tmejy9wt) |
-| Smoke and Flow: Summer Sessions | 2026-07-20 | Kings County, US | [↗](https://lu.ma/orqo5uao) |
-| Craft Club: Beaded Barrettes | 2026-07-20 | Kings County, US | [↗](https://lu.ma/skxc0ijj) |
-| Craft Club: Sun Print | 2026-07-20 | Bronx, US | [↗](https://lu.ma/4wrjiqbg) |
-| Reading Rhythms Morristown: July 20th | 2026-07-20 | Morris Plains, US | [↗](https://lu.ma/reading-ko5x) |
-| Reading Rhythms Williamsburg: July 20th | 2026-07-20 | Kings County, US | [↗](https://lu.ma/ulb99sua) |
-| Reclaimed Wall Art: Making Big Knots With Recycled Rope with Sitoë Thiam | 2026-07-20 | Brooklyn, US | [↗](https://lu.ma/bigknots-2) |
-| Mokshaa Mindful Monday Yoga - Beat the Heat | 2026-07-20 | Jersey City, US | [↗](https://lu.ma/h2pyc3kt) |
-| Say the Dang Thing: A Workshop for Hard Conversations | 2026-07-20 | Brooklyn, US | [↗](https://lu.ma/dgd7ifom) |
-| SYDNEY \| Founder Stories: Yana Beda, Beda Software (healthcare) \| KANGARU Talk at Canva | 2026-07-20 | Surry Hills, AU | [↗](https://lu.ma/gqq2rooe) |
-| MK Runs it back in NYC | 2026-07-20 | Brooklyn, US | [↗](https://lu.ma/qg564oig) |
 | Python Made Easy: Interactive Workshop for Beginners | 2026-07-21 to 2026-07-22 | Online | [↗](https://instats.org/seminar/hands-on-python-for-beginners) |
 | The cost benefits of modernizing your VM fleet (that no one talks about) | 2026-07-21 | Virtual/Online | [↗](https://www.meetup.com/platform-engineers-new-delhi/events/315413645/) |
 | KANTO Local Startup Frontier ～関東・北海道・東北支援拠点発スタートアップ×VC＆事業会社～（7/21(火)） | 2026-07-21 | Minato City, JP | [↗](https://lu.ma/cjnmaroe) |
@@ -4146,6 +4196,10 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | MOVE ♡ Yoga Flow w/ Cassie Ray | 2026-07-21 | Queens, US | [↗](https://lu.ma/b1cg71gz) |
 | INHALE ♡ Breathwork w/ Cassie Ray | 2026-07-21 | Queens, US | [↗](https://lu.ma/frlv1dlb) |
 | 2NDFL | 2026-07-21 | Larchmont, US | [↗](https://lu.ma/5075i908) |
+| Job Search Operating System: Build the Strategy Before You Make a Move | 2026-07-21 | Virtual/Online | [↗](https://www.meetup.com/svbbdev-silicon-valley-blackberry-jammors/events/315483311/) |
+| 🚀 Sprint One: Team Formation & Project Kickoff | 2026-07-21 | Gitega, Burundi | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-polytechnic-university-of-gitega-gitega-burundi-presents-sprint-one-team-formation-amp-project-kickoff/) |
+| Community Lunch - Bring a Lunch and Join Us! | 2026-07-21 | Palo Alto, US | [↗](https://lu.ma/st398vlj) |
+| Sydney \| Claude Meetup | 2026-07-21 | Haymarket, AU | [↗](https://lu.ma/claude-27ve) |
 | try! Swift Tokyo WWDC Recap 2026 | 2026-07-22 | Minato City, JP | [↗](https://lu.ma/tryswift-wwdc26) |
 | Clay Club Tokyo // Workshop: はじめてのClay構築 | 2026-07-22 | Chiyoda City, JP | [↗](https://lu.ma/zsxegzmt) |
 | 07/22 WakaWaka 経営者交流会 - GOLF部 - \| シミュレーションゴルフで広がるビジネスの輪 | 2026-07-22 | Minato City, JP | [↗](https://lu.ma/got15svb) |
@@ -4223,6 +4277,22 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Build Your Own CRM with Claude Code · Workuity Chandler | 2026-07-22 | Chandler, us | [↗](https://www.meetup.com/phoenix-ai-for-business-workshops-networking-strategy/events/315618440/) |
 | Venture Capital: How The *Sausage* Gets Made (with Artisanal Heritage Sausage) | 2026-07-22 | Brooklyn, US | [↗](https://lu.ma/db51vdcn) |
 | Soft Figures: Baybayin Calligraphy & Cyanotype Printing with Niko Klasiko (Session 2) | 2026-07-22 | Kings County, US | [↗](https://lu.ma/zv9vfbtb) |
+| Computer Entertainment Developers Conference (CEDEC) 2026 | 2026-07-22 | Yokohama, JP | [↗](https://infosec-conferences.com/event/20260722-computer-entertainment-developers-conference-cedec-2026/) |
+| ElevateIT: Denver Technology Summit 2026 | 2026-07-22 | Denver, US | [↗](https://infosec-conferences.com/event/20260722-elevateit-denver-technology-summit-2026/) |
+| Redefining Application Control for a Post AI World | 2026-07-22 | Online | [↗](https://infosec-conferences.com/event/20260722-redefining-application-control-for-a-post-ai-world/) |
+| Hands-on training: Building agents with ClickHouse, Langfuse, and LibreChat | 2026-07-22 | Unknown | [↗](https://www.meetup.com/clickhouse-silicon-valley-meetup-group/events/315648905/) |
+| Leveraging Presto for High-Performance Analytics with Agentic AI | 2026-07-22 | Virtual/Online | [↗](https://www.meetup.com/prestodb/events/315677544/) |
+| PlanetCassandra #13 - CQLAlchemy – A Pythonic Toolkit for Apache Cassandra 6.0 | 2026-07-22 | Virtual/Online | [↗](https://www.meetup.com/cassandra-global/events/315669857/) |
+| Secure at Speed with Fastly - Edge Delivery Without Compromise | 2026-07-22 | Virtual/Online | [↗](https://www.meetup.com/lens-kubernetes-ide-user-group/events/315467830/) |
+| Ceph User + Dev Monthly - July 2026 | 2026-07-22 | Virtual/Online | [↗](https://www.meetup.com/ceph-user-group/events/315673835/) |
+| AI-Native Developer Workflow: Using AI Tools Without Losing Control | 2026-07-22 | Virtual/Online | [↗](https://www.meetup.com/datatalks-meetups-global/events/315664047/) |
+| Why Context Matters When Working with Generative AI in Product Development  | 2026-07-22 | Unknown | [↗](https://www.meetup.com/bayaln/events/315587493/) |
+| Tuesday Night Community Bike Rides - Palo Alto <-> Mountain View | 2026-07-22 | Palo Alto, US | [↗](https://lu.ma/uuxswpyk) |
+| pAIthon Meetup | 2026-07-22 | Mountain View, US | [↗](https://lu.ma/n5b8eay6) |
+| Cardio | 2026-07-22 | Bronx, US | [↗](https://lu.ma/dcitytia) |
+| DON'T WORK FOR FREE! Navigating Contract Gigs, Rev Share & IP in Game Dev | 2026-07-22 | Brooklyn, US | [↗](https://lu.ma/tjzaf4fu) |
+| Hoboken Athletic Run Club - Wednesdays at 7:00 PM | 2026-07-22 | Hoboken, US | [↗](https://lu.ma/kd5vk1nn) |
+| Outdoorsypals ⟡ Mountain Brow Walk | 2026-07-22 | Hamilton, CA | [↗](https://lu.ma/xrj0w4w8) |
 | Platform engineering 2.0: 5 pillars your platform needs in 2026 and beyond | 2026-07-23 | Virtual/Online | [↗](https://www.meetup.com/platform-engineers-new-delhi/events/315183567/) |
 | Google AI Studio Workshop | 2026-07-23 | Almaty, Kazakhstan | [↗](https://gdg.community.dev/events/details/google-gdg-almaty-presents-google-ai-studio-workshop/) |
 | AIスタートアップ × VC リバースピッチ＆交流会 | 2026-07-23 | Minato City, JP | [↗](https://lu.ma/260723) |
@@ -4290,6 +4360,10 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Pages in the Park! Greenpoint Chapter | 2026-07-23 | Brooklyn, US | [↗](https://lu.ma/reading-oomn) |
 | Perfect Days x Greenpoint Pilates: Breath to Body | 2026-07-23 | Brooklyn, US | [↗](https://lu.ma/5tentmtm) |
 | Show & Tell / Soft code | 2026-07-23 | Brooklyn, US | [↗](https://lu.ma/r4ltn9gp) |
+| Hands-On Event: Automating DataOps Workflows with Proactive Agents | 2026-07-23 | Virtual/Online | [↗](https://www.meetup.com/san-francisco-data-science-team-leads/events/315620106/) |
+| Hands-On: Automating DataOps Workflows with Proactive Agents | 2026-07-23 | Virtual/Online | [↗](https://www.meetup.com/bay-area-machine-learning-meetups/events/315619994/) |
+| The Sovereign Enterprise: AI, Risk & Control | 2026-07-23 | Palo Alto, US | [↗](https://lu.ma/the-godf) |
+| donation yoga is7月 | 2026-07-23 | Shibuya, JP | [↗](https://lu.ma/zh3bropf) |
 | PyData & PyCon Yerevan 2026 | 2026-07-24 | Unknown | [↗](https://www.meetup.com/pydatadelhi/events/315269552/) |
 | Summer GDG AI Hackathon | 2026-07-24 | Taldykorgan, Kazakhstan | [↗](https://gdg.community.dev/events/details/google-gdg-taldykorgan-presents-summer-gdg-ai-hackathon/) |
 | The GEAR FutureSCAPE [Framing] | 2026-07-24 | S, SG | [↗](https://lu.ma/FutureSCAPE2026) |
@@ -4337,6 +4411,21 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | AI Madness Lunch┊AI狂いの会 | 2026-07-24 | Shibuya, JP | [↗](https://lu.ma/zbaumpzh) |
 | 🏵 Sydney: Community Coworking Day @ UTS | 2026-07-24 | Ultimo, AU | [↗](https://lu.ma/k16ejbmg) |
 | HIJAB POPUP @ THE LOCAL | 2026-07-24 | Mississauga, CA | [↗](https://lu.ma/6m4cjpzq) |
+| Build with Loop (Loop Engineering 101) | 2026-07-24 | Virtual/Online | [↗](https://www.meetup.com/tech-tri-valley/events/315586015/) |
+| Build From The Dock: Energy Is a Founder’s Most Valuable Resource | 2026-07-24 | Palo Alto, US | [↗](https://lu.ma/jesx5u7h) |
+| BYOFilm: Creative Co-working + DocTalk | 2026-07-24 | Oakland, US | [↗](https://lu.ma/g21a7ehg) |
+| Founding Engineer Trivia Bowl | 2026-07-24 | Palo Alto, US | [↗](https://lu.ma/tpbdps6d) |
+| Tech Pickleball NYC | 2026-07-24 | Brooklyn, US | [↗](https://lu.ma/9uxgw8l4) |
+| Mamas Who Walk: Chatham | 2026-07-24 | Chatham, US | [↗](https://lu.ma/8775lrqf) |
+| Boonton Cafe Walk ✦ Boonton Coffee Co. | 2026-07-24 | Boonton, US | [↗](https://lu.ma/bizbestie-walk-boonton-july-24) |
+| Deja Brew Presents 'More Than A Cafe: A Caribbean Culinary Experience' | 2026-07-24 | Queens, US | [↗](https://lu.ma/qyop1tsq) |
+| Rolo's Clam Shack | 2026-07-24 | Queens, US | [↗](https://lu.ma/9zzrbbec) |
+| Action Theater Pop-Up Class | 2026-07-24 | Brooklyn, US | [↗](https://lu.ma/llqda3d6) |
+| ARTIST TALK | 2026-07-24 | Slough, GB | [↗](https://lu.ma/zgmvwtfn) |
+| Global AI Insight Meetup #4 By GFR Fund x MIXI | 2026-07-24 | Shibuya, JP | [↗](https://lu.ma/rer94cwf) |
+| COFFEE RUN ＠隅田川 | 2026-07-24 | Chuo City, JP | [↗](https://lu.ma/buldyhtl) |
+| Fridays @ UTS Startups: Female Founder Pitch Night | 2026-07-24 | Ultimo, AU | [↗](https://lu.ma/ohio9v0h) |
+| Pinch Me, I Want 50K: The Official Hackathon Launch | 2026-07-24 | Drummoyne, AU | [↗](https://lu.ma/uqm2qhmc) |
 | HTML, CSS, JavaScript | 2026-07-25 | Khartoum, Sudan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sudan-university-of-science-technology-khartoum-sudan-presents-html-css-javascript/) |
 | Build With AI 2026: Python, Gemini 3, and Privacy-First Agents (GDG Zinder) | 2026-07-25 | Zinder, Niger | [↗](https://gdg.community.dev/events/details/google-gdg-zinder-presents-build-with-ai-2026-python-gemini-3-and-privacy-first-agents-gdg-zinder/) |
 | Google IO Extended Lusaka | 2026-07-25 | Lusaka, Zambia | [↗](https://gdg.community.dev/events/details/google-gdg-lusaka-presents-google-io-extended-lusaka-1/) |
@@ -4384,6 +4473,9 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | 🍻KanpAI Night in ビビビ。🍻 | 2026-07-25 | Shibuya, JP | [↗](https://lu.ma/nhfvwnjq) |
 | 7/26 Morning Run | 2026-07-25 | Koshigaya, JP | [↗](https://lu.ma/ma6707rb) |
 | RISE Runs | 2026-07-25 | Zetland, AU | [↗](https://lu.ma/xin1hj7b) |
+| 7/26(日)8:00 二子玉川ラン | 2026-07-25 | Setagaya City, JP | [↗](https://lu.ma/qwaglbrh) |
+| 25/07 - Long She Runs 10km Scenic Route | 2026-07-25 | The Rocks, AU | [↗](https://lu.ma/4qkxo74p) |
+| Padel (format Américano) | 2026-07-25 | Saint-Open-sur-Seine, FR | [↗](https://lu.ma/kr5fya7c) |
 | Tokyo Morning Beats.Vol.5 | 2026-07-26 | Setagaya City, JP | [↗](https://lu.ma/tmb_v5) |
 | SUNSET RUN | 2026-07-26 | Chiyoda City, JP | [↗](https://lu.ma/paihm4pl) |
 | German Stammtisch Yokoha | 2026-07-26 | Yokohama, JP | [↗](https://lu.ma/fu2m3phi) |
@@ -4399,6 +4491,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | CLAY & PAPER - a pottery workshop | 2026-07-26 | Yokohama, JP | [↗](https://lu.ma/ypvrd7f3) |
 | ボードゲーム「OSSクエスト」完成披露会 | 2026-07-26 | Kawasaki, JP | [↗](https://lu.ma/9cemww3a) |
 | 雪梨設計師小聚｜Sydney Designer Meet Up | 2026-07-26 | Marrickville, AU | [↗](https://lu.ma/nggjbbk6) |
+| Latina Social Walk | 2026-07-26 | Oshawa, CA | [↗](https://lu.ma/sxx0526w) |
 | ナレッジサークル#7「ディープテック投資にどう向き合うか」みやこキャピタル三澤氏（7/27(月)） | 2026-07-27 | Minato City, JP | [↗](https://lu.ma/t7cm4ui4) |
 | [Virtual] People of Color Code and Chill | 2026-07-27 | Virtual/Online | [↗](https://www.meetup.com/people-of-color-code/events/314997288/) |
 | VibeCoding BootCamp by Astana Hub | 2026-07-27 | Almaty, Kazakhstan | [↗](https://gdg.community.dev/events/details/google-gdg-almaty-presents-vibecoding-bootcamp-by-astana-hub/) |
@@ -4406,6 +4499,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Visual Studio Live! @ Microsoft HQ 2026 | 2026-07-27 to 2026-07-31 | Redmond | [↗](https://dev.events/conferences/visual-studio-live-microsoft-hq-2026-jri578t3) |
 | VSLive! @ Microsoft HQ 2026 | 2026-07-27 to 2026-07-31 | Redmond | [↗](https://dev.events/conferences/vs-live-microsoft-hq-2026-2t-ogzb) |
 | 【完全招待制】Stripe日本法人代表と語る、Stripeと創業者コリソン兄弟のすべて | 2026-07-27 | Shibuya, JP | [↗](https://lu.ma/kburneav) |
+| Silicon Valley Business Networking (Online)  | 2026-07-27 | Virtual/Online | [↗](https://www.meetup.com/sv-internet-of-things/events/315589157/) |
 | GLECC2026: International Conference on Globalisation in Languages, Education, Culture, and Communication | 2026-07-28 to 2026-07-30 | TBA | [↗](https://joind.in/event/glecc2026-international-conference-on-globalisation-in-languages-education-culture-and-communication) |
 | Japan Community Day hosted by Cloud Native Community Japan (CNCJ) | 2026-07-28 | Yokohama | N/A |
 | Sick Risk: From Messy Data to an Illness Risk Model | 2026-07-28 | Urbandale, us | [↗](https://www.meetup.com/pyowa-iowa-python-user-group/events/315470463/) |
@@ -4475,6 +4569,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Kuber Community Day | 2026-07-30 | Moscow | [↗](https://dev.events/conferences/kuber-community-day-96vlqn8g) |
 | もくもくハブ#87 新規参画企業紹介「トヨタ紡織/セブン＆アイ・ホールディングス」 | 2026-07-30 | Minato City, JP | [↗](https://lu.ma/8dplx9uz) |
 | Group Programming Practice - Leetcode problems | 2026-07-30 | Mesa, us | [↗](https://www.meetup.com/arizona-codes/events/315666291/) |
+| GFR Tokyo Meetup #3: 北米スタートアップ投資の実務を解説 \| Cohosted by Shochiku Ventures | 2026-07-30 | Minato City, JP | [↗](https://lu.ma/rxf17cuv) |
 | Build with AI: Transforming Ideas into Reality | 2026-07-31 | Maseru, Lesotho | [↗](https://gdg.community.dev/events/details/google-gdg-maseru-presents-build-with-ai-transforming-ideas-into-reality/) |
 | Azure Cloud Lab - Sesiones Junior mentorizadas | 2026-07-31 | Online | [↗](https://www.azurecloudlab.net) |
 | 「AIに使われる人」と「AIを使いこなす人」の境界線。～生成AIを活用してプロと描く、『キャリアの未来図』～ | 2026-07-31 | Chiyoda City, JP | [↗](https://lu.ma/tdk2dpr3) |
@@ -4509,6 +4604,8 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | FREE Python Class Age :10-14 | 2026-08-01 | Markham, CA | [↗](https://lu.ma/h40hq49t) |
 | Jadau Jewelry Making Workshop | 2026-08-01 | Mississauga, CA | [↗](https://lu.ma/03yf80fl) |
 | 🧘iiyon!! Pilates in KX Pilates🩵 | 2026-08-01 | Shinjuku City, JP | [↗](https://lu.ma/iiyon-wsk8) |
+| Bay Area AI War Room - Berkeley Edition - Saturday, 10:00 AM | 2026-08-01 | Berkeley, us | [↗](https://www.meetup.com/bay-area-artificial-war-room/events/313150510/) |
+| 8/2(日)7:30 代々木公園ラン | 2026-08-01 | Shibuya, JP | [↗](https://lu.ma/pjmrzv7o) |
 | Pickleball vol.4 | 2026-08-02 | Chiyoda City, JP | [↗](https://lu.ma/o8d526sj) |
 | The Next Chapter ~ Celebrating Community and the Love of Books | 2026-08-02 | Meguro City, JP | [↗](https://lu.ma/gtczvlc4) |
 | 飛び込んだその先は？スタートアップインターンのリアルを語るミートアップ 〜JAM MEETUP#4〜 | 2026-08-02 | Chiyoda City, JP | [↗](https://lu.ma/lzspcmuj) |
@@ -4522,12 +4619,14 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Stay Hydrated Run @Yoyogi park | 2026-08-03 | Shibuya, JP | [↗](https://lu.ma/vgi5tm4d) |
 | TechMentor & Cybersecurity Live @ Microsoft HQ 2026 | 2026-08-03 to 2026-08-07 | Redmond | [↗](https://dev.events/conferences/tech-mentor-and-cybersecurity-live-microsoft-hq-2026-fiq-bnrn) |
 | Association for Software Testing - CAST 2026 | 2026-08-03 to 2026-08-05 | Cocoa Beach | [↗](https://dev.events/conferences/association-for-software-testing-cast-2026-vyh3zjwc) |
+| Build and Ship an AI-Assisted Full-Stack App | 2026-08-03 | Virtual/Online | [↗](https://www.meetup.com/datatalks-meetups-global/events/315664102/) |
 | Industry Dinner \| The National Dialogue: Sydney | 2026-08-04 | Haymarket, AU | [↗](https://lu.ma/syd-privatedinner) |
 | 8/4 (Tue) 19:45 OASIS PICKLE | 2026-08-04 | Minato City, JP | [↗](https://lu.ma/ufrlx6wa) |
 | Aug 4 - Visual AI in Manufacturing | 2026-08-04 | Virtual/Online | [↗](https://www.meetup.com/iowa-ai-ml-and-computer-vision-meetup/events/315682771/) |
 | AI時代、編集部はどう記事をつくるのか？— 文春オンライン・ビュートピア・ダイヤモンド・扶桑社、4つの編集現場のリアル | 2026-08-04 | Meguro City, JP | [↗](https://lu.ma/8dcgttdv) |
 | Gartner Security & Risk Management Conference | 2026-08-04 to 2026-08-05 | Sao Paulo | [↗](https://dev.events/conferences/gartner-security-and-risk-management-conference-xp9cwbo) |
 | Leading AI Teams: The Tensions Haven't Changed | 2026-08-04 | Virtual/Online | [↗](https://www.meetup.com/agilertp/events/315658912/) |
+| N＿RUN/Session 4＠代々木公園 【夜ラン】 | 2026-08-04 | Shibuya, JP | [↗](https://lu.ma/jq1pee64) |
 | 短期集中型学生イノベーター育成プログラム「JAM SPRINT」 | 2026-08-05 | Chiyoda City, JP | [↗](https://lu.ma/ozu767g4) |
 | Future of Speed: Changing the Grid | 2026-08-05 | Yokohama, JP | [↗](https://lu.ma/jeuf71xd) |
 | Takram Talk Story: Chat 03「R&Dクロストーク」 | 2026-08-05 | Shibuya, JP | [↗](https://lu.ma/9s3x41al) |
@@ -4540,11 +4639,13 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Global CIO 200 | 2026-08-05 | Bhubaneswar | [↗](https://dev.events/conferences/global-cio-200-984rbsia) |
 | Supabase Meetup Tokyo #1 | 2026-08-05 | Chiyoda City, JP | [↗](https://lu.ma/supabase-meetup-tokyo-202608) |
 | PHX~CURRENTS | 2026-08-05 | Virtual/Online | [↗](https://www.meetup.com/codephx/events/315712205/) |
+| 〖風KAZE ✖︎ 参謀BAR コラボイベント〗世代を超えて学ぼう会特別ゲスト：イエロ株式会社 代表取締役 稲葉 信 氏 | 2026-08-05 | Minato City, JP | [↗](https://lu.ma/sanbou-rzwm) |
 | SprintRay Midas World Tour - Sydney | 2026-08-06 | Chatswood, AU | [↗](https://lu.ma/lcsontg0) |
 | PwC \| Converting Interest to Action: Exploring Digital Assets and Payments Next Steps for Banks and Corporate Treasuries | 2026-08-06 | Barangaroo, AU | [↗](https://lu.ma/tnd-pwc) |
 | SecDSM Monthly Meeting | 2026-08-06 | West Des Moines, us | [↗](https://www.meetup.com/iowa-infosec/events/315728766/) |
 | Aug 6 - Audio and AI Meetup | 2026-08-06 | Virtual/Online | [↗](https://www.meetup.com/iowa-ai-ml-and-computer-vision-meetup/events/315389115/) |
 | 8/6(木)19:30 皇居ラン | 2026-08-06 | Chiyoda City, JP | [↗](https://lu.ma/e30znupo) |
+| General Business Networking - Oakland | 2026-08-06 | Oakland, us | [↗](https://www.meetup.com/strive-networking/events/313434116/) |
 | 抹茶ラテ作り体験 | 2026-08-07 | Shinjuku City, JP | [↗](https://lu.ma/b16ejyml) |
 | TBB First Friday | 2026-08-07 | Shinjuku City, JP | [↗](https://lu.ma/tylb5gkt) |
 | 【8/7 Startup Career Night 開催】大手企業・メガベン・コンサルから「経営陣」へ。次のキャリアを描く。 | 2026-08-07 | Chuo City, JP | [↗](https://lu.ma/oqud06il) |
@@ -4552,6 +4653,8 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | ABIA WEB3 & DIGITAL ECONOMY CONFERENCE | 2026-08-07 to 2026-08-08 | Aba | [↗](https://dev.events/conferences/abia-web-3-and-digital-economy-conference-f2cbcpob) |
 | Persona x Women in Technology Japan: Event Mixer \| Powered by SSS & SSKK | 2026-08-07 | Shibuya, JP | [↗](https://lu.ma/xwbzdk8r) |
 | EVSec CitySec Meet-up: Security & Beer | 2026-08-07 | Tempe, US | [↗](https://www.meetup.com/evsecaz/events/314702343/) |
+| Stop Making Reliability Decisions in the Dark: A Practical Introduction to SLOs | 2026-08-07 | Virtual/Online | [↗](https://www.meetup.com/elastic-united-states-and-canada-virtual/events/315602313/) |
+| PyLadies Online Workshop  | 2026-08-07 | Virtual/Online | [↗](https://www.meetup.com/pyladiessf/events/315659774/) |
 | Cybersecurity & Final Topics | 2026-08-08 | Khartoum, Sudan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sudan-university-of-science-technology-khartoum-sudan-presents-cybersecurity-amp-final-topics/) |
 | Too Hot to Be Cool Beach Festival \| Rock for Climate | 2026-08-08 | Kamakura, JP | [↗](https://lu.ma/thtbcbeach) |
 | AI is No Longer Coming, It's already here : And it's changing everything | 2026-08-08 | Bamako, Mali | [↗](https://gdg.community.dev/events/details/google-gdg-bamako-presents-ai-is-no-longer-coming-its-already-here-and-its-changing-everything/) |
@@ -4563,10 +4666,12 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | MOA BBQ Party | 2026-08-08 | Mississauga, CA | [↗](https://lu.ma/umiw2wk4) |
 | Arizona AI Agent Hackathon | 2026-08-08 | Chandler, us | [↗](https://www.meetup.com/openclaw-scottsdale/events/315398855/) |
 | Builders Weekend - Shipaton Special Edition with OnLab | 2026-08-08 | Shibuya, JP | [↗](https://lu.ma/c32o6i8l) |
+| BOOK BATH vol.7 | 2026-08-08 | Minato City, JP | [↗](https://lu.ma/12itod6d) |
 | AI木曜会_女性限定交流会（2026年8月） | 2026-08-09 | Shibuya, JP | [↗](https://lu.ma/ai-vzfh) |
 | New Zealand IT & AI Job Forum | 2026-08-09 | Auckland | [↗](https://dev.events/conferences/new-zealand-it-and-ai-job-forum-ya2bbtp0) |
 | Connected Over Coffee | 2026-08-09 | La Perouse, AU | [↗](https://lu.ma/d8jnljmj) |
 | 🎉 Pan India DJ Music & Dance Experience 🎶 | 2026-08-09 | Milton, CA | [↗](https://lu.ma/b4e60drz) |
+| Craft / Draw Together in a Tatami Restaurant | 2026-08-09 | Shibuya, JP | [↗](https://lu.ma/mostky40) |
 | AI-Enabled Network Analysis Training | 2026-08-10 to 2026-08-14 | Pittsburgh | [↗](https://dev.events/conferences/ai-enabled-network-analysis-training-tzlgw1p7) |
 | DDC August Meetup | 2026-08-11 | Unknown | [↗](https://www.meetup.com/js-chi/events/314509598/) |
 | AI Risk Summit 2026 | 2026-08-11 to 2026-08-12 | Half Moon Bay | [↗](https://dev.events/conferences/ai-risk-summit-2026-vtonpgpp) |
@@ -4591,6 +4696,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Hack Glasgow | 2026-08-15 | Glasgow | [↗](https://dev.events/conferences/hack-glasgow-yystzbdg) |
 | ツドイバVol.50 小学生からわかる漫画の描き方ワークショップ | 2026-08-15 | Uenohara, JP | [↗](https://lu.ma/n53yy5nq) |
 | The Vision Reset - Breathwork for High Performing Women | 2026-08-15 | Double Bay, AU | [↗](https://lu.ma/ojkrqtw9) |
+| AI Workshop – Curious Kitchen | 2026-08-15 | Haberfield, AU | [↗](https://lu.ma/50n8wlbo) |
 | Pickleball vol.5 | 2026-08-16 | Koto City, JP | [↗](https://lu.ma/ewm7j0fi) |
 | PICKLINK CLUB vol.2(ピックルボール) | 2026-08-16 | Toshima City, JP | [↗](https://lu.ma/cs0qjhmr) |
 | SKILLS WEEK | 2026-08-17 | La Courneuve, FR | [↗](https://lu.ma/oqr3c6zn) |
@@ -4620,6 +4726,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | AI木曜会｜ラン初心者限定！第7回みんなで朝ラン×カフェで交流しよう会 （＠駒沢公園→自由が丘カフェ）🏃‍♀️☕️［AI木曜会ラン部］ | 2026-08-22 | Setagaya City, JP | [↗](https://lu.ma/zm0vh2j8) |
 | DATA Saturday Belo Horizonte 2026 | 2026-08-22 | Belo Horizonte | [↗](https://dev.events/conferences/data-saturday-belo-horizonte-2026-eeh6i9et) |
 | Tulsa AWS Community Day | 2026-08-22 | Tulsa | [↗](https://dev.events/conferences/tulsa-aws-community-day-rsr88ahr) |
+| Otford to Figure Eight Pools, Royal National Park | 2026-08-22 | Otford, AU | [↗](https://lu.ma/cj5fcrdu) |
 | Sunset Pickleball | 2026-08-23 | Koto City, JP | [↗](https://lu.ma/irtuxla4) |
 | Book club: The Obscene Bird of Night by José Donoso | 2026-08-24 | Shinjuku City, JP | [↗](https://lu.ma/ajehbs5u) |
 | MARCH出身起業家 Meet up!! | 2026-08-24 | Chiyoda City, JP | [↗](https://lu.ma/d4gpd8qu) |
@@ -5166,6 +5273,48 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Open Source Summit Europe 2027 | 2027-09-20 to 2027-09-22 | Glasgow | [↗](https://dev.events/conferences/open-source-summit-europe-2027-jz5tkzhu) |
 | PyTorch Conference 2027 | 2027-10-06 to 2027-10-07 | San Jose | [↗](https://dev.events/conferences/py-torch-conference-2027-zv1oka-d) |
 | KubeCon + CloudNativeCon North America 2027 | 2027-11-08 to 2027-11-11 | New Orleans | [↗](https://dev.events/conferences/kube-con-cloud-native-con-north-america-2027-ojd1zdyd) |
+| UChicago Deep Tech Demo Day | 2026-07-20 | Unknown | [↗](https://lu.ma/polsky-07-20-2026-event-1686) |
+| AI木曜会┃第32回バレーしよう会｜@スポーツラボ芝浦 | 2026-07-20 | Minato City, JP | [↗](https://lu.ma/3lg35b2j) |
+| GPU, CUDA, and PyTorch Performance Optimizations | 2026-07-20 | Virtual/Online | [↗](https://www.meetup.com/ai-performance-engineering/events/313234366/) |
+| AICon'26: What If Machines Could Do It Better? | 2026-07-20 | Kensington, AU | [↗](https://lu.ma/m0w44us7) |
+| Воркшоп по машинному обучению | 2026-07-20 | Oral, Kazakhstan | [↗](https://gdg.community.dev/events/details/google-gdg-oral-presents-vorkshop-po-mashinnomu-obucheniiu/) |
+| Meet nTop at Farnborough International Airshow | 2026-07-20 | Farnborough, GB | [↗](https://lu.ma/1zd9t6kd) |
+| Seraphim Space Lunch: Farnborough Edition | 2026-07-20 | Farnborough, GB | [↗](https://lu.ma/SeraphimFarnborough) |
+| 【ナイトラン🏃🌙】 7/20(月) 20:00~21:00/ のんびり3キロランニング📍代々木公園 | 2026-07-20 | Shibuya, JP | [↗](https://lu.ma/xbs4jq1u) |
+| Get Certified DP-800: Secure, Optimize, & Ship SQL+AI Solutions (APAC) | 2026-07-20 | Virtual/Online | [↗](https://www.meetup.com/microsoft-reactor-redmond/events/315377813/) |
+| amuca® Buddy Club Blue Summer 2026 | 2026-07-20 | Zushi, JP | [↗](https://lu.ma/6vwd75o8) |
+| Morning 1-hour Pickle🍉 | 2026-07-20 | Toshima City, JP | [↗](https://lu.ma/mqdakn2u) |
+| Foundverse Sandbox: Build a Real App with AI | 2026-07-20 | Meguro City, JP | [↗](https://lu.ma/0fwqtoo1) |
+| OpenAI Build Week Community Build Night - Sydney | 2026-07-20 | Ultimo, AU | [↗](https://lu.ma/wq0ixqpe) |
+| CHREM 2026 | 2026-07-20 to 2026-07-22 | Chengdu | [↗](https://dev.events/conferences/chrem-2026-c6mixibt) |
+| July 20 - Best of ICRA (Day One) | 2026-07-20 | Virtual/Online | [↗](https://www.meetup.com/iowa-ai-ml-and-computer-vision-meetup/events/315673022/) |
+| 机器人和数字员工投资创业晚餐会 - 清华经管学院硅谷校友会夏季论坛 | 2026-07-20 | Palo Alto, US | [↗](https://lu.ma/2l62f1dq) |
+| Global Build Week Community Event – Tokyo | 2026-07-20 | Chiyoda City, JP | [↗](https://lu.ma/9ksxm746) |
+| Privacy Enhancing Technologies Symposium (PETS) 2026 | 2026-07-20 | Calgary, CA | [↗](https://infosec-conferences.com/event/20260720-privacy-enhancing-technologies-symposium-pets-2026/) |
+| NW Cyber Camp @ University of Oregon 2026 | 2026-07-20 | Eugene, US | [↗](https://infosec-conferences.com/event/20260720-nw-cyber-camp-university-of-oregon-2026/) |
+| FLGISA Annual Conference 2026 | 2026-07-20 | Aventura, US | [↗](https://infosec-conferences.com/event/20260720-flgisa-annual-conference-2026/) |
+| DeepLearn 2026 | 2026-07-20 | Orléans, FR | [↗](https://infosec-conferences.com/event/20260720-deeplearn-2026/) |
+| Stop AI Meeting Berkeley | 2026-07-20 | Berkeley, US | [↗](https://lu.ma/lp97mpyr) |
+| Monday Coworking Around NYC - Greenpoint - Founders, Creatives, Builders, Researchers, Supporters | 2026-07-20 | Brooklyn, US | [↗](https://lu.ma/h5dz2cdv) |
+| Uplift Coffee Chats -IN PERSON EVENT | 2026-07-20 | Hoboken, US | [↗](https://lu.ma/484rkj45) |
+| 📚 Girls Who Read: Summer Reading Party in the Park ☀️ | 2026-07-20 | Brooklyn, US | [↗](https://lu.ma/girlswho-rpjd) |
+| BYO BOOK | 2026-07-20 | Queens, US | [↗](https://lu.ma/luprf7t7) |
+| field trip with gladwell projects | 2026-07-20 | Jersey City, US | [↗](https://lu.ma/ea43kx9c) |
+| General Ideas reading group | 2026-07-20 | Brooklyn, US | [↗](https://lu.ma/w7crzqf7) |
+| Karma Trash Club: Tree Bed Takeover 🌳 | 2026-07-20 | Brooklyn, US | [↗](https://lu.ma/n4vucwfl) |
+| Reading Rhythms Queens: July 20th | 2026-07-20 | Queens, US | [↗](https://lu.ma/reading-6h8w) |
+| Read & Release | 2026-07-20 | Brooklyn, US | [↗](https://lu.ma/8zms79xl) |
+| Rooftop Sunset Workout (with Session Training) | 2026-07-20 | Brooklyn, US | [↗](https://lu.ma/the-0xxa) |
+| Set in NYC Book Club- July Meeting | 2026-07-20 | Brooklyn, US | [↗](https://lu.ma/tmejy9wt) |
+| Smoke and Flow: Summer Sessions | 2026-07-20 | Kings County, US | [↗](https://lu.ma/orqo5uao) |
+| Craft Club: Beaded Barrettes | 2026-07-20 | Kings County, US | [↗](https://lu.ma/skxc0ijj) |
+| Craft Club: Sun Print | 2026-07-20 | Bronx, US | [↗](https://lu.ma/4wrjiqbg) |
+| Reading Rhythms Morristown: July 20th | 2026-07-20 | Morris Plains, US | [↗](https://lu.ma/reading-ko5x) |
+| Reading Rhythms Williamsburg: July 20th | 2026-07-20 | Kings County, US | [↗](https://lu.ma/ulb99sua) |
+| Reclaimed Wall Art: Making Big Knots With Recycled Rope with Sitoë Thiam | 2026-07-20 | Brooklyn, US | [↗](https://lu.ma/bigknots-2) |
+| Mokshaa Mindful Monday Yoga - Beat the Heat | 2026-07-20 | Jersey City, US | [↗](https://lu.ma/h2pyc3kt) |
+| Say the Dang Thing: A Workshop for Hard Conversations | 2026-07-20 | Brooklyn, US | [↗](https://lu.ma/dgd7ifom) |
+| MK Runs it back in NYC | 2026-07-20 | Brooklyn, US | [↗](https://lu.ma/qg564oig) |
 | AI Film Hackathon in Tokyo - July 2026 | 2026-07-19 | Kawasaki, JP | [↗](https://lu.ma/ozjlktwq) |
 | Junk Journaling YOKOHAMA | 2026-07-19 | Yokohama, JP | [↗](https://lu.ma/wj0nx4kb) |
 | 茶道体験 | 2026-07-19 | Bunkyo City, JP | [↗](https://lu.ma/9bmzep70) |
@@ -5677,51 +5826,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | From Code to Impact: Construire des solutions qui comptent | 2026-07-14 | Gitega, Burundi | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-polytechnic-university-of-gitega-gitega-burundi-presents-from-code-to-impact-construire-des-solutions-qui-comptent/) |
 | See Duo&#8217;s Security-First IAM in Action: Demo + Q&amp;A (July) | 2026-07-14 | Online | [↗](https://infosec-conferences.com/event/20260714-see-duos-security-first-iam-in-action-demo/) |
 | The Rise of Banking-Grade FIDO Authentication: Closing the Trust Gap | 2026-07-14 | Online | [↗](https://infosec-conferences.com/event/20260714-the-rise-of-banking-grade-fido-authentication-closing-the/) |
-| Hiring in the Age of AI | 2026-07-13 | Urbandale, us | [↗](https://www.meetup.com/des-moines-web-geeks/events/312416819/) |
-| 【Canton×OKJ】Bringing Quadrillions On-Chain | 2026-07-13 | Chiyoda City, JP | [↗](https://lu.ma/8tk2hg1c) |
-| Executive Leadership Discussion on the Digital Economy | 2026-07-13 | Minato City, JP | [↗](https://lu.ma/eg7k64cz) |
-| Nansen × Superteam Japan \| AI Workshop | 2026-07-13 | Minato City, JP | [↗](https://lu.ma/ST_Japan-Nansen) |
-| Injective Ecosystem Meetup | 2026-07-13 | Minato City, JP | [↗](https://lu.ma/m666yi0u) |
-| VIP Networking Night | 2026-07-13 | Minato City, JP | [↗](https://lu.ma/gaoytadc) |
-| Blockchain NEXUS#2 by NTT DOCOMO GLOBAL | 2026-07-13 | Shibuya, JP | [↗](https://lu.ma/4c5i0qcy) |
-| PICH DAO WebX2026 SIDE EVENT | 2026-07-13 | Minato City, JP | [↗](https://lu.ma/28tsgnr5) |
-| 世界最先端!! 動画生成AIで未来の自分を映像化15秒CM作成｜HappyHorseハッカソン | 2026-07-13 | Shinagawa City, JP | [↗](https://lu.ma/s8c79236) |
-| Media Accelerator & Startup Cohort | 2026-07-13 | Minato City, JP | [↗](https://lu.ma/rly6vblk) |
-| Off the Record | 2026-07-13 | Minato City, JP | [↗](https://lu.ma/mteza8y5) |
-| RESERVE: A Stablecoin & Digital Asset Treasury Social @ WebX 2026, Co-hosted by Comma3 Ventures and TAAS | 2026-07-13 | Minato City, JP | [↗](https://lu.ma/b8b1esh7) |
-| The Circle - Tokyo Edition | 2026-07-13 | Minato City, JP | [↗](https://lu.ma/TheCircle_TokyoEdition) |
-| Bitcoin Social Night with AmityAge | 2026-07-13 | Shinjuku City, JP | [↗](https://lu.ma/bnzaqcjx) |
-| RISEx Night: 東京エディション | 2026-07-13 | Shinjuku City, JP | [↗](https://lu.ma/378rljxd) |
-| Build Club x Antler - Sydney Coworking Circuit | 2026-07-13 | Haymarket, AU | [↗](https://lu.ma/9ik04569) |
-| River Sessions: AI & Robotics Intelligence | 2026-07-13 | Minato City, JP | [↗](https://lu.ma/2d0mbicg) |
-| Japan RWA, Stablecoin & BNB Ecosystem 日本 RWA・ステーブルコイン & BNB エコシステム | 2026-07-13 | Minato City, JP | [↗](https://lu.ma/omu28igl) |
-| BNB Chain Tokyo | 2026-07-13 | Minato City, JP | [↗](https://lu.ma/bs1rosf9) |
-| Sexy Intellectuals presents: Moonlight | 2026-07-13 | Surry Hills, AU | [↗](https://lu.ma/0j54vc0l) |
-| Intelligent Value: Scaling Web3 via AI Agents | 2026-07-13 | Minato City, JP | [↗](https://lu.ma/3nps0t41) |
-| Photo Class: Getting Started with Lightroom Desktop (Cloud) On Zoom | 2026-07-13 | Virtual/Online | [↗](https://www.meetup.com/capital-photography-center/events/315468653/) |
-| Beyond the Hype: US Climate Tech〜US市場の最新VCトレンドを読み解く〜 | 2026-07-13 | Chiyoda City, JP | [↗](https://lu.ma/0sys9fbf) |
-| AUTON - Agentic Economy Accelerator Program - Demo Day | 2026-07-13 | Chiyoda City, JP | [↗](https://lu.ma/6e6pde5i) |
-| Cookbook Club: In Bibi's Kitchen | 2026-07-13 | Oakland, US | [↗](https://lu.ma/2455gnfn) |
-| Mixture of Models: Biotech & Drug Discovery | 2026-07-13 | Stanford, US | [↗](https://lu.ma/2kqkilgd) |
-| AI & Robotics Leaders Dinner with Pond | 2026-07-13 | Stanford, US | [↗](https://lu.ma/mecqc00j) |
-| AI Workshop: Getting Started with OpenClaw | 2026-07-13 | Menlo Park, US | [↗](https://lu.ma/july-openclaw-workshop) |
-| crafty hour: open crafting | 2026-07-13 | Kings County, US | [↗](https://lu.ma/jpsmnwvk) |
-| Chinese Yo-Yo End of Year Party | 2026-07-13 | Queens, US | [↗](https://lu.ma/7nsjbtdp) |
-| Happy Hour with Lovable @ The Lighthouse | 2026-07-13 | Brooklyn, US | [↗](https://lu.ma/the-h4fm) |
-| WORLD'S FIRST BRAIN PONG TOURNAMENT | 2026-07-13 | Brooklyn, US | [↗](https://lu.ma/74gvtjzb) |
-| The Libi Journal Launch Party & 3rd Birthday Celebration :) | 2026-07-13 | Brooklyn, US | [↗](https://lu.ma/swm9m7p6) |
-| Iqam Reads July 13 | 2026-07-13 | Clifton, US | [↗](https://lu.ma/naz2q57k) |
-| 【NFT Holder Exclusive】SyFu MIYAZAKI BEEF BBQ | 2026-07-13 | Koto City, JP | [↗](https://lu.ma/7ur6kwfh) |
-| Pudgy VIP Night | 2026-07-13 | Shibuya, JP | [↗](https://lu.ma/bxqrnsnu) |
-| SoSoValue Japan Community Meetup｜WebX Side Event | 2026-07-13 | Shibuya, JP | [↗](https://lu.ma/ib8acoeo) |
-| AI agents and agentic Web: Princeton University Meetup with ProjectNANDA, Monday July 13th | 2026-07-13 | Princeton, US | [↗](https://lu.ma/5qv7tjb4) |
-| The Light Map: A Workshop for Adult Children of Narcissistic and Dysfunctional Families | 2026-07-13 | Kings County, US | [↗](https://lu.ma/4xgxz7uw) |
-| Tokyosignal.exe | 2026-07-13 | Shibuya, JP | [↗](https://lu.ma/Tokyosignal.exe) |
-| AI and GPU Infra Session by Aethir @ WebX Tokyo | 2026-07-13 | Minato City, JP | [↗](https://lu.ma/t8cvhb8g) |
-| SANSFIRE 2026 | 2026-07-13 | Washington, US | [↗](https://infosec-conferences.com/event/20260713-sansfire-2026-2/) |
-| Nuclear Information Technology Strategic Leadership (NITSL) Conference 2026 | 2026-07-13 | Savannah, US | [↗](https://infosec-conferences.com/event/20260713-nuclear-information-technology-strategic-leadership-nitsl-conference-2026/) |
-| Shop Talk | 2026-07-13 | Virtual/Online | [↗](https://www.meetup.com/tripass/events/315637583/) |
-| On-Chain Finance Forum Tokyo 2026 | 2026-07-13 | Minato City, JP | [↗](https://lu.ma/cl5o486k) |
 | MongoDB .local | TBA | Various Cities | [↗](https://www.mongodb.com/events/mongodb-local) |
 | AI Engineer Code | TBA | Virtual/Online | [↗](https://www.ai.engineer/code/2026) |
 
