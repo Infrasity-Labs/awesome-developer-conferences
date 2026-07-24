@@ -58,28 +58,23 @@ def main():
             if existing_rows == ['']:
                 existing_rows = []
                 
-            existing_names = []
+            existing_keys = set()
             for row in existing_rows:
                 # Use regex to split by unescaped pipes
                 parts = re.split(r'(?<!\\)\|', row)
-                if len(parts) >= 3:
-                    name_clean = re.sub(r'\[(.*?)\]\(.*?\)', r'\1', parts[1].strip()).lower()
-                    existing_names.append(name_clean)
-                    
+                if len(parts) >= 4:
+                    existing_keys.add(config.event_dedup_key(parts[1].strip(), parts[2].strip(), parts[3].strip()))
+
             new_rows_added = 0
             for event in region_events:
-                name_clean = re.sub(r'\[(.*?)\]\(.*?\)', r'\1', event['name']).lower()
-                is_duplicate = False
-                for ex_name in existing_names:
-                    if name_clean in ex_name or ex_name in name_clean:
-                        is_duplicate = True
-                        break
-                        
+                key = config.event_dedup_key(event.get('name'), event.get('date'), event.get('location'))
+                is_duplicate = key in existing_keys
+
                 if not is_duplicate:
                     line = event.get('line')
                     if not line:
                         line = f"| {event['name']} | {event['date']} | {event['location']} | {event['register']} |"
-                        
+
                     # Skip if event is already in the past
                     date_str = event.get('date', '').split(' to ')[-1].strip()
                     try:
@@ -88,9 +83,9 @@ def main():
                             continue
                     except:
                         pass
-                        
+
                     existing_rows.append(line)
-                    existing_names.append(name_clean)
+                    existing_keys.add(key)
                     new_rows_added += 1
                     total_added += 1
             def extract_date(row):

@@ -167,50 +167,55 @@ def determine_region(location, name='', link=''):
         
     return 'Virtual/Online'
 
-def deduplicate_events(events):
+def event_dedup_key(name, date, location):
+    """Build a (name, year-month, location) key that treats different
+    editions/chapters of the same series as distinct, but collapses
+    trivial name/date/location formatting differences between sources."""
     import re
+    name_clean = re.sub(r'\[(.*?)\]\(.*?\)', r'\1', name or '').lower()
+    # Remove years from name to prevent duplicate editions in the same year from slightly differing names
+    name_clean = re.sub(r'20[2-9]\d', '', name_clean)
+    # Remove common fluff words that might differ between sources
+    name_clean = re.sub(r'\b(conference|summit|edition|annual)\b', '', name_clean)
+    name_clean = re.sub(r'[^a-z0-9]', '', name_clean)
+
+    # Use a combination of name, date, and location to avoid deleting different editions of the same conference series
+    date_raw = (date or '').strip().lower()
+    loc_raw = (location or '').strip().lower()
+
+    # Optimize date: Extract Year and Month to fuzzy match slight day variations
+    year_match = re.search(r'20[2-9]\d', date_raw)
+    year = year_match.group(0) if year_match else ''
+
+    month = ''
+    month_match = re.search(r'-(\d{2})-', date_raw)
+    if month_match:
+        month = month_match.group(1)
+    else:
+        months = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"]
+        for i, m in enumerate(months):
+            if m in date_raw:
+                month = f"{(i % 12) + 1:02d}"
+                break
+    date_clean = f"{year}-{month}"
+
+    # Optimize location: Take the first part before comma, parenthesis, or dash
+    loc_clean = re.split(r'[,()\-]', loc_raw)[0].strip()
+    loc_clean = re.sub(r'[^a-z0-9]', '', loc_clean)
+    if 'online' in loc_clean or 'virtual' in loc_clean:
+        loc_clean = 'online'
+
+    return (name_clean, date_clean, loc_clean)
+
+def deduplicate_events(events):
     seen = {}
     deduped = []
-    
+
     for ev in events:
-        name = ev.get('name') or ''
-        name_clean = re.sub(r'\[(.*?)\]\(.*?\)', r'\1', name).lower()
-        # Remove years from name to prevent duplicate editions in the same year from slightly differing names
-        name_clean = re.sub(r'20[2-9]\d', '', name_clean)
-        # Remove common fluff words that might differ between sources
-        name_clean = re.sub(r'\b(conference|summit|edition|annual)\b', '', name_clean)
-        name_clean = re.sub(r'[^a-z0-9]', '', name_clean)
-        
-        # Use a combination of name, date, and location to avoid deleting different editions of the same conference series
-        date_raw = (ev.get('date') or '').strip().lower()
-        loc_raw = (ev.get('location') or '').strip().lower()
-        
-        # Optimize date: Extract Year and Month to fuzzy match slight day variations
-        year_match = re.search(r'20[2-9]\d', date_raw)
-        year = year_match.group(0) if year_match else ''
-        
-        month = ''
-        month_match = re.search(r'-(\d{2})-', date_raw)
-        if month_match:
-            month = month_match.group(1)
-        else:
-            months = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"]
-            for i, m in enumerate(months):
-                if m in date_raw:
-                    month = f"{(i % 12) + 1:02d}"
-                    break
-        date_clean = f"{year}-{month}"
-        
-        # Optimize location: Take the first part before comma, parenthesis, or dash
-        loc_clean = re.split(r'[,()\-]', loc_raw)[0].strip()
-        loc_clean = re.sub(r'[^a-z0-9]', '', loc_clean)
-        if 'online' in loc_clean or 'virtual' in loc_clean:
-            loc_clean = 'online'
-            
-        key = (name_clean, date_clean, loc_clean)
-        
+        key = event_dedup_key(ev.get('name'), ev.get('date'), ev.get('location'))
+
         if key not in seen:
             seen[key] = True
             deduped.append(ev)
-            
+
     return deduped
