@@ -58,22 +58,21 @@ def main():
             if existing_rows == ['']:
                 existing_rows = []
                 
-            existing_names = []
+            existing_keys = set()
             for row in existing_rows:
                 # Use regex to split by unescaped pipes
                 parts = re.split(r'(?<!\\)\|', row)
-                if len(parts) >= 3:
-                    name_clean = re.sub(r'\[(.*?)\]\(.*?\)', r'\1', parts[1].strip()).lower()
-                    existing_names.append(name_clean)
+                if len(parts) >= 5:
+                    existing_keys.add(config.event_deduplication_key({
+                        'name': parts[1].strip(),
+                        'date': parts[2].strip(),
+                        'location': parts[3].strip(),
+                    }))
                     
             new_rows_added = 0
             for event in region_events:
-                name_clean = re.sub(r'\[(.*?)\]\(.*?\)', r'\1', event['name']).lower()
-                is_duplicate = False
-                for ex_name in existing_names:
-                    if name_clean in ex_name or ex_name in name_clean:
-                        is_duplicate = True
-                        break
+                event_key = config.event_deduplication_key(event)
+                is_duplicate = event_key in existing_keys
                         
                 if not is_duplicate:
                     line = event.get('line')
@@ -90,7 +89,7 @@ def main():
                         pass
                         
                     existing_rows.append(line)
-                    existing_names.append(name_clean)
+                    existing_keys.add(event_key)
                     new_rows_added += 1
                     total_added += 1
             def extract_date(row):
