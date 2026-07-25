@@ -22,7 +22,7 @@ def clean_readme():
             new_lines.append(line)
             continue
         elif line.strip().startswith('|'):
-            parts = line.split('|')
+            parts = re.split(r'(?<!\\)\|', line)
             if len(parts) >= 5:
                 name_raw = parts[1].strip()
                 name_clean = re.sub(r'\[(.*?)\]\(.*?\)', r'\1', name_raw).lower()

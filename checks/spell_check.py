@@ -28,8 +28,7 @@ def main():
     readme_path = os.path.join(script_dir, "..", "README.md")
     
     with open(readme_path, 'r', encoding='utf-8') as f:
-        lines = f.read().split('\n')
-        
+        lines = f.read().split('\n')    
     new_lines = []
     corrections_made = 0
     issues = []
@@ -37,7 +36,7 @@ def main():
     for i, line in enumerate(lines):
         line_num = i + 1
         if line.strip().startswith('|') and 'Event Name' not in line and not line.strip().startswith('|-'):
-            parts = line.split('|')
+            parts = re.split(r'(?<!\\)\|', line)
             if len(parts) >= 5:
                 event_name = parts[1].strip()
                 
