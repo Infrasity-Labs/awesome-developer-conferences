@@ -225,7 +225,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | The Apache Kafka Edition: Streaming & Architecture | 2026-08-01 | Bengaluru, IN | [↗](https://lu.ma/7pvdap49) |
 | GTM Buildathon: AILC x LIT School | 2026-08-01 | Bengaluru, IN | [↗](https://lu.ma/zockx2kd) |
 | Smash it Like a Founder | 2026-08-01 | Bengaluru, IN | [↗](https://lu.ma/zcxv7h86) |
-| Women's Only Sunrise Trek to Offbeat Trails | 2026-08-01 | Bengaluru, IN | [↗](https://lu.ma/h5e8dqhh) |
 | Study Jam Web Laravel #4 User Interface Chatbot Design | 2026-08-01 | Jakarta, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-negeri-jakarta-jakarta-indonesia-presents-study-jam-web-laravel-4-user-interface-chatbot-design/) |
 | Study Jam Data Science / Machine Learning #4 Optimizing Classification Model | 2026-08-01 | Jakarta, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-negeri-jakarta-jakarta-indonesia-presents-study-jam-data-science-machine-learning-4-optimizing-classification-model/) |
 | Cloud Next Extended Jakarta 2026 x KodingDeepDive [LIVE] | 2026-08-01 | Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-live-indonesia-presents-cloud-next-extended-jakarta-2026-x-kodingdeepdive-live/) |
@@ -238,7 +237,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | The Tech Twitter Quiz🏅 | 2026-08-01 | Bengaluru, IN | [↗](https://lu.ma/t80dma0r) |
 | Grown Up Club - Night 2 | 2026-08-01 | Singapore, SG | [↗](https://lu.ma/m7fp1x3d) |
 | Developer Summer Matsuri | 2026-08-02 | Kobe, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-greater-kwansai-presents-developer-summer-matsuri/) |
-| PLG Breakdown: Uber | 2026-08-02 | Bengaluru, IN | [↗](https://lu.ma/b309mhdi) |
 | Brand Marketing 101 for Founders | 2026-08-02 | Bengaluru, IN | [↗](https://lu.ma/irhvdvdh) |
 | 8th National Day Ground-Up Party (2026) | 2026-08-02 | Singapore, SG | [↗](https://lu.ma/p5q3eivg) |
 | Notion Workshop: Build & Brie x Cheeselads - Where Great Cheeses Meet Great Systems | 2026-08-02 | Singapore, SG | [↗](https://lu.ma/j9k4saun) |
@@ -261,7 +259,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Create with Google AI - Creator Day 2026 | 2026-08-02 | Madurai, India | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-madurai-presents-create-with-google-ai-creator-day-2026/) |
 | Cubbon Walk With Makers, Researchers, Tech Enthusiasts And Curious Minds | 2026-08-02 | Bengaluru, IN | [↗](https://lu.ma/0zibsrl9) |
 | Bengaluru Bus Reads: Chapter 12 + Author Read-a-long | 2026-08-02 | Bengaluru, IN | [↗](https://lu.ma/vdp5c0v9) |
-| Stutz Tools #03 | 2026-08-02 | Bengaluru, IN | [↗](https://lu.ma/hcfagwsd) |
 | Google Devs' Innovative Crosstalk | 2026-08-02 | Kobe, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-greater-kwansai-presents-google-devs-innovative-crosstalk/) |
 | Founders Meetup. | 2026-08-02 | Bengaluru, IN | [↗](https://lu.ma/i7p4cd6b) |
 | AI Design-a-thon - Edition 4 | 2026-08-02 | Bengaluru, IN | [↗](https://lu.ma/nmhaqj95) |
@@ -5254,7 +5251,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | PGConf.EU 2026 | 2026-10-20 to 2026-10-23 | Valencia | [↗](https://dev.events/conferences/pg-conf-eu-2026-or37peql) |
 | OCUDU Ecosystem Developer Summit | 2026-10-20 to 2026-10-22 | Alexandria | [↗](https://dev.events/conferences/ocudu-ecosystem-developer-summit-9j-zbwuu) |
 | GAME & LEARN | 2026-10-20 | Moscow | [↗](https://dev.events/conferences/game-and-learn-6ma7fbf4) |
-| Birmingham Tech Week 2026: FairTech | 2026-10-20 | Birmingham | [↗](https://birminghamtechweek.com/events/inclusive-tech-2026) |
 | P99 CONF 2026 | 2026-10-21 to 2026-10-22 | Online | [↗](https://www.p99conf.io/) |
 | MQ Summit 2026 | 2026-10-21 to 2026-10-22 | Haarlem | [↗](https://dev.events/conferences/mq-summit-2026-ro19idft) |
 | ThunderPlains 2026 | 2026-10-21 | Oklahoma City | [↗](https://dev.events/conferences/thunder-plains-2026-h1ijz21j) |
