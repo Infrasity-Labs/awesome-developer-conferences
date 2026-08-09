@@ -127,7 +127,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | DevFest Aba 2026 | 2026-12-05 | Aba, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-aba-presents-devfest-aba-2026/) |
 | DevFest Enugu 2026 | 2026-12-05 | Enugu, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-enugu-presents-devfest-enugu-2026/) |
 | DevFest Benin 2026: Connect, Learn, Innovate | 2026-12-12 | Benin, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-benin-presents-devfest-benin-2026-connect-learn-innovate/) |
-| Agentic AI Engineering Summit 2026 – Casablanca | 2026-12-18 to 2026-12-19 | Casablanca | [↗](https://cloudengineeringsummit.org) |
 | DevFest Cairo 2026 | 2026-12-19 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-cairo-presents-devfest-cairo-2026/) |
 | Build with AI: Data Science-AI-Cloud Sundays | 2026-12-20 | Kaduna, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-build-with-ai-data-science-ai-cloud-sundays-2026-12-20/) |
 | Africa Tech Summit Nairobi 2027 | 2027-02-10 to 2027-02-11 | Nairobi | [↗](https://dev.events/conferences/africa-tech-summit-nairobi-2027-d-hbcxtg) |
@@ -162,7 +161,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 |------------|------|----------|----------|
 | PyCon Indonesia 2026 | 2026-08-08 to 2026-08-09 | Jakarta (Indonesia) | [↗](https://pycon.id) |
 | OpenMetadata is coming to Bangalore! | 2026-08-08 | Bengaluru, IN | [↗](https://lu.ma/sb4szw7k) |
-| Startup Networking Open House \| Coffee with Founders | 2026-08-08 | Bengaluru, IN | [↗](https://lu.ma/pjbyqemb) |
 | Future-AI Career Festival 2026 | 2026-08-08 | Singapore, SG | [↗](https://lu.ma/8ys7qeg6) |
 | Climate Designers - Meet and Greet | 2026-08-08 | Bengaluru, IN | [↗](https://lu.ma/qv99278n) |
 | Real Builders, Real Pitch: Google Hackathon | 2026-08-08 | Bengaluru, IN | [↗](https://lu.ma/ai-zxaj) |
@@ -1700,7 +1698,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Merantix DevDay 2026 | 2026-09-10 | Berlin, DE | [↗](https://lu.ma/mx-devday) |
 | AI Project Management Get-Together | 2026-09-10 | Berlin, DE | [↗](https://lu.ma/1tbgmnam) |
 | Baltic Connect - Riga | 2026-09-10 | Riga | [↗](https://dev.events/conferences/baltic-connect-riga-lmpu-yb6) |
-| BSides Belfast 2026 | 2026-09-10 | Belfast (UK) | [↗](https://bsidesbelfast.org/) |
 | Senior Product en 2027 : quelles nouvelles attentes ? | 2026-09-10 | Paris, FR | [↗](https://lu.ma/jbj0cg3v) |
 | AI Marketing Night #9 | 2026-09-10 | Paris, FR | [↗](https://lu.ma/4grjha1m) |
 | Silent Book Club Session n. 46 - Schöneberg! | 2026-09-10 | Berlin, DE | [↗](https://lu.ma/e1evugvn) |
@@ -1945,7 +1942,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | DevFest Modena 2026 | 2026-10-03 to 2026-10-04 | Modena (Italy) | [↗](https://devfest.modena.it) |
 | BSides Cheltenham 2026 | 2026-10-03 | Cheltenham (UK) | [↗](https://bsidescheltenham.org.uk) |
 | AWS Community Day Bulgaria 2026 | 2026-10-03 | Sofia (Bulgaria) | [↗](https://www.aws-community-day.bg/) |
-| Extremadura Digital Day 2026 | 2026-10-03 | Cáceres, Extremadura, Spain | [↗](https://extremaduradigitalday.com) |
 | AFRICA DAY 2026 | 2026-10-03 | Paris, FR | [↗](https://lu.ma/ra305e6d) |
 | Product Circle - Builders | 2026-10-03 | Bucharest | [↗](https://dev.events/conferences/product-circle-builders-ogyy8fty) |
 | DevopsDay Prague 2026 | 2026-10-04 | Prague | [↗](https://devopsdays.org/events/2026-prague/welcome) |
@@ -2079,7 +2075,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | swampUP Europe | 2026-10-20 to 2026-10-22 | Barcelona (Spain) | [↗](https://swampup.jfrog.com/europe) |
 | Sessions: Berlin | 2026-10-20 | Berlin, DE | [↗](https://lu.ma/yta1p8ma) |
 | TestCon Europe 2026 | 2026-10-20 to 2026-10-23 | Vilnius | [↗](https://dev.events/conferences/test-con-europe-2026-xz8grk3c) |
-| Data Centre Expo at TechEx Europe | 2026-10-20 to 2026-10-21 | Amsterdam (Netherlands) | [↗](https://datacentrecongress.com/europe/) |
 | Conversations Roadshow: London by CTO Craft | 2026-10-20 | London | [↗](https://dev.events/conferences/conversations-roadshow-london-by-cto-craft-xllfibkv) |
 | NVIDIA GTC Berlin 2026 | 2026-10-20 to 2026-10-22 | Berlin | [↗](https://dev.events/conferences/nvidia-gtc-berlin-2026-j753mzn0) |
 | JDD 2026 | 2026-10-20 to 2026-10-21 | Krakow | [↗](https://dev.events/conferences/jdd-2026-x7bnbzs3) |
@@ -2202,14 +2197,12 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Capitole du Libre | 2026-11-14 to 2026-11-15 | Toulouse (France) | [↗](https://capitoledulibre.org) |
 | 🛰️ NASA Space Apps Challenge Ahlen 2026 | 2026-11-14 | Ahlen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-nasa-space-apps-challenge-ahlen-2026/) |
 | BSides Copenhagen 2026 | 2026-11-14 | Copenhagen | [↗](https://dev.events/conferences/b-sides-copenhagen-2026-ijtwav2s) |
-| Dynamics 365 Summit 2026 | 2026-11-14 | Lisbon (Portugal) | [↗](https://dynamics365summit.com) |
 | Solana Breakpoint 2026 | 2026-11-15 | London | [↗](https://dev.events/conferences/solana-breakpoint-2026-prup4prd) |
 | NextGen Intelligence Conference: Data, Cloud & AI | 2026-11-16 to 2026-11-17 | London (UK) | [↗](https://techaiconf.com) |
 | iSAQB Software Architecture Gathering 2026 | 2026-11-16 to 2026-11-19 | Berlin (Germany) | [↗](https://sag.isaqb.org) |
 | AI Engineering Summit | 2026-11-16 to 2026-11-20 | Berlin (Germany) | [↗](https://ai-engineering-summit.de) |
 | Gartner IT Infrastructure, Operations & Cloud Strategies | 2026-11-16 to 2026-11-17 | London | [↗](https://dev.events/conferences/gartner-it-infrastructure-operations-and-cloud-strategies-arnsh3u6) |
 | VibeKode Berlin 2026 | 2026-11-16 to 2026-11-20 | Berlin | [↗](https://dev.events/conferences/vibe-kode-berlin-2026-39ptxama) |
-| Budapest BI & Analytics Forum 2026 | 2026-11-16 to 2026-11-18 | Budapest (Hungary) | [↗](https://budapestbi.hu) |
 | Software Architecture Gathering | 2026-11-16 to 2026-11-19 | Berlin (Germany) | [↗](https://www.software-architecture-gathering.com) |
 | Open Source Monitoring Conference | 2026-11-17 to 2026-11-19 | Nuremberg (Germany) | [↗](https://osmc.de) |
 | AI Poland | 2026-11-17 to 2026-11-19 | Warsaw (Poland) | [↗](https://ai-poland.pl) |
@@ -3291,7 +3284,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Prairie Dev Con 2026 | 2026-09-21 to 2026-09-22 | Winnipeg, MB (Canada) | [↗](https://www.prairiedevcon.com) |
 | Explore DDD 2026 | 2026-09-21 to 2026-09-25 | Denver, CO (USA) | [↗](http://exploreddd.com) |
 | Partner Vibe 2.0 | 2026-09-21 to 2026-09-23 | Salt Lake City | [↗](https://dev.events/conferences/partner-vibe-2-0-0v3hhpuk) |
-| Targeting Quality 2026 | 2026-09-21 to 2026-09-22 | Cambridge, ON (Canada) | [↗](https://targetingquality.ca/) |
 | Devopsdays Denver | 2026-09-22 to 2026-09-23 | Denver, CO (USA) | [↗](https://devopsdays.org/events/2026-denver) |
 | GDevCon#7 - Brussels, Belgium | 2026-09-22 to 2026-09-24 | Brussels, Belgium | [↗](http://www.gdevcon.com) |
 | For Entrepreneurs: Building AI Chatbots for Customer Support | 2026-09-22 | Pittsburgh, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-pittsburgh-presents-for-entrepreneurs-building-ai-chatbots-for-customer-support/) |
@@ -3516,7 +3508,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | BSides RDU 2026 | 2026-12-18 | Raleigh, NC (USA) | [↗](https://bsidesrdu.org) |
 | The Year-End Social | 2026-12-18 | Surrey, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-surrey-presents-the-year-end-social/) |
 | CES 2027 | 2027-01-06 to 2027-01-09 | Las Vegas | [↗](https://dev.events/conferences/ces-2027-mc0vtou1) |
-| CodeMash 2027 | 2027-01-12 | Sandusky, United States | [↗](https://codemash.org/) |
 | KCD Panama 2026 | 2027-01-22 | Panama City, Panama | [↗](https://community2.cncf.io/events/details/cncf-kcd-panama-presents-kcd-panama-2026/) |
 | AI DevWorld | 2027-02-09 | San Jose, United States | [↗](https://aidevworld.com/) |
 | DeveloperWeek | 2027-02-09 | San Jose, United States | [↗](https://www.developerweek.com/) |
@@ -3887,7 +3878,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | fintech_devcon | 2026-08-03 | Denver, United States | [↗](https://fintechdevcon.io/) |
 | GopherCon 2026 | 2026-08-03 to 2026-08-06 | Washington D.C. (USA) | [↗](https://gophercon.com) |
 | TWC Bookclub: Imagination A Manifesto Part 1 | 2026-08-03 | Toronto, CA | [↗](https://lu.ma/pfzadfpp) |
-| Association for Software Testing - CAST 2026 | 2026-08-03 to 2026-08-05 | Cocoa Beach, FL (USA) | [↗](https://associationforsoftwaretesting.org/conference/cast-2026/) |
 | Workout + YAP | 2026-08-03 | Toronto, CA | [↗](https://lu.ma/tjl5ahfw) |
 | Find Customers with Reference Solutions, SFPL's Secret Weapon | 2026-08-03 | San Francisco, us | [↗](https://www.meetup.com/worldschool/events/315475873/) |
 | Cappis X CUTC Demo Night | 2026-08-03 | Toronto, CA | [↗](https://lu.ma/8w82q53m) |
@@ -4886,7 +4876,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | NSSpain XIV | 2026-09-17 to 2026-09-18 | Logrono | [↗](https://dev.events/conferences/ns-spain-xiv-c7xn1fmt) |
 | WordCamp Kathmandu | 2026-09-17 | Kathmandu | [↗](https://dev.events/conferences/word-camp-kathmandu-791ox11l) |
 | WN Conference Cyprus'26 | 2026-09-17 to 2026-09-18 | Limassol | [↗](https://dev.events/conferences/wn-conference-cyprus-26-isbsg-3f) |
-| Secure Our Streets Conference 2026 | 2026-09-17 | Online | [↗](https://sos.asrg.io) |
 | Founders Unfiltered: In conversation with Francois Henrion, Paytron | 2026-09-17 | Haymarket, AU | [↗](https://lu.ma/hzqs609d) |
 | ValuSignal 2026 | 2026-09-18 to 2026-09-19 | Online | [↗](http://www.valusignal.com) |
 | dotJS | 2026-09-18 | Folies Bergère | [↗](https://joind.in/event/dotjs) |
@@ -5127,7 +5116,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | GAME & LEARN | 2026-10-20 | Moscow | [↗](https://dev.events/conferences/game-and-learn-6ma7fbf4) |
 | The Linux Foundation Legal Summit | 2026-10-20 to 2026-10-21 | San Jose | [↗](https://dev.events/conferences/the-linux-foundation-legal-summit-zvy9su3g) |
 | PyTN 2026 | 2026-10-20 | Online | [↗](https://dev.events/conferences/py-tn-2026-sz1xuq7n) |
-| Birmingham Tech Week 2026: FairTech | 2026-10-20 | Birmingham | [↗](https://birminghamtechweek.com/events/inclusive-tech-2026) |
 | P99 CONF 2026 | 2026-10-21 to 2026-10-22 | Online | [↗](https://www.p99conf.io/) |
 | MQ Summit 2026 | 2026-10-21 to 2026-10-22 | Haarlem | [↗](https://dev.events/conferences/mq-summit-2026-ro19idft) |
 | ThunderPlains 2026 | 2026-10-21 | Oklahoma City | [↗](https://dev.events/conferences/thunder-plains-2026-h1ijz21j) |
