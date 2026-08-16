@@ -110,7 +110,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | DevFest Eket 2026 | 2026-10-24 | Eket, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-eket-presents-devfest-eket-2026/) |
 | Kubernetes Community Days Nigeria | 2026-10-24 | Lagos | [↗](https://dev.events/conferences/kubernetes-community-days-nigeria-vjlqjhq2) |
 | GDG DevFest Rift Valley 2026 | 2026-10-24 | Eldoret, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-eldoret-presents-gdg-devfest-rift-valley-2026/) |
-| DevFest Maiduguri 2026 | 2026-10-24 | Maiduguri, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-maiduguri-presents-devfest-maiduguri-2026/) |
 | DevFest 2026: Ignite Your Tech Journey! | 2026-10-30 | Ismailia, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-ismailia-presents-devfest-2026-ignite-your-tech-journey/) |
 | WordCamp Johannesburg 2026 | 2026-10-30 | Johannesburg | [↗](https://dev.events/conferences/word-camp-johannesburg-2026-u7a733sr) |
 | Embark on Innovation: Google DevFest Ebonyi 2026 | 2026-10-31 | Abakaliki, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-abakaliki-presents-embark-on-innovation-google-devfest-ebonyi-2026/) |
@@ -218,7 +217,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | TrackShift Innovation Challenge \| Bangalore Roadshow | 2026-08-15 | Bengaluru, IN | [↗](https://lu.ma/r6jpppvd) |
 | Build a Better India: Lightning Talks + Screening of The 22nd Century Indian | 2026-08-15 | Bengaluru, IN | [↗](https://lu.ma/ag1lt5as) |
 | Hack4Health 2026 Demo Day | 2026-08-15 | Singapore, SG | [↗](https://lu.ma/nuz1nvo9) |
-| Agentic AI for Leaders | 2026-08-15 | Singapore, SG | [↗](https://lu.ma/u2dgzmr6) |
 | Watch & Wonder. v1: 22nd Century India | 2026-08-15 | Bengaluru, IN | [↗](https://lu.ma/fkx7lezq) |
 | AO Launch Party - Bengaluru | 2026-08-15 | Bengaluru, IN | [↗](https://lu.ma/jle7amst) |
 | Data Learning Series 5: Statistical Thinking & Introduction to Predictive Analytics | 2026-08-15 | Surabaya, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-airlangga-surabaya-indonesia-presents-data-learning-series-5-statistical-thinking-amp-introduction-to-predictive-analytics/) |
@@ -256,7 +254,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | MAJU Rally Potluck Picnic @ Hong Lim Park | 2026-08-16 | Singapore, SG | [↗](https://lu.ma/bjdoer9i) |
 | Pigeon Circle: Eldest Daughter Core (The Burden of Being "The Good Daughter") | 2026-08-17 | Singapore, SG | [↗](https://lu.ma/d1f4td6x) |
 | Aspire Reverse Pitch - "A" is for August Edition | 2026-08-17 | Singapore, SG | [↗](https://lu.ma/dyz5uvpc) |
-| The Cost of Downtime: An O11y happy hour | 2026-08-17 | Singapore, SG | [↗](https://lu.ma/clickh-o11y-singapore) |
 | The LaunchPad Symposium | 2026-08-17 | Singapore, SG | [↗](https://lu.ma/se39u65p) |
 | [Board Games Social Mixer] Meet, Play & Connect! + Free-Flow Snacks & Drinks! | 2026-08-17 | Singapore, SG | [↗](https://lu.ma/5gg3gxc7) |
 | Build, Learn & Get Certified: Claude Code 101 | 2026-08-17 | Singapore, SG | [↗](https://lu.ma/claudecode102) |
@@ -264,7 +261,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Aug Meetup - Manager Layer for AI Multi-Agent Workforce + Gemini Tooling + Frontier Model Security Defensive Teaming | 2026-08-18 | Singapore, SG | [↗](https://lu.ma/u0i259lp) |
 | ANight: Meaty Dinner Prefs + Tech Showcase/Announcing (Open Submission) + Padel/Pickleball = 🥩🍖🍗 + 📢🖥️📽️ + 🏎️🏓🎾🏃‍♂️🏃‍♀️🎠 | 2026-08-18 | Singapore, SG | [↗](https://lu.ma/2uddo5ne) |
 | Startup Pitches by CEDAT | 2026-08-18 | Bengaluru, IN | [↗](https://lu.ma/lf4fssea) |
-| Equitech August 2026 Social | 2026-08-18 | Singapore, SG | [↗](https://lu.ma/36553kli) |
 | Open Science Robotics Foundation Models for Real-world Deployment with MolmoAct | 2026-08-18 | Singapore, SG | [↗](https://lu.ma/ugcpfae2) |
 | In Production: The Bessemer AI Builders Forum | 2026-08-18 | Bengaluru, IN | [↗](https://lu.ma/igf97w59) |
 | Watch a Cyber Attack Unfold. Then Learn to Stop It. | 2026-08-18 | Singapore, SG | [↗](https://lu.ma/dpqvxl0l) |
@@ -689,7 +685,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Elastic{ON} Mumbai | 2026-09-30 | Mumbai | [↗](https://dev.events/conferences/elastic-on-mumbai-h5m8ua76) |
 | WeAreDevelopers India | 2026-10-01 | Bengaluru, India | [↗](https://www.wearedevelopers.com/conference-india) |
 | Cypher AI Conference | 2026-10-01 to 2026-10-03 | Bengaluru, India | [↗](https://cypher.analyticsindiamag.com) |
-| Modern Work Conference Kuala Lumpur 2026 | 2026-10-01 | Kuala Lumpur (Malaysia) | [↗](https://ampkl.com/) |
 | GITEX VIETNAM 2026 | 2026-10-01 to 2026-10-02 | Hanoi (Vietnam) | [↗](https://gitexvietnam.com) |
 | Thursday After Work - Founders Night — Reverse Network Meet | 2026-10-01 | Bengaluru, IN | [↗](https://lu.ma/staaake-e0q4) |
 | DesignUp Festival 2026 | 2026-10-01 to 2026-10-04 | Bengaluru | [↗](https://dev.events/conferences/design-up-festival-2026-277faxd3) |
@@ -3201,7 +3196,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | AMA (Ask Me Anything) - Toronto! | 2026-08-27 | Toronto, CA | [↗](https://lu.ma/xnaa4js3) |
 | Toronto, ON - Entreprenista x Maman | 2026-08-27 | Toronto, CA | [↗](https://lu.ma/bo2orda8) |
 | Pride Pitch Competition | 2026-08-27 | Toronto, CA | [↗](https://lu.ma/u9nvynx3) |
-| Building Trustable AI at 100 MPH: Hands-On Codelab | 2026-08-27 | San Jose, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-san-jose-presents-building-trustable-ai-at-100-mph-hands-on-codelab/) |
 | Go Meetup in San Francisco \| Hosted by C1.ai | 2026-08-27 | San Francisco, us | [↗](https://www.meetup.com/golangsf/events/315798556/) |
 | Toronto Rooftop Tech Mixer w/ Rootly AI & Spacelift | 2026-08-27 | Toronto, CA | [↗](https://lu.ma/ldfere7z) |
 | Debate Night w/ Dragonfruit | 2026-08-27 | Toronto, CA | [↗](https://lu.ma/jjryq6ur) |
@@ -3292,7 +3286,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | CppCon 2026 | 2026-09-12 to 2026-09-18 | Aurora, CO (USA) | [↗](https://cppcon.org/about/) |
 | PWNEDCR 0x9 | 2026-09-12 to 2026-09-13 | San José (Costa Rica) | [↗](https://www.pwnedcr.com/) |
 | HackDSC Hackathon | 2026-09-12 | Richardson, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-the-university-of-texas-at-dallas-richardson-united-states-presents-hackdsc-hackathon/) |
-| Build with AI Vancouver | 2026-09-12 | Vancouver, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-vancouver-presents-build-with-ai-vancouver-2026-09-12/) |
 | PWNED CR 0x9 2025 | 2026-09-12 | San Jose Costa Rica | [↗](https://pwnedcr.com) |
 | HackwesTX 26: Beyond the Feed Hackathon | 2026-09-12 | Lubbock, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-texas-tech-university-lubbock-united-states-presents-hackwestx-26-beyond-the-feed-hackathon/) |
 | HackWesTX ’26: Beyond the Feed | 2026-09-12 | Lubbock, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-texas-tech-university-lubbock-united-states-presents-hackwestx-26-beyond-the-feed/) |
