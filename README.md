@@ -272,7 +272,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Jiak By The Quay Run (IG only) | 2026-08-22 | Singapore, SG | [↗](https://lu.ma/4n9id4mj) |
 | Inception World Model Hackathon II | 2026-08-22 | Bengaluru, IN | [↗](https://lu.ma/vjo0rozu) |
 | Getting Started With AI Filmmaking: The Cult By Unchained | 2026-08-22 | Bengaluru, IN | [↗](https://lu.ma/ktdti4hb) |
-| Crypto Meet | 2026-08-22 | Bengaluru, IN | [↗](https://lu.ma/9e0ll7ky) |
 | PANEL DISCUSSION | 2026-08-22 | Singapore, SG | [↗](https://lu.ma/ndyz4gon) |
 | AI Tinkerers x Tencent Cloud Hackathon: Singapore Demo Day | 2026-08-22 | Singapore, SG | [↗](https://lu.ma/stha00sg) |
 | Study Jam Data Science / Machine Learning: #5 Clustering | 2026-08-22 | Jakarta, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-negeri-jakarta-jakarta-indonesia-presents-study-jam-data-science-machine-learning-5-clustering/) |
@@ -3548,7 +3547,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | DevFest Tegucigalpa 2026 | 2026-10-24 | Tegucigalpa, Honduras | [↗](https://gdg.community.dev/events/details/google-gdg-tegucigalpa-presents-devfest-tegucigalpa-2026-1/) |
 | Atlanta Developers' Conference 2026 | 2026-10-24 | Alpharetta, GA (USA) | [↗](https://www.atldevcon.com/) |
 | DevFest Panamá 2026 | 2026-10-24 | Panamá, Panama | [↗](https://gdg.community.dev/events/details/google-gdg-panama-presents-devfest-panama-2026/) |
-| DevFest Guatemala City 2026 | 2026-10-24 | Guatemala, Guatemala | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-guatemala-presents-devfest-guatemala-city-2026/) |
 | 2026 Power Platform Community Conference | 2026-10-25 to 2026-10-30 | Las Vegas, NV (USA) | [↗](https://powerplatformconf.com) |
 | SuiteWorld 2026 \| Las Vegas | 2026-10-25 to 2026-10-28 | Las Vegas | [↗](https://dev.events/conferences/suite-world-2026-las-vegas-o6xqwv2p) |
 | Oracle AI World 2026 | 2026-10-25 to 2026-10-28 | Las Vegas | [↗](https://dev.events/conferences/oracle-ai-world-2026-0p5bjsxh) |
@@ -4521,7 +4519,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Devopsdays Curitiba | 2026-08-22 | Curitiba | [↗](https://dev.events/conferences/devopsdays-curitiba-dskuqer2) |
 | Late summer links with Coffee and Pickleball | 2026-08-22 | Koto City, JP | [↗](https://lu.ma/xe7q6osb) |
 | Découvrez n8n : Automatisez vos tâches sans coder et créez vos premiers workflows intelligents ! | 2026-08-22 | Abidjan, Côte d'Ivoire | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universite-virtuelle-de-cote-divoire-abidjan-cote-divoire-presents-decouvrez-n8n-automatisez-vos-taches-sans-coder-et-creez-vos-premiers-workflows-intelligents/) |
-| AI in Drug Discovery | 2026-08-22 | Baku, Azerbaijan | [↗](https://gdg.community.dev/events/details/google-gdg-baku-presents-ai-in-drug-discovery/) |
 | Build Tokyo: Imperial Palace Edition [ 1-Day Coding Camp ! ] | 2026-08-22 | Chiyoda City, JP | [↗](https://lu.ma/z2t21mso) |
 | Japan Health/Bio Coffee Club | 2026-08-22 | Shibuya, JP | [↗](https://lu.ma/edrchl1r) |
 | MATCHA CALLIGRAPHY | 2026-08-22 | Taito City, JP | [↗](https://lu.ma/f7zhxptx) |
