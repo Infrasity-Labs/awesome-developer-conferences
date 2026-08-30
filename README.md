@@ -357,7 +357,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Building AI Agents using Amazon Bedrock AgentCore | 2026-09-02 | Bengaluru, IN | [↗](https://lu.ma/2b53iqoo) |
 | The One About Spatial & Edge AI | 2026-09-02 | Singapore, SG | [↗](https://lu.ma/1u8b2cml) |
 | Agentic AI for Leaders: Hands-on Productivity Masterclass | 2026-09-02 | Singapore, SG | [↗](https://lu.ma/uu1hsmxz) |
-| [LEAP 2026] State Sync and Serverless: Building Reactive Apps with Firebase | 2026-09-02 | Jeddah, Saudi Arabia | [↗](https://gdg.community.dev/events/details/google-gdg-jeddah-presents-leap-2026-state-sync-and-serverless-building-reactive-apps-with-firebase/) |
 | Narrative Building for Deep Tech Founders | 2026-09-02 | Bengaluru, IN | [↗](https://lu.ma/9u15ldpe) |
 | AI Everywhere: Edge, Cloud and Humans | 2026-09-02 | Bengaluru, IN | [↗](https://lu.ma/r80gqn49) |
 | ChatGPT Sites Hackathon | 2026-09-02 | Singapore, SG | [↗](https://lu.ma/yqq0zo50) |
@@ -3378,7 +3377,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Sketch and Walk: Reading Plants Through Sketching with Julie Ourceau | 2026-09-05 | Toronto, CA | [↗](https://lu.ma/td7ic5zl) |
 | Passion Presentations: Psychology | 2026-09-05 | Toronto, CA | [↗](https://lu.ma/f1pv98da) |
 | Pilates Social: Stretch & Connect | 2026-09-05 | Toronto, CA | [↗](https://lu.ma/dfw5a7xx) |
-| Side Project Saturday 2.0 for Engineers | 2026-09-05 | San Francisco, us | [↗](https://www.meetup.com/mission-creatives-engineers/events/316145809/) |
 | little miss sidequest: badminton | 2026-09-05 | Toronto, CA | [↗](https://lu.ma/xtc6xmvg) |
 | Social Sketch & Script Saturday | 2026-09-05 | Toronto, CA | [↗](https://lu.ma/86vvf3co) |
 | Shut Up & Code - DOWNTOWN (Bay and Adelaide) | 2026-09-06 | Toronto, CA | [↗](https://lu.ma/wddf6uvt) |
@@ -3394,7 +3392,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | TWC Canada - Labour Day March | 2026-09-07 | Toronto, CA | [↗](https://lu.ma/mmmmhr7i) |
 | Devopsdays Portland, OR | 2026-09-08 to 2026-09-10 | Portland, OR (USA) | [↗](https://devopsdays.org/events/2026-portland-or) |
 | RustConf 2026 | 2026-09-08 to 2026-09-11 | Montreal (Canada) | [↗](http://rustconf.com) |
-| For Business Owners: Cybersecurity & Responsible AI | 2026-09-08 | Pittsburgh, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-pittsburgh-presents-for-business-owners-cybersecurity-amp-responsible-ai/) |
 | Android/iOS - In Person / Online Monthly Meetup. | 2026-09-08 | Omaha, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-omaha-presents-androidios-in-person-online-monthly-meetup-2026-09-08-3/) |
 | Daytona AI Builders - Toronto, September 2026 | 2026-09-08 | Toronto, CA | [↗](https://lu.ma/ai-builders-toronto) |
 | MAKE CLUB: Create content together and have fun! | 2026-09-08 | Toronto, CA | [↗](https://lu.ma/miuxtyon) |
@@ -5504,7 +5501,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Watch Tournament: World Championship Qualifiers at Chantilly Polo Club | 2026-09-25 | Apremont, FR | [↗](https://lu.ma/lu4ke1yj) |
 | Agentic LLMs and Software Architecture | 2026-09-25 | Scottsdale, us | [↗](https://www.meetup.com/azemergingtech/events/315041448/) |
 | 🎟️ Chantilly Weekend II: World Championship Edition | 2026-09-25 | Apremont, FR | [↗](https://lu.ma/ylqbxrj1) |
-| Building Production AI with Search & Agents at Elasti | 2026-09-25 | Sunnyvale, us | [↗](https://www.meetup.com/elastic-silicon-valley-user-group/events/315572929/) |
 | Optional: Watch Polo Tournament + Dinner & Drinks at Chantilly Polo Club | 2026-09-25 | Apremont, FR | [↗](https://lu.ma/sh1yog30) |
 | Lane Cove Riverside Walk, Lane Cove National Park | 2026-09-25 | Lindfield, AU | [↗](https://lu.ma/78fz2dhs) |
 | DevFest 2026: Innovating Together | 2026-09-26 | Quito | [↗](https://gdg.community.dev/events/details/google-gdg-quito-presents-build-with-ai-epn/cohost-gdg-quito) |
