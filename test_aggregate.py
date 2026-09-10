@@ -60,5 +60,26 @@ class AggregateDeduplicationTest(unittest.TestCase):
         self.assertEqual(result.count("Build With Gemma Hackathon"), 1)
 
 
+class FetcherRegionTest(unittest.TestCase):
+    def test_meetup_and_luma_do_not_define_determine_region(self):
+        import ast
+
+        root = Path(__file__).parent
+        for filename in ("fetchers/meetup.py", "fetchers/luma.py"):
+            with self.subTest(file=filename):
+                tree = ast.parse((root / filename).read_text(encoding="utf-8"))
+                func_names = [
+                    node.name
+                    for node in ast.walk(tree)
+                    if isinstance(node, (ast.FunctionDef, ast.AsyncFunctionDef))
+                ]
+                self.assertNotIn(
+                    "determine_region",
+                    func_names,
+                    f"{filename} should not define its own determine_region()",
+                )
+
+
 if __name__ == "__main__":
     unittest.main()
+

@@ -122,22 +122,6 @@ def fetch_events_from_api():
     print(f"[Meetup] Total raw events: {raw_count} | Filtered out: {filtered_count} | Successfully fetched: {len(unique_events)}")
     return unique_events
 
-def determine_region(location):
-    loc_lower = location.lower()
-    if 'online' in loc_lower or 'virtual' in loc_lower:
-        return 'Virtual/Online'
-    if any(x in loc_lower for x in ['usa', 'canada', 'united states', 'us']):
-        return 'North America'
-    if any(x in loc_lower for x in ['uk', 'germany', 'austria', 'france', 'portugal', 'czechia', 'czech republic', 'spain', 'belgium', 'netherlands']):
-        return 'Europe'
-    if any(x in loc_lower for x in ['india', 'japan', 'china', 'uae', 'singapore']):
-        return 'Asia'
-    if any(x in loc_lower for x in ['australia', 'new zealand']):
-        return 'Australia'
-    if any(x in loc_lower for x in ['brazil', 'peru', 'argentina', 'colombia', 'chile']):
-        return 'South America'
-    return 'Virtual/Online'
-
 if __name__ == "__main__":
     print("Fetching events from Meetup...")
     events = fetch_events_from_api()
