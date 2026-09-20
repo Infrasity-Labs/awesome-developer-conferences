@@ -237,13 +237,11 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | In sync with Dr Serena - Your 30s, Your Options | 2026-09-19 | Singapore, SG | [↗](https://lu.ma/oerf9a3d) |
 | 9月19号周六 Board Game @Macpherson • 下班桌游局（自由拼桌） | 2026-09-19 | Singapore, SG | [↗](https://lu.ma/5jgoa657) |
 | Cloud Essentials: Hands-On Workshop | 2026-09-19 | Jabalpur, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-gyan-ganga-institute-of-technology-and-science-jabalpur-india-presents-cloud-essentials-hands-on-workshop/) |
-| The Compound Club - Meetup | 2026-09-19 | Singapore, SG | [↗](https://lu.ma/8gr02j85) |
 | COSMO Chope Your Seat | 2026-09-19 | Singapore, SG | [↗](https://lu.ma/ujh1m2sk) |
 | Gunung Pulai - Secret Trail | 2026-09-19 | Kuala Lumpur | [↗](https://lu.ma/5g6p12kf) |
 | The Friendships We Hold: A Women-only Sunset Journalling Retreat & Deep Stretch Flow | 2026-09-19 | Singapore, SG | [↗](https://lu.ma/om3alstn) |
 | Code for Communities: Women in Tech Punjab | 2026-09-19 | Jalandhar, India | [↗](https://gdg.community.dev/events/details/google-gdg-jalandhar-presents-code-for-communities-women-in-tech-punjab/) |
 | AI X Testing Bootcamp By BrowserStack | 2026-09-19 | Bengaluru, IN | [↗](https://lu.ma/worwo42t) |
-| Snowflake Community Meetup | 2026-09-19 | Bengaluru, IN | [↗](https://lu.ma/12qq734s) |
 | RBN WELLNESS WAVE PRESENTS: LONGEVITY BY DESIGN | 2026-09-19 | Singapore, SG | [↗](https://lu.ma/nkiqox3n) |
 | The Body Detective | 2026-09-19 | Singapore, SG | [↗](https://lu.ma/ebrom5mr) |
 | Book Swap #21 | 2026-09-19 | Singapore, SG | [↗](https://lu.ma/5xnoni1v) |
@@ -279,7 +277,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | field:work Launch Party | 2026-09-19 | Singapore, SG | [↗](https://lu.ma/6p084rqs) |
 | Bittensor Unitour Kolkata × GDG on Campus NiT | 2026-09-19 | Agarpara, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-narula-institute-of-technology-agarpara-india-presents-bittensor-unitour-kolkata-x-gdg-on-campus-nit/) |
 | Founders & Investors Xplore by CEDAT | 2026-09-19 | Bengaluru, IN | [↗](https://lu.ma/b97z316z) |
-| Getting Paid by US Customers. — Reverse Network Meet | 2026-09-19 | Bengaluru, IN | [↗](https://lu.ma/staaake-hgty) |
 | WIPM x TripleDart \| The Big Buzz Theory: Marketing Quiz Night | 2026-09-19 | Bengaluru, IN | [↗](https://lu.ma/t9klwjkv) |
 | Founders Running Club :: Singapore | 2026-09-19 | Singapore, SG | [↗](https://lu.ma/54jotko0) |
 | Faber Hike 7km | 2026-09-19 | Singapore, SG | [↗](https://lu.ma/eyss2imq) |
@@ -305,7 +302,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Storytelling Workshop + Hands-on Artifact Creation \| South Park Commons (BLR) | 2026-09-19 | Bengaluru, IN | [↗](https://lu.ma/ww9b8pwn) |
 | Touch The Grass | 2026-09-19 | Bengaluru, IN | [↗](https://lu.ma/vjjadjaf) |
 | Fundraising for Startups: Panel Conversation with Founders & Investors | 2026-09-19 | Bengaluru, IN | [↗](https://lu.ma/ssmr33k4) |
-| SEO for AI: How to Rank on Page 1 and Get Cited by ChatGPT | 2026-09-19 | Beirut, Lebanon | [↗](https://gdg.community.dev/events/details/google-gdg-coast-lebanon-presents-seo-for-ai-how-to-rank-on-page-1-and-get-cited-by-chatgpt/) |
 | Tech Safari: The Ultimate Expedition | 2026-09-19 | Sultanpur, India, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kamla-nehru-institute-of-technology-sultanpur-india-presents-tech-safari-the-ultimate-expedition/) |
 | GDG on Campus HUFS 26-27 Onboarding | 2026-09-19 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-hankuk-university-of-foreign-studies-seoul-south-korea-presents-gdg-on-campus-hufs-26-27-onboarding/) |
 | Circuit De Indiranagar: 5k & 10k | 2026-09-19 | Bengaluru, IN | [↗](https://lu.ma/mzfpoytt) |
@@ -3545,7 +3541,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| GAIL Workshop: A Deep Dive with Norbert Kremer | 2026-09-19 | Newport Beach, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-newport-beach-presents-gail-workshop-a-deep-dive-with-norbert-kremer/) |
 | Day of Data SLC 2026 | 2026-09-19 | Salt Lake City, Utah | [↗](https://www.utahgeekevents.com) |
 | DevFest SLC 2026 | 2026-09-19 | Salt Lake City, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-salt-lake-city-presents-devfest-slc-2026/) |
 | Venus Fest Day 01: PYNE, LAL & Prado Monroe | 2026-09-19 | Toronto, CA | [↗](https://lu.ma/dgqei1k6) |
@@ -4246,7 +4241,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | AWS DMV Community Day 2026 | 2026-10-09 | Arlington, VA (USA) | [↗](https://www.dmvcommunityday.com/) |
 | DevFest Santo Domingo 2026 | 2026-10-09 | Santo Domingo, Dominican Republic | [↗](https://gdg.community.dev/events/details/google-gdg-santo-domingo-presents-devfest-santo-domingo-2026/) |
 | AWS COMMUNITY DAY 2026 | 2026-10-10 | Guatemala City | [↗](https://dev.events/conferences/aws-community-day-2026-op4sq1tj) |
-| Toledo DevFest 2026 | 2026-10-10 | Toledo, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-toledo-presents-toledo-devfest-2026-1/) |
 | WordCamp Guatemala 2026 | 2026-10-10 | Guatemala City | [↗](https://dev.events/conferences/word-camp-guatemala-2026-t8lmzlm5) |
 | Coders In Cars Getting Coffee | 2026-10-10 | Columbia, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-columbia-presents-coders-in-cars-getting-coffee-2026-10-10/) |
 | dev2next | 2026-10-12 to 2026-10-15 | Lone Tree, CO (USA) | [↗](https://www.dev2next.com) |
@@ -5528,7 +5522,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Informal Meetup - Virtual | 2026-09-24 | Sincelejo, Colombia | [↗](https://gdg.community.dev/events/details/google-gdg-sincelejo-presents-informal-meetup-virtual-2026-09-24/) |
 | Dev Carreira: Além do Óbvio | 2026-09-24 | Itumbiara, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-itumbiara-presents-dev-carreira-alem-do-obvio/) |
 | El código no lo es todo: Soft skills para destacar en technologyía | 2026-09-24 | Santa Cruz Atizapán, Mexico | [↗](https://gdg.community.dev/events/details/google-gdg-atizapan-presents-el-codigo-no-lo-es-todo-soft-skills-para-destacar-en-tecnologia/) |
-| Devopsdays Belo Horizonte | 2026-09-26 | Belo Horizonte (Brazil) | [↗](https://devopsdays.org/events/2026-belo-horizonte) |
 | KCD São Paulo 2026 | 2026-09-26 | São Paulo (Brazil) | [↗](https://community.cncf.io/kcd-brasil/) |
 | DevFest 2026: Innovating Together | 2026-09-26 | Quito, Ecuador | [↗](https://gdg.community.dev/events/details/google-gdg-quito-presents-devfest-2026-innovating-together/) |
 | Kubernetes Community Days KCD São Paulo 2026 | 2026-09-26 | São Paulo (Brazil) | [↗](https://community2.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-sao-paulo-2026/) |
