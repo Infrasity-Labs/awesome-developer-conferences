@@ -4,21 +4,38 @@ import subprocess
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from parse_readme import parse_readme
 import re
+import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+
+
+def create_session():
+    retry = Retry(
+        total=2,
+        connect=2,
+        read=2,
+        status=2,
+        backoff_factor=0,
+        status_forcelist=[408, 429, 500, 502, 503, 504],
+        allowed_methods=["GET"],
+        raise_on_status=False,
+    )
+    session = requests.Session()
+    session.headers.update({"User-Agent": USER_AGENT})
+    session.mount("http://", HTTPAdapter(max_retries=retry))
+    session.mount("https://", HTTPAdapter(max_retries=retry))
+    return session
 
 def check_url(url):
     """
     Returns (status, code) where status is True if alive, False if dead.
     """
-    cmd = [
-        "curl", "-L", "--max-time", "10", "--retry", "2", "--silent",
-        "--output", "/dev/null", "--write-out", "%{http_code}",
-        "-A", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-        url
-    ]
     try:
-        result = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
-        code_str = result.stdout.strip()
-        code = int(code_str) if code_str.isdigit() else 0
+        with create_session() as session:
+            response = session.get(url, allow_redirects=True, timeout=10, stream=True)
+        code = response.status_code
         
         # 200, 301, 302, 403 (WAF), 415 (CDN block), 429 (Rate Limit), 0 (Timeout/Drop) -> Alive
         # 5xx -> Warn but don't remove (Alive)
