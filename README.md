@@ -170,7 +170,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | DevFest Buea 2026: Creative Building with AI Tools | 2026-12-04 | Buea, Cameroon | [↗](https://gdg.community.dev/events/details/google-gdg-buea-presents-devfest-buea-2026-creative-building-with-ai-tools-1/) |
 | Devfest Gusau 2026 Kickoff | 2026-12-05 | Gusau, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-gusau-presents-devfest-gusau-2026-kickoff/) |
 | DevFest Aba 2026 | 2026-12-05 | Aba, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-aba-presents-devfest-aba-2026/) |
-| DevFest Enugu 2026 | 2026-12-05 | Enugu, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-enugu-presents-devfest-enugu-2026/) |
 | Devfest Gusau 2026 | 2026-12-05 | Gusau, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-gusau-presents-devfest-gusau-2026/) |
 | DEVFEST EBOLOWA 2026 | 2026-12-05 | Ebolowa, Cameroon | [↗](https://gdg.community.dev/events/details/google-gdg-ebolowa-presents-devfest-ebolowa-2026/) |
 | DevFest New Cairo '26 | 2026-12-05 | New Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-new-cairo-presents-devfest-new-cairo-26/) |
@@ -182,7 +181,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | DevFest: DevChallenge 2026 | 2026-12-12 | Tripoli, Libya | [↗](https://gdg.community.dev/events/details/google-gdg-tripoli-presents-devfest-devchallenge-2026/) |
 | Devfest 2026: Building Safe, Secure & Scalable Solutions with AI and Cloud for Local Impact | 2026-12-12 | Osogbo, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-osogbo-presents-devfest-2026-building-safe-secure-amp-scalable-solutions-with-ai-and-cloud-for-local-impact/) |
 | Alexandria DevFest 2026 Kickoff | 2026-12-12 | Alexandria, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-alexandria-presents-alexandria-devfest-2026-kickoff/) |
-| Agentic AI Engineering Summit 2026 – Casablanca | 2026-12-18 to 2026-12-19 | Casablanca | [↗](https://cloudengineeringsummit.org) |
 | DevFest Cairo 2026 | 2026-12-19 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-cairo-presents-devfest-cairo-2026/) |
 | DevFest Yola 2026 | 2026-12-19 | Jimeta, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-yola-presents-devfest-yola-2026/) |
 | Build with AI: Data Science-AI-Cloud Sundays | 2026-12-20 | Kaduna, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-build-with-ai-data-science-ai-cloud-sundays-2026-12-20/) |
@@ -244,7 +242,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Integration vs. Independence: What is the Optimal GTM and Tech Stack Strategy for Post-Acquisition Success? | 2026-09-26 | Bengaluru, IN | [↗](https://lu.ma/k5m6gl5o) |
 | IndiaFOSS 2026 | 2026-09-26 to 2026-09-27 | Bengaluru (India) | [↗](https://fossunited.org/indiafoss/2026) |
 | 11:11 Alchemy: Alchemy Crystal Bowl Meditation (60 mins) | 2026-09-26 | Singapore, SG | [↗](https://lu.ma/1111Alchemy-26-Sept-Session) |
 | MCP Connect Bengaluru | 2026-09-26 | Bengaluru | [↗](https://dev.events/conferences/mcp-connect-bengaluru-mxuw18dd) |
@@ -274,7 +271,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Panel: The Next Interface Is Voice | 2026-09-26 | Bengaluru, IN | [↗](https://lu.ma/yvjjf00r) |
 | Vibe Code your product MVP with Google AI Studio | 2026-09-26 | Bengaluru, IN | [↗](https://lu.ma/p20ecm65) |
 | Workshop: Build your first AI employee | 2026-09-26 | Bengaluru, IN | [↗](https://lu.ma/9rlo85os) |
-| Demystifying AI Neo Cloud by Neysa | 2026-09-26 | Bengaluru, IN | [↗](https://lu.ma/4i8svj9o) |
 | Physical AI: From Intelligence to the Real World | 2026-09-26 | Bengaluru, IN | [↗](https://lu.ma/natgxuqk) |
 | Rethinking Data Center Efficiency for AI | 2026-09-26 | Bengaluru, IN | [↗](https://lu.ma/49d1vmz6) |
 | Workshop: Figma to Code | 2026-09-26 | Bengaluru, IN | [↗](https://lu.ma/zu8spy1t) |
@@ -304,7 +300,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Brain Health Walk: Move Your Body, Protect Your Mind | 2026-09-26 | Singapore, SG | [↗](https://lu.ma/7ix45pu0) |
 | Yes, AI Can Run on 8GB RAM and a Mobile GPU | 2026-09-26 | Mumbai, India | [↗](https://gdg.community.dev/events/details/google-gdg-mad-presents-yes-ai-can-run-on-8gb-ram-and-a-mobile-gpu/) |
 | Trekking in the Wild | 2026-09-26 | Singapore, SG | [↗](https://lu.ma/moje9di1) |
-| Creative Building with GPT-6 Astra: Live Masterclass with Meng To, Season 2 | 2026-09-26 | Singapore, SG | [↗](https://lu.ma/design-with-codex-2) |
 | Mid Autumn Festival Celebrations @BW Monastery | 2026-09-26 | Singapore, SG | [↗](https://lu.ma/ub7zyzpf) |
 | Build with AI - Code for Communities 2nd Edition: Pre CCD Event Series Workshop | 2026-09-26 | Pune, India | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-pune-presents-build-with-ai-code-for-communities-2nd-edition-pre-ccd-event-series-workshop/) |
 | DevFest Roadshow #6 - All About Data: Engineering, Cloud, Agents, Analytics & Beyond | 2026-09-26 | Chennai, India | [↗](https://gdg.community.dev/events/details/google-gdg-chennai-presents-devfest-roadshow-6-all-about-data-engineering-cloud-agents-analytics-amp-beyond-1/) |
@@ -1651,7 +1646,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Birmingham Tech Week 2026: Scale Up Summit | 2026-09-28 to 2026-09-29 | Birmingham (UK) | [↗](https://birminghamtechweek.com/events/scaleup-summit-2026/) |
 | SREday Amsterdam 2026 Q4 | 2026-09-28 to 2026-09-29 | Amsterdam (Netherlands) | [↗](https://sreday.com/2026-amsterdam-q4/) |
 | Birmingham Tech Week 2026: AI Symposium | 2026-09-28 to 2026-09-29 | Birmingham (UK) | [↗](https://birminghamtechweek.com/events/ai-symposium-2026/) |
-| European Microsoft Fabric Community Conference | 2026-09-28 to 2026-10-01 | Barcelona (Spain) | [↗](https://www.sharepointeurope.com/european-microsoft-fabric-community-conference) |
 | BASTA! Fall 2026 | 2026-09-28 to 2026-10-02 | Mainz (Germany) | [↗](https://basta.net/mainz/) |
 | DevOpsDays Istanbul 2026 | 2026-09-28 to 2026-09-29 | Istanbul (Turkey) | [↗](https://devopsdays.istanbul) |
 | Cybersecurity conference - CSC 26 | 2026-09-28 to 2026-09-30 | Krakow (Croatia) | [↗](https://www.hiks.hr) |
@@ -2405,7 +2399,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | JDD 2026 | 2026-10-20 to 2026-10-21 | Krakow | [↗](https://dev.events/conferences/jdd-2026-x7bnbzs3) |
 | Elastic{ON} | 2026-10-20 | Amsterdam (Netherlands) | [↗](https://www.elastic.co/events/elasticon) |
 | Clean Code in the Age of AI | 2026-10-20 | Heraklion, Greece | [↗](https://gdg.community.dev/events/details/google-gdg-heraklion-presents-clean-code-in-the-age-of-ai/) |
-| Data Centre Expo at TechEx Europe | 2026-10-20 to 2026-10-21 | Amsterdam (Netherlands) | [↗](https://datacentrecongress.com/europe/) |
 | AMTSO Cyber Research Conference | 2026-10-20 to 2026-10-21 | Brussels | [↗](https://dev.events/conferences/amtso-cyber-research-conference-th8ehp1b) |
 | HelloStavanger 2026 | 2026-10-21 to 2026-10-22 | Stavanger (Norway) | [↗](https://hellostavanger.no) |
 | Code BEAM Europe 2026 | 2026-10-21 to 2026-10-22 | Haarlem (Netherlands) | [↗](https://codebeameurope.com/) |
@@ -2564,7 +2557,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | BC Waves Barcelona 2026 | 2026-11-14 | Barcelona (Spain) | [↗](https://sessionize.com/bc-waves-barcelona-2026) |
 | DevFest Catania 2026 | 2026-11-14 | Catania, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-catania-presents-devfest-catania-2026/) |
 | DevFest  Évora-Alentejo 2026 | 2026-11-14 | Evora, Portugal | [↗](https://gdg.community.dev/events/details/google-gdg-evora-presents-devfest-evora-alentejo-2026/) |
-| Dynamics 365 Summit 2026 | 2026-11-14 | Lisbon (Portugal) | [↗](https://dynamics365summit.com) |
 | Solana Breakpoint 2026 | 2026-11-15 | London | [↗](https://dev.events/conferences/solana-breakpoint-2026-prup4prd) |
 | NextGen Intelligence Conference: Data, Cloud & AI | 2026-11-16 to 2026-11-17 | London (UK) | [↗](https://techaiconf.com) |
 | iSAQB Software Architecture Gathering 2026 | 2026-11-16 to 2026-11-19 | Berlin (Germany) | [↗](https://sag.isaqb.org) |
@@ -2572,7 +2564,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Gartner IT Infrastructure, Operations & Cloud Strategies | 2026-11-16 to 2026-11-17 | London | [↗](https://dev.events/conferences/gartner-it-infrastructure-operations-and-cloud-strategies-arnsh3u6) |
 | VibeKode Berlin 2026 | 2026-11-16 to 2026-11-20 | Berlin | [↗](https://dev.events/conferences/vibe-kode-berlin-2026-39ptxama) |
 | Software Architecture Gathering | 2026-11-16 to 2026-11-19 | Berlin (Germany) | [↗](https://www.software-architecture-gathering.com) |
-| Budapest BI & Analytics Forum 2026 | 2026-11-16 to 2026-11-18 | Budapest (Hungary) | [↗](https://budapestbi.hu) |
 | The Leading International Conference for Software Architecture | 2026-11-16 | Berlin, Germany | [↗](https://conferences.isaqb.org/software-architecture-gathering/) |
 | EdTech Conference | 2026-11-16 to 2026-11-17 | London | [↗](https://dev.events/conferences/ed-tech-conference-dhq480b3) |
 | HalfStack Vienna | 2026-11-16 | Vienna (Austria) | [↗](https://halfstackconf.com/vienna) |
@@ -3601,7 +3592,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | FlowersML_conf Fall 2026 | 2026-09-26 to 2026-09-27 | New York | [↗](https://dev.events/conferences/flowers-ml-conf-fall-2026-vdklnfvu) |
 | Red Hat & GDG Newport Beach | 2026-09-26 | Newport Beach, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-newport-beach-presents-red-hat-amp-gdg-newport-beach/) |
 | Build Your AI Agent with Gemini | 2026-09-26 | Baltimore, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-maryland-baltimore-county-baltimore-united-states-presents-build-your-ai-agent-with-gemini/) |
-| Practical AI Workflow | 2026-09-26 | Vancouver, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-vancouver-presents-practical-ai-workflow/) |
 | Tech & Tacos: Building AI Apps with Google's Ecosystem 🌮💻 | 2026-09-26 | Bethesda, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-bethesda-presents-tech-amp-tacos-building-ai-apps-with-googles-ecosystem/) |
 | hackUMBC 2026 | 2026-09-26 | Baltimore, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-maryland-baltimore-county-baltimore-united-states-presents-hackumbc-2026/) |
 | Hackathon Google Cloud x NVIDIA | 2026-09-26 | Newport Beach, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-newport-beach-presents-hackathon-google-cloud-x-nvidia/) |
@@ -4176,7 +4166,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | PyBay2026 | 2026-10-03 | California (USA) | [↗](https://pybay.org) |
 | BSides Memphis | 2026-10-03 | Memphis, TN (USA) | [↗](https://bsidesmemphis.org/) |
 | Boston Data and AI Saturday 2026 | 2026-10-03 | Boston, MA (USA) | [↗](https://dayofdata.org/boston/) |
-| Saint John Community Hackathon: Build with Google AI | 2026-10-03 | Saint John, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-saint-john-presents-saint-john-community-hackathon-build-with-google-ai/) |
 | Hack Dearborn 5 | 2026-10-03 | Dearborn, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-michigan-dearborn-dearborn-united-states-presents-hack-dearborn-5/) |
 | PyBay 2026 - Oct 3, 2026 | 2026-10-03 | San Francisco, us | [↗](https://www.meetup.com/pyladies-silicon-valley/events/316308524/) |
 | AI Applications in Industry: Enterprise Considerations for Production Grade Use | 2026-10-03 | Calgary, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-calgary-presents-ai-applications-in-industry-enterprise-considerations-for-production-grade-use/) |
@@ -5412,7 +5401,6 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Sketching Hangout | 2026-09-23 | Toronto, CA | [↗](https://lu.ma/18pe4qtu) |
 | Devopsdays Denver | 2026-09-22 to 2026-09-23 | Denver, CO (USA) | [↗](https://devopsdays.org/events/2026-denver) |
 | GDevCon#7 - Brussels, Belgium | 2026-09-22 to 2026-09-24 | Brussels, Belgium | [↗](http://www.gdevcon.com) |
-| For Entrepreneurs: Building AI Chatbots for Customer Support | 2026-09-22 | Pittsburgh, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-pittsburgh-presents-for-entrepreneurs-building-ai-chatbots-for-customer-support/) |
 | OpenSearchCon North America | 2026-09-22 | San Jose, CA (USA) | [↗](https://events.linuxfoundation.org/opensearchcon-north-america/) |
 | Product Operations Summit San Francisco | 2026-09-22 to 2026-09-23 | San Francisco | [↗](https://dev.events/conferences/product-operations-summit-san-francisco-rvhpick1) |
 | Product-Led Summit San Francisco | 2026-09-22 to 2026-09-23 | San Francisco | [↗](https://dev.events/conferences/product-led-summit-san-francisco-aqrqajvs) |
