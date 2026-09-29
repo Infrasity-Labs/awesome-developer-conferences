@@ -35,6 +35,14 @@ jobs:
           - linuxfoundation
           - gemini_discovery
 
+          - confs_tech
+          - startup_grind
+          - platform_engineering
+          - sesamers
+          - techcrunch
+          - inkle
+          - everythingvc
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
