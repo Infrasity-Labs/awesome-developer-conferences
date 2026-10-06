@@ -36,7 +36,11 @@ def fetch_bevy_events(base_api_url):
             name = item.get('title') or 'N/A'
             event_url = item.get('url') or ''
             start_date_str = item.get('start_date') or ''
-            
+
+            if config.is_multi_event_promo_post(name):
+                filtered_count += 1
+                continue
+
             if not start_date_str:
                 filtered_count += 1
                 continue

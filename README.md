@@ -968,9 +968,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Automotive Linux Summit | 2026-12-07 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/automotive-linux-summit/) |
 | Embedded Linux Conference Asia | 2026-12-07 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/embedded-linux-conference-asia/) |
 | AIngular TLV | 2026-12-07 | Tel Aviv-Yafo, Israel | [↗](https://gdg.community.dev/events/details/google-gdg-tel-aviv-presents-aingular-tlv/) |
-| 50% Off GITEX 2026 & AI Everything Abu Dhabi - GDG Dubai Community Code GDGGTXE50 | 2026-12-07 | Dubai, United Arab Emirates | [↗](https://gdg.community.dev/events/details/google-gdg-dubai-presents-50-off-gitex-2026-amp-ai-everything-abu-dhabi-gdg-dubai-community-code-gdggtxe50/) |
 | DevFest AIngular TLV | 2026-12-07 | Tel Aviv-Yafo, Israel | [↗](https://gdg.community.dev/events/details/google-gdg-tel-aviv-presents-devfest-aingular-tlv/) |
-| GITEX GLOBAL Dubai & AI Everything Abu Dhabi 2026 \| GDG Dubai Promo Code Guide | 2026-12-07 | Dubai, United Arab Emirates | [↗](https://gdg.community.dev/events/details/google-gdg-dubai-presents-gitex-global-dubai-amp-ai-everything-abu-dhabi-2026-gdg-dubai-promo-code-guide/) |
 | Build with AI: Startup Creation Hackathon | 2026-12-08 | Rehovot, Israel | [↗](https://gdg.community.dev/events/details/google-gdg-rehovot-presents-build-with-ai-startup-creation-hackathon/) |
 | Singapore AI & Robotics Demo Night (Dec 2026) | 2026-12-08 | Singapore, SG | [↗](https://lu.ma/iue679ne) |
 | TOOCON #48 | 2026-12-08 | Kaohsiung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-kaohsiung-presents-toocon-48/) |
@@ -1026,6 +1024,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | International Conference on Robotics, Artificial Intelligence and Autonomous Systems | 2027-06-09 to 2027-06-11 | Singapore, Singapore | [↗](https://icraias2027.com) |
 | Experts Live Saudi 2026 | 2026-10-05 to 2026-10-06 | Riyadh (Saudi Arabia) | [↗](https://expertslive.sa) |
 | Gartner CIO & IT Executive Conference | 2026-10-05 to 2026-10-07 | Dubai | [↗](https://dev.events/conferences/gartner-cio-and-it-executive-conference-diygxay8) |
+| AI Everything Abu Dhabi 2026 | 2026-10-05 to 2026-10-07 | Abu Dhabi, United Arab Emirates | [↗](https://aieverythingabudhabi.com/) |
 | CoinFerenceX The Best Event Singapore | 2026-10-05 | Singapore, SG | [↗](https://lu.ma/tbe-summit) |
 | THE DEALFLOW SINGAPORE - INVESTOR BRUNCH | 2026-10-05 | Singapore, SG | [↗](https://lu.ma/dealflowsg) |
 | Day One \| Nobel Heroes & AI4SCI Summit Singapore 2026 | 2026-10-05 | Singapore, SG | [↗](https://lu.ma/nobelheroesday1) |
