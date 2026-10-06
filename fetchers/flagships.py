@@ -139,7 +139,7 @@ flagship_events = [
     },
     {
         "name": "GITEX Global",
-        "date": "2026-12-01",
+        "date": "2026-12-07 to 2026-12-11",
         "location": "Dubai, UAE",
         "register": "[↗](https://www.gitex.com)"
     },
