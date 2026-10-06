@@ -81,6 +81,26 @@ keywords = [
 
 ]
 
+# Community platforms (GDG/Bevy, Startup Grind, CNCF) let local chapters post
+# ticket-discount write-ups that bundle two unrelated third-party conferences
+# (different cities/dates/organizers) into one title joined by "&", e.g.
+# "GITEX GLOBAL Dubai & AI Everything Abu Dhabi 2026 | GDG Dubai Promo Code
+# Guide". That single chapter post carries one date (the post's own, not
+# either real conference's date), so turning it into one README row
+# misrepresents both events. Detect and drop these rather than silently
+# emitting a merged, wrongly-dated row.
+import re as _re
+PROMO_COMBO_RE = _re.compile(
+    r'(\d{1,3}\s*%\s*off|promo\s*code|discount\s*code|community\s*code|'
+    r'promo\s*guide|discount\s*guide|ticket\s*guide)',
+    _re.IGNORECASE,
+)
+
+
+def is_multi_event_promo_post(name):
+    return '&' in (name or '') and bool(PROMO_COMBO_RE.search(name))
+
+
 def is_event_relevant(event_text):
     event_text = event_text.lower()
     
