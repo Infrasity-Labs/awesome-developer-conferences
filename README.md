@@ -669,6 +669,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Agentic AI Workshop & Hackathon | 2026-10-09 | Hyderabad, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-hyderabad-institute-of-technology-and-management-hyderabad-india-presents-agentic-ai-workshop-amp-hackathon/) |
 | Proof Of Liquidity: VIP Dinner by Yield Network, Ink Chain, RockawayX, DAWN and Nexus Mutual | 2026-10-09 | Singapore, SG | [↗](https://lu.ma/kh3uenfj) |
 | ABON F1 Night | 2026-10-09 | Singapore, SG | [↗](https://lu.ma/pyrbjazj) |
+| The I's Have It: A meetup for the I names | 2026-10-09 | Singapore, SG | [↗](https://lu.ma/mh7qzdf8) |
 | Brand Strategy 101 for Startups | 2026-10-10 | Bengaluru, IN | [↗](https://lu.ma/ifaewhfh) |
 | Bangalore Product Mixer #4 \| Product Reactor | 2026-10-10 | Bengaluru, IN | [↗](https://lu.ma/232qy3xn) |
 | n8n for Founders | 2026-10-10 | Bengaluru, IN | [↗](https://lu.ma/5mmv2ofe) |
@@ -729,6 +730,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Build With AI: Learn with communities 🤖💻 | 2026-10-11 | Bhopal, India | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-bhopal-presents-build-with-ai-learn-with-communities/) |
 | Orka - Community Run \| Agara Lake | 2026-10-11 | Bengaluru, IN | [↗](https://lu.ma/k2y0bbxi) |
 | Read Together, Say Nothing | 2026-10-11 | Bengaluru, IN | [↗](https://lu.ma/y8asmbm1) |
+| Talent Acquisition Leader Circle @Cubbon | 2026-10-11 | Bengaluru, IN | [↗](https://lu.ma/b6ui3d72) |
 | Singapore AI & Robotics Demo Night (Oct 2026) | 2026-10-13 | Singapore, SG | [↗](https://lu.ma/md250vu1) |
 | Amazon Quick User Group - Bengaluru | 2026-10-13 | Bengaluru, IN | [↗](https://lu.ma/63q22z4g) |
 | Founder Talks by CEDAT | 2026-10-13 | Bengaluru, IN | [↗](https://lu.ma/moqd9qrw) |
@@ -6285,6 +6287,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | World Summit AI | 2026-10-07 | Unknown | [↗](https://ubuntu.com/engage/world-summit-ai-2026) |
 | Events \\| Netlify Come see us! | 2026-10-07 | Unknown | [↗](https://luma.com/3xawjg1c) |
 | Hannah Foxwell | 2026-10-07 | Unknown | [↗](https://www.infoq.com/profile/Hannah-Foxwell/) |
+| Encrypted instructions trick Copilot CLI into spilling developer secrets | 2026-10-07 | Unknown | [↗](https://www.csoonline.com/article/4231763/encrypted-instructions-trick-copilot-cli-to-spill-dev-secrets.html) |
 | Dapr Day Virtual | 2026-10-08 | Online | [↗](https://community2.cncf.io/events/details/cncf-virtual-project-events-hosted-by-cncf-presents-dapr-day/) |
 | Building Bruges Conference | 2026-10-08 | Bruges | [↗](https://dev.events/conferences/building-bruges-conference-77946uqo) |
 | 4Developers Katowice | 2026-10-08 | Katowice | [↗](https://dev.events/conferences/4-developers-katowice-ztyn-aq) |
@@ -6943,6 +6946,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | AI Social Club: Madrid | 2026-10-22 | Unknown | [↗](https://luma.com/vercel-ai-social-club-madrid) |
 | OpenInfra track at Sovereign Cloud Days Germany | 2026-10-22 | Unknown | [↗](https://www.sovereign-cloud-days.eu/en) |
 | SANS DFIR Summit & Training 2026 | 2026-10-22 | Unknown | [↗](https://www.sans.org/cyber-security-training-events/digital-forensics-summit-2026) |
+| Why AI is our Ultimate Test and Greatest Invitation | 2026-10-22 | Des Moines, us | [↗](https://www.meetup.com/ai-safety-awareness-group-omaha/events/316877888/) |
 | Open Source Observability Day | 2026-10-23 | Online | [↗](https://osoday.com) |
 | React Advanced London - October 23 & 26, 2026 | 2026-10-23 to 2026-10-26 | Online | [↗](https://reactadvanced.com/) |
 | Kubernetes Community Days Indonesia 2026 | 2026-10-23 | Unknown | [↗](https://kcd.cloudnative.id) |
