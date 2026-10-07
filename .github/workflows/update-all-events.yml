@@ -42,6 +42,10 @@ jobs:
           - techcrunch
           - inkle
           - everythingvc
+          - jsonld_generic
+          - tribe_generic
+          - ics_generic
+          - cards_generic
 
     steps:
       - name: Checkout repository
