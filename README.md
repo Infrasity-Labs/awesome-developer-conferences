@@ -5174,6 +5174,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Deluxe Pack | 2026-12-25 | Mascot, AU | [↗](https://lu.ma/jbqytt0p) |
 | WELCOME PACK | 2026-12-26 | Mascot, AU | [↗](https://lu.ma/bvccceyn) |
 | How I fixed it – GDG Cloud Chandigarh | 2026-12-29 | Unknown | [↗](https://gdg.community.dev/gdg-cloud-chandigarh) |
+| M365Con 27 – Global Microsoft 365, Copilot & AI Conference | 2027-01-11 to 2027-01-22 | Online | [↗](https://m365con.net) |
 | Governance & Security Summit 19.-20. Januar 2027 | 2027-01-19 to 2027-01-20 | Online | [↗](https://events.m365-summits.de/GovernanceSecuritySummit1920Januar2027) |
 | From Awareness to Impact: Emotional Intelligence is the Key | 2027-01-22 | Khartoum, Sudan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sudan-university-of-science-technology-khartoum-sudan-presents-from-awareness-to-impact-emotional-intelligence-is-the-key/) |
 | Power BI Summit 16. – 17. Februar 2027 | 2027-02-15 to 2027-02-16 | Unknown | [↗](https://events.m365-summits.de/PowerBISummit1617Februar2027) |
