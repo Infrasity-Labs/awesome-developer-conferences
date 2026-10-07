@@ -2,7 +2,7 @@ import json
 import re
 import time
 from datetime import datetime
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 
 from bs4 import BeautifulSoup
 
@@ -28,12 +28,37 @@ SOURCES = [
     "https://www.startupticker.ch/en/events",
     "https://www.nextevent.ai/united-arab-emirates/dubai",
     "https://exposignal.com/",
+    "https://about.gitlab.com/events/",
+    "https://lablab.ai/event",
+    "https://qconferences.com/",
+    "https://go.dev/wiki/Conferences",
+    "https://vercel.com/events",
+    "https://www.cio.com/events/",
+    "https://www.csoonline.com/events/",
+    "https://www.dataversity.net/events/",
+    "https://www.openstack.org/events/",
+    "https://www.sans.org/cyber-security-training-events/",
+    "https://www.terrapinn.com/exhibition/",
+    "https://inc42.com/events/",
+    "https://redis.io/events/",
+    "https://snyk.io/events/",
+    "https://www.canonical.com/events",
+    "https://www.nasscom.in/events",
+    "https://www.netlify.com/events/",
+    "https://www.techcentral.co.za/events",
+    "https://aliens.zone/events",
+    "https://eventstopten.com/",
+    "https://dubaicon.app/en/events",
+    "https://eventify.io/",
+    "https://www.opensesame.com/events",
 ]
 
 # Sites that only list developer/tech events: skip the keyword filter.
 DEV_ONLY = ("python.org", "php.net", "infoq.com", "docker.com", "aws.amazon.com",
             "sanity.io", "atlassian.com", "cockroachlabs.com", "pagerduty.com",
-            "fastly.com", "tigera.io")
+            "fastly.com", "tigera.io", "go.dev", "gitlab.com", "lablab.ai",
+            "qconferences.com", "vercel.com", "openstack.org", "sans.org", "netlify.com",
+            "snyk.io", "redis.io", "canonical.com")
 
 MONTHS = {m: i for i, m in enumerate(
     ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"], 1)}
@@ -94,6 +119,8 @@ def fetch_page(url):
                and c.find('a', href=True) for c in el.find_all(['article', 'li', 'div', 'tr'], recursive=True)):
             continue
         name = card_name(el)
+        if name.startswith('http'):
+            name = urlparse(name).netloc.replace('www.', '')
         if not (6 <= len(name) <= 150):
             continue
         raw += 1
