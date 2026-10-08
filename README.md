@@ -4721,7 +4721,7 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 | Builder's Day 2026 by Prisma | 2026-10-26 | San Francisco | [↗](https://dev.events/conferences/builder-s-day-2026-by-prisma-khspnjov) |
 | Austin Tech Week | 2026-10-26 | Austin | [↗](https://www.austintech.com/) |
 | Intuit Connect | 2026-10-26 | Las Vegas | [↗](https://www.intuit.com/intuitconnect/) |
-| KubeCon + CloudNativeCon North America | 2026-10-26 to 2026-10-29 | Los Angeles, CA, U.S.A. | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026) |
+| KubeCon + CloudNativeCon North America | 2026-11-09 to 2026-11-12 | Salt Lake City, UT, U.S.A. | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026) |
 | The Tech Festival Canada 2026 \| Meet, Build, Scale | 2026-10-26 | Toronto, ON, CA | [↗](https://allevents.in/toronto/the-tech-festival-canada-2026-meet-build-scale/100001998509391388) |
 | OWASP LASCON 2026 - Training | 2026-10-27 to 2026-10-28 | Austin, TX (USA) | [↗](http://lascon.org) |
 | OWASP LASCON 2026 | 2026-10-27 to 2026-10-30 | Austin | [↗](https://dev.events/conferences/owasp-lascon-2026-dzyeuihp) |

@@ -187,7 +187,7 @@ def determine_region(location, name='', link=''):
         
     return 'Virtual/Online'
 
-def event_deduplication_key(event):
+def event_name_only_key(event):
     import re
 
     name = event.get('name') or ''
@@ -197,6 +197,13 @@ def event_deduplication_key(event):
     # Remove common fluff words that might differ between sources
     name_clean = re.sub(r'\b(conference|summit|edition|annual)\b', '', name_clean)
     name_clean = re.sub(r'[^a-z0-9]', '', name_clean)
+    return name_clean
+
+
+def event_deduplication_key(event):
+    import re
+
+    name_clean = event_name_only_key(event)
 
     # Use a combination of name, date, and location to avoid deleting different editions of the same conference series
     date_raw = (event.get('date') or '').strip().lower()

@@ -17,13 +17,39 @@ def main():
         with open(json_file, 'r', encoding='utf-8') as f:
             try:
                 events = json.load(f)
+                for event in events:
+                    event['_source'] = json_file
                 all_new_events.extend(events)
                 source_counts[json_file] = len(events)
             except Exception as e:
                 print(f"Error loading {json_file}: {e}")
 
     print(f"Loaded {len(all_new_events)} total events from {len(source_counts)} fetchers.")
-    
+
+    # flagships.py is a manually curated, authoritative source. Other fetchers
+    # (e.g. confs_tech.py, which mirrors a third-party crowd-sourced dataset)
+    # can carry stale or wrong dates/locations for the same event. Since our
+    # dedup keys below include date/location, a conflicting scraped entry
+    # wouldn't be recognized as a duplicate of the curated one and could
+    # silently outrank it later (dedupe_readme.py's coarser name-only pass
+    # keeps whichever row sorts first by date, which may be the wrong one).
+    # Drop non-flagship events whose name matches a flagship event so the
+    # curated data always wins instead of racing against it.
+    flagship_names = {
+        config.event_name_only_key(e) for e in all_new_events
+        if e.get('_source') == 'events_flagships.json'
+    }
+    if flagship_names:
+        before = len(all_new_events)
+        all_new_events = [
+            e for e in all_new_events
+            if e.get('_source') == 'events_flagships.json'
+            or config.event_name_only_key(e) not in flagship_names
+        ]
+        dropped = before - len(all_new_events)
+        if dropped:
+            print(f"Dropped {dropped} non-flagship event(s) that conflicted with curated flagship data.")
+
     regions = {
         'Africa': [],
         'Asia': [],
