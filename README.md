@@ -25,6 +25,82 @@ This is a daily-updated directory of developer, cloud-native, and open-source co
 
 ---
 
+<!-- COUNTRY-INDEX:START -->
+## 🌍 Browse by Country
+
+Jump straight to upcoming events in a country. Pages refresh daily with the main list.
+
+| Country | Upcoming events |
+|---------|-----------------|
+| [United States](countries/united-states.md) | 585 |
+| [Germany](countries/germany.md) | 280 |
+| [Singapore](countries/singapore.md) | 258 |
+| [Canada](countries/canada.md) | 251 |
+| [France](countries/france.md) | 251 |
+| [India](countries/india.md) | 240 |
+| [United Kingdom](countries/united-kingdom.md) | 233 |
+| [Australia](countries/australia.md) | 92 |
+| [Spain](countries/spain.md) | 89 |
+| [Nigeria](countries/nigeria.md) | 61 |
+| [Brazil](countries/brazil.md) | 59 |
+| [Netherlands](countries/netherlands.md) | 45 |
+| [Italy](countries/italy.md) | 43 |
+| [Japan](countries/japan.md) | 38 |
+| [Kenya](countries/kenya.md) | 35 |
+| [Poland](countries/poland.md) | 34 |
+| [Portugal](countries/portugal.md) | 30 |
+| [China](countries/china.md) | 26 |
+| [Mexico](countries/mexico.md) | 24 |
+| [Egypt](countries/egypt.md) | 23 |
+| [Switzerland](countries/switzerland.md) | 22 |
+| [United Arab Emirates](countries/united-arab-emirates.md) | 18 |
+| [Colombia](countries/colombia.md) | 17 |
+| [South Korea](countries/south-korea.md) | 17 |
+| [Indonesia](countries/indonesia.md) | 16 |
+| [Taiwan](countries/taiwan.md) | 14 |
+| [Philippines](countries/philippines.md) | 13 |
+| [South Africa](countries/south-africa.md) | 13 |
+| [Sweden](countries/sweden.md) | 12 |
+| [Israel](countries/israel.md) | 11 |
+| [Türkiye](countries/t-rkiye.md) | 3 |
+| [Peru](countries/peru.md) | 20 |
+| [Belgium](countries/belgium.md) | 17 |
+| [Czechia](countries/czechia.md) | 16 |
+| [Austria](countries/austria.md) | 13 |
+| [Cameroon](countries/cameroon.md) | 11 |
+| [Denmark](countries/denmark.md) | 11 |
+| [Bulgaria](countries/bulgaria.md) | 10 |
+| [Finland](countries/finland.md) | 9 |
+| [Greece](countries/greece.md) | 9 |
+| [Lithuania](countries/lithuania.md) | 9 |
+| [Malaysia](countries/malaysia.md) | 9 |
+| [Norway](countries/norway.md) | 9 |
+| [Romania](countries/romania.md) | 8 |
+| [Tunisia](countries/tunisia.md) | 7 |
+| [Hungary](countries/hungary.md) | 6 |
+| [Uganda](countries/uganda.md) | 6 |
+| [Ghana](countries/ghana.md) | 5 |
+| [Jordan](countries/jordan.md) | 5 |
+| [Latvia](countries/latvia.md) | 5 |
+| [Morocco](countries/morocco.md) | 5 |
+| [Pakistan](countries/pakistan.md) | 5 |
+| [Serbia](countries/serbia.md) | 5 |
+| [Ireland](countries/ireland.md) | 4 |
+| [Saudi Arabia](countries/saudi-arabia.md) | 4 |
+| [Thailand](countries/thailand.md) | 4 |
+| [Vietnam](countries/vietnam.md) | 4 |
+| [Estonia](countries/estonia.md) | 3 |
+| [Nepal](countries/nepal.md) | 3 |
+| [Qatar](countries/qatar.md) | 3 |
+| [Bangladesh](countries/bangladesh.md) | 2 |
+| [New Zealand](countries/new-zealand.md) | 2 |
+| [Rwanda](countries/rwanda.md) | 2 |
+| [Chile](countries/chile.md) | 1 |
+| [Croatia](countries/croatia.md) | 1 |
+| [Russia](countries/russia.md) | 1 |
+
+<!-- COUNTRY-INDEX:END -->
+
 <!-- THE TABULAR DATA -->
 ## 📍 Event Schedule
 ### Africa

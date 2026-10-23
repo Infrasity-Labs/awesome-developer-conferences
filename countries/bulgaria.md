@@ -1,0 +1,16 @@
+# Developer Events in Bulgaria
+
+10 upcoming events. [Back to the full directory](../README.md)
+
+| Event Name | Date | Location | Register |
+|------------|------|----------|----------|
+| DEV: Challenge Accepted 2026 | 2026-10-23 | Sofia | [↗](https://dev.events/conferences/dev-challenge-accepted-2026-uqwa562f) |
+| QA:Challenge Accepted 2026 | 2026-10-24 | Sofia | [↗](https://dev.events/conferences/qa-challenge-accepted-2026-i00ya8v8) |
+| WordCamp Sofia 2026 | 2026-10-24 to 2026-10-25 | Sofia | [↗](https://dev.events/conferences/word-camp-sofia-2026-zyl5reqj) |
+| AI for Beginners: Kickstart Your Journey | 2026-10-27 | Plovdiv, Bulgaria | [↗](https://gdg.community.dev/events/details/google-gdg-plovdiv-presents-ai-for-beginners-kickstart-your-journey/) |
+| Full Stack Conf 2026 | 2026-10-29 | Sofia | [↗](https://dev.events/conferences/full-stack-conf-2026-vdaknzh3) |
+| Crossroads 2026 | 2026-10-29 to 2026-10-30 | Sofia, Bulgaria | [↗](https://www.startupcrossroads.com/) |
+| OpenFest 2026 | 2026-11-07 to 2026-11-08 | Sofia | [↗](https://dev.events/conferences/open-fest-2026-le0napdc) |
+| Plovdiv TechHack #1 | 2026-11-24 | Plovdiv, Bulgaria | [↗](https://gdg.community.dev/events/details/google-gdg-plovdiv-presents-plovdiv-techhack-1/) |
+| Security BSides Sofia 2027 | 2027-03-26 to 2027-03-28 | Sofia | [↗](https://dev.events/conferences/security-b-sides-sofia-2027-ragbwl96) |
+| jPrime 2027 | 2027-05-19 | Sofia, Bulgaria | [↗](https://jprime.io/) |
