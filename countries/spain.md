@@ -1,16 +1,9 @@
 # Developer Events in Spain
 
-89 upcoming events. [Back to the full directory](../README.md)
+83 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| PGconf.EU | 2026-10-20 to 2026-10-23 | Valencia, Spain | [↗](https://2026.pgconf.eu) |
-| ENISE 2026 | 2026-10-21 to 2026-10-23 | Leon, Spain | [↗](https://www.incibe.es/eventos/enise) |
-| 🚀 Join the OpenEU Democracy Festival 2026! (Free Online Event) | 2026-10-23 | Barcelona, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-uoc-barcelona-spain-presents-join-the-openeu-democracy-festival-2026-free-online-event/) |
-| IX Jornada de Profesiones con Futuro \| EPS x GDGoC UPO | 2026-10-23 | Seville, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universidad-pablo-de-olavide-seville-spain-presents-ix-jornada-de-profesiones-con-futuro-eps-x-gdgoc-upo/) |
-| La Inteligencia Artificial para todos, charla en el GCX 2026 por Andreu Ibáñez | 2026-10-23 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-la-inteligencia-artificial-para-todos-charla-en-el-gcx-2026-por-andreu-ibanez/) |
-| Introducción a la IA agentica con Gemini y Hermes, por Andreu Ibáñez en GCX 2026 | 2026-10-23 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-introduccion-a-la-ia-agentica-con-gemini-y-hermes-por-andreu-ibanez-en-gcx-2026/) |
-| Taller de Programacion 1 | 2026-10-23 | UCAM Catholic University of Murcia, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ucam-murcia-spain-presents-taller-de-programacion-1/) |
 | FresON Fest 2026 | 2026-10-24 | Aranjuez, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-aranjuez-presents-freson-fest-2026/) |
 | Hacktoberfest 2026 👩‍💻👨‍💻 | 2026-10-24 | A Coruña, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-a-coruna-presents-hacktoberfest-2026-1/) |
 | Mesa Redonda de comunidades Google en la GCX 2026, con Laura, Moisés, Rosemarie y Andreu | 2026-10-24 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-mesa-redonda-de-comunidades-google-en-la-gcx-2026-con-laura-moises-rosemarie-y-andreu/) |
@@ -46,6 +39,7 @@
 | Devopsdays Barcelona | 2026-11-13 to 2026-11-14 | Barcelona (Spain) | [↗](https://devopsdays.org/events/2026-barcelona) |
 | VallaTech Summit 2026 (DevFest Valladolid) | 2026-11-13 | Valladolid, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-valladolid-presents-vallatech-summit-2026-devfest-valladolid/) |
 | BC Waves Barcelona 2026 | 2026-11-14 | Barcelona (Spain) | [↗](https://sessionize.com/bc-waves-barcelona-2026) |
+| Aprende a Hackear (de verdad) | 2026-11-18 | UCAM Catholic University of Murcia, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ucam-murcia-spain-presents-aprende-a-hackear-de-verdad/) |
 | X-Ops Conference Madrid 2026 | 2026-11-19 to 2026-11-21 | Móstoles (Spain) | [↗](https://xopsconference.com/) |
 | X-Ops Conference Madrid | 2026-11-19 to 2026-11-21 | Madrid (Spain) | [↗](https://madrid.xopsconference.com/) |
 | 🤖 From PoC to Production: ¡Lleva tus agentes de IA a producción con Responsible AI! 🚀 | 2026-11-19 | Barcelona, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-uoc-barcelona-spain-presents-from-poc-to-production-lleva-tus-agentes-de-ia-a-produccion-con-responsible-ai/) |

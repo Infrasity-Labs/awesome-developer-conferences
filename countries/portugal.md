@@ -4,7 +4,7 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Build with AI: A Hands-On Code-Along GDG Lisbon x TechPark CV | 2026-10-23 | Lisbon, Portugal | [↗](https://gdg.community.dev/events/details/google-gdg-lisbon-presents-build-with-ai-a-hands-on-code-along-gdg-lisbon-x-techpark-cv/) |
+| International Conference on Emerging Security Information, Systems and Technologies (SECURWARE) 2026 | 2026-10-25 | Lisbon, PT | [↗](https://infosec-conferences.com/event/20261025-international-conference-on-emerging-security-information-systems-and/) |
 | Testing Portugal | 2026-10-26 to 2026-10-27 | Lisbon | [↗](https://dev.events/conferences/testing-portugal-e-ftxcv) |
 | Build with AI Workshop: Building an Autonomous Exam Prep & Faculty Simulator with Local LLMs: ADK for Node.js, Gemma 4 & Ollama | 2026-10-27 | Lisbon, Portugal | [↗](https://gdg.community.dev/events/details/google-gdg-lisbon-presents-build-with-ai-workshop-building-an-autonomous-exam-prep-amp-faculty-simulator-with-local-llms-adk-for-nodejs-gemma-4-amp-ollama/) |
 | BSidesLisbon2026 | 2026-10-29 to 2026-10-30 | Lisbon | [↗](https://dev.events/conferences/b-sides-lisbon2026-tpwrhctc) |
