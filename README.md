@@ -169,7 +169,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | DevFest Monastir 2026 | 2026-10-31 | Monastir, Tunisia | [↗](https://gdg.community.dev/events/details/google-gdg-monastir-presents-devfest-monastir-2026/) |
 | Data and AI Community Day - Johannesburg 31 October 2026 | 2026-10-31 | Johannesburg (South Africa) | [↗](https://www.dataandaicommunity.co.za/events/JHB-202610.html) |
 | DevFest Gabes 2026 | 2026-10-31 | Gabes, Tunisia | [↗](https://gdg.community.dev/events/details/google-gdg-gabes-presents-devfest-gabes-2026/) |
-| Business Intelligence Saturday | 2026-10-31 | Kaduna, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-business-intelligence-saturday-2026-10-31-1/) |
 | Data and AI Community Day | 2026-10-31 | Johannesburg | [↗](https://dev.events/conferences/data-and-ai-community-day-fgtvvpba) |
 | Cloud Computing Workshop | 2026-10-31 | Giza, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-giza-presents-cloud-computing-workshop/) |
 | Building for Real Networks: Offline-First, Real-Time Patterns Across Web, Mobile, and Desktop (Pre-Devfest Series) | 2026-10-31 | Umuahia, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-umuahia-presents-building-for-real-networks-offline-first-real-time-patterns-across-web-mobile-and-desktop-pre-devfest-series/) |
@@ -377,7 +376,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | AI Quantification Insights: DevFest Xian | 2026-10-24 | Xi'An, China | [↗](https://gdg.community.dev/events/details/google-gdg-xian-presents-ai-quantification-insights-devfest-xian/) |
 | Changji DevFest 2026 Kickoff: Discover AI Innovations | 2026-10-24 | Changji, China | [↗](https://gdg.community.dev/events/details/google-gdg-changji-presents-changji-devfest-2026-kickoff-discover-ai-innovations/) |
 | DevFest Baguio 2026 | 2026-10-24 | Baguio, Philippines | [↗](https://gdg.community.dev/events/details/google-gdg-baguio-presents-devfest-baguio-2026/) |
-| Senior Engineers and Executive Leaders Only 42 Kilometer Under 6 Hours | 2026-10-24 | Bengaluru, IN | [↗](https://lu.ma/brlr7xma) |
 | DevFest Hyderabad 2026 | 2026-10-24 | Hyderabad, India | [↗](https://gdg.community.dev/events/details/google-gdg-hyderabad-presents-devfest-hyderabad-2026/) |
 | RSI Research Mixer | 2026-10-24 | Bengaluru, IN | [↗](https://lu.ma/ja1fbt9r) |
 | Reality Check: Pitch Your Idea to 10 Real People [D2C Edition] | 2026-10-24 | Bengaluru, IN | [↗](https://lu.ma/h69gqmg7) |
@@ -394,7 +392,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Embedded Swift: From Code to Hardware | 2026-10-24 | Bengaluru, IN | [↗](https://lu.ma/lbm2afcr) |
 | Traitors: Write. Bluff. Survive. | 2026-10-24 | Bengaluru, IN | [↗](https://lu.ma/hug2g7aj) |
 | Shift Left Without Slowing Down: Security That Developers Don't Bypass at OWASP Amman | 2026-10-24 | Amman, Jordan | [↗](https://gdg.community.dev/events/details/google-gdg-amman-presents-shift-left-without-slowing-down-security-that-developers-dont-bypass-at-owasp-amman/) |
-| Storytelling Workshop For Beginners | 2026-10-24 | Bengaluru, IN | [↗](https://lu.ma/wse7giyz) |
 | AI Is Moving Fast. Your Investing Skills Should Too. | 2026-10-24 | Singapore, SG | [↗](https://lu.ma/drwealth-inperson) |
 | Beyond E2E: AI-Powered Exploratory Testing for Data Integrity \| 5th Singapore Meetup | 2026-10-24 | Singapore, SG | [↗](https://lu.ma/ttt-5th-singapore) |
 | New Life Youth Forum | 2026-10-24 | Singapore, SG | [↗](https://lu.ma/gt0muq91) |
@@ -428,7 +425,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | RAIx Series: Human Flourishing [Museum Tour] | 2026-10-24 | Singapore, SG | [↗](https://lu.ma/igqge6yo) |
 | Build with Ai: ABC (Anybody Can Code) | 2026-10-24 | Gurugram, India | [↗](https://gdg.community.dev/events/details/google-gdg-gurugram-presents-build-with-ai-abc-anybody-can-code/) |
 | BlrDroid + Blrkotlin October 2026 Meetup #133 | 2026-10-24 | Bengaluru, IN | [↗](https://lu.ma/1dfd73wq) |
-| Crypto OG mixer | 2026-10-24 | Bengaluru, IN | [↗](https://lu.ma/ybbclrrm) |
 | Blend In: Stranger Things 🎲 (#5) | 2026-10-24 | Bengaluru, IN | [↗](https://lu.ma/9itf1tqw) |
 | AI Parents Club - 1st Casual Meetup | 2026-10-24 | Singapore, SG | [↗](https://lu.ma/6gut1p5q) |
 | Introduction to AI: A Beginner's Guide (Part 4) (ICC Qatar) | 2026-10-24 | Doha, Qatar | [↗](https://gdg.community.dev/events/details/google-gdg-doha-presents-introduction-to-ai-a-beginners-guide-part-4-icc-qatar/) |
