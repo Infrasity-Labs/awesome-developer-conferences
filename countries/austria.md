@@ -1,11 +1,9 @@
 # Developer Events in Austria
 
-15 upcoming events. [Back to the full directory](../README.md)
+13 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| International Conference on Cryptography and Information Security (CRYPIS) 2026 | 2026-10-24 | Vienna, AT | [↗](https://infosec-conferences.com/event/20261024-international-conference-on-cryptography-and-information-security-crypis/) |
-| International Conference on Information Technology Convergence and Services (ITCSE) 2026 | 2026-10-24 | Vienna, AT | [↗](https://infosec-conferences.com/event/20261024-international-conference-on-information-technology-convergence-and-services/) |
 | invest.austria Conference 2026 | 2026-11-04 | Vienna, Austria | [↗](https://conference.invest-austria.com/) |
 | Global Day of Coderetreat @ FH Salzburg | 2026-11-06 | Salzburgo, Austria | [↗](https://gdg.community.dev/events/details/google-gdg-salzburg-presents-global-day-of-coderetreat-fh-salzburg-1/) |
 | DevFest Vienna 2026 - CfPs are open! | 2026-11-07 | Vienna, Austria | [↗](https://gdg.community.dev/events/details/google-gdg-vienna-presents-devfest-vienna-2026-cfps-are-open/) |
