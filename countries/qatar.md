@@ -1,8 +1,7 @@
 # Developer Events in Qatar
 
-2 upcoming events. [Back to the full directory](../README.md)
+1 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Tech Talk: Deploy a RAG AI Agent in Python using Google ADK and Cloud Run | 2026-10-25 | Doha, Qatar | [↗](https://gdg.community.dev/events/details/google-gdg-doha-presents-tech-talk-deploy-a-rag-ai-agent-in-python-using-google-adk-and-cloud-run/) |
 | World Summit AI Qatar 2026 | 2026-12-15 to 2026-12-16 | Doha, QA | [↗](https://qatar.worldsummit.ai/) |
