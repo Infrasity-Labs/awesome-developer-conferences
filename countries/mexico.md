@@ -1,10 +1,9 @@
 # Developer Events in Mexico
 
-24 upcoming events. [Back to the full directory](../README.md)
+23 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Reverse Pitch: VC + Cloud Trajinera Sessions en Xochimilco | 2026-10-26 | Mexico City, Mexico | [↗](https://www.startupgrind.com/events/details/startup-grind-mexico-city-presents-reverse-pitch-vc-cloud-trajinera-sessions-en-xochimilco/) |
 | Café, Cloud y Capital: Tech Due Diligence | 2026-10-28 | Mexico City, Mexico | [↗](https://www.startupgrind.com/events/details/startup-grind-mexico-city-presents-cafe-cloud-y-capital-tech-due-diligence/) |
 | How to fundraise 101: The 1%: Clarity, Story, Data | 2026-10-29 | Monterrey, Mexico | [↗](https://www.startupgrind.com/events/details/startup-grind-monterrey-presents-how-to-fundraise-101-the-1-clarity-story-data/) |
 | Tech Founded by Her: Retos y Estrategias de Female Founders | 2026-10-29 | Mexico City, Mexico | [↗](https://www.startupgrind.com/events/details/startup-grind-mexico-city-presents-tech-founded-by-her-retos-y-estrategias-de-female-founders/) |

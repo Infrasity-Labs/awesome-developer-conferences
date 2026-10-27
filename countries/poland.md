@@ -4,9 +4,9 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Deep Tech Summit 2026 | 2026-10-26 | Warsaw, Poland | [↗](https://deeptechsummit.eu/) |
 | AI & Cloud Stream Meetup! ☁️🤖 | 2026-10-29 | Wroclaw, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-wroclaw-presents-ai-amp-cloud-stream-meetup/) |
 | Trust No Pipeline: Securing Software Delivery and Workload Identity in the Cloud | 2026-10-29 | Krakow, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-krakow-presents-trust-no-pipeline-securing-software-delivery-and-workload-identity-in-the-cloud/) |
+| GDG Jam Jar: Portfolio Flavor | 2026-10-29 | Warsaw, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-politechnika-warszawska-warsaw-poland-presents-gdg-jam-jar-portfolio-flavor/) |
 | DevOpsDays Warsaw 2026 | 2026-11-01 | Warsaw | [↗](https://devopsdays.org/events/2026-warsaw) |
 | Google Cloud Builder Connect Poland 2026 \| PGE Narodowy | 2026-11-03 | Warsaw, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-warszawa-presents-google-cloud-builder-connect-poland-2026-pge-narodowy/) |
 | BCG Platinion x GDG on Campus PW - Case Workshop | 2026-11-04 | Warsaw, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-politechnika-warszawska-warsaw-poland-presents-bcg-platinion-x-gdg-on-campus-pw-case-workshop/) |
