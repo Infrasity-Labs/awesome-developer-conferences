@@ -1,11 +1,9 @@
 # Developer Events in Brazil
 
-57 upcoming events. [Back to the full directory](../README.md)
+55 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Vivo Segura Conference - 4ª Edição (Dia 01) | 2026-10-27 | São Paulo | [↗](https://www.papercall.io/vivoseguraconf4ed) |
-| DevFest Presidente Prudente 2026 | 2026-10-27 | Presidente Prudente, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-presidente-prudente-presents-devfest-presidente-prudente-2026/) |
 | Vivo Segura Conference - 4ª Edição (Dia 02) | 2026-10-28 | São Paulo | [↗](https://www.papercall.io/vivoseguraconf4villages) |
 | Devfest Pará - Marabá | 2026-10-29 | Campo Mourão, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-campo-mourao-presents-devfest-para-maraba/) |
 | Devfest Pará -  Carajás | 2026-10-29 | Campo Mourão, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-campo-mourao-presents-devfest-para-carajas/) |

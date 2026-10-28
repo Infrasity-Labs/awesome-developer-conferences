@@ -1,11 +1,9 @@
 # Developer Events in Portugal
 
-31 upcoming events. [Back to the full directory](../README.md)
+29 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Testing Portugal | 2026-10-26 to 2026-10-27 | Lisbon | [↗](https://dev.events/conferences/testing-portugal-e-ftxcv) |
-| Build with AI Workshop: Building an Autonomous Exam Prep & Faculty Simulator with Local LLMs: ADK for Node.js, Gemma 4 & Ollama | 2026-10-27 | Lisbon, Portugal | [↗](https://gdg.community.dev/events/details/google-gdg-lisbon-presents-build-with-ai-workshop-building-an-autonomous-exam-prep-amp-faculty-simulator-with-local-llms-adk-for-nodejs-gemma-4-amp-ollama/) |
 | BSidesLisbon2026 | 2026-10-29 to 2026-10-30 | Lisbon | [↗](https://dev.events/conferences/b-sides-lisbon2026-tpwrhctc) |
 | Introduction to Git and GitHub Workshop | 2026-10-30 | Coimbra, Portugal | [↗](https://gdg.community.dev/events/details/google-gdg-coimbra-presents-introduction-to-git-and-github-workshop/) |
 | DevOpsDays Portugal 2026 | 2026-11-01 | Portugal | [↗](https://devopsdays.org/events/2026-portugal) |

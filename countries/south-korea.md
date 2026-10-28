@@ -1,15 +1,10 @@
 # Developer Events in South Korea
 
-43 upcoming events. [Back to the full directory](../README.md)
+40 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | K-Connect AI (umbrella of 5 linked shows) | 2026-10-13 to 2026-11-07 | Seoul / Goyang, South Korea | [↗](https://biz.heraldcorp.com/article/10901325) |
-| GDGoC KAIST 정기세션 @ 10월 27일 화요일 | 2026-10-27 | Daejeon, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-korea-advanced-institute-of-science-technology-daejeon-south-korea-presents-gdgoc-kaist-jeonggisesyeon-10weol-27il-hwayoil/) |
-| Online Mogakco by GDG on Campus HUFS | 2026-10-27 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-hankuk-university-of-foreign-studies-seoul-south-korea-presents-online-mogakco-by-gdg-on-campus-hufs-11/) |
-| GDG on Campus SKHU Backend Study Session - 04 SQL & JPA | 2026-10-27 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkonghoe-university-seoul-south-korea-presents-gdg-on-campus-skhu-backend-study-session-04-sql-amp-jpa/) |
-| Red Hat Summit: Connect Seoul 2026 | 2026-10-27 | Seoul, KR | [↗](https://infosec-conferences.com/event/20261027-red-hat-summit-connect-seoul-2026/) |
-| GDGoC DGU G-Sprint Team Idea Presentations | 2026-10-27 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-dongguk-university-seoul-south-korea-presents-gdgoc-dgu-g-sprint-team-idea-presentations/) |
 | [84회] 글로벌 IT 전문가와 킹고인의 만남 시즌 2 여든네 번째 만남 | 2026-10-28 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkyunkwan-university-seoul-south-korea-presents-84hoe-geulrobeol-it-jeonmungawa-kinggoinyi-mannam-sijeun-2-yeodeunne-beonjjae-mannam/) |
 | GDG on Campus Soongsil University 2nd SSUmall Seminar | 2026-10-28 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-soongsil-university-seoul-south-korea-presents-gdg-on-campus-soongsil-university-2nd-ssumall-seminar-1/) |
 | IT 강냉이 소모임 3회차 | 2026-10-29 | Yongin, South Korea, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kangnam-university-yongin-south-korea-presents-it-gangnaengi-somoim-3hoeca/) |
@@ -37,8 +32,10 @@
 | G-STAR 2026 | 2026-11-19 to 2026-11-22 | Busan, South Korea | [↗](https://www.digitaltoday.co.kr/en/view/15066/g-star-2026-early-applications-open-for-exhibitors) |
 | 2026 GDGoC PKNU Senior 특강(시간수정/김명준) | 2026-11-20 | Busan, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-pukyong-national-university-busan-south-korea-presents-2026-gdgoc-pknu-senior-teuggangsigansujeonggimmyeongjun/) |
 | 🚀 GDGoC Dev Hackathon 2026 | 2026-11-20 | Siheung, South Korea, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-tech-university-of-korea-siheung-south-korea-presents-gdgoc-dev-hackathon-2026/) |
+| GDGoC SMU 1st Project Demo Day | 2026-11-20 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sangmyung-university-seoul-south-korea-presents-gdgoc-smu-1st-project-demo-day/) |
 | 과육톤 \| GDGoC 서울과학기술대학교 × 삼육대학교 연합 세션 | 2026-11-21 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-seoul-national-university-of-science-and-technology-seoul-south-korea-presents-gwayugton-gdgoc-seoulgwahaggisuldaehaggyo-x-samyugdaehaggyo-yeonhab-sesyeon/) |
 | 2026 SM@THON 제1회 상명 IT동아리 연합대회 | 2026-11-21 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sangmyung-university-seoul-south-korea-presents-2026-smthon-je1hoe-sangmyeong-itdongari-yeonhabdaehoe/) |
+| DevFest GDG Busan X Elice Lab 2026 - Builder Day | 2026-11-21 | Pusan, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-busan-presents-devfest-gdg-busan-x-elice-lab-2026-builder-day/) |
 | KISA Blockchain Promotion Week 2026 | 2026-11-25 | Seoul, South Korea | [↗](https://onoffmix.com/event/351014) |
 | Korea Fintech Week 2026 (8th) | 2026-11-25 to 2026-11-27 | Seoul, South Korea | [↗](https://fsc.go.kr/eng/pr010101/87427) |
 | Smart Construction, Safety & AI Expo 2026 | 2026-11-25 to 2026-11-27 | Goyang, South Korea | [↗](https://smartconexpo.com/) |

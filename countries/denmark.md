@@ -1,10 +1,9 @@
 # Developer Events in Denmark
 
-13 upcoming events. [Back to the full directory](../README.md)
+12 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Heliview Identity &amp; Access Management 2026 | 2026-10-27 | Copenhagen, DK | [↗](https://infosec-conferences.com/event/20261027-heliview-identity-and-access-management-2026/) |
 | Driving IT 2026 | 2026-10-30 | Copenhagen, Denmark | [↗](https://ida.dk/arrangementer-og-kurser/konferencer/driving-it) |
 | Digital Tech Summit 2026 | 2026-11-04 to 2026-11-05 | Copenhagen, Denmark | [↗](https://event.ing.dk/dts6) |
 | BSides Copenhagen 2026 | 2026-11-14 | Copenhagen | [↗](https://dev.events/conferences/b-sides-copenhagen-2026-ijtwav2s) |

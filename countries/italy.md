@@ -1,6 +1,6 @@
 # Developer Events in Italy
 
-45 upcoming events. [Back to the full directory](../README.md)
+48 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -13,6 +13,7 @@
 | GoLab 2026 | 2026-11-01 to 2026-11-03 | Bologna (Italy) | [↗](https://golab.io) |
 | RustLab 2026 | 2026-11-01 to 2026-11-03 | Bologna (Italy) | [↗](https://rustlab.it) |
 | AI Heroes - Community Booth | 2026-11-06 | Turin, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-torino-presents-ai-heroes-community-booth/) |
+| Il ruolo dell'Intelligenza Artificiale nell'area Commerciale Aziendale | 2026-11-06 | Vicenza, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-vicenza-presents-il-ruolo-dellintelligenza-artificiale-nellarea-commerciale-aziendale/) |
 | Devfest Pescara 2026 | 2026-11-07 to 2026-11-08 | Pescara (Italy) | [↗](https://gdg.community.dev/events/details/google-gdg-pescara-presents-devfest-pescara-reloaded/) |
 | Data & AI Builders Conference 2026 | 2026-11-07 | Bergamo (Italy) | [↗](https://dataaibuildersconf.it) |
 | Networking Night: Tech Talks & Beer | 2026-11-09 | Gela, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-gela-presents-networking-night-tech-talks-amp-beer/) |
@@ -20,11 +21,13 @@
 | WTM Ambassador | 2026-11-11 | Saint-Vincent, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-valle-daosta-presents-wtm-ambassador/) |
 | Costruire Mappe Interattive e Geofencing con Google Maps API | 2026-11-11 | Agrigento, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-agrigento-presents-costruire-mappe-interattive-e-geofencing-con-google-maps-api/) |
 | Second brain per persone e agenti: la conoscenza come codice | 2026-11-12 | Brescia, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-brescia-presents-second-brain-per-persone-e-agenti-la-conoscenza-come-codice/) |
+| Cambiamenti Climatici GooWorld - Mappe Interattive e Geofencing con Google Maps API | 2026-11-12 | Agrigento, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-agrigento-presents-cambiamenti-climatici-gooworld-mappe-interattive-e-geofencing-con-google-maps-api/) |
 | DevFest Catania 2026 | 2026-11-14 | Catania, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-catania-presents-devfest-catania-2026/) |
 | Cloud Day 2026 | 2026-11-18 | Milan (Italy) | [↗](https://www.cloudday.it) |
 | Hackathon #ValleyAI | 2026-11-18 | Saint-Vincent, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-valle-daosta-presents-hackathon-valleyai/) |
 | .NET Conference Italia 2026 | 2026-11-18 | Milan | [↗](https://dev.events/conferences/net-conference-italia-2026-pxjvzphe) |
 | reactjsday 2026 | 2026-11-19 | Verona (Italy) | [↗](https://www.reactjsday.it) |
+| Self-Hosting Open LLMs in Production: What the Tutorials Don't Tell You | 2026-11-19 | Vicenza, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-vicenza-presents-self-hosting-open-llms-in-production-what-the-tutorials-dont-tell-you/) |
 | angularday 2026 | 2026-11-20 | Verona (Italy) | [↗](https://www.angularday.it) |
 | AI Real Talk & Beer: come usiamo l'AI per davvero | 2026-11-20 | Potenza, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-basilicata-presents-ai-real-talk-amp-beer-come-usiamo-lai-per-davvero/) |
 | Investor Days 2026 | 2026-11-25 to 2026-11-26 | Milan, Italy | [↗](https://www.b2match.com/e/investor-days-2026) |

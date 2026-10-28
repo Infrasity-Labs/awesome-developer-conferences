@@ -1,9 +1,10 @@
 # Developer Events in China
 
-25 upcoming events. [Back to the full directory](../README.md)
+26 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
+| 社区说｜AI 驱动产业革新：Google 多模态与 Agent 赋能短剧与时尚出海 | 2026-10-29 | Changji, China | [↗](https://gdg.community.dev/events/details/google-gdg-changji-presents-she-qu-shuo-ai-qu-dong-chan-ye-ge-xin-google-duo-mo-tai-yu-agent-fu-neng-duan-ju-yu-shi-shang-chu-hai/) |
 | Founders & Builders Summer Mixer｜Founder’s Office Hours Oct 2026 | 2026-10-30 | Guangzhou, China | [↗](https://www.startupgrind.com/events/details/startup-grind-guangzhou-presents-founders-amp-builders-summer-mixerfounders-office-hours-oct-2026/) |
 | Google DevFest 2026 杭州站 | 2026-10-31 | Hangzhou, China | [↗](https://gdg.community.dev/events/details/google-gdg-hangzhou-presents-google-devfest-2026-hang-zhou-zhan/) |
 | 2026 Google Devfest Chengdu | 2026-10-31 | Chengdu, China | [↗](https://gdg.community.dev/events/details/google-gdg-chengdu-presents-2026-google-devfest-chengdu/) |

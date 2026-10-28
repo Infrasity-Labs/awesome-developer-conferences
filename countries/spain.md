@@ -4,7 +4,6 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| GDG Lleida a Agrobiotech Innovation Forum 2026 — Liquid Galaxy amb IA agèntica i Gemini | 2026-10-27 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-gdg-lleida-a-agrobiotech-innovation-forum-2026-liquid-galaxy-amb-ia-agentica-i-gemini/) |
 | Mozilla Festival | 2026-10-28 | Barcelona, Spain | [↗](https://www.mozillafestival.org) |
 | APi&AIAddictsDay | 2026-10-28 | Madrid | [↗](https://dev.events/conferences/a-pi-and-ai-addicts-day-5ekesof) |
 | Tech, Talk & Play? | 2026-10-28 | Jaen, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-jaen-presents-tech-talk-amp-play/) |
@@ -12,6 +11,7 @@
 | Wey Wey Web | 2026-10-29 to 2026-10-30 | Malaga (Spain) | [↗](https://weyweyweb.com) |
 | GDG Coffee 01 Event de Presentación | 2026-10-29 | Valladolid, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-valladolid-presents-gdg-coffee-01-evento-de-presentacion/) |
 | 1º Machine Learning Contest GDG on Campus UAM 💻🏆 | 2026-10-29 | Madrid, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-autonomous-university-of-madrid-madrid-spain-presents-1o-machine-learning-contest-gdg-on-campus-uam/) |
+| Taller de DAD I | 2026-10-29 | UCAM Catholic University of Murcia, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ucam-murcia-spain-presents-taller-de-dad-i/) |
 | Liquid Galaxy al GSoC 2026 Mentor Summit — reunió de treball sobre GEO i futur open source | 2026-10-30 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-liquid-galaxy-al-gsoc-2026-mentor-summit-reunio-de-treball-sobre-geo-i-futur-open-source/) |
 | The AI Conf | 2026-11-03 to 2026-11-04 | Barcelona (Spain) | [↗](https://theconf.ai/) |
 | Liquid Galaxy Agentic AI  skill contest | 2026-11-03 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-liquid-galaxy-agentic-ai-skill-contest/) |

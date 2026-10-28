@@ -1,15 +1,9 @@
 # Developer Events in Australia
 
-97 upcoming events. [Back to the full directory](../README.md)
+98 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Signal Sydney | 2026-10-27 | Sydney | [↗](https://dev.events/conferences/signal-sydney-wkz0segd) |
-| The Path to Sales Engineering | 2026-10-27 | Sydney, AU | [↗](https://lu.ma/ogb4eicm) |
-| PE Leaders Breakfast Sydney: Agentic Development in the Enterprise | 2026-10-27 | Sydney, AU | [↗](https://lu.ma/platform-nks0) |
-| Hyphae After Hours Co-working Sesh | 2026-10-27 | Brisbane, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-brisbane-presents-hyphae-after-hours-co-working-sesh/) |
-| JuiceIT Melbourne 2026 | 2026-10-27 | Melbourne, AU | [↗](https://infosec-conferences.com/event/20261027-juiceit-melbourne-2026/) |
-| She Runs Weekly Wednesday City Run | 2026-10-27 | Sydney | [↗](https://lu.ma/i49iedz7) |
 | PlatformCon | 2026-10-28 | Sydney, Australia | [↗](https://platformconlive.fr) |
 | Cloud Native Summit - APAC 2026 | 2026-10-28 to 2026-10-29 | Melbourne (Australia) | [↗](https://www.cloudnative.ai/) |
 | apidays Australia | 2026-10-28 to 2026-10-29 | Melbourne, Australia | [↗](https://www.apidays.global/events/australia) |
@@ -30,21 +24,26 @@
 | Leticia Hoffman - Art, Luxury & the Value of Collecting | 2026-10-29 | Sydney, AU | [↗](https://lu.ma/m1zyh8yr) |
 | PG Down Under 2026 | 2026-10-30 | Sydney | [↗](https://dev.events/conferences/pg-down-under-2026-uaa1rfvm) |
 | 🚀 DevFest Perth 2026 | 2026-10-30 | Perth, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-perth-presents-devfest-perth-2026/) |
+| 🎃👻 GDGoC x Monash Board Games: Halloween-themed Board Games Day 🎲 | 2026-10-30 | Clayton, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-monash-university-melbourne-australia-presents-gdgoc-x-monash-board-games-halloween-themed-board-games-day/) |
 | AI & Tech Community Monthly Meet up: (Novotel Darling Harbour) | 2026-10-31 | Sydney, AU | [↗](https://lu.ma/veky590w) |
 | Aloha Saturdays - International Social + Latin Party | 2026-10-31 | Sydney, AU | [↗](https://lu.ma/tycokz2o) |
 | Sydney Tech Pickleball | 2026-11-03 | Sydney, AU | [↗](https://lu.ma/msl6kqh4) |
+| She Runs Weekly Wednesday City Run | 2026-11-03 | Sydney | [↗](https://lu.ma/1sgxha6l) |
 | Atlassian for Startups: Demo Night | 2026-11-04 | Sydney, AU | [↗](https://lu.ma/1srmqcc1) |
 | AI in Cybersecurity: An Executive Roundtable Dinner | 2026-11-04 | Sydney, AU | [↗](https://lu.ma/vanta-mtb4) |
 | AWS User Group Sydney Meetup | 2026-11-04 | Sydney, AU | [↗](https://lu.ma/a9m3rv00) |
 | CPL Sydney presented by Independent Reserve | 2026-11-04 | Sydney, AU | [↗](https://lu.ma/4elagdct) |
+| Tech 'n' Tonic Networking Night | 2026-11-04 | Sydney, NS, AU | [↗](https://allevents.in/sydney/tech-n-tonic-networking-night/200030921438632) |
 | New Horizons: What 2027 Means for Your Balance Sheet | 2026-11-05 | Sydney, AU | [↗](https://lu.ma/hqx7kb9e) |
 | Startup Coffee Social #38 | 2026-11-05 | Sydney, AU | [↗](https://lu.ma/startup-u2hb) |
+| Sydney Trading Workshop | 2026-11-05 | Sydney, AU | [↗](https://lu.ma/p3jr28ds) |
 | AFES & NSWCLS present “Wise Beginnings for Law Students” followed by a “Meet the Profession” dinner | 2026-11-06 | Sydney, AU | [↗](https://lu.ma/wise26) |
 | CloudCon SYD 2026 | 2026-11-09 to 2026-11-10 | Sydney (Australia) | [↗](https://cloudcon.au) |
 | GDG Melbourne November'26 Meetup! | 2026-11-10 | Melbourne, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-melbourne-presents-gdg-melbourne-november26-meetup/) |
 | Transformers For Dummies Like Me | 2026-11-10 | Sydney, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-technology-sydney-sydney-australia-presents-transformers-for-dummies-like-me/) |
 | Transformers 101: How Modern AI Works | 2026-11-10 | Sydney, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-technology-sydney-sydney-australia-presents-transformers-101-how-modern-ai-works/) |
 | Clay Data & List Building SYD: How RevOps teams build lists in Clay | 2026-11-10 | Sydney, AU | [↗](https://lu.ma/gtmanz-bpzg) |
+| Sydney Founders Pickleball | 2026-11-10 | Sydney, AU | [↗](https://lu.ma/dp008p0d) |
 | Hello Clever Elevate Sydney 2026: The Root Cause | 2026-11-11 | Sydney, AU | [↗](https://lu.ma/qokszdd4) |
 | VIC AI Boom | 2026-11-13 | Melbourne | [↗](https://dev.events/conferences/vic-ai-boom-j0pcj071) |
 | AI + Mobile Brisbane \| Tech Talks & Networking (In collab with Brisbane Mobile App Development Meetup) | 2026-11-13 | Brisbane, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-brisbane-presents-ai-mobile-brisbane-tech-talks-amp-networking-in-collab-with-brisbane-mobile-app-development-meetup/) |
@@ -80,7 +79,9 @@
 | Forza End of Year Drinks - Sydney | 2026-12-03 | Sydney, AU | [↗](https://lu.ma/d2oivciv) |
 | DDD Brisbane 2026 | 2026-12-05 | Brisbane | [↗](https://dev.events/conferences/ddd-brisbane-2026-mdv-6-a) |
 | YOW! Brisbane 2026 | 2026-12-07 to 2026-12-09 | Brisbane | [↗](https://dev.events/conferences/yow-brisbane-2026-wwf7hor1) |
+| NeurIPS x Appen: Evaluating Long-Horizon Agents | 2026-12-08 | Sydney, AU | [↗](https://lu.ma/whdzlte4) |
 | Community Breakfast ☕️✨ AI Week edition | 2026-12-09 | Sydney, AU | [↗](https://lu.ma/vm0dlqjl) |
+| NeurIPS x Appen: Happy Hour on the Harbour | 2026-12-09 | Sydney, AU | [↗](https://lu.ma/8wu2z11b) |
 | Difinity Conference - Melbourne - 2026 | 2026-12-10 to 2026-12-11 | Melbourne (Australia) | [↗](https://difinitymelbourne.com/) |
 | End of Year Celebration! | 2026-12-10 | Melbourne, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-melbourne-presents-end-of-year-celebration/) |
 | Fabric Friday Melbourne | 2026-12-11 | Melbourne | [↗](https://dev.events/conferences/fabric-friday-melbourne-5wbxivr6) |

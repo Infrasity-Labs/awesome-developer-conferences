@@ -1,10 +1,9 @@
 # Developer Events in Belgium
 
-18 upcoming events. [Back to the full directory](../README.md)
+17 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Code & Compliance | 2026-10-27 | Brussels | [↗](https://dev.events/conferences/code-and-compliance-vtas-s1a) |
 | AutomationSTAR Conference | 2026-11-04 to 2026-11-05 | Antwerp (Belgium) | [↗](https://automation.eurostarsoftwaretesting.com/tickets) |
 | VisugXL 2026 | 2026-11-17 | Sint-Katelijne-Waver (Belgium) | [↗](https://www.visug.be/) |
 | Odoo Hackathon #6 | 2026-11-20 to 2026-11-22 | Ramillies (Belgium) | [↗](https://www.odoo.com/r/yZq) |

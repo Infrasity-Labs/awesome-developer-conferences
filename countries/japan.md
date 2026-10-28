@@ -4,7 +4,7 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| OffensiveCon Tokyo 2026 | 2026-10-27 | Tokyo, JP | [↗](https://infosec-conferences.com/event/20261027-offensivecon-tokyo-2026/) |
+| ハロウィン交流会 Tech or Treat Night | 2026-10-28 | Osaka, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-osaka-osaka-japan-presents-harouinjiao-liu-hui-tech-or-treat-night/) |
 | FlutterKaigi 2026 | 2026-10-29 to 2026-10-30 | Tokyo | [↗](https://dev.events/conferences/flutter-kaigi-2026-zpex50np) |
 | GDG Shibuya Kickoff Event! Vibe & Build: From Vibe Coding to Production Agents | 2026-10-29 | Shibuya, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-shibuya-presents-gdg-shibuya-kickoff-event-vibe-amp-build-from-vibe-coding-to-production-agents/) |
 | 月末作業会 #3 (U27) | 2026-10-29 | Kōbe, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kobe-university-kobe-japan-presents-yue-mo-zuo-ye-hui-3-u27-1/) |

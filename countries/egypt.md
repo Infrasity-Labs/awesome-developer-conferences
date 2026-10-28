@@ -4,10 +4,10 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| C# & Backend Development Fundamentals | 2026-10-27 | Giza, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-october-6-university-giza-egypt-presents-c-amp-backend-development-fundamentals/) |
 | GDG on Campus Zagazig \| Info Session 2026 | 2026-10-28 | Zagazig, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-zagazig-university-zagazig-egypt-presents-gdg-on-campus-zagazig-info-session-2026/) |
 | DevFest 2026: Ignite Your Tech Journey! | 2026-10-30 | Ismailia, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-ismailia-presents-devfest-2026-ignite-your-tech-journey/) |
 | Lists & Navigation | 2026-10-30 | Giza, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-october-6-university-giza-egypt-presents-lists-amp-navigation-1/) |
+| Firebase: Latest Updates | 2026-10-30 | 6Th Of October, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-6-october-presents-firebase-latest-updates/) |
 | DevFest 2026 | 2026-10-31 | Damanhour, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-damanhour-presents-devfest-2026/) |
 | Cloud Computing Workshop | 2026-10-31 | Giza, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-giza-presents-cloud-computing-workshop/) |
 | DevFest Beni-Suef | 2026-11-01 | Beni Suef, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-beni-suef-presents-devfest-beni-suef-3/) |
