@@ -1,9 +1,10 @@
 # Developer Events in Serbia
 
-5 upcoming events. [Back to the full directory](../README.md)
+6 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
+| Cyber Security Summit Cyberfy 2026 | 2026-10-29 | Belgrade, Serbia | [↗](https://infosec-conferences.com/event/20261029-cyber-security-summit-cyberfy-2026/) |
 | Heapcon | 2026-11-05 | Belgrade, Serbia | [↗](https://heapcon.io/2026) |
 | DSC Europe (Data Science Conference) 2026 | 2026-11-23 to 2026-11-27 | Belgrade, Serbia | [↗](https://datasciconference.com/) |
 | DevFest 2026: GameJam - Conference | 2026-12-03 | Belgrade, Serbia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-belgrade-belgrade-serbia-presents-devfest-2026-gamejam-conference/) |

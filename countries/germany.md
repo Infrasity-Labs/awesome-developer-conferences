@@ -1,6 +1,6 @@
 # Developer Events in Germany
 
-339 upcoming events. [Back to the full directory](../README.md)
+328 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -11,48 +11,6 @@
 | webinale Munich 2026 | 2026-10-26 to 2026-10-30 | Munich | [↗](https://dev.events/conferences/webinale-munich-2026-rvmfkwgw) |
 | SAP TechEd | 2026-10-27 to 2026-10-29 | Berlin | [↗](https://dev.events/conferences/sap-tech-ed-nhgx-xdc) |
 | Conversational AI & Customer Experience Summit 2026 | 2026-10-28 to 2026-10-29 | Munich | [↗](https://dev.events/conferences/conversational-ai-and-customer-experience-summit-2026-jr3ztl6e) |
-| Berlindroid Monthly Meetup | 2026-10-28 | Berlin, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-berlin-android-presents-berlindroid-monthly-meetup-2026-10-28/) |
-| Grace Coworking Day | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/er7duqj7) |
-| Finom Conf: Trends & Plans | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/aubo3zqv) |
-| SciSure Talks \| Accelerating R&D: Connecting Data and Devices for Better Decisions | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/hjfef9h9) |
-| Berlin Content Design Meetup #5 | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/kqpqma4y) |
-| Berlin Deep Tech Nexus Meetup #13 powered by Science & Startups @ TU Berlin | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/04wd1rzw) |
-| Die Kunst des Abgebens – Ein praktischer Führungsabend | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/876pnxrv) |
-| Lesung Werner R. C. Heinecke: "Mordwelten" | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/2ry6qk1a) |
-| R&D Social Run \| Coup x Impact Hub Berlin | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/gu7oqvl7) |
-| Entwicklung anders denken: Rethinking Development. 2nd session! | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/s1ugh3p4) |
-| IPN Berlin MeetUp | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/sjklaaau) |
-| Longevity: Hype vs. Reality: What Actually Works? | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/age-xobd) |
-| Outcurve Launch Night! | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/ygfcv8ih) |
-| Babymassage - Nähe und Geborgenheit vermitteln | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/882i6q6s) |
-| PLAY & GO Workshop (EN) | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/6ljudfce) |
-| Pumpkin Carving & Painting | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/hyjqkyqe) |
-| AI Café - Get Together Berlin | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/ai-cafe-berlin) |
-| Build x Agents [ADVANCED]: Builders' Exchange — Claude Code, Codex, + | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/no2q8cbp) |
-| City Dinner \| A Taste of Warsaw \| Pierogi Social Club x Polish Tourism Organization \| 28.10 | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/e6p23hpc) |
-| Founders & Friends Berlin Meetup - Technology & Innovation | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/5u5lnips) |
-| Measuring TA Productivity in 2026 - Hires, Hours, or Tokens? (What Are the Execs Doing?) | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/talent-iahn) |
-| AFTERWORK RESET "Unf*ck Your Feierabend" at House of Co | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/augtqh5j) |
-| BBK Stammtisch | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/p5j7mlmp) |
-| How to thrive as a Founder’s Associate - The Delta x Deep Work | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/x0rtdmey) |
-| B-Movie Night: Chopping Mall (1986) | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/ja9yhg7f) |
-| Flinta Track Session | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/1u33lvq9) |
-| Marketing Decoded | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/ve8unqvv) |
-| Slow Listening: Sounds from the Planetary Compendium | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/dyr6sdgn) |
-| spark * Listening Session | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/mk4gq2vr) |
-| Gæmz #85 in Berlin | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/dy5g0oym) |
-| CANAL SOCIAL RUN @ FUTURA HOUSE | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/cvqfxnk7) |
-| Founders Coffee #6 | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/kv8707b7) |
-| afropaperbacks (silent) book club | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/5k3r9npn) |
-| School of Witches - My Body is my Vessel | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/szq8q194) |
-| Autumn dinner | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/21sv8uwx) |
-| Investor Rotations - ESCP Masterclass | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/qzoa4n2o) |
-| From Search to CEO: Entrepreneurship Through Acquisition (ETA) - ESCP Masterclass | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/sig0k6qd) |
-| Mamasté Postnatal Yoga mit Klangschalen Entspannung | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/vcurmp83) |
-| Fintech Ladies Hackathon: Build Your Own Software with AI | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/6f56q46r) |
-| DN - Investor Poker Night | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/wswy9sje) |
-| Executive Coaching Office Hours with Yuri Narciss | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/circuit-yuri) |
-| Luiii‘s Film Club X Hanns Zischler | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/vmkpt6ak) |
 | Women in Tech EMEA Summit 2026 | 2026-10-29 to 2026-10-30 | Berlin | [↗](https://dev.events/conferences/women-in-tech-emea-summit-2026-53f3wh3o) |
 | Doctolib X French Tech Berlin: Community Breakfast #37 | 2026-10-29 | Berlin, DE | [↗](https://lu.ma/21b7jtz7) |
 | Climate Coffee Berlin - October Edition | 2026-10-29 | Berlin, DE | [↗](https://lu.ma/6s4u5f4i) |
@@ -136,6 +94,8 @@
 | [13 km] Hike through Lange-Damm-Wiesen und Unteres Annual 🍁 | 2026-10-31 | Berlin, DE | [↗](https://lu.ma/xrhrjufd) |
 | First Run From SCB! | 2026-10-31 | Berlin, DE | [↗](https://lu.ma/m62b7eot) |
 | FREAKY CIRCUS | 2026-10-31 | Berlin, DE | [↗](https://lu.ma/100gramm-3h2m) |
+| Cool Runnings Club × Stanley – Community Run | 2026-10-31 | Berlin, DE | [↗](https://lu.ma/nh6vktdk) |
+| Ice Dip Alt Stralau – Inaugural Dip 26/27 | 2026-10-31 | Berlin | [↗](https://lu.ma/7mlaz3rt) |
 | DevFest Karlsruhe | 2026-11-01 | Karlsruhe (Germany) | [↗](https://devfestka.de) |
 | Black Femme Flourish Finanz-Workshop | 2026-11-01 | Berlin, DE | [↗](https://lu.ma/vtymphkd) |
 | CROCHET BAG WORKSHOP | 2026-11-01 | Berlin, DE | [↗](https://lu.ma/92qvml2d) |
@@ -153,6 +113,9 @@
 | Do not Disturb - Ambience Series | 2026-11-01 | Berlin, DE | [↗](https://lu.ma/t8mfbu3l) |
 | Black Community Running x Outer Space | 2026-11-01 | Berlin, DE | [↗](https://lu.ma/gmkzvysy) |
 | ANTI LABS OPENING | 2026-11-01 | Berlin, DE | [↗](https://lu.ma/0e8c6fwp) |
+| Sunday Run & Stretch | 2026-11-01 | Berlin, DE | [↗](https://lu.ma/yqjydmpu) |
+| HAVEN Community Run w/SuperCoff - fueled by XXL Nutrition | 2026-11-01 | Berlin, DE | [↗](https://lu.ma/6kb0jpkw) |
+| Start The Day Right -  Morning Yoga Flow mit Carol | 2026-11-01 | Berlin, DE | [↗](https://lu.ma/ma280th7) |
 | W-JAX München | 2026-11-02 to 2026-11-06 | Munich (Germany) | [↗](https://jax.de/muenchen) |
 | Nullcon Berlin | 2026-11-02 to 2026-11-06 | Berlin | [↗](https://dev.events/conferences/nullcon-berlin-fhzv4ehl) |
 | Healthcare als Investmentchance. Ein kuratiertes Frühstück für Investorinnen, Unternehmerinnen und Healthcare Leader | 2026-11-02 | Berlin, DE | [↗](https://lu.ma/b0otnfr6) |
@@ -185,6 +148,7 @@
 | HOT BOYS DO NAILS 💅🏼 | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/hotboys-0tk2) |
 | Solutionary Coaching - Brand Launch | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/4jwn0o43) |
 | Berlin: Amela Dinner 🍷💜 | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/zn7beqwn) |
+| Sauna Night 🪵🌿🔥 with Rita | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/oxj80see) |
 | code.talks | 2026-11-04 to 2026-11-05 | Hamburg (Germany) | [↗](https://codetalks.com) |
 | Leaf-Jump Meetup | 2026-11-04 | Munich, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-munich-android-presents-leaf-jump-meetup/) |
 | BreakfastInMotion | 2026-11-04 | Berlin, DE | [↗](https://lu.ma/99euesnp) |
@@ -205,6 +169,8 @@
 | FOR OUR GIRLS ONLY: DIAMONDS X CHOKER | 2026-11-04 | Berlin, DE | [↗](https://lu.ma/kq5udeb6) |
 | LemonCollages Vernissage | 2026-11-04 | Berlin, DE | [↗](https://lu.ma/a11mmaq3) |
 | Berlin Tea Week special: Evening tea gatherings- Sour Tea Tasting | 2026-11-04 | Berlin, DE | [↗](https://lu.ma/p5xeexc7) |
+| Creative Thinking in Motion at ICN Berlin x Berlin Science Week | 2026-11-04 | Berlin, DE | [↗](https://lu.ma/pzzfp1oq) |
+| Launch: Der Afrohaarkalender 2027 | 2026-11-04 | Berlin, DE | [↗](https://lu.ma/n4zvpjqr) |
 | Games Ground 2026 | 2026-11-05 to 2026-11-08 | Berlin | [↗](https://dev.events/conferences/games-ground-2026-6zybnaah) |
 | E-Commerce over Breakfast #12 Berlin | 2026-11-05 | Berlin, DE | [↗](https://lu.ma/nsdz23rj) |
 | Women's AI Breakfast - From Idea to Startup | 2026-11-05 | Berlin, DE | [↗](https://lu.ma/womens-ai-breakfast-33) |
@@ -238,6 +204,8 @@
 | Dinner With The Dead: A Día de Los Muertos Table | 2026-11-05 | Berlin, DE | [↗](https://lu.ma/73k0qv8u) |
 | Tea & Jazz: Open Teahouse | 2026-11-05 | Berlin, DE | [↗](https://lu.ma/p3kuza0e) |
 | Solid Launch Night | 2026-11-05 | Berlin, DE | [↗](https://lu.ma/ejw4p2mq) |
+| Chazui Sessions 茶醉 | 2026-11-05 | Berlin, DE | [↗](https://lu.ma/gyv8k1vg) |
+| Berlin \| Claude Code Meetup | 2026-11-05 | Berlin, DE | [↗](https://lu.ma/claude-pxv3) |
 | HoFT RegCircle #1: PSD3 & PSR | 2026-11-06 | Berlin, DE | [↗](https://lu.ma/hoft-regcircle-PSD3-PSR) |
 | Women in Legal & AI: Breakfast Berlin \| Lexroom | 2026-11-06 | Berlin, DE | [↗](https://lu.ma/h3ul4l2b) |
 | Café con las Cátedras de la Diáspora Mexicana | 2026-11-06 | Berlin, DE | [↗](https://lu.ma/ax3av9dv) |
@@ -252,6 +220,8 @@
 | What’s your Thing? #003 | 2026-11-06 | Berlin, DE | [↗](https://lu.ma/og60rf2t) |
 | YFC Community Night by FOMO x CODE x Startup Berlin | 2026-11-06 | Berlin, DE | [↗](https://lu.ma/mkrpn9oh) |
 | VSG ON TOUR – Gemeinsam nach Fürstenwalde! 🚌💙 \| SV Tasmania Berlin | 2026-11-06 | Berlin, DE | [↗](https://lu.ma/fjglrhnx) |
+| Literaturabend \| Buchvorstellung und Lesung | 2026-11-06 | Berlin, DE | [↗](https://lu.ma/506ki6xv) |
+| Neuroästhetik – Mit Kunst die Seele stärken | 2026-11-06 | Berlin, DE | [↗](https://lu.ma/swcfdh22) |
 | GDG DevFest Karlsruhe 2026 | 2026-11-07 | Karlsruhe, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-karlsruhe-presents-gdg-devfest-karlsruhe-2026/) |
 | BSides Munich 2026 | 2026-11-07 to 2026-11-09 | Munich | [↗](https://dev.events/conferences/b-sides-munich-2026-ffdwrcis) |
 | DevFest 2026 | 2026-11-07 | Nürnberg, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-nuremberg-presents-devfest-2026/) |
@@ -261,6 +231,24 @@
 | ✨Build & Learn with Coffee☕ AI Engineering Build Week 6 | 2026-11-07 | Berlin, DE | [↗](https://lu.ma/lpojqlnz) |
 | Sober Brunch \| BERLIN 🥐🥂 | 2026-11-07 | Berlin, DE | [↗](https://lu.ma/u4wo33rs) |
 | YFC Side Event: Founders Run | 2026-11-07 | Berlin, DE | [↗](https://lu.ma/yfn-o888) |
+| Art in the Wild · Adventure Hike · 20km | 2026-11-07 | Berlin, DE | [↗](https://lu.ma/2kx0xdh7) |
+| Bollywood dance class for charity (Diwali edition)! | 2026-11-07 | Berlin, DE | [↗](https://lu.ma/mk6aecia) |
+| Mecha Robot Eyeball! Fast and Cheap Kinetic Sculpture for Beginners | 2026-11-07 | Berlin, DE | [↗](https://lu.ma/mwtoe90z) |
+| Mein Strauß – Workshop | 2026-11-07 | Berlin | [↗](https://lu.ma/0hccmtch) |
+| 90' PERFORMANCE WORKOUT @EVOPE | 2026-11-07 | Berlin, DE | [↗](https://lu.ma/vioqddop) |
+| An A-Z of Chinese Food (Recipe Not Included) | 2026-11-07 | Berlin, DE | [↗](https://lu.ma/ifw6xaf1) |
+| Ostfrauen*Salon x Berlin Freedom Week | 2026-11-07 | Berlin, DE | [↗](https://lu.ma/c24f4ugb) |
+| Maker Basics: Develop B&W Film in a Dark Room | 2026-11-07 | Berlin, DE | [↗](https://lu.ma/xiprtovc) |
+| Filter x Yoshi en | 2026-11-07 | Berlin, DE | [↗](https://lu.ma/1nbooc2p) |
+| Scientist to Founder: Physical Innovation Edition | 2026-11-07 | Berlin, DE | [↗](https://lu.ma/concep-ngsf) |
+| Inner Horizon Panel Talk as part of Berlin Science Week. | 2026-11-07 | Berlin, DE | [↗](https://lu.ma/nprma5lp) |
+| Moments Opening Party 🎉 | 2026-11-07 | Berlin, DE | [↗](https://lu.ma/eahh0oxe) |
+| Seasonal Disorder - LAP x Kasa Gekko | 2026-11-07 | Berlin, DE | [↗](https://lu.ma/orw9ropa) |
+| VERNISSAGE: i really wish i was on my phone rn | 2026-11-07 | Berlin, DE | [↗](https://lu.ma/6uyq2cnq) |
+| A Matcha Affair: Cocktail Fundraiser | 2026-11-07 | Berlin, DE | [↗](https://lu.ma/xwc4psuz) |
+| Homeassistant Community Day Berlin | 2026-11-07 | Berlin, DE | [↗](https://lu.ma/h1qd23b0) |
+| YFC After Party powered by SAP | 2026-11-07 | Berlin, DE | [↗](https://lu.ma/0jsdthed) |
+| Foraging for Fungi – Meeting Mushrooms in Berlin and Brandenburg [in English] | 2026-11-08 | Berlin, DE | [↗](https://lu.ma/ogzr3w6e) |
 | LeadDev Berlin | 2026-11-09 | Berlin, Germany | [↗](https://leaddev.com/leaddev-berlin) |
 | Unhacked 360 Germany: FutureSec Summit | 2026-11-09 to 2026-11-10 | Berlin | [↗](https://dev.events/conferences/unhacked-360-germany-future-sec-summit-zmqcorst) |
 | BIO-Europe 2026 | 2026-11-09 to 2026-11-11 | Cologne, Germany | [↗](https://informaconnect.com/bioeurope/) |
@@ -291,6 +279,7 @@
 | MLCon Berlin 2026 | 2026-11-23 to 2026-11-27 | Berlin (Germany) | [↗](https://mlconference.ai/berlin/) |
 | Manage Agile 2026 | 2026-11-24 to 2026-11-26 | Leipzig (Germany) | [↗](https://www.manage-agile.de/) |
 | NCA x Visionbites | 2026-11-24 to 2026-11-25 | Munich | [↗](https://dev.events/conferences/nca-x-visionbites-w42h4ngo) |
+| Berlindroid Monthly Meetup | 2026-11-25 | Berlin, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-berlin-android-presents-berlindroid-monthly-meetup/) |
 | Meeting C++ 2026 | 2026-11-26 to 2026-11-28 | Berlin | [↗](https://dev.events/conferences/meeting-c-2026-jhr0hlfa) |
 | Product Build Day // Pro | 2026-11-26 | Berlin | [↗](https://dev.events/conferences/product-build-day-pro-wzkgdiyz) |
 | DevFest 2026 Ahlen - ONLINE | 2026-11-28 | Ahlen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-devfest-2026-ahlen-online/) |

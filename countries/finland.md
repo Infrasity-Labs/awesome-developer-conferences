@@ -1,10 +1,9 @@
 # Developer Events in Finland
 
-11 upcoming events. [Back to the full directory](../README.md)
+10 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Google Cloud AI Day Finland 2026 | 2026-10-28 | Helsinki, Finland | [↗](https://gdg.community.dev/events/details/google-gdg-helsinki-presents-google-cloud-ai-day-finland-2026/) |
 | Testing Assembly | 2026-11-04 to 2026-11-05 | Helsinki | [↗](https://dev.events/conferences/testing-assembly-c3yxbbcm) |
 | Junction 2026 | 2026-11-13 to 2026-11-15 | Espoo, Finland | [↗](https://hackjunction.app/hackathons/junction-2026) |
 | Slush 2026 | 2026-11-18 to 2026-11-19 | Helsinki, Finland | [↗](https://slush.org/) |

@@ -1,10 +1,9 @@
 # Developer Events in Mexico
 
-23 upcoming events. [Back to the full directory](../README.md)
+22 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Café, Cloud y Capital: Tech Due Diligence | 2026-10-28 | Mexico City, Mexico | [↗](https://www.startupgrind.com/events/details/startup-grind-mexico-city-presents-cafe-cloud-y-capital-tech-due-diligence/) |
 | How to fundraise 101: The 1%: Clarity, Story, Data | 2026-10-29 | Monterrey, Mexico | [↗](https://www.startupgrind.com/events/details/startup-grind-monterrey-presents-how-to-fundraise-101-the-1-clarity-story-data/) |
 | Tech Founded by Her: Retos y Estrategias de Female Founders | 2026-10-29 | Mexico City, Mexico | [↗](https://www.startupgrind.com/events/details/startup-grind-mexico-city-presents-tech-founded-by-her-retos-y-estrategias-de-female-founders/) |
 | Dev Day 4 Women | 2026-10-31 | Monterrey, Mexico | [↗](https://devday4w.com/) |

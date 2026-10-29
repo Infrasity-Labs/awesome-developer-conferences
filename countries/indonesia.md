@@ -1,10 +1,9 @@
 # Developer Events in Indonesia
 
-22 upcoming events. [Back to the full directory](../README.md)
+21 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| StudyJam 1 - Web Development #TechSeries \| HTML, CSS & JavaScript Fundamental | 2026-10-28 | Malang, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-brawijaya-malang-indonesia-presents-studyjam-1-web-development-techseries-html-css-amp-javascript-fundamental/) |
 | StudyJam 1 - Product Management #ProductSeries \| Introduction to Product Management | 2026-10-29 | Malang, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-brawijaya-malang-indonesia-presents-studyjam-1-product-management-productseries-introduction-to-product-management/) |
 | GDGOC UI Core Team Info Session 2026 | 2026-10-30 | Jakarta, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-indonesia-jakarta-indonesia-presents-gdgoc-ui-core-team-info-session-2026/) |
 | AWS Community Day Jakarta 2026 | 2026-10-31 | Jakarta | [↗](https://dev.events/conferences/aws-community-day-jakarta-2026-ipooi0cb) |

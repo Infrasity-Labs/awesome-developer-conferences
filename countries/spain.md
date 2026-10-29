@@ -1,12 +1,9 @@
 # Developer Events in Spain
 
-80 upcoming events. [Back to the full directory](../README.md)
+78 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Mozilla Festival | 2026-10-28 | Barcelona, Spain | [↗](https://www.mozillafestival.org) |
-| APi&AIAddictsDay | 2026-10-28 | Madrid | [↗](https://dev.events/conferences/a-pi-and-ai-addicts-day-5ekesof) |
-| Tech, Talk & Play? | 2026-10-28 | Jaen, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-jaen-presents-tech-talk-amp-play/) |
 | Lambda World | 2026-10-29 to 2026-10-30 | Malaga (Spain) | [↗](https://www.lambda.world) |
 | Wey Wey Web | 2026-10-29 to 2026-10-30 | Malaga (Spain) | [↗](https://weyweyweb.com) |
 | GDG Coffee 01 Event de Presentación | 2026-10-29 | Valladolid, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-valladolid-presents-gdg-coffee-01-evento-de-presentacion/) |
@@ -78,6 +75,7 @@
 | BackstageCon Europe | 2027-03-15 | Barcelona | [↗](https://dev.events/conferences/backstage-con-europe-sukphg0v) |
 | ArgoCon Europe | 2027-03-15 | Barcelona | [↗](https://dev.events/conferences/argo-con-europe-moj63s1p) |
 | Agentics Day: MCP + Agents Europe | 2027-03-15 | Barcelona | [↗](https://dev.events/conferences/agentics-day-mcp-agents-europe-wtf3em3s) |
+| NeoCloudCon Europe | 2027-03-15 | Barcelona | [↗](https://dev.events/conferences/neo-cloud-con-europe-ifc5uutc) |
 | AIML 2027 | 2027-03-20 to 2027-03-21 | Barcelona | [↗](https://dev.events/conferences/aiml-2027-ubnlxhkf) |
 | International Conference on Artificial Intelligence and Machine Learning | 2027-03-20 to 2027-03-21 | Barcelona (Spain) | [↗](https://aiml.scientificmeditech.com) |
 | Nerdearla España 2027 | 2027-04-01 to 2027-04-03 | Madrid | [↗](https://dev.events/conferences/nerdearla-espana-2027-pwmrii7p) |
