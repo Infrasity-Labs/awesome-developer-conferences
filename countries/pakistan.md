@@ -1,10 +1,9 @@
 # Developer Events in Pakistan
 
-9 upcoming events. [Back to the full directory](../README.md)
+8 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Hello World | 2026-10-29 | Karachi, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-dha-suffa-university-karachi-pakistan-presents-hello-world/) |
 | Her Tech Journey | 2026-10-31 | Karachi, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-usman-institute-of-technology-karachi-pakistan-presents-her-tech-journey/) |
 | Forward Deployed: The State of Software Engineering, 2026 | 2026-10-31 | Karachi, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-kolachi-presents-forward-deployed-the-state-of-software-engineering-2026/) |
 | Unplugged at IST \| Community Meetup | 2026-11-04 | Islamabad, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-institute-of-space-technology-islamabad-pakistan-presents-unplugged-at-ist-community-meetup/) |
