@@ -34,6 +34,7 @@ jobs:
           - devopsdays
           - linuxfoundation
           - gemini_discovery
+          - twitter
 
           - confs_tech
           - startup_grind
@@ -67,6 +68,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           BROWSERLESS_TOKEN: ${{ secrets.BROWSERLESS_TOKEN }}
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
         run: python fetchers/${{ matrix.script }}.py
         continue-on-error: true
 
