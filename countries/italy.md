@@ -1,10 +1,9 @@
 # Developer Events in Italy
 
-46 upcoming events. [Back to the full directory](../README.md)
+45 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Product Management Day 2026 | 2026-10-30 | Bologna (Italy) | [↗](https://www.productmanagementday.com/) |
 | GoLab 2026 | 2026-11-01 to 2026-11-03 | Bologna (Italy) | [↗](https://golab.io) |
 | RustLab 2026 | 2026-11-01 to 2026-11-03 | Bologna (Italy) | [↗](https://rustlab.it) |
 | AIBC World 2026 | 2026-11-02 | Rome, IT | [↗](https://infosec-conferences.com/event/20261102-aibc-world-2026/) |
