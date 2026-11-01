@@ -1,18 +1,9 @@
 # Developer Events in Brazil
 
-52 upcoming events. [Back to the full directory](../README.md)
+43 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| 10 Anos do GDG Uberlândia Celebration [INSCRIÇÕES EM BREVE] | 2026-10-31 | Uberlandia, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-uberlandia-presents-10-anos-do-gdg-uberlandia-celebration-inscricoes-em-breve/) |
-| DevFest Belo Horizonte | 2026-10-31 | Belo Horizonte, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-belo-horizonte-presents-devfest-belo-horizonte-2/) |
-| DevFestPoa26 | 2026-10-31 | Porto Alegre, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-devfestpoa26/) |
-| DevFest Triângulo 2026 | 2026-10-31 | Uberlandia, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-uberlandia-presents-devfest-triangulo-2026/) |
-| DevFest Porto Alegre 2026 | 2026-10-31 | Porto Alegre, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-devfest-porto-alegre-2026/) |
-| DevFest Americana 2026 | 2026-10-31 | Americana, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-americana-presents-devfest-americana-2026/) |
-| 1ª Edição do Meetup {Código e Pizza} | 2026-10-31 | Natal, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-natal-presents-1a-edicao-do-meetup-codigo-e-pizza/) |
-| Hacktoberfest Hack Day São José dos Campos | 2026-10-31 | São José dos Campos, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-sao-jose-dos-campos-presents-hacktoberfest-hack-day-sao-jose-dos-campos/) |
-| GDG Coding Jam de Halloween! | 2026-10-31 | Aracaju, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-aracaju-presents-gdg-coding-jam-de-halloween/) |
 | Conexão com o Mercado: Desenvolvedores em Vitória da Conquista | 2026-11-01 | Vitória da Conquista, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-vitoria-da-conquista-presents-conexao-com-o-mercado-desenvolvedores-em-vitoria-da-conquista/) |
 | Nullbyte Security Conference 2026 | 2026-11-04 to 2026-11-05 | Salvador (Brazil) | [↗](https://nullbyte-con.org) |
 | Da Estatística aos Agentes de IA: Dados e Blockchain na Prática | 2026-11-04 | Campinas, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-campinas-presents-da-estatistica-aos-agentes-de-ia-dados-e-blockchain-na-pratica/) |

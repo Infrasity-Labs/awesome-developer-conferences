@@ -1,10 +1,9 @@
 # Developer Events in Mexico
 
-25 upcoming events. [Back to the full directory](../README.md)
+24 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Dev Day 4 Women | 2026-10-31 | Monterrey, Mexico | [↗](https://devday4w.com/) |
 | Arquitecturas Multi-Agente y Especialización en Producción | 2026-11-02 | Mexico City, Mexico | [↗](https://gdg.community.dev/events/details/google-gdg-cdmx-presents-arquitecturas-multi-agente-y-especializacion-en-produccion/) |
 | Cómo dirigir, evaluar y confiar en la Inteligencia Artificial | 2026-11-03 | Mexico City, Mexico | [↗](https://gdg.community.dev/events/details/google-gdg-cdmx-presents-como-dirigir-evaluar-y-confiar-en-la-inteligencia-artificial/) |
 | Larga Language Models de dominio específico | 2026-11-04 | Mexico City, Mexico | [↗](https://gdg.community.dev/events/details/google-gdg-cdmx-presents-larga-language-models-de-dominio-especifico/) |
