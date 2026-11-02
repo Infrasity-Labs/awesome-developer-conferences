@@ -1,10 +1,9 @@
 # Developer Events in China
 
-26 upcoming events. [Back to the full directory](../README.md)
+25 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| 2026 Google Devfest Chengdu | 2026-11-01 | Chengdu, China | [↗](https://gdg.community.dev/events/details/google-gdg-chengdu-presents-2026-google-devfest-chengdu/) |
 | AI Engineer Shanghai | 2026-11-05 to 2026-11-06 | Shanghai, China | [↗](https://www.ai.engineer/shanghai/2026) |
 | DevFest 上海2026 | 2026-11-07 | Shanghai | [↗](https://dev.events/conferences/dev-fest-2026-ua7hwib) |
 | Google DevFest 2026 Shanghai | 2026-11-08 | Shanghai, China | [↗](https://gdg.community.dev/events/details/google-gdg-shanghai-presents-google-devfest-2026-shanghai/) |

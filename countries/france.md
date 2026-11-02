@@ -1,16 +1,9 @@
 # Developer Events in France
 
-293 upcoming events. [Back to the full directory](../README.md)
+290 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Pycon FR | 2026-10-29 to 2026-11-01 | Biarritz (France) | [↗](https://www.pycon.fr/2026/) |
-| Rencontre Altruisme Efficace Paris – Octobre 2026 | 2026-11-01 | Paris, FR | [↗](https://lu.ma/3gdixtec) |
-| 🎃 XL Halloween Reading Party x Live Piano Horror Music 🎹 \| TiTi Palacio \| Paris 4th arr. | 2026-11-01 | Paris, FR | [↗](https://lu.ma/g4ofxgsk) |
-| Horror Demo Night - Generathon #3 × Paris Creator Week | 2026-11-01 | Paris, FR | [↗](https://lu.ma/5dumglvo) |
-| RUN CLUB 01/11 @La Montgolfière 10ème | 2026-11-01 | Paris, FR | [↗](https://lu.ma/ctwtkgs2) |
-| Problem to Prototype | 2026-11-01 | Paris, FR | [↗](https://lu.ma/h8u5yhgi) |
-| 2/10 Challenge with Sara | 2026-11-01 | Paris, FR | [↗](https://lu.ma/156vr80g) |
 | Swift Connection | 2026-11-02 to 2026-11-03 | Paris | [↗](https://dev.events/conferences/swift-connection-ttpyco4n) |
 | NetworkNature Week at NbS Congress \| Science-Policy Dialogue | 2026-11-02 | Paris, FR | [↗](https://lu.ma/yo5x9kxx) |
 | Journée découverte coworking en non mixité | 2026-11-02 | Paris, FR | [↗](https://lu.ma/nruny7ss) |
@@ -22,6 +15,7 @@
 | Mouvess @Climate House | 2026-11-02 | Paris, FR | [↗](https://lu.ma/ktyynyl6) |
 | Check-out Party by hub. for hotels | 2026-11-02 | Paris, FR | [↗](https://lu.ma/54v30z3e) |
 | The GOODList × Serving the People: In Conversation with Daniel Groh | 2026-11-02 | Paris, FR | [↗](https://lu.ma/iz0ew47n) |
+| FlexUp Startup Networking Workshop #42, Station F (Boardroom OpenAI), Paris • Monday 2nd November 2026, 6pm (CET) | 2026-11-02 | Paris, FR | [↗](https://lu.ma/38jr8fgf) |
 | Masterclass - Se structurer dès maintenant : pourquoi et comment | 2026-11-03 | Paris, FR | [↗](https://lu.ma/yqyq684y) |
 | Innovation dans les paiements | 2026-11-03 | Paris, FR | [↗](https://lu.ma/r16o7r34) |
 | State of AI 2026 - Paris launch event | 2026-11-03 | Paris, FR | [↗](https://lu.ma/soai-paris) |
@@ -175,6 +169,7 @@
 | All Images Are Quite Useless | 2026-11-13 | Paris, FR | [↗](https://lu.ma/p56q5d2d) |
 | EN RÉSIDENCE #2 - PARIS PHOTO | 2026-11-13 | Paris, FR | [↗](https://lu.ma/dknykcbp) |
 | Visite privée de l'exposition de Fiona FORTE | 2026-11-13 | Paris, FR | [↗](https://lu.ma/sfq5pi22) |
+| INSULA | 2026-11-13 | Paris, FR | [↗](https://lu.ma/1fr508lh) |
 | Capitole du Libre | 2026-11-14 to 2026-11-15 | Toulouse (France) | [↗](https://capitoledulibre.org) |
 | Aaron’s World | 2026-11-14 | Paris, FR | [↗](https://lu.ma/zbswvas8) |
 | VIBENIGHT #2 : Hackathon AI Safety (FINAL) | 2026-11-14 | Paris, FR | [↗](https://lu.ma/gkqbmy2j) |
@@ -242,6 +237,8 @@
 | AFTERWORK FINANCE SKEMA - Étudiants x Alumni | 2026-11-19 | Paris, FR | [↗](https://lu.ma/ixbblipw) |
 | Update x Isabelle Herman | 2026-11-19 | Paris, FR | [↗](https://lu.ma/7xekojzi) |
 | 🎙️ Petit-déjeuner & Tables rondes : « PSE : avant, pendant, après » | 2026-11-19 | Paris, FR | [↗](https://lu.ma/w9ite6t2) |
+| Nouvelle collection EGGS & SUN by Anilore Banon | 2026-11-19 | Paris, FR | [↗](https://lu.ma/w53wgz04) |
+| L'Apéro des Hôtes | 2026-11-19 | Paris, FR | [↗](https://lu.ma/ek41umq3) |
 | Cession, acquisition et reprise d'entreprise : anticiper et réussir | 2026-11-20 | Paris, FR | [↗](https://lu.ma/CAT2026) |
 | Après midi découverte @Climate House | 2026-11-20 | Paris, FR | [↗](https://lu.ma/hjkuv2ca) |
 | ATELIER : Chocapitalisme, chaîne de valeur et développement durable - Charles Peguy (75) | 2026-11-20 | Paris, FR | [↗](https://lu.ma/h89hmmni) |

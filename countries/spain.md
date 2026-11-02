@@ -1,6 +1,6 @@
 # Developer Events in Spain
 
-78 upcoming events. [Back to the full directory](../README.md)
+79 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -13,6 +13,7 @@
 | Transformational CISO Assembly: Barcelona 2026 | 2026-11-03 | Barcelona, ES | [↗](https://infosec-conferences.com/event/20261103-transformational-ciso-assembly-barcelona-2026/) |
 | Nerdearla Madrid | 2026-11-04 to 2026-11-06 | Madrid (Spain) | [↗](https://nerdearla.com/en/sp/) |
 | DevFest Santiago de Compostela 2026 | 2026-11-04 to 2026-11-05 | Santiago de Compostela (Spain) | [↗](https://devfest.gdg-sdc.org/) |
+| Free AI Agents Workshop: Build Two AI Agents in One Evening | 2026-11-04 | Barcelona | [↗](https://dev.events/conferences/free-ai-agents-workshop-build-two-ai-agents-in-one-evening-ugofyhff) |
 | Dev Days Students \| Madrid | 2026-11-06 | Madrid (Spain) | [↗](https://githubcopilotdevdaysmadrid.techriders.es/) |
 | PyConES 2026 | 2026-11-06 to 2026-11-08 | Barcelona | [↗](https://dev.events/conferences/py-con-es-2026-jts3uabv) |
 | DevFest 2026 - GDG Ourense | 2026-11-07 | Ourense (Spain) | [↗](https://gdg.community.dev/events/details/google-gdg-ourense-presents-devfest-2026/) |

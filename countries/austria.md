@@ -1,6 +1,6 @@
 # Developer Events in Austria
 
-13 upcoming events. [Back to the full directory](../README.md)
+14 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -17,3 +17,4 @@
 | BSides Tirol | 2027-02-25 | Innsbruck (Austria) | [↗](https://www.bsides.tirol/) |
 | ComoCamp 2027 | 2027-05-03 to 2027-05-06 | Vienna | [↗](https://dev.events/conferences/como-camp-2027-7tbz3myc) |
 | Human x AI Vienna | 2027-05-11 | Vienna | [↗](https://dev.events/conferences/human-x-ai-vienna-jmhpvazi) |
+| CodeCrafts 2027 | 2027-05-20 | Vienna | [↗](https://dev.events/conferences/code-crafts-2027-wih9vodm) |

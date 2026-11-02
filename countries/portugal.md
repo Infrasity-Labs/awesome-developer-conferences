@@ -4,7 +4,6 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| DevOpsDays Portugal 2026 | 2026-11-01 | Portugal | [↗](https://devopsdays.org/events/2026-portugal) |
 | APWG eCrime 2026 | 2026-11-02 | Lisbon, PT | [↗](https://infosec-conferences.com/event/20261102-apwg-ecrime-2026/) |
 | Symposium on Electronic Crime Research (eCrime) 2026 | 2026-11-02 | Lisbon, PT | [↗](https://infosec-conferences.com/event/20261102-symposium-on-electronic-crime-research-ecrime-2026/) |
 | GDG Braga x DevOps Braga x OutSystem UG Braga - KCD Warmup | 2026-11-05 | Braga, Portugal | [↗](https://gdg.community.dev/events/details/google-gdg-braga-presents-gdg-braga-x-devops-braga-x-outsystem-ug-braga-kcd-warmup/) |
@@ -34,4 +33,5 @@
 | Design Strategy Ateliers 2027 | 2027-04-22 to 2027-04-23 | Lisbon | [↗](https://dev.events/conferences/design-strategy-ateliers-2027-tl-tp8du) |
 | Linux Storage, Filesystem, MM & BPF Summit | 2027-04-27 to 2027-04-29 | Porto | [↗](https://dev.events/conferences/linux-storage-filesystem-mm-and-bpf-summit-xcuu46jj) |
 | UXLx: User Experience Lisbon | 2027-05-11 to 2027-05-14 | Lisbon | [↗](https://dev.events/conferences/ux-lx-user-experience-lisbon-g0ckstgu) |
+| JNation | 2027-05-25 to 2027-05-26 | Coimbra (Portugal) | [↗](https://jnation.pt/) |
 | NFC Summit 2027 | 2027-05-27 to 2027-05-29 | Lisbon | [↗](https://dev.events/conferences/nfc-summit-2027-b5up60vq) |

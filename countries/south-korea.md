@@ -1,14 +1,15 @@
 # Developer Events in South Korea
 
-39 upcoming events. [Back to the full directory](../README.md)
+40 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | K-Connect AI (umbrella of 5 linked shows) | 2026-10-13 to 2026-11-07 | Seoul / Goyang, South Korea | [↗](https://biz.heraldcorp.com/article/10901325) |
-| [AI] 정기 온라인  스터디 | 2026-11-01 | Daegu, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kyungpook-national-university-daegu-south-korea-presents-ai-jeonggi-onrain-seuteodi/) |
 | GDG on Campus SKHU Design Study Session - 05 프로토타입 (1) | 2026-11-02 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkonghoe-university-seoul-south-korea-presents-gdg-on-campus-skhu-design-study-session-05-peurototaib-1/) |
 | AIoT Korea Exhibition & Conference 2026 | 2026-11-03 to 2026-11-05 | Seoul, South Korea | [↗](https://www.cantonfair.net/event/53687-aiot-korea-exhibition) |
 | GDG on Campus SKHU Backend Study Session - 05 예외처리 & Validation | 2026-11-03 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkonghoe-university-seoul-south-korea-presents-gdg-on-campus-skhu-backend-study-session-05-yeoeceori-amp-validation/) |
+| GDG on Campus HUFS Tuesday Live (GTL) - Weekly | 2026-11-03 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-hankuk-university-of-foreign-studies-seoul-south-korea-presents-gdg-on-campus-hufs-tuesday-live-gtl-weekly-34/) |
+| GDG on Campus SKHU Frontend Study Session - 05 폼 다루기, React Router, styled-components | 2026-11-03 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkonghoe-university-seoul-south-korea-presents-gdg-on-campus-skhu-frontend-study-session-05-pom-darugi-react-router-styled-components/) |
 | 2026 Busan Cybersecurity Conference | 2026-11-04 to 2026-11-05 | Busan, South Korea | [↗](https://www.mice365.com/en/exhibitions?venue=BEXCO) |
 | 2026 Drone & Urban Air Mobility Expo | 2026-11-04 to 2026-11-06 | Goyang, South Korea | [↗](https://me.snu.ac.kr/%EA%B3%B5%ED%86%B5-%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/?mod=document&uid=22373) |
 | BIXPO 2026 (KEPCO electric power technology expo) | 2026-11-04 to 2026-11-06 | Gwangju, South Korea | [↗](https://www.tradecommissioner.gc.ca/en/trade-events-training/2026/11/bitgaram-international-exposition-electric-power-technology-bixpo.html) |

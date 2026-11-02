@@ -1,9 +1,10 @@
 # Developer Events in Malaysia
 
-8 upcoming events. [Back to the full directory](../README.md)
+9 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
+| APU Cloud Innovation Hackathon 2026 Briefing Session | 2026-11-03 | Kuala Lumpur, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-asia-pacific-university-of-technology-innovation-kuala-lumpur-malaysia-presents-apu-cloud-innovation-hackathon-2026-briefing-session/) |
 | From Raw Data to Insights: Building an E-Commerce Analytics & ML Dashboard with BigQuery ML and Looker Studio | 2026-11-04 | Kuala Lumpur, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-asia-pacific-university-of-technology-innovation-kuala-lumpur-malaysia-presents-from-raw-data-to-insights-building-an-e-commerce-analytics-amp-ml-dashboard-with-bigquery-ml-and-looker-studio/) |
 | DevFest Kuala Lumpur 2026 | 2026-11-14 | Kuala Lumpur, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-kuala-lumpur-presents-devfest-kuala-lumpur-2026/) |
 | Gamefest: Tetrio Showdown | 2026-11-16 | Penang, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universiti-sains-malaysia-penang-malaysia-presents-gamefest-tetrio-showdown/) |
