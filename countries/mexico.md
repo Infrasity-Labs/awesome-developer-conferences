@@ -1,10 +1,9 @@
 # Developer Events in Mexico
 
-24 upcoming events. [Back to the full directory](../README.md)
+23 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Arquitecturas Multi-Agente y Especialización en Producción | 2026-11-02 | Mexico City, Mexico | [↗](https://gdg.community.dev/events/details/google-gdg-cdmx-presents-arquitecturas-multi-agente-y-especializacion-en-produccion/) |
 | Cómo dirigir, evaluar y confiar en la Inteligencia Artificial | 2026-11-03 | Mexico City, Mexico | [↗](https://gdg.community.dev/events/details/google-gdg-cdmx-presents-como-dirigir-evaluar-y-confiar-en-la-inteligencia-artificial/) |
 | Larga Language Models de dominio específico | 2026-11-04 | Mexico City, Mexico | [↗](https://gdg.community.dev/events/details/google-gdg-cdmx-presents-larga-language-models-de-dominio-especifico/) |
 | Modernización Arquitectural: De Código Legacy a una Plataforma Escalable | 2026-11-05 | México City, Mexico | [↗](https://gdg.community.dev/events/details/google-gdg-ipn-presents-modernizacion-arquitectural-de-codigo-legacy-a-una-plataforma-escalable/) |

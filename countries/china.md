@@ -1,6 +1,6 @@
 # Developer Events in China
 
-25 upcoming events. [Back to the full directory](../README.md)
+26 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -21,6 +21,7 @@
 | DevFest 2026 | 2026-11-21 | Xiamen, China | [↗](https://gdg.community.dev/events/details/google-gdg-xiamen-presents-devfest-2026/) |
 | 属于每个人的智能体时代：技术普惠与零门槛应用实践 | 2026-11-22 | Fuzhou, China | [↗](https://gdg.community.dev/events/details/google-gdg-fuzhou-presents-shu-yu-mei-ge-ren-de-zhi-neng-ti-shi-dai-ji-zhu-pu-hui-yu-ling-men-jian-ying-yong-shi-jian/) |
 | 2026 DevFest Beijing | 2026-11-22 | Beijing, China | [↗](https://gdg.community.dev/events/details/google-gdg-beijing-presents-2026-devfest-beijing/) |
+| 福州 2026 开发者节（DevFest Fuzhou 2026） - 端侧技术守卫隐私边界，护航全民智能体时代 | 2026-11-22 | Fuzhou, China | [↗](https://gdg.community.dev/events/details/google-gdg-fuzhou-presents-fu-zhou-2026-kai-fa-zhe-jie-devfest-fuzhou-2026-duan-ce-ji-zhu-shou-wei-yin-si-bian-jie-hu-hang-quan-min-zhi-neng-ti-shi-dai/) |
 | KCD Hangzhou 2026 | 2026-11-28 | Hangzhou, China | [↗](https://community2.cncf.io/events/details/cncf-kcd-hangzhou-presents-kcd-hangzhou-2026/) |
 | DevFest 2026 Nanjing | 2026-12-06 | Nanjing, China | [↗](https://gdg.community.dev/events/details/google-gdg-nanjing-presents-devfest-2026-nanjing/) |
 | Google DevFest 2026 Nanging | 2026-12-12 | Nanning, China | [↗](https://gdg.community.dev/events/details/google-gdg-nanning-presents-google-devfest-2026-nanging/) |
