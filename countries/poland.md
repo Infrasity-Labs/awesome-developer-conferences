@@ -1,10 +1,9 @@
 # Developer Events in Poland
 
-32 upcoming events. [Back to the full directory](../README.md)
+31 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Google Cloud Builder Connect Poland 2026 \| PGE Narodowy | 2026-11-03 | Warsaw, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-warszawa-presents-google-cloud-builder-connect-poland-2026-pge-narodowy/) |
 | BCG Platinion x GDG on Campus PW - Case Workshop | 2026-11-04 | Warsaw, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-politechnika-warszawska-warsaw-poland-presents-bcg-platinion-x-gdg-on-campus-pw-case-workshop/) |
 | CMS Conf 2026 | 2026-11-12 to 2026-11-14 | Gdynia (Poland) | [↗](https://cmsconf.com) |
 | AI × Voices #2 | 2026-11-12 | Krakow | [↗](https://dev.events/conferences/ai-voices-2-semwmdjw) |

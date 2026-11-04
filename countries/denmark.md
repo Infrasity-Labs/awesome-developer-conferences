@@ -1,10 +1,9 @@
 # Developer Events in Denmark
 
-12 upcoming events. [Back to the full directory](../README.md)
+11 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| CIO Challenges 2026 | 2026-11-03 | Copenhagen, DK | [↗](https://infosec-conferences.com/event/20261103-cio-challenges-2026/) |
 | Digital Tech Summit 2026 | 2026-11-04 to 2026-11-05 | Copenhagen, Denmark | [↗](https://event.ing.dk/dts6) |
 | BSides Copenhagen 2026 | 2026-11-14 | Copenhagen | [↗](https://dev.events/conferences/b-sides-copenhagen-2026-ijtwav2s) |
 | Cloud Native Denmark 2026 | 2026-11-19 to 2026-11-20 | Copenhagen (Denmark) | [↗](https://cloudnativedenmark.dk) |

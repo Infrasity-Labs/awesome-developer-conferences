@@ -1,10 +1,9 @@
 # Developer Events in Switzerland
 
-19 upcoming events. [Back to the full directory](../README.md)
+18 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| ManageEngine UserConf Switzerland | 2026-11-03 | Zurich | [↗](https://dev.events/conferences/manage-engine-user-conf-switzerland-rbp-oseg) |
 | Startup Nights 2026 | 2026-11-05 to 2026-11-06 | Winterthur, Switzerland | [↗](https://www.startup-nights.ch/) |
 | GDG Cloud Zürich - 5 November 2026 Meetup (#38) | 2026-11-05 | Zürich, Switzerland | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-zurich-presents-gdg-cloud-zurich-5-november-2026-meetup-38/) |
 | Lead27 | 2026-11-19 | Zurich | [↗](https://dev.events/conferences/lead27-udwomo5l) |

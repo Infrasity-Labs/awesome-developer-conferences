@@ -1,12 +1,9 @@
 # Developer Events in Australia
 
-105 upcoming events. [Back to the full directory](../README.md)
+107 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Sydney Tech Pickleball | 2026-11-03 | Sydney, AU | [↗](https://lu.ma/msl6kqh4) |
-| She Runs Weekly Wednesday City Run | 2026-11-03 | Sydney | [↗](https://lu.ma/1sgxha6l) |
-| Melbourne Cup at Avenue on Chifley | 2026-11-03 | Sydney, AU | [↗](https://lu.ma/6xb2owos) |
 | Atlassian for Startups: Demo Night | 2026-11-04 | Sydney, AU | [↗](https://lu.ma/1srmqcc1) |
 | AI in Cybersecurity: An Executive Roundtable Dinner | 2026-11-04 | Sydney, AU | [↗](https://lu.ma/vanta-mtb4) |
 | AWS User Group Sydney Meetup | 2026-11-04 | Sydney, AU | [↗](https://lu.ma/a9m3rv00) |
@@ -59,10 +56,13 @@
 | fireyfemmes & Linkedin End of Year Spritz | 2026-11-19 | Sydney, AU | [↗](https://lu.ma/ydbwu69m) |
 | Startup Diwali Sydney | 2026-11-20 | Sydney, AU | [↗](https://lu.ma/bgnxtdi4) |
 | ALO RUNNERS CLUB with Kath Evans | 2026-11-20 | Sydney, AU | [↗](https://lu.ma/fopsudcr) |
+| Real estate private credit: big headlines, telling only part of the story. | 2026-11-20 | Sydney, AU | [↗](https://lu.ma/d3ieojct) |
 | EDGE by Ampere | 2026-11-23 | Sydney, AU | [↗](https://lu.ma/yp81nenc) |
 | The Reinventor's Mindset Live | 2026-11-24 | Sydney, AU | [↗](https://lu.ma/sk74tfi3) |
+| Ellect Women Hybrid: Celebrating Three Years | 2026-11-24 | Sydney, AU | [↗](https://lu.ma/3j88ketk) |
 | One of the World's Largest Battery Fleets Is Parked in Our Garages, Waiting to Power Our Homes w/ Tyson R. CEO & Co-founder @ Merge Energy | 2026-11-25 | Sydney, AU | [↗](https://lu.ma/310nuokk) |
 | From AI User to AI Builder: Build Your Own AI Assistant | 2026-11-25 | Sydney, AU | [↗](https://lu.ma/8f4duakx) |
+| Robert Ian Bonnick & Andrew Shand - Building the Room | 2026-11-25 | Sydney, AU | [↗](https://lu.ma/9bkt6q7k) |
 | SydPy November Meetup | 2026-11-26 | Sydney, AU | [↗](https://lu.ma/v6xjy80v) |
 | AI Demo Night @ Atlassian Sydney 🇦🇺 | 2026-11-26 | Sydney, AU | [↗](https://lu.ma/lehcn2gr) |
 | Sydney - One Roof Women's National Conference (#OWNCon) | 2026-11-26 | Sydney, AU | [↗](https://lu.ma/7qplisu7) |
@@ -80,6 +80,7 @@
 | AI Engineering Summit \| Sydney \| 2026 | 2026-12-02 | Sydney, NS, AU | [↗](https://allevents.in/sydney/ai-engineering-summit-sydney-2026/100001995177889777) |
 | Write the Docs Australia | 2026-12-03 to 2026-12-04 | Melbourne | [↗](https://dev.events/conferences/write-the-docs-australia-89lr7-hz) |
 | Forza End of Year Drinks - Sydney | 2026-12-03 | Sydney, AU | [↗](https://lu.ma/d2oivciv) |
+| Startup Coffee Social #39 | 2026-12-03 | Sydney, AU | [↗](https://lu.ma/arv9qegy) |
 | DDD Brisbane 2026 | 2026-12-05 | Brisbane | [↗](https://dev.events/conferences/ddd-brisbane-2026-mdv-6-a) |
 | YOW! Brisbane 2026 | 2026-12-07 to 2026-12-09 | Brisbane | [↗](https://dev.events/conferences/yow-brisbane-2026-wwf7hor1) |
 | The State of Frontier AI Evaluation and Red Teaming | 2026-12-07 | Sydney, AU | [↗](https://lu.ma/h88d5x3l) |
@@ -106,6 +107,7 @@
 | Melbourne Data Saturday 2027 | 2027-04-10 | Melbourne | [↗](https://dev.events/conferences/melbourne-data-saturday-2027-jghwk5bk) |
 | BFSI Innovation & Technology Summit Australia 2027 | 2027-08-17 | Sydney | [↗](https://dev.events/conferences/bfsi-innovation-and-technology-summit-australia-2027-43s0e2wf) |
 | Futurebuild Australia | 2027-09-22 to 2027-09-23 | Sydney | [↗](https://dev.events/conferences/futurebuild-australia-bbtrjoem) |
+| PlatformCon Live Day - Sydney | 2027-10-26 | Sydney, AU | [↗](https://lu.ma/pc27-sydney) |
 | Sydney Tech Expo 2027 | 2027-11-09 to 2027-11-10 | Sydney | [↗](https://dev.events/conferences/sydney-tech-expo-2027-ctiuizx4) |
 | The Enterprise Tech, Cloud & AI Show | 2027-11-09 to 2027-11-10 | Sydney | [↗](https://dev.events/conferences/the-enterprise-tech-cloud-and-ai-show-pxb0upxf) |
 | Data Centres & Digital Infrastructure Show | 2027-11-09 to 2027-11-10 | Sydney | [↗](https://dev.events/conferences/data-centres-and-digital-infrastructure-show-cvx5rhmk) |

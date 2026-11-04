@@ -1,34 +1,33 @@
 # Developer Events in Spain
 
-80 upcoming events. [Back to the full directory](../README.md)
+81 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | The AI Conf | 2026-11-03 to 2026-11-04 | Barcelona (Spain) | [↗](https://theconf.ai/) |
-| Liquid Galaxy Agentic AI  skill contest | 2026-11-03 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-liquid-galaxy-agentic-ai-skill-contest/) |
 | Barcelona Cybersecurity Congress | 2026-11-03 to 2026-11-05 | Barcelona | [↗](https://dev.events/conferences/barcelona-cybersecurity-congress-xklrz7c2) |
-| Taller de Álgebra | 2026-11-03 | UCAM Catholic University of Murcia, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ucam-murcia-spain-presents-taller-de-algebra/) |
-| Taller de Algoritmia | 2026-11-03 | UCAM Catholic University of Murcia, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ucam-murcia-spain-presents-taller-de-algoritmia/) |
-| Transformational CISO Assembly: Barcelona 2026 | 2026-11-03 | Barcelona, ES | [↗](https://infosec-conferences.com/event/20261103-transformational-ciso-assembly-barcelona-2026/) |
-| Planificación de proyectos Club de Programación y desarrollo | 2026-11-03 | Huelva, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-huelva-university-huelva-spain-presents-planificacion-de-proyectos-club-de-programacion-y-desarrollo/) |
-| CISOXSpain 2026 | 2026-11-03 | Madrid, ES | [↗](https://infosec-conferences.com/event/20261103-cisoxspain-2026/) |
 | Nerdearla Madrid | 2026-11-04 to 2026-11-06 | Madrid (Spain) | [↗](https://nerdearla.com/en/sp/) |
 | DevFest Santiago de Compostela 2026 | 2026-11-04 to 2026-11-05 | Santiago de Compostela (Spain) | [↗](https://devfest.gdg-sdc.org/) |
 | Free AI Agents Workshop: Build Two AI Agents in One Evening | 2026-11-04 | Barcelona | [↗](https://dev.events/conferences/free-ai-agents-workshop-build-two-ai-agents-in-one-evening-ugofyhff) |
+| European Defense Tech Meetup – Valencia | 2026-11-04 | Valencia, Spain | [↗](https://www.startupgrind.com/events/details/startup-grind-valencia-presents-european-defense-tech-meetup-valencia/) |
 | Dev Days Students \| Madrid | 2026-11-06 | Madrid (Spain) | [↗](https://githubcopilotdevdaysmadrid.techriders.es/) |
 | PyConES 2026 | 2026-11-06 to 2026-11-08 | Barcelona | [↗](https://dev.events/conferences/py-con-es-2026-jts3uabv) |
 | DevFest 2026 - GDG Ourense | 2026-11-07 | Ourense (Spain) | [↗](https://gdg.community.dev/events/details/google-gdg-ourense-presents-devfest-2026/) |
 | BiznagaFest 2026 | 2026-11-07 | Malaga, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-malaga-presents-biznagafest-2026/) |
 | Córdoba se va a la BiznagaFest: v2.0, ahora con más rodaje (esta vez sabemos aparcar) | 2026-11-07 | Córdoba, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-cordoba-presents-cordoba-se-va-a-la-biznagafest-v20-ahora-con-mas-rodaje-esta-vez-sabemos-aparcar/) |
 | Viaja con el GDGoC UHU al BignafaFest Málaga 2026! | 2026-11-07 | Huelva, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-huelva-university-huelva-spain-presents-viaja-con-el-gdgoc-uhu-al-bignafafest-malaga-2026-3/) |
+| Liquid Galaxy al GSoC 2026 Mentor Summit — briefing and comments, VIDEO EDITION | 2026-11-07 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-liquid-galaxy-al-gsoc-2026-mentor-summit-briefing-and-comments-video-edition/) |
 | Taller Computadores | 2026-11-10 | UCAM Catholic University of Murcia, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ucam-murcia-spain-presents-taller-computadores/) |
 | Taller de POO | 2026-11-10 | UCAM Catholic University of Murcia, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ucam-murcia-spain-presents-taller-de-poo/) |
 | Taller de POO (Presencial & Online) | 2026-11-10 | UCAM Catholic University of Murcia, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ucam-murcia-spain-presents-taller-de-poo-presencial-amp-online/) |
+| Taller GDG Calculo | 2026-11-10 | UCAM Catholic University of Murcia, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ucam-murcia-spain-presents-taller-gdg-calculo/) |
 | 59th IAPC World Conference | 2026-11-11 to 2026-11-14 | Sevilla (Spain) | [↗](https://iapc.org) |
+| Breaking Into Tech | 2026-11-11 | Madrid, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ie-university-madrid-spain-presents-breaking-into-tech/) |
 | SAP Inside Track Barcelona | 2026-11-12 to 2026-11-13 | Barcelona | [↗](https://dev.events/conferences/sap-inside-track-barcelona-82rwfkw6) |
 | DevFest Marbella 2026 🌴💻  Aprende, conecta y crea comunidad con GDG Marbella | 2026-11-12 | Marbella, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-marbella-presents-devfest-marbella-2026-aprende-conecta-y-crea-comunidad-con-gdg-marbella/) |
 | Nuevos paradigmas en el flujo del desarrollo con la IA | 2026-11-12 | Alicante, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-alicante-presents-nuevos-paradigmas-en-el-flujo-del-desarrollo-con-la-ia/) |
 | Road to DevFest Menorca: ¡Bienvenidos Builders! | 2026-11-12 | Mahon, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-menorca-presents-road-to-devfest-menorca-bienvenidos-builders/) |
+| Taller: Crea tu producto con Antigravity y Gemini | 2026-11-12 | Marbella, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-marbella-presents-taller-crea-tu-producto-con-antigravity-y-gemini/) |
 | Devopsdays Barcelona | 2026-11-13 to 2026-11-14 | Barcelona (Spain) | [↗](https://devopsdays.org/events/2026-barcelona) |
 | VallaTech Summit 2026 (DevFest Valladolid) | 2026-11-13 | Valladolid, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-valladolid-presents-vallatech-summit-2026-devfest-valladolid/) |
 | BC Waves Barcelona 2026 | 2026-11-14 | Barcelona (Spain) | [↗](https://sessionize.com/bc-waves-barcelona-2026) |
@@ -42,6 +41,7 @@
 | DevFest Girona 2026 | 2026-11-21 | Girona, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-girona-presents-devfest-girona-2026/) |
 | DevFest Jerez de la Frontera | 2026-11-21 | Jerez de la Frontera, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-jerez-de-la-frontera-presents-devfest-jerez-de-la-frontera/) |
 | Devfest Jaén 2026 | 2026-11-21 | Jaen, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-jaen-presents-devfest-jaen-2026/) |
+| Introducción a la Ciberseguridad: Primeros Pasos y Vulnerabilidades Básicas | 2026-11-23 | Jaen, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-jaen-presents-introduccion-a-la-ciberseguridad-primeros-pasos-y-vulnerabilidades-basicas/) |
 | AI-Native SDLC: de señales a prod! | 2026-11-25 | Alicante, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-alicante-presents-ai-native-sdlc-de-senales-a-prod/) |
 | Women in Agile EU Launching New Voices 2026 | 2026-11-27 | Barcelona | [↗](https://dev.events/conferences/women-in-agile-eu-launching-new-voices-2026-pjppegwn) |
 | DevFest Madrid 2026 | 2026-11-27 | Madrid, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-madrid-presents-devfest-madrid-2026/) |
@@ -49,6 +49,7 @@
 | DevFest Córdoba | 2026-11-28 | Córdoba, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-cordoba-presents-devfest-cordoba/) |
 | DevFest Barcelona 2026 | 2026-11-28 | Barcelona | [↗](https://dev.events/conferences/dev-fest-barcelona-2026-by3qle4y) |
 | DataSaturday Madrid 2026 | 2026-11-29 | Madrid | [↗](https://dev.events/conferences/data-saturday-madrid-2026-rwsk2lrs) |
+| Explorando Vulnerability Research: Del Descubrimiento a la Explotación | 2026-11-30 | Jaen, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-jaen-presents-explorando-vulnerability-research-del-descubrimiento-a-la-explotacion/) |
 | NetCoreConf Barcelona 2026 | 2026-12-12 | Barcelona | [↗](https://dev.events/conferences/net-core-conf-madrid-2026-4cknjny) |
 | Devfest Lleida 2026, Intel.ligència Artesanal, 13a edición | 2026-12-18 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-devfest-lleida-2026-intelligencia-artesanal-13a-edicion/) |
 | ICE Barcelona 2027 | 2027-01-18 to 2027-01-20 | Barcelona | [↗](https://dev.events/conferences/ice-barcelona-2027-unbobjmz) |

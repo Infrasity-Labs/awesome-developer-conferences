@@ -1,39 +1,14 @@
 # Developer Events in Germany
 
-333 upcoming events. [Back to the full directory](../README.md)
+331 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | OWASP Chapter Frankfurt | 2026-07-01 to 2026-11-25 | Frankfurt am Main, Germany | [↗](https://owasp.org/www-chapter-frankfurt/) |
 | W-JAX München | 2026-11-02 to 2026-11-06 | Munich (Germany) | [↗](https://jax.de/muenchen) |
 | Nullcon Berlin | 2026-11-02 to 2026-11-06 | Berlin | [↗](https://dev.events/conferences/nullcon-berlin-fhzv4ehl) |
-| Cloud Identity Summit '26 | 2026-11-03 | Frankfurt (Germany) | [↗](https://www.identitysummit.cloud/) |
 | S2N: Storage Server Network | 2026-11-03 to 2026-11-04 | Berlin (Germany) | [↗](https://s2n.heise.de) |
 | ISPO Munich 2026 | 2026-11-03 to 2026-11-05 | Munich, Germany | [↗](https://www.ispo.com) |
-| Maker Basics: 3D Printing | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/qudhjyxf) |
-| Corporate Influencer Club Meetup Berlin @SBK | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/va148b4q) |
-| Beyond the pilot - Startups meet Corporate Innovation | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/8j1qmeb6) |
-| Claude Your Synth | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/svjq6fv3) |
-| Future Female Founders Meetup (AFM #19) | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/femalefuturefounders2) |
-| Your Personal BRAND is the sale:: Build a brand that sells for you [workshop] | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/lj5ta4y8) |
-| Everyday AI Club for Product Teams | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/everyday-ai-club-product-teams) |
-| Wake Me Up When The LLM Is Done | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/8u4nb0db) |
-| ALIVE — An Energy Experience | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/h8sbkblb) |
-| Antler Young VC Drinks #1 | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/5846owr0) |
-| BLISS AI Speaker Series: Human-Like Artificial Intelligence - Badr Alkhamissi | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/j2k7yyd4) |
-| CINEMA À TABLE # 12 (Armenia Culture) Screening \| Food \| Culture \| Networking | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/8udvigso) |
-| desirelines book club: episode 5 | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/9w47oqls) |
-| Cloudy Book Club: Becoming SRE - Chapter 5 to 10 (Part 2/3) 📕☁️ | 2026-11-03 | Munich, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-munich-presents-cloudy-book-club-becoming-sre-chapter-5-to-10-part-23/) |
-| Offline Reading Party 📚 \| Café Vegardie | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/v3ly84tt) |
-| HOT BOYS DO NAILS 💅🏼 | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/hotboys-0tk2) |
-| Solutionary Coaching - Brand Launch | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/4jwn0o43) |
-| Berlin: Amela Dinner 🍷💜 | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/zn7beqwn) |
-| Sauna Night 🪵🌿🔥 with Rita | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/oxj80see) |
-| 5v5 casual football (Indoor) [Olympiastadion] | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/d1izsdui) |
-| Poly Crafting | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/1c90y4jl) |
-| Cloud Identity Summit 2026 | 2026-11-03 | Frankfurt, DE | [↗](https://infosec-conferences.com/event/20261103-cloud-identity-summit-2026/) |
-| Mangazeichnen Kinder/Teenager 9+ mit Margarita | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/m5eplinm) |
-| Chess Bar | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/100gramm-qrfv) |
 | code.talks | 2026-11-04 to 2026-11-05 | Hamburg (Germany) | [↗](https://codetalks.com) |
 | Leaf-Jump Meetup | 2026-11-04 | Munich, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-munich-android-presents-leaf-jump-meetup/) |
 | BreakfastInMotion | 2026-11-04 | Berlin, DE | [↗](https://lu.ma/99euesnp) |
@@ -65,6 +40,9 @@
 | Evening Talk: AI for Public Health | 2026-11-04 | Berlin, DE | [↗](https://lu.ma/z6uc1xr7) |
 | School of Witches - The Truth sets me free | 2026-11-04 | Berlin, DE | [↗](https://lu.ma/hqzczg44) |
 | Wellness Wednesday Sauna Night 🧖🏻🔥🧖🏽‍♀️ | 2026-11-04 | Berlin, DE | [↗](https://lu.ma/jkbklw8z) |
+| CANAL SOCIAL RUN @ FUTURA HOUSE | 2026-11-04 | Berlin, DE | [↗](https://lu.ma/60c5uuym) |
+| Flow & Restore | 2026-11-04 | Berlin, DE | [↗](https://lu.ma/ltgc8tk2) |
+| WEDNESDAY INTERVALS | 2026-11-04 | Berlin, DE | [↗](https://lu.ma/muz1mqxd) |
 | Games Ground 2026 | 2026-11-05 to 2026-11-08 | Berlin | [↗](https://dev.events/conferences/games-ground-2026-6zybnaah) |
 | E-Commerce over Breakfast #12 Berlin | 2026-11-05 | Berlin, DE | [↗](https://lu.ma/nsdz23rj) |
 | Women's AI Breakfast - From Idea to Startup | 2026-11-05 | Berlin, DE | [↗](https://lu.ma/womens-ai-breakfast-33) |
@@ -102,6 +80,10 @@
 | Berlin \| Claude Code Meetup | 2026-11-05 | Berlin, DE | [↗](https://lu.ma/claude-pxv3) |
 | Take a Breather: Stress Management Session with TK | 2026-11-05 | Berlin, DE | [↗](https://lu.ma/xblvd5ub) |
 | Art & Culture - Hamburger Bahnhof | 2026-11-05 | Berlin, DE | [↗](https://lu.ma/cri1gu3d) |
+| <run> | 2026-11-05 | Berlin, DE | [↗](https://lu.ma/kf1qgwiz) |
+| Cell Up Challenge Kick Off | 2026-11-05 | Berlin, DE | [↗](https://lu.ma/a3o1kyyt) |
+| INTERVAL | 2026-11-05 | Berlin, DE | [↗](https://lu.ma/j4ga5x27) |
+| ACT WITH EASE \| Open Workshop on the Michael Chekhov acting technique \| Artistic Freedom Lab Opening | 2026-11-05 | Berlin, DE | [↗](https://lu.ma/cn0tz7j2) |
 | HoFT RegCircle #1: PSD3 & PSR | 2026-11-06 | Berlin, DE | [↗](https://lu.ma/hoft-regcircle-PSD3-PSR) |
 | Women in Legal & AI: Breakfast Berlin \| Lexroom | 2026-11-06 | Berlin, DE | [↗](https://lu.ma/h3ul4l2b) |
 | Café con las Cátedras de la Diáspora Mexicana | 2026-11-06 | Berlin, DE | [↗](https://lu.ma/ax3av9dv) |
@@ -125,6 +107,9 @@
 | Beyond AI Agend | 2026-11-06 | Berlin, DE | [↗](https://lu.ma/woevy0lz) |
 | Tea & Violin Essence. Open Teahouse | 2026-11-06 | Berlin, DE | [↗](https://lu.ma/g2orrjey) |
 | WEST IS NOT DEAD \| open play night 🎾 | 2026-11-06 | Berlin, DE | [↗](https://lu.ma/912tosk6) |
+| 8 years Birthday Bash | 2026-11-06 | Berlin, DE | [↗](https://lu.ma/100gramm-kiyp) |
+| Alexander Pape - Don't Leave Me Alone - Opening Party | 2026-11-06 | Berlin, DE | [↗](https://lu.ma/so962w9f) |
+| Gong Healing & Xian Cha Tea Ceremony | 2026-11-06 | Berlin, DE | [↗](https://lu.ma/oh7s57ti) |
 | GDG DevFest Karlsruhe 2026 | 2026-11-07 | Karlsruhe, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-karlsruhe-presents-gdg-devfest-karlsruhe-2026/) |
 | BSides Munich 2026 | 2026-11-07 to 2026-11-09 | Munich | [↗](https://dev.events/conferences/b-sides-munich-2026-ffdwrcis) |
 | DevFest 2026 | 2026-11-07 | Nürnberg, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-nuremberg-presents-devfest-2026/) |
@@ -160,6 +145,7 @@
 | The Bullet with Butterfly Wings: The Electrical Grid and YOU | 2026-11-07 | Berlin, DE | [↗](https://lu.ma/wri9vuwg) |
 | Sweaty Saturday Shakeout Run | 2026-11-07 | Berlin, DE | [↗](https://lu.ma/38z69i5s) |
 | FILMHACK: Warm Up & Pitch | 2026-11-07 | Berlin, DE | [↗](https://lu.ma/t8p9g0yw) |
+| Mindfulness en una Taza: Una experiencia de café, meditación y conexión. | 2026-11-07 | Berlin, DE | [↗](https://lu.ma/r10v61mf) |
 | Foraging for Fungi – Meeting Mushrooms in Berlin and Brandenburg [in English] | 2026-11-08 | Berlin, DE | [↗](https://lu.ma/ogzr3w6e) |
 | CRY SESSION - Forest Walk (Men Only) | 2026-11-08 | Berlin, DE | [↗](https://lu.ma/hapha3lt) |
 | Kinetic Mobile Workshop! <3 | 2026-11-08 | Berlin, DE | [↗](https://lu.ma/0xt2eb0n) |
@@ -172,6 +158,8 @@
 | Do not Disturb - Ambient Series | 2026-11-08 | Berlin, DE | [↗](https://lu.ma/pxn45c43) |
 | From Seaweed Photos to Chaos Theory: Forgotten Stories from Lives in Science | 2026-11-08 | Berlin, DE | [↗](https://lu.ma/h2zvkoze) |
 | summeronyourmind \| New Era & Community Gathering | 2026-11-08 | Berlin, DE | [↗](https://lu.ma/xl41tm6m) |
+| HAVEN x JR Community Run w/SuperCoff - fueled by XXL Nutrition | 2026-11-08 | Berlin, DE | [↗](https://lu.ma/ahpg3rb4) |
+| Ice Dip Krumme Lanke/Schlachtensee | 2026-11-08 | Berlin | [↗](https://lu.ma/99gej4t8) |
 | LeadDev Berlin | 2026-11-09 | Berlin, Germany | [↗](https://leaddev.com/leaddev-berlin) |
 | Unhacked 360 Germany: FutureSec Summit | 2026-11-09 to 2026-11-10 | Berlin | [↗](https://dev.events/conferences/unhacked-360-germany-future-sec-summit-zmqcorst) |
 | BIO-Europe 2026 | 2026-11-09 to 2026-11-11 | Cologne, Germany | [↗](https://informaconnect.com/bioeurope/) |
@@ -203,6 +191,7 @@
 | HerSound: Volume 8. | 2026-11-10 | Berlin, DE | [↗](https://lu.ma/b5tjpfq4) |
 | Mad Money Club - Property Please: What Owning Really Costs (and Gives You) | 2026-11-10 | Berlin, DE | [↗](https://lu.ma/madmoney-wsv5) |
 | Vuejs//Berlin #111 Hack'n'Tell Edition | 2026-11-10 | Berlin, DE | [↗](https://lu.ma/lm3tcvd6) |
+| AWSC im „Zeitlos“ am S-Bahnhof Savignyplatz | 2026-11-10 | Berlin, DE | [↗](https://lu.ma/kmjyi9hy) |
 | CLC | 2026-11-11 | Mannheim, Germany | [↗](https://clc-conference.eu/index_en.php) |
 | Human in the Loop - Morning edition | 2026-11-11 | Berlin, DE | [↗](https://lu.ma/64mf6duv) |
 | Showcase: Klimalösungen, die sich für Kliniken rechnen | 2026-11-11 | Berlin, DE | [↗](https://lu.ma/bhcm7vdu) |
@@ -222,6 +211,7 @@
 | The Skyline Mixer | 2026-11-11 | Berlin, DE | [↗](https://lu.ma/xek9cxmn) |
 | Core Connect Capital | 2026-11-11 | Berlin, DE | [↗](https://lu.ma/wr1gq4v1) |
 | City Dinner \| A Taste of Poznań \| Pierogi Social Club x Polish Tourism Organization \| 11.11. | 2026-11-11 | Berlin, DE | [↗](https://lu.ma/dzoooq5t) |
+| Berlin Collage Club Wednesday Social at Orangerie Neukölln! | 2026-11-11 | Berlin, DE | [↗](https://lu.ma/mq8xmex0) |
 | BSides Berlin 2026 | 2026-11-12 to 2026-11-13 | Berlin | [↗](https://dev.events/conferences/b-sides-berlin-2026-gai5lq0u) |
 | Datadog Summit Munich | 2026-11-12 | Munich | [↗](https://dev.events/conferences/datadog-summit-munich-vgfcaqhf) |
 | Still Human - Led by People / Built with AI | 2026-11-12 | Berlin, DE | [↗](https://lu.ma/talent-flagship26) |
@@ -252,8 +242,13 @@
 | Aperture Sessions Berlin with George \| Singular, RevenueCat, Segwise.ai, Appfollow, & adjoe | 2026-11-12 | Berlin, DE | [↗](https://lu.ma/ts4tkbgv) |
 | thirdface & friends | 2026-11-12 | Berlin, DE | [↗](https://lu.ma/a6xbht5d) |
 | Transitioning into AI Safety Accountability Group | 2026-11-12 | Berlin, DE | [↗](https://lu.ma/it683s08) |
+| Contributing to Safer, more Ethical AI: Pathways In | 2026-11-12 | Berlin, DE | [↗](https://lu.ma/2py3a80e) |
+| 8yNightgame | 2026-11-12 | Berlin, DE | [↗](https://lu.ma/mwek00ro) |
+| Python Users Berlin Presentation Night | 2026-11-12 | Berlin, DE | [↗](https://lu.ma/3tbjapbw) |
 | cocreation.festival: Thriving in Uncertainty | 2026-11-13 | Berlin, DE | [↗](https://lu.ma/riacqetr) |
 | Catalyst Co-Creation Community Circle #2 | 2026-11-13 | Berlin, DE | [↗](https://lu.ma/u59r2zfh) |
+| Founders Co-working Day | 2026-11-13 | Berlin, DE | [↗](https://lu.ma/equ91qxl) |
+| 48 Hours Film X AI FILMHACK | 2026-11-13 | Berlin, DE | [↗](https://lu.ma/flkqyiz4) |
 | 🛰️ NASA Space Apps Challenge Ahlen 2026 | 2026-11-14 | Ahlen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-nasa-space-apps-challenge-ahlen-2026/) |
 | DevFest Paderborn 2026 | 2026-11-14 | Paderborn, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-paderborn-presents-devfest-paderborn-2026/) |
 | DevFest Berlin 2026 | 2026-11-14 | Berlin, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-berlin-presents-devfest-berlin-2026/) |
@@ -284,14 +279,17 @@
 | IT Security Summit Munich 2026 | 2026-11-30 to 2026-12-04 | Munich (Germany) | [↗](https://it-security-summit.com/munich/) |
 | Enterprise DevSecOps 2026 | 2026-11-30 to 2026-12-01 | Berlin | [↗](https://dev.events/conferences/enterprise-dev-sec-ops-2026-086xzhi1) |
 | Enterprise DevOps Summit 2026 | 2026-11-30 to 2026-12-01 | Berlin | [↗](https://dev.events/conferences/enterprise-dev-ops-summit-2026-onseyujt) |
+| Digital Twins in Smart Factories: Concepts for efficient and flexible energy management | 2026-11-30 | Essen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-duisburg-essen-essen-germany-presents-digital-twins-in-smart-factories-concepts-for-efficient-and-flexible-energy-management/) |
 | Cloudy Book Club: Becoming SRE - Chapter 11 to 18 (Part 3/3) 📕☁️ | 2026-12-01 | Munich, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-munich-presents-cloudy-book-club-becoming-sre-chapter-11-to-18-part-33/) |
 | GDG Nuremberg - 10th anniversary | 2026-12-03 | Nürnberg, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-nuremberg-presents-gdg-nuremberg-10th-anniversary/) |
 | React Day Berlin | 2026-12-04 to 2026-12-07 | Berlin (Germany) | [↗](https://reactday.berlin) |
 | AI Coding Summit - Berlin Edition | 2026-12-04 to 2026-12-07 | Berlin | [↗](https://dev.events/conferences/ai-coding-summit-berlin-edition-hqjzolfj) |
 | BSides Dresden 2026 | 2026-12-05 | Dresden (Germany) | [↗](https://pretalx.com/bsidesdresden2026/) |
+| DevFest Ahlen 2026 - ONLINE | 2026-12-05 | Ahlen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-devfest-ahlen-2026-online-1/) |
 | IT-Tage | 2026-12-07 | Frankfurt am Main, Germany | [↗](https://www.it-tage.org) |
 | IT-Tage 2026 | 2026-12-07 to 2026-12-10 | Frankfurt | [↗](https://dev.events/conferences/it-tage-2026-6azb9oo) |
 | DevFest 2026 Ahlen | 2026-12-12 | Ahlen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-devfest-2026-ahlen/) |
+| DevFest Ahlen 2026 \| The AI Agentic Era 🚀 | 2026-12-12 | Ahlen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-devfest-ahlen-2026-the-ai-agentic-era/) |
 | 40C3 Chaos Communication Congress 2026 | 2026-12-27 to 2026-12-30 | Hamburg, Germany | [↗](https://events.ccc.de/en/congress/) |
 | DLD Munich Conference 2027 | 2027-01-14 to 2027-01-16 | Munich, Germany | [↗](https://dld-conference.com/) |
 | SPARTA Defence Innovation Summit 2027 | 2027-02-11 | Munich, Germany | [↗](https://www.deeptech.build/sparta) |

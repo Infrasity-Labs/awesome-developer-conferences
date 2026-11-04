@@ -1,10 +1,10 @@
 # Developer Events in United Arab Emirates
 
-14 upcoming events. [Back to the full directory](../README.md)
+15 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Dubai FinTech Summit 2026 | 2026-11-02 to 2026-11-03 | Dubai | [↗](https://dev.events/conferences/dubai-fin-tech-summit-2026-xbyjabsn) |
+| REGISTRATION : Retrieval-Augmented Generation (RAG) Workshop Series - FINAL | 2026-11-05 | Dubai, United Arab Emirates | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-heriot-watt-university-dubai-dubai-united-arab-emirates-presents-registration-retrieval-augmented-generation-rag-workshop-series-final/) |
 | GESS Dubai 2026 | 2026-11-10 to 2026-11-12 | Dubai | [↗](https://dev.events/conferences/gess-dubai-2026-lpm24cgm) |
 | Experts Live Emirates 2026 | 2026-11-11 to 2026-11-12 | Dubai (United Arab Emirates) | [↗](http://expertslive.ae/) |
 | DevFest 2026 by GDG Abu Dhabi | 2026-11-21 | Abu Dhabi, United Arab Emirates | [↗](https://gdg.community.dev/events/details/google-gdg-abu-dhabi-presents-devfest-2026-by-gdg-abu-dhabi/) |
@@ -17,4 +17,5 @@
 | ICADS 2027 | 2027-02-01 to 2027-02-03 | Dubai | [↗](https://dev.events/conferences/icads-2027-htyyi-yc) |
 | Step Dubai 2027 | 2027-02-03 to 2027-02-04 | Dubai | [↗](https://dev.events/conferences/step-dubai-2027-dw9e-17l) |
 | FinNext Conference Dubai 2027 | 2027-02-06 | Dubai | [↗](https://dev.events/conferences/fin-next-conference-dubai-2027-wr3ihojp) |
+| DDX Dubai 2027 | 2027-03-19 to 2027-03-21 | Dubai | [↗](https://dev.events/conferences/ddx-dubai-2027-aqkdo9db) |
 | TOKEN2049 Dubai | 2027-04-21 to 2027-04-22 | Dubai | [↗](https://dev.events/conferences/token-2049-dubai-zjdfcnml) |

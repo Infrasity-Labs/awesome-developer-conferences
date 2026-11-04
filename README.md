@@ -32,58 +32,58 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 
 | Country | Upcoming events |
 |---------|-----------------|
-| [United States](countries/united-states.md) | 784 |
-| [United Kingdom](countries/united-kingdom.md) | 334 |
-| [Germany](countries/germany.md) | 333 |
-| [France](countries/france.md) | 291 |
-| [Singapore](countries/singapore.md) | 277 |
-| [Canada](countries/canada.md) | 274 |
-| [India](countries/india.md) | 165 |
-| [Australia](countries/australia.md) | 105 |
-| [Spain](countries/spain.md) | 80 |
-| [Italy](countries/italy.md) | 46 |
+| [United States](countries/united-states.md) | 803 |
+| [Germany](countries/germany.md) | 331 |
+| [United Kingdom](countries/united-kingdom.md) | 331 |
+| [Singapore](countries/singapore.md) | 286 |
+| [France](countries/france.md) | 278 |
+| [Canada](countries/canada.md) | 265 |
+| [India](countries/india.md) | 176 |
+| [Australia](countries/australia.md) | 107 |
+| [Spain](countries/spain.md) | 81 |
+| [Nigeria](countries/nigeria.md) | 47 |
 | [Netherlands](countries/netherlands.md) | 46 |
-| [Nigeria](countries/nigeria.md) | 45 |
+| [Italy](countries/italy.md) | 45 |
 | [Brazil](countries/brazil.md) | 42 |
 | [South Korea](countries/south-korea.md) | 40 |
-| [Kenya](countries/kenya.md) | 35 |
-| [Japan](countries/japan.md) | 33 |
-| [Poland](countries/poland.md) | 32 |
+| [Kenya](countries/kenya.md) | 37 |
+| [Japan](countries/japan.md) | 36 |
+| [Poland](countries/poland.md) | 31 |
 | [Portugal](countries/portugal.md) | 31 |
 | [China](countries/china.md) | 26 |
-| [Egypt](countries/egypt.md) | 24 |
-| [Mexico](countries/mexico.md) | 23 |
-| [Switzerland](countries/switzerland.md) | 19 |
+| [Egypt](countries/egypt.md) | 23 |
+| [Mexico](countries/mexico.md) | 22 |
+| [Philippines](countries/philippines.md) | 18 |
+| [Switzerland](countries/switzerland.md) | 18 |
 | [Indonesia](countries/indonesia.md) | 16 |
-| [Philippines](countries/philippines.md) | 16 |
-| [Taiwan](countries/taiwan.md) | 15 |
-| [United Arab Emirates](countries/united-arab-emirates.md) | 14 |
-| [Sweden](countries/sweden.md) | 12 |
+| [United Arab Emirates](countries/united-arab-emirates.md) | 15 |
+| [Taiwan](countries/taiwan.md) | 12 |
 | [Colombia](countries/colombia.md) | 11 |
-| [Israel](countries/israel.md) | 10 |
 | [South Africa](countries/south-africa.md) | 10 |
+| [Sweden](countries/sweden.md) | 10 |
+| [Israel](countries/israel.md) | 9 |
 | [Türkiye](countries/t-rkiye.md) | 6 |
-| [Peru](countries/peru.md) | 19 |
+| [Peru](countries/peru.md) | 20 |
 | [Belgium](countries/belgium.md) | 18 |
 | [Czechia](countries/czechia.md) | 15 |
 | [Austria](countries/austria.md) | 14 |
 | [Cameroon](countries/cameroon.md) | 12 |
-| [Denmark](countries/denmark.md) | 12 |
-| [Morocco](countries/morocco.md) | 12 |
-| [Finland](countries/finland.md) | 10 |
+| [Pakistan](countries/pakistan.md) | 12 |
+| [Denmark](countries/denmark.md) | 11 |
+| [Finland](countries/finland.md) | 11 |
 | [Greece](countries/greece.md) | 10 |
 | [Hungary](countries/hungary.md) | 10 |
 | [Malaysia](countries/malaysia.md) | 9 |
-| [Norway](countries/norway.md) | 9 |
+| [Morocco](countries/morocco.md) | 9 |
+| [Saudi Arabia](countries/saudi-arabia.md) | 9 |
+| [Norway](countries/norway.md) | 8 |
 | [Bulgaria](countries/bulgaria.md) | 7 |
 | [Lithuania](countries/lithuania.md) | 7 |
-| [Pakistan](countries/pakistan.md) | 7 |
 | [Romania](countries/romania.md) | 7 |
 | [Vietnam](countries/vietnam.md) | 7 |
 | [Ireland](countries/ireland.md) | 6 |
+| [Jordan](countries/jordan.md) | 6 |
 | [Latvia](countries/latvia.md) | 6 |
-| [Saudi Arabia](countries/saudi-arabia.md) | 6 |
-| [Jordan](countries/jordan.md) | 5 |
 | [Serbia](countries/serbia.md) | 5 |
 | [Tunisia](countries/tunisia.md) | 5 |
 | [Ghana](countries/ghana.md) | 4 |
@@ -110,13 +110,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Launch your web-based video game with AI | 2026-11-03 | Juja, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-launch-your-web-based-video-game-with-ai/) |
-| Pre-Devefest Campus Outreach-COOU | 2026-11-03 | Onitsha, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-onitsha-presents-pre-devefest-campus-outreach-coou/) |
-| IoT: Decoding Architecture, the Cloud, and Protocols | 2026-11-03 | Casablanca, Morocco | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ecole-marocaine-des-sciences-de-lingenieur-casablanca-morocco-presents-iot-decoding-architecture-the-cloud-and-protocols/) |
-| AI Session 2 : Exploring Programming Paradigms: A Hands-on Introduction | 2026-11-03 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-ai-session-2-exploring-programming-paradigms-a-hands-on-introduction-2026-11-03/) |
-| Session 04 : Git Fundamentals | 2026-11-03 | Fes, Morocco | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-school-of-applied-sciences-of-fes-fes-morocco-presents-session-04-git-fundamentals/) |
-| Session 04 : Git Fundamentals (P1 of 2) | 2026-11-03 | Fes, Morocco | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-school-of-applied-sciences-of-fes-fes-morocco-presents-session-04-git-fundamentals-p1-of-2/) |
-| Git & GitHub: Publishing Your Web Projects | 2026-11-03 | Voi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-taita-taveta-university-voi-kenya-presents-git-amp-github-publishing-your-web-projects/) |
 | Devoxx Morocco | 2026-11-04 to 2026-11-05 | Casablanca (Morocco) | [↗](https://devoxx.ma/) |
 | Accelerating Agent Deployment on Google Cloud with the AlisX Platform | 2026-11-04 | Pretoria, South Africa | [↗](https://gdg.community.dev/events/details/google-gdg-pretoria-presents-accelerating-agent-deployment-on-google-cloud-with-the-alisx-platform/) |
 | CYSEC EGYPT 2026 | 2026-11-04 | Cairo | [↗](https://dev.events/conferences/cysec-egypt-2026-h57l8ozs) |
@@ -131,6 +124,8 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Intro to JavaScript: Unlocking the Basics | 2026-11-04 | Juja, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-intro-to-javascript-unlocking-the-basics/) |
 | Introduction to Linux | 2026-11-04 | Benghazi, Libya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-libyan-international-medical-university-benghazi-libya-presents-introduction-to-linux/) |
 | Dive into Serverless on Google Cloud | 2026-11-04 | Juja, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-dive-into-serverless-on-google-cloud/) |
+| Foundations of data science | 2026-11-04 | Embu, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-embu-embu-kenya-presents-foundations-of-data-science/) |
+| Pandas 102: DataFrames and Beyond | 2026-11-04 | Juja, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-pandas-102-dataframes-and-beyond-1/) |
 | 237HackFest | 2026-11-05 to 2026-11-06 | Douala (Cameroon) | [↗](https://www.237hackfest.com) |
 | Droidcon & Fluttercon Kenya 2026 | 2026-11-05 to 2026-11-06 | Nairobi | [↗](https://dev.events/conferences/droidcon-and-fluttercon-kenya-2026-nchprgoc) |
 | DevFast Red Sea: Kickstart Your Coding Journey | 2026-11-05 | Hurghada, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-hurghada-presents-devfast-red-sea-kickstart-your-coding-journey/) |
@@ -140,6 +135,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Session 05 \| Wireless Attacks & Defense with ESP32 Marauder (P2) | 2026-11-05 | Fes, Morocco | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-school-of-applied-sciences-of-fes-fes-morocco-presents-session-05-wireless-attacks-amp-defense-with-esp32-marauder-p2/) |
 | Build a web application on intelligent analytics and Multi-Modal data | 2026-11-05 | Juja, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-build-a-web-application-on-intelligent-analytics-and-multi-modal-data/) |
 | Reawakening GDG CUEA: First Physical Meetup | 2026-11-05 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-the-catholic-university-of-eastern-africa-nairobi-kenya-presents-reawakening-gdg-cuea-first-physical-meetup/) |
+| The Transport Control Protocol - TCP | 2026-11-05 | Juja, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-the-transport-control-protocol-tcp/) |
 | DevFest Ilorin 2026 | 2026-11-06 | Ilorin, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-ilorin-presents-devfest-ilorin-2026/) |
 | DevFest Accra 2026: Workshops (Day 1) | 2026-11-06 | Accra, Ghana | [↗](https://gdg.community.dev/events/details/google-gdg-accra-presents-devfest-accra-2026-workshops-day-1/) |
 | OOP & Data Modeling | 2026-11-06 | Giza, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-october-6-university-giza-egypt-presents-oop-amp-data-modeling/) |
@@ -170,9 +166,13 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Session 06 : GitHub & Collaboration - From Git Push to Pull Request (P2 of 2) | 2026-11-07 | Fes, Morocco | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-school-of-applied-sciences-of-fes-fes-morocco-presents-session-06-github-amp-collaboration-from-git-push-to-pull-request-p2-of-2/) |
 | The Gateway to AGI | 2026-11-07 | Safi, Morocco | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-higher-school-of-technology-of-safi-safi-morocco-presents-the-gateway-to-agi/) |
 | Intro to System Design: A Beginner's Workshop | 2026-11-07 | Embu, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-embu-embu-kenya-presents-intro-to-system-design-a-beginners-workshop/) |
+| On Campus Startup Sandbox Episode 003 | 2026-11-07 | Kano, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-bayero-university-kano-kano-nigeria-presents-on-campus-startup-sandbox-episode-003/) |
+| Agent Skills for Web Development | 2026-11-07 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-agent-skills-for-web-development/) |
+| Unlocking Google AI Plus: Student Activation & Onboarding Session | 2026-11-07 | Alasia, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-lagos-state-university-ojo-nigeria-presents-unlocking-google-ai-plus-student-activation-amp-onboarding-session/) |
 | Devfest Sousse 2026 | 2026-11-08 | Sousse, Tunisia | [↗](https://gdg.community.dev/events/details/google-gdg-sousse-presents-devfest-sousse-2026/) |
 | Data Science Workshop: Hands-On Session | 2026-11-08 | Baraton, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-eastern-africa-baraton-eldoret-kenya-presents-data-science-workshop-hands-on-session/) |
 | DevFest'26 - GDG Helwan | 2026-11-10 | Helwan, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-helwan-presents-devfest26-gdg-helwan/) |
+| Unlock the Secrets of Your Data: EDA Workshop | 2026-11-10 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-unlock-the-secrets-of-your-data-eda-workshop/) |
 | Unlock Your Path: Tech Roadmap Workshop | 2026-11-11 | Ben Arous, Tunisia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-higher-institute-of-technological-studies-of-rades-ben-arous-tunisia-presents-unlock-your-path-tech-roadmap-workshop/) |
 | GDG on Campus: Intro & Infosession | 2026-11-12 | Pamplemousses, Mauritius | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-african-leadership-college-of-higher-education-pamplemousses-mauritius-presents-gdg-on-campus-intro-amp-infosession/) |
 | Networking & REST APIs | 2026-11-13 | Giza, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-october-6-university-giza-egypt-presents-networking-amp-rest-apis/) |
@@ -269,6 +269,13 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Africa Payments & RegTech Forum | 2027-06-24 | Johannesburg | [↗](https://dev.events/conferences/africa-payments-and-reg-tech-forum-s2a81lvd) |
 | DevOpsDays Cairo 2027 | 2027-09-01 | Cairo | [↗](https://devopsdays.org/events/2027-cairo) |
 | Escape 2027 | 2027-09-09 | Johannesburg | [↗](https://dev.events/conferences/escape-2027-qrigjafz) |
+| Launch your web-based video game with AI | 2026-11-03 | Juja, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-launch-your-web-based-video-game-with-ai/) |
+| Pre-Devefest Campus Outreach-COOU | 2026-11-03 | Onitsha, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-onitsha-presents-pre-devefest-campus-outreach-coou/) |
+| IoT: Decoding Architecture, the Cloud, and Protocols | 2026-11-03 | Casablanca, Morocco | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ecole-marocaine-des-sciences-de-lingenieur-casablanca-morocco-presents-iot-decoding-architecture-the-cloud-and-protocols/) |
+| AI Session 2 : Exploring Programming Paradigms: A Hands-on Introduction | 2026-11-03 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-ai-session-2-exploring-programming-paradigms-a-hands-on-introduction-2026-11-03/) |
+| Session 04 : Git Fundamentals | 2026-11-03 | Fes, Morocco | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-school-of-applied-sciences-of-fes-fes-morocco-presents-session-04-git-fundamentals/) |
+| Session 04 : Git Fundamentals (P1 of 2) | 2026-11-03 | Fes, Morocco | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-school-of-applied-sciences-of-fes-fes-morocco-presents-session-04-git-fundamentals-p1-of-2/) |
+| Git & GitHub: Publishing Your Web Projects | 2026-11-03 | Voi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-taita-taveta-university-voi-kenya-presents-git-amp-github-publishing-your-web-projects/) |
 | BUILDUP UNIZIK 1.0 | 2026-11-02 | Awka, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-nnamdi-azikiwe-university-awka-nigeria-presents-buildup-unizik-10/) |
 | React Native | 2026-11-02 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-react-native/) |
 | Web Development & SEO Mastery | 2026-11-02 | Machakos, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-machakos-university-machakos-kenya-presents-web-development-amp-seo-mastery/) |
@@ -345,15 +352,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Discover UX Design: Understanding Users | 2026-10-28 | Nakuru, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kabarak-university-nakuru-kenya-presents-discover-ux-design-understanding-users/) |
 | Hands-On with Cloud Storage and Databases on Google Cloud | 2026-10-28 | Juja, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-hands-on-with-cloud-storage-and-databases-on-google-cloud/) |
 | Cybersecurity Essentials: Safeguarding Your Digital World | 2026-10-28 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-kenya-nairobi-kenya-presents-cybersecurity-essentials-safeguarding-your-digital-world/) |
-| Unlocking Data Potential with ZINDI: Competitions for Growth | 2026-10-27 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-unlocking-data-potential-with-zindi-competitions-for-growth/) |
-| Incident 2:14: Chapter 1, Onboarding  A GDG on Campus MKU CTF series | 2026-10-27 | Thika, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-mount-kenya-university-thika-kenya-presents-incident-214-chapter-1-onboarding-a-gdg-on-campus-mku-ctf-series/) |
-| Session 01: Python Kick-off (Part 1 of 2) | 2026-10-27 | Fes, Morocco | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-school-of-applied-sciences-of-fes-fes-morocco-presents-session-01-python-kick-off-part-1-of-2/) |
-| The Internet Protocol | 2026-10-27 | Juja, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-the-internet-protocol/) |
-| Cyberweek Africa 2026 | 2026-10-27 | Nairobi, Kenya | [↗](https://infosec-conferences.com/event/20261027-cyberweek-africa-2026-2/) |
-| C# & Backend Development Fundamentals | 2026-10-27 | Giza, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-october-6-university-giza-egypt-presents-c-amp-backend-development-fundamentals/) |
-| Introduction au Machine Learning | 2026-10-27 | Sousse, Tunisia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-international-multidisciplinary-school-sousse-tunisia-presents-introduction-au-machine-learning/) |
-| System Design Build-Along: Python Payment Backend with CodePinion | 2026-10-27 | Nyeri, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-dedan-kimathi-university-of-technology-nyeri-kenya-presents-system-design-build-along-python-payment-backend-with-codepinion-1/) |
-| Numpy Practical Workshop | 2026-10-27 | Juja, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-numpy-practical-workshop/) |
 
 </details>
 
@@ -363,43 +361,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| TOOCON #47 | 2026-11-03 | Kaohsiung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-kaohsiung-presents-toocon-47/) |
-| Towkay Talks 6 - Grow People, Grow Business | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/qe14huep) |
-| HKSTP Global Mixer - Mobility & Logistics in Singapore | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/45rqd9wm) |
-| The Private Capital Breakfast | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/dgz4o0xm) |
-| 🏆Demo Day🏆 Tencent Cloud AI CAN DO IT Hackathon Singapore 2026 | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/26fqf3hy) |
-| SGInnovate x Craft Health Tech Talk: Beyond the Pill: 3D-Printing for Personalised Medicine and Nutrition | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/pglutzaq) |
-| How to Choose the Right AI Tools for Work & Productivity | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/o221swl3) |
-| AIoT Korea Exhibition & Conference 2026 | 2026-11-03 to 2026-11-05 | Seoul, South Korea | [↗](https://www.cantonfair.net/event/53687-aiot-korea-exhibition) |
-| AI SRE Meetup - Singapore | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/hqq6qlqy) |
-| North Bengaluru Startups Meetup by CEDAT | 2026-11-03 | Bengaluru, IN | [↗](https://lu.ma/ktdpj89f) |
-| Introduction to Retrieval-Augmented Generation (RAG) | 2026-11-03 | Jaipur, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-manipal-university-jaipur-india-presents-introduction-to-retrieval-augmented-generation-rag/) |
-| AI Discovery Clinic by Singapore AI Association | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/cnz8x2gu) |
-| CNCG Singapore x Singapore HUG Meetup @RedHat Singapore | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/maakpfrk) |
-| Immersive Stress-Relief Relaxation Session with Fortune 500 Psychologist for Professionals, Parents, Students | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/jxd8shvb) |
-| Become Trauma Informed - A 3 part workshop for healing and connecting | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/fg1znf5c) |
-| HUJI TO INDUSTRY-  AI for Devs: From Theory to Production | 2026-11-03 | Jerozolima, Israel | [↗](https://gdg.community.dev/events/details/google-gdg-jerusalem-presents-huji-to-industry-ai-for-devs-from-theory-to-production/) |
-| NGOJAY: Ngobrolin Jurus Nge-yuay Pake e-ay | 2026-11-03 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-bandung-presents-ngojay-ngobrolin-jurus-nge-yuay-pake-e-ay/) |
-| GDG on Campus SKHU Backend Study Session - 05 예외처리 & Validation | 2026-11-03 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkonghoe-university-seoul-south-korea-presents-gdg-on-campus-skhu-backend-study-session-05-yeoeceori-amp-validation/) |
-| GDG Aarohan 2k26 – Installation Ceremony & Expert Tech Talks | 2026-11-03 | Howrah, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-mckv-institute-of-engineering-howrah-india-presents-gdg-aarohan-2k26-installation-ceremony-amp-expert-tech-talks/) |
-| Welcome to GDGoC on Campus: Induction Session | 2026-11-03 | Aziznagar, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-vidya-jyothi-institute-of-technology-aziznagar-india-presents-welcome-to-gdgoc-on-campus-induction-session/) |
-| Introduction to Retrieval-Augmented Generation (RAG) (only for MUJ Students) | 2026-11-03 | Jaipur, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-manipal-university-jaipur-india-presents-introduction-to-retrieval-augmented-generation-rag-only-for-muj-students/) |
-| Beyond Borders: Build, Fund & Scale | 2026-11-03 | Bengaluru, IN | [↗](https://lu.ma/h9nv1prg) |
-| Generative AI Training in Hyderabad \| Gen AI \| Free Demo | 2026-11-03 | Hyderabad, TS, IN | [↗](https://allevents.in/hyderabad/generative-ai-training-in-hyderabad-gen-ai-free-demo/100002004002398119) |
-| Media Accelerator & Startup Cohort | 2026-11-03 to 2026-11-06 | Mumbai, MH, IN | [↗](https://allevents.in/mumbai/media-accelerator-and-startup-cohort/100002004028780028) |
-| Play-with-Web: Hands-On Workshop | 2026-11-03 | Indore, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-indian-institute-of-technology-indore-india-presents-play-with-web-hands-on-workshop/) |
-| GDG on Campus HUFS Tuesday Live (GTL) - Weekly | 2026-11-03 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-hankuk-university-of-foreign-studies-seoul-south-korea-presents-gdg-on-campus-hufs-tuesday-live-gtl-weekly-34/) |
-| 【Lecture #3｜Beyond the Classroom: My Journey in Tech, Communities, Across Borders】【社課 #3 預告｜Beyond the Classroom：跨越國界的科技與社群之路】 | 2026-11-03 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-chengchi-university-taipei-taiwan-presents-lecture-3beyond-the-classroom-my-journey-in-tech-communities-across-borders-she-ke-3-yu-gao-beyond-the-classroomkua-yue-guo-jie-de-ke-ji-yu-she-qun-zhi-lu/) |
-| GDG on Campus Orientation (2026-27): Kickstart Your Tech Journey | 2026-11-03 | Kolkata, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-st-thomas-college-of-engineering-technology-kolkata-india-presents-gdg-on-campus-orientation-2026-27-kickstart-your-tech-journey/) |
-| APU Cloud Innovation Hackathon 2026 Briefing Session | 2026-11-03 | Kuala Lumpur, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-asia-pacific-university-of-technology-innovation-kuala-lumpur-malaysia-presents-apu-cloud-innovation-hackathon-2026-briefing-session/) |
-| GDG on Campus SKHU Frontend Study Session - 05 폼 다루기, React Router, styled-components | 2026-11-03 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkonghoe-university-seoul-south-korea-presents-gdg-on-campus-skhu-frontend-study-session-05-pom-darugi-react-router-styled-components/) |
-| Meet GDG: Community Introduction & Introduction | 2026-11-03 | Jorhat, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-jorhat-institute-of-science-technology-jorhat-india-presents-meet-gdg-community-introduction-amp-introduction/) |
-| Intro to High Fashion Modelling | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/vy4pxgda) |
-| Google Cloud Learn With Community : Info Session | 2026-11-03 | Meerut, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-meerut-institute-of-engineering-and-technology-meerut-india-presents-google-cloud-learn-with-community-info-session/) |
-| 基礎 Python - 2 | 2026-11-03 | Kaohsiung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-sun-yat-sen-university-kaohsiung-city-taiwan-presents-ji-chu-python-2/) |
-| IT Leaders Happy Hour \| Singapore | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/1e8a4f2t) |
-| Feminine Presence Style for Women Leaders or Professionals | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/3rgmgvax) |
-| Red Hat Summit: Connect Taipei 2026 | 2026-11-03 | Taipei, TW | [↗](https://infosec-conferences.com/event/20261103-red-hat-summit-connect-taipei-2026/) |
 | ICEMSS | 2026-11-04 to 2026-11-05 | Tokyo | [↗](https://dev.events/conferences/icemss-03k1vxyf) |
 | Okta Developer Connect Bengaluru | 2026-11-04 | Bengaluru, IN | [↗](https://lu.ma/2mgw9sne) |
 | Mindstone Singapore November AI Meetup | 2026-11-04 | Singapore, SG | [↗](https://lu.ma/xyov82ta) |
@@ -435,6 +396,12 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Study Jam IoT #1: The Hello World of IoT | 2026-11-04 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-pasundan-bandung-indonesia-presents-study-jam-iot-1-the-hello-world-of-iot/) |
 | GDG OnCampus Info Session: Ignite Your Journey with Google Developer Groups | 2026-11-04 | Namakkal, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-paavai-engineering-college-namakkal-india-presents-gdg-oncampus-info-session-ignite-your-journey-with-google-developer-groups-1/) |
 | معسكر الحياة في المريخ | 2026-11-04 | Taif, Saudi Arabia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-taif-university-taif-saudi-arabia-presents-mskr-lhy-fy-lmrykh/) |
+| Is Our Reality a Random Roll of Dice? A quantum physics lecture over drinks! (limited seats, incl. a drink) | 2026-11-04 | Singapore, SG | [↗](https://lu.ma/sf4vwu7j) |
+| #WeeHangOut 2026 | 2026-11-04 | Singapore, SG | [↗](https://lu.ma/k8w1zqmf) |
+| Beyond the Screen : Where Art Meets UX/UI Boot Camp Day2 | 2026-11-04 | Jeddah, Saudi Arabia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-king-abdulaziz-university-jeddah-saudi-arabia-presents-beyond-the-screen-where-art-meets-uxui-boot-camp-day2/) |
+| Crypto - Basic | 2026-11-04 | Taichung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-chung-hsing-university-taichung-taiwan-presents-crypto-basic/) |
+| GDG on Campus Orientation 2026-27 (ONLY FOR SRCASW STUDENTS) | 2026-11-04 | Delhi, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-shaheed-rajguru-college-of-applied-sciences-for-women-delhi-india-presents-gdg-on-campus-orientation-2026-27-only-for-srcasw-students/) |
+| وكالة الفضاء السعودية (ssa) | 2026-11-04 | Taif, Saudi Arabia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-taif-university-taif-saudi-arabia-presents-wkl-lfd-lswdy-ssa/) |
 | AI Engineer Shanghai | 2026-11-05 to 2026-11-06 | Shanghai, China | [↗](https://www.ai.engineer/shanghai/2026) |
 | bitcoin++ privacy edition | 2026-11-05 to 2026-11-06 | Seoul | [↗](https://dev.events/conferences/bitcoin-privacy-edition-tdisyiwb) |
 | Unchained Summit India | 2026-11-05 to 2026-11-06 | Mumbai | [↗](https://dev.events/conferences/unchained-summit-india-2nzubsy5) |
@@ -472,6 +439,11 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | GDG On Campus IEM \| Info Session 2026 | 2026-11-05 | Kolkata, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-institute-of-engineering-management-kolkata-india-presents-gdg-on-campus-iem-info-session-2026/) |
 | Chat, Cure Our Canteen Crisis | 2026-11-05 | Bengaluru, IN | [↗](https://lu.ma/hwtiy9gn) |
 | Lovable meetup | 2026-11-05 | Singapore, SG | [↗](https://lu.ma/n7i7avx7) |
+| Studio Hours \| Session 01 | 2026-11-05 | Bengaluru, IN | [↗](https://lu.ma/orhj2qef) |
+| Beyond the Screen : Where Art Meets UX/UI Boot Camp Day3 | 2026-11-05 | Jeddah, Saudi Arabia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-king-abdulaziz-university-jeddah-saudi-arabia-presents-beyond-the-screen-where-art-meets-uxui-boot-camp-day3/) |
+| Lessons From the Trenches: Building a Startup | 2026-11-05 | Al Ahmadi, Kuwait | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-american-university-of-the-middle-east-aum-al-ahmadi-kuwait-presents-lessons-from-the-trenches-building-a-startup/) |
+| REGISTRATION : Retrieval-Augmented Generation (RAG) Workshop Series - FINAL | 2026-11-05 | Dubai, United Arab Emirates | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-heriot-watt-university-dubai-dubai-united-arab-emirates-presents-registration-retrieval-augmented-generation-rag-workshop-series-final/) |
+| FROM ASKING AI TO MASTERING AI | 2026-11-05 | Kolkata, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-budge-budge-institute-of-technology-kolkata-india-presents-from-asking-ai-to-mastering-ai/) |
 | Qiskit Fall Fest 2026: Quantum and Qiskit 101 | 2026-11-06 | Bengaluru, IN | [↗](https://lu.ma/hczdve5y) |
 | 2026 Business & Philanthropy Forum 第十届商业与慈善论坛 | 2026-11-06 | Singapore, SG | [↗](https://lu.ma/26bpforum) |
 | GovTech Digital4Good Online Safety Hackathon | 2026-11-06 | Singapore, SG | [↗](https://lu.ma/rrtmeqr5) |
@@ -493,6 +465,9 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Data Flywheel for Humanoid Robotics | 2026-11-06 | Singapore, SG | [↗](https://lu.ma/rvk2oscl) |
 | Feature Engineering and Dataset Quality for ML | 2026-11-06 | Salt, Jordan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-al-balqa-applied-university-salt-jordan-presents-feature-engineering-and-dataset-quality-for-ml/) |
 | AI and Grants, Ready for SMEs: Support Your Workforce, Fund Your Next Step | 2026-11-06 | Singapore, SG | [↗](https://lu.ma/sal5i3j7) |
+| Studio Hours \| Session 02 | 2026-11-06 | Bengaluru, IN | [↗](https://lu.ma/fbx657vh) |
+| Embodied AI：Bridging the Lab-to-Industry Gap | 2026-11-06 | Singapore, SG | [↗](https://lu.ma/zx2jrqh4) |
+| AI Agents and Function Calling with Gemini API | 2026-11-06 | Nagpur, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-priyadarshini-college-of-engineering-nagpur-india-presents-ai-agents-and-function-calling-with-gemini-api/) |
 | Brand Marketing 101 for Founders | 2026-11-07 | Bengaluru, IN | [↗](https://lu.ma/caanyypu) |
 | 10 years of Bhāvanā | 2026-11-07 | Bengaluru, IN | [↗](https://lu.ma/ofyahdhg) |
 | RAN. RANK. DRANK. | 2026-11-07 | Singapore, SG | [↗](https://lu.ma/p2h1xuzz) |
@@ -523,6 +498,11 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Unlock the Ecosystem: Meet the Community, Teach the Machine | 2026-11-07 | Makassar, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-negeri-makassar-makassar-indonesia-presents-unlock-the-ecosystem-meet-the-community-teach-the-machine/) |
 | 7/11 OPEN HÂUS \| Makan Social: Brighter Together! | 2026-11-07 | Singapore, SG | [↗](https://lu.ma/jowtney3) |
 | SATAY STRIDES | 2026-11-07 | Singapore, SG | [↗](https://lu.ma/utj85gi1) |
+| Music-Wali Diwali @ HSR \| The Hustle Band & Canvas Workspace | 2026-11-07 | Bengaluru, IN | [↗](https://lu.ma/qn1pv1r1) |
+| On Singapore Marathon Training Block (Long Runs) | 2026-11-07 | Singapore, SG | [↗](https://lu.ma/179o70le) |
+| 7-8 Nov \| Overnight with Board Knights (Deepavali) | 2026-11-07 | Singapore, SG | [↗](https://lu.ma/levr4ndz) |
+| Hands-On Workshop: Architecting a Voice-Enabled AI Assistant (Project J.A.R.V.I.S.) | 2026-11-07 | Salt, Jordan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-al-balqa-applied-university-salt-jordan-presents-hands-on-workshop-architecting-a-voice-enabled-ai-assistant-project-jarvis/) |
+| Road to DevFest Karachi 2026 - Buildathon 01 | 2026-11-07 | Karachi, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-kolachi-presents-road-to-devfest-karachi-2026-buildathon-01/) |
 | Google DevFest 2026 Shanghai | 2026-11-08 | Shanghai, China | [↗](https://gdg.community.dev/events/details/google-gdg-shanghai-presents-google-devfest-2026-shanghai/) |
 | DevFest Nagoya 2026 - エージェント時代の開発者とビルダー | 2026-11-08 | Nagoya, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-nagoya-presents-devfest-nagoya-2026-ezientoshi-dai-nokai-fa-zhe-tobiruda/) |
 | DevFest 2026 GDG Shijiazhuang | 2026-11-08 | Shijiazhuang, China | [↗](https://gdg.community.dev/events/details/google-gdg-shijiazhuang-presents-devfest-2026-gdg-shijiazhuang/) |
@@ -574,6 +554,9 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | TechEverywhere '26: InnovAItion | 2026-11-11 | Quezon City, Philippines | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ateneo-de-manila-university-quezon-city-philippines-presents-techeverywhere-26-innovaition/) |
 | Founders Meet-up \| Bangalore \| Networking for Founders & Professionals. | 2026-11-11 | Bengaluru, IN | [↗](https://lu.ma/tnyipkw9) |
 | Electric Minds: Prompts & Pasta | 2026-11-11 | Singapore, SG | [↗](https://lu.ma/zuv61q0h) |
+| From Headcount to Agent Count: Building the AI-Native Company | 2026-11-11 | Singapore, SG | [↗](https://lu.ma/v7k8boml) |
+| GDGoC Soongsil University 3rd SSUmall Seminar | 2026-11-11 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-soongsil-university-seoul-south-korea-presents-gdgoc-soongsil-university-3rd-ssumall-seminar-1/) |
+| GDG on Kookmin X 창공: 연합 세션 | 2026-11-11 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kookmin-university-seoul-south-korea-presents-gdg-on-kookmin-x-canggong-yeonhab-sesyeon/) |
 | Tokyo Test Fest | 2026-11-12 | Tokyo, Japan | [↗](https://tokyotestfest.com) |
 | SG Round-Table: Unlocking Hubspot Partner Ecosystem | 2026-11-12 | Singapore, SG | [↗](https://lu.ma/x8ew04b6) |
 | The 3Cs: "Compassion, Connection & Community" Peer-led conversations on ADHD, Autism & AuDHD | 2026-11-12 | Singapore, SG | [↗](https://lu.ma/au685jui) |
@@ -601,6 +584,10 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Diwali lunch | 2026-11-12 | Singapore, SG | [↗](https://lu.ma/p1fa5dui) |
 | What's in My Bag? Get Your Crazy Goal Started | 2026-11-12 | Singapore, SG | [↗](https://lu.ma/dsc2guk9) |
 | Azure Data Engineer Training Demo: Online & Classroom Batches in Hyderabad | 2026-11-12 | Hyderabad, TS, IN | [↗](https://allevents.in/hyderabad/azure-data-engineer-training-demo-online-and-classroom-batches-in-hyderabad/100002004217828477) |
+| Code Meets Animation - Singapore | 2026-11-12 | Singapore, SG | [↗](https://lu.ma/9dr4cuov) |
+| Mums & Mugs by RW: Guided Conversation | 2026-11-12 | Singapore, SG | [↗](https://lu.ma/fjccacq2) |
+| Prompt Wars: AI Challenge | 2026-11-12 | Karachi, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-mohammad-ali-jinnah-university-karachi-pakistan-presents-prompt-wars-ai-challenge/) |
+| Rapid Fire | 2026-11-12 | Karachi, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-mohammad-ali-jinnah-university-karachi-pakistan-presents-rapid-fire/) |
 | CODE BLUE 2026 | 2026-11-13 to 2026-11-15 | Tokyo (Japan) | [↗](https://codeblue.jp/) |
 | Convergence Summit \| Singapore Fintech Festival 2026 Edition | 2026-11-13 | Singapore, SG | [↗](https://lu.ma/7b2k08lz) |
 | openEuler Summit 2026 - 技术沙龙 | 2026-11-13 to 2026-11-14 | Beijing | [↗](https://dev.events/conferences/open-euler-summit-2026-d24nq0m8) |
@@ -657,6 +644,11 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | field:work \| Drawing With Code (Live Model: Sonia Kwek) | 2026-11-14 | Singapore, SG | [↗](https://lu.ma/qdb0d6i8) |
 | Founders & Investors Xplore (FIX) by CEDAT | 2026-11-14 | Bengaluru, IN | [↗](https://lu.ma/msyd0o1g) |
 | Agentic AI: Zero to Hero - From LLM Fundamentals to Autonomous AI Agents | 2026-11-14 | Hyderabad, TS, IN | [↗](https://allevents.in/hyderabad/agentic-ai-zero-to-hero-from-llm-fundamentals-to-autonomous-ai-agents/100002004116109232) |
+| SWIM & PLAY | 2026-11-14 | Singapore, SG | [↗](https://lu.ma/tvg3y5nd) |
+| The Backyard Film Club (Nov 2026 Film Circle) | 2026-11-14 | Singapore, SG | [↗](https://lu.ma/bcy92838) |
+| Diwali Dinner | 2026-11-14 | Singapore, SG | [↗](https://lu.ma/4zv5e68z) |
+| Multi-AI with OpenRouter \| Tech Talk | 2026-11-14 | Madurai, India | [↗](https://gdg.community.dev/events/details/google-gdg-madurai-presents-multi-ai-with-openrouter-tech-talk/) |
+| 東北Tech道場 第23期 石巻道場 #11 | 2026-11-14 | Ishinomaki, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-ishinomaki-presents-dong-bei-techdao-chang-di-23qi-shi-juan-dao-chang-11/) |
 | Devfest 2026: Exploring the Future of Google Technologies | 2026-11-15 | Zhengzhou, China | [↗](https://gdg.community.dev/events/details/google-gdg-zhengzhou-presents-devfest-2026-exploring-the-future-of-google-technologies/) |
 | Cloud Community Days 2026 Mumbai | 2026-11-15 | Mumbai, India | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-mumbai-presents-cloud-community-days-2026-mumbai/) |
 | CyberSwaraj: Digital Privacy for Beginners | 2026-11-15 | Bengaluru, IN | [↗](https://lu.ma/guz9u3ic) |
@@ -671,6 +663,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | 2026 GDG AI for Science in FuriosaAI | 2026-11-15 | Seúl, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-ai-for-science-korea-presents-2026-gdg-ai-for-science-in-furiosaai/) |
 | AI: Tool, Threat, or Collaborator? — Solotogether × XNode Dialogue | 2026-11-15 | Singapore, SG | [↗](https://lu.ma/c4b16rya) |
 | Free Scholarship Test for Full Stack Python with AI – Quality Thought | 2026-11-15 | Hyderabad, TS, IN | [↗](https://allevents.in/hyderabad/free-scholarship-test-for-full-stack-python-with-ai-quality-thought/100002004216221671) |
+| 2026 GDG AI for Science at FuriosaAI | 2026-11-15 | Seúl, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-ai-for-science-korea-presents-2026-gdg-ai-for-science-at-furiosaai/) |
 | Qiskit Fall Fest 2026: Hands-On Quantum Programming with Qiskit | 2026-11-16 | Bengaluru, IN | [↗](https://lu.ma/79i0vamg) |
 | Gamefest: Tetrio Showdown | 2026-11-16 | Penang, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universiti-sains-malaysia-penang-malaysia-presents-gamefest-tetrio-showdown/) |
 | GRO8 Inner Circle: Demo Night \| An invite-only investor evening with the next GRO8 cohort, before Bengaluru Tech Summit | 2026-11-16 | Bengaluru, IN | [↗](https://lu.ma/g9x3vb3d) |
@@ -679,6 +672,9 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | TEAMZ TOUR (Singapore) | 2026-11-16 | Singapore, SG | [↗](https://lu.ma/teamz-u7ri) |
 | TRM Labs x Drew & Napier - Future Frontiers: AI Fraud & Risk | 2026-11-16 | Singapore, SG | [↗](https://lu.ma/4ugq0puj) |
 | 2026 SFA YFC Under-16 Boys | 2026-11-16 | Singapore, SG | [↗](https://lu.ma/vj6iewv8) |
+| KB Starters Singapore Demo Day & Tenity Lab Crawl | 2026-11-16 | Singapore, SG | [↗](https://lu.ma/z9uo2hcs) |
+| Unlocking Velocity in Trade & Payments \| Round Table \| Networking | 2026-11-16 | Singapore, SG | [↗](https://lu.ma/SBWroundtableContourSAP) |
+| University of Michigan × A*STAR Dialogues | 2026-11-16 | Singapore, SG | [↗](https://lu.ma/s2wb1ktz) |
 | Games for Change India Festival | 2026-11-17 | Bengaluru, IN | [↗](https://lu.ma/mvi9nq09) |
 | MongoDB.local Riyadh | 2026-11-17 | Riyadh | [↗](https://dev.events/conferences/mongo-db-local-riyadh-q9cm2tf1) |
 | LLMday + Data Tel Aviv 2026 Q4 | 2026-11-17 | Tel Aviv | [↗](https://llmday.com/2026-tel-aviv-q4/) |
@@ -697,6 +693,8 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | So, are you Anxious or Avoidant..? \| Cosy Conversations | 2026-11-17 | Singapore, SG | [↗](https://lu.ma/fpsm8em6) |
 | Claude SG x Quicknode: Building Web3 with Claude | 2026-11-17 | Singapore, SG | [↗](https://lu.ma/claudesgXquicknode) |
 | ShowcACE : Design, Build & Experience Agentic Fintech Workflows [ACE.SG x Alibaba Cloud x SoftwareOne] | 2026-11-17 | Singapore, SG | [↗](https://lu.ma/u42jot6j) |
+| Amplitude Bangalore Meetup with CEO & Cofounder Spenser Skates | 2026-11-17 | Bengaluru, IN | [↗](https://lu.ma/y47b6mgh) |
+| Leaders Lunch: Building Humans + AI Organisations | 2026-11-17 | Singapore, SG | [↗](https://lu.ma/qzuexx50) |
 | gRPConf India | 2026-11-18 | Bengaluru | [↗](https://dev.events/conferences/g-rp-conf-india-tuenu4xh) |
 | Singapore FinTech Festival 2026 | 2026-11-18 to 2026-11-20 | Singapore | [↗](https://dev.events/conferences/singapore-fin-tech-festival-2026-uqb3wnkx) |
 | India Finance & Tech Summit 2026 (Finance Transformation Summit) | 2026-11-18 | Mumbai, MH, IN | [↗](https://allevents.in/mumbai/india-finance-and-tech-summit-2026-finance-transformation-summit/100002001450614666) |
@@ -715,6 +713,8 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | TRM Run Club @ Singapore Fintech Festival 2026 | 2026-11-18 | Singapore, SG | [↗](https://lu.ma/pmglwrtv) |
 | Foundations with ChatGPT (WA-103) | 2026-11-18 | Singapore, SG | [↗](https://lu.ma/wellty103nov) |
 | Agentic Payments Night: Unlimit x OpenBuilder | 2026-11-18 | Singapore, SG | [↗](https://lu.ma/qtunf3ku) |
+| GCC Circle Presents Perspectives By Table Space | 2026-11-18 | Bengaluru, IN | [↗](https://lu.ma/sqa8jgaa) |
+| National GRIP Info Session (18 November 2026) | 2026-11-18 | Singapore, SG | [↗](https://lu.ma/qjox7w2e) |
 | Swift Bharat | 2026-11-19 to 2026-11-20 | Mumbai, India | [↗](https://swiftbharat.org) |
 | India Collection & Tech Summit 2026 | 2026-11-19 | Mumbai, MH, IN | [↗](https://allevents.in/mumbai/india-collection-and-tech-summit-2026/100002001454061977) |
 | EVENT Uzbekistan: Central Asia’s Emerging Fintech Hub | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/4c873mz8) |
@@ -740,6 +740,10 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Mums’ Morning Hangout ☕️ \| Potong Pasir & Bidadari | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/otq6mia9) |
 | GFT x Thought Machine: Singapore FinTech Festival Afterwork | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/gft-thought-machine-sff-side-event-2026) |
 | Staying Relevant in the Age of AI | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/yvc9ujhi) |
+| XEED SOCIAL | 2026-11-19 | Bengaluru, IN | [↗](https://lu.ma/t6qfreop) |
+| FIN Global Demo Day Singapore 2026 | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/d46uv30i) |
+| The Future of Cross-Border Maritime Trade: From Insight to Action; An Exclusive Executive Roundtable | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/nu37h6za) |
+| Flutter Meetup | 2026-11-19 | Bangalore, India | [↗](https://gdg.community.dev/events/details/google-gdg-bangalore-presents-flutter-meetup/) |
 | droidCon India | 2026-11-20 | Bengaluru, India | [↗](https://india.droidcon.com) |
 | WordCamp Bengaluru 2026 | 2026-11-20 | Bengaluru | [↗](https://dev.events/conferences/word-camp-bengaluru-2026-poregyrr) |
 | C++ and System Software Summit 2026 | 2026-11-20 to 2026-11-21 | Shanghai | [↗](https://dev.events/conferences/c-and-system-software-summit-2026-fv2gzs9s) |
@@ -759,6 +763,9 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Creating Better Everyday Beauty and Personal Care Products: Consumer Insights, Science and Business | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/8m9edm8x) |
 | AI-Driven Security, Governance, Risk and Compliance | 2026-11-20 | Manila | [↗](https://dev.events/conferences/ai-driven-security-governance-risk-and-compliance-cipju50u) |
 | South Bengaluru Startups Meetup by CEDAT | 2026-11-20 | Bengaluru, IN | [↗](https://lu.ma/1ar10ef0) |
+| Build Clean Finance: Cleanverse Builder Session | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/6bawj52g) |
+| Tech Networking Night: Around the World 🌏 | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/2c96e3is) |
+| TGIF Networking #46 | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/43lj7olp) |
 | flutterCon India | 2026-11-21 | Bangalore, India | [↗](https://india.fluttercon.dev) |
 | RubyConf India 2026 | 2026-11-21 | Hyderabad | [↗](https://dev.events/conferences/ruby-conf-india-2026-i7l5j4f7) |
 | flutterCon India 2026 | 2026-11-21 | Bengaluru (India) | [↗](https://www.india.fluttercon.dev) |
@@ -788,6 +795,12 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | React Meetup #110 | 2026-11-21 | Bengaluru, IN | [↗](https://lu.ma/bktwnpb6) |
 | Hyper Interdisciplinary Conference Singapore 2026 | 2026-11-21 | Singapore, SG | [↗](https://lu.ma/vgoyqhh5) |
 | field:work \| Poetry in Computation #02 | 2026-11-21 | Singapore, SG | [↗](https://lu.ma/t7t3q8xz) |
+| TSOW HR Meetup in Bangalore | 2026-11-21 | Bengaluru, IN | [↗](https://lu.ma/r4998q8h) |
+| MAGES YOUTH GAME CREATOR SERIES (Holiday Edition) (16-35 years old) | 2026-11-21 | Singapore, SG | [↗](https://lu.ma/mages-youth-creator-series) |
+| DevFest Manila 2026 After Hours | 2026-11-21 | Manila, Philippines | [↗](https://gdg.community.dev/events/details/google-gdg-manila-presents-devfest-manila-2026-after-hours/) |
+| Anybody Can Code – Build with AI | 2026-11-21 | Madurai, India | [↗](https://gdg.community.dev/events/details/google-gdg-madurai-presents-anybody-can-code-build-with-ai/) |
+| Anybody Can Code | 2026-11-21 | Madurai, India | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-madurai-presents-anybody-can-code/) |
+| Flutterを学んで、AIと一緒にアプリを作ってみよう！ | 2026-11-21 | Kobe, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-greater-kwansai-presents-flutterwoxue-nde-aitoyi-xu-niapuriwozuo-tsutemiyou/) |
 | Devfest Kolkata 2026 | 2026-11-22 | Kolkata, India | [↗](https://gdg.community.dev/events/details/google-gdg-kolkata-presents-devfest-kolkata-2026/) |
 | 属于每个人的智能体时代：技术普惠与零门槛应用实践 | 2026-11-22 | Fuzhou, China | [↗](https://gdg.community.dev/events/details/google-gdg-fuzhou-presents-shu-yu-mei-ge-ren-de-zhi-neng-ti-shi-dai-ji-zhu-pu-hui-yu-ling-men-jian-ying-yong-shi-jian/) |
 | DevFest 2026 Bangladesh | 2026-11-22 | Dhaka, Bangladesh | [↗](https://gdg.community.dev/events/details/google-gdg-sonargaon-presents-devfest-2026-bangladesh/) |
@@ -802,11 +815,17 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Baithak by The Musafir Collective \| Diwali Special \| 22 Nov, 3pm | 2026-11-22 | Singapore, SG | [↗](https://lu.ma/baithak-22Nov-3pm) |
 | Baithak by The Musafir Collective \| Diwali Special \| 22 Nov, 7pm | 2026-11-22 | Singapore, SG | [↗](https://lu.ma/baithak-22Nov-7pm) |
 | 福州 2026 开发者节（DevFest Fuzhou 2026） - 端侧技术守卫隐私边界，护航全民智能体时代 | 2026-11-22 | Fuzhou, China | [↗](https://gdg.community.dev/events/details/google-gdg-fuzhou-presents-fu-zhou-2026-kai-fa-zhe-jie-devfest-fuzhou-2026-duan-ce-ji-zhu-shou-wei-yin-si-bian-jie-hu-hang-quan-min-zhi-neng-ti-shi-dai/) |
+| The Product (Un)Conference '26 Builder’s Day | 2026-11-22 | Bengaluru, IN | [↗](https://lu.ma/wdc1z3se) |
+| Diwali Festiverse: The Agent-to-Agent Hackathon (India Edition) | 2026-11-22 | Bengaluru, IN | [↗](https://lu.ma/pmntx4p4) |
+| CyberSwaraj: Nostr, Cryptography Basics & How It Actually Works | 2026-11-22 | Bengaluru, IN | [↗](https://lu.ma/42jg53zj) |
+| LIFE WITH TODDLERS | 2026-11-22 | Singapore, SG | [↗](https://lu.ma/8wrsa5h1) |
+| DevFest Rajkot 2026 - GDG Cloud Rajkot & GDG Rajkot | 2026-11-22 | Rajkot, India | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-rajkot-presents-devfest-rajkot-2026-gdg-cloud-rajkot-amp-gdg-rajkot/) |
 | IndiaAnalytics & AIConference 2026 | 2026-11-23 | Bengaluru, IN | [↗](https://lu.ma/n9kntr1j) |
 | TGB AI CXO Summit 2026 | 2026-11-23 | Singapore | [↗](https://dev.events/conferences/tgb-ai-cxo-summit-2026-auvumstp) |
 | JOIM Singapore Conference | 2026-11-23 | Singapore, SG | [↗](https://lu.ma/l7ijnne0) |
 | Twelve’s Open \| A Golf Social | 2026-11-23 | Singapore, SG | [↗](https://lu.ma/ifna9v20) |
 | Immersive Stress-Relief Relaxation Session with Fortune 500 Psychologist and Psychology AI for Professionals, Parents, Students | 2026-11-23 | Singapore, SG | [↗](https://lu.ma/ikg3gvuo) |
+| Bhai, Banana Kya Hai? Building with Agents - Road to DevFest | 2026-11-23 | Islamabad, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-islamabad-presents-bhai-banana-kya-hai-building-with-agents-road-to-devfest/) |
 | Civo Navigate India 2026 | 2026-11-24 | Bengaluru (India) | [↗](https://www.civo.com/navigate/india/2026) |
 | WeAreDevelopers Conference 2026 – India | 2026-11-24 to 2026-11-25 | Bengaluru, Karnataka | [↗](https://www.wearedevelopers.com/world-congress) |
 | 100x100 AGM: Building A Future Worth Investing In | 2026-11-24 | Singapore, SG | [↗](https://lu.ma/spno0oxu) |
@@ -881,11 +900,14 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Good Taste Bad Pace - Aston Abode x KAPITAN (Ep. 01) | 2026-11-28 | Singapore, SG | [↗](https://lu.ma/jzjh0mrh) |
 | DevFest Beirut 2026 | 2026-11-28 | Beirut (Lebanon) | [↗](https://gdg.community.dev/events/details/google-gdg-coast-lebanon-presents-devfest-beirut-2026/) |
 | Google Cloud Community day Ahmedabad 2026 | 2026-11-28 | Ahmedabad, India | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-ahmedabad-presents-google-cloud-community-day-ahmedabad-2026/) |
+| DevFest Dehradun 2026 | 2026-11-28 | Dehradun, India | [↗](https://gdg.community.dev/events/details/google-gdg-dehradun-presents-devfest-dehradun-2026/) |
+| AI INNOVATION & DESIGN SUMMIT 2026 | 2026-11-28 | Madurai, India | [↗](https://gdg.community.dev/events/details/google-gdg-madurai-presents-ai-innovation-amp-design-summit-2026/) |
 | staaake Founders Pic Nic (Second Edition) — Reverse Network Meet | 2026-11-29 | Bengaluru, IN | [↗](https://lu.ma/staaake-9oez) |
 | Google Developer Group DevFest Tokyo 2026 | 2026-11-29 | Tokyo, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-tokyo-presents-google-developer-group-devfest-tokyo-2026/) |
 | GDG on Campus NCKU × Codpy｜聯合社課 | 2026-11-29 | Tainan, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-cheng-kung-university-tainan-city-taiwan-presents-gdg-on-campus-ncku-x-codpylian-he-she-ke/) |
 | TokyuRubyKaigi 17 | 2026-11-29 | Tokyo | [↗](https://dev.events/conferences/tokyu-ruby-kaigi-17-byg9ltkg) |
 | Pigeon Powerpoint Party! (Women-only) | 2026-11-29 | Singapore, SG | [↗](https://lu.ma/bqi8s0v6) |
+| DevFest Cebu 2026 | 2026-11-29 | Cebu, Philippines | [↗](https://gdg.community.dev/events/details/google-gdg-cebu-presents-devfest-cebu-2026/) |
 | Reversim Summit 2026 | 2026-11-30 to 2026-12-01 | Tel Aviv (Israel) | [↗](https://summit2026.reversim.com/) |
 | DevOpsDays Tel Aviv 2026 | 2026-12-01 | Tel Aviv | [↗](https://devopsdays.org/events/2026-tel-aviv) |
 | Gartner IT Infrastructure, Operations & Cloud Strategies | 2026-12-01 to 2026-12-03 | Tokyo | [↗](https://dev.events/conferences/gartner-it-infrastructure-operations-and-cloud-strategies-qevvlboe) |
@@ -919,6 +941,8 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | 2026 Devfest: AFK - Away From Keyboard | 2026-12-05 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-campus-korea-presents-2026-devfest-afk-away-from-keyboard/) |
 | Is It You? [Liar Games Edition] | 2026-12-05 | Singapore, SG | [↗](https://lu.ma/q7nvm6pd) |
 | The Munger Circle \| Roundtable #2 | 2026-12-05 | Singapore, SG | [↗](https://lu.ma/9950mkwb) |
+| DevFest Cloud Lahore 2026 : AGENTS OF CHANGE | 2026-12-05 | Lahore, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-lahore-presents-devfest-cloud-lahore-2026-agents-of-change/) |
+| Road to Google GDE – Your Journey Starts Here! | 2026-12-05 | Madurai, India | [↗](https://gdg.community.dev/events/details/google-gdg-madurai-presents-road-to-google-gde-your-journey-starts-here/) |
 | Google Cloud Community Days Udaipur 2026 | 2026-12-06 | Udaipur, India | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-udaipur-presents-google-cloud-community-days-udaipur-2026/) |
 | DevFest 2026 Nanjing | 2026-12-06 | Nanjing, China | [↗](https://gdg.community.dev/events/details/google-gdg-nanjing-presents-devfest-2026-nanjing/) |
 | Book Launch - Kaustubha | 2026-12-06 | Bengaluru, IN | [↗](https://lu.ma/fkynreqq) |
@@ -956,6 +980,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Laravel Bengaluru: December 2026 | 2026-12-12 | Bengaluru, IN | [↗](https://lu.ma/76yo7tkk) |
 | Pune DevCon 2026 | 2026-12-12 | Pune | [↗](https://dev.events/conferences/pune-dev-con-2026-ulzi-lcc) |
 | Cloud Devfest 2026: Builders Day | 2026-12-12 | Islamabad, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-islamabad-presents-cloud-devfest-2026-builders-day/) |
+| DevFest 2026 Semarang | 2026-12-12 | Semarang, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-semarang-presents-devfest-2026-semarang/) |
 | Greater Bay Developers, Building What’s Next | 2026-12-13 | Shenzhen, China | [↗](https://gdg.community.dev/events/details/google-gdg-shenzhen-presents-greater-bay-developers-building-whats-next/) |
 | DevFest Taipei 2026 | 2026-12-13 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-taipei-presents-devfest-taipei-2026/) |
 | Devfest Pune 2026 | 2026-12-13 | Pune (India) | [↗](https://devfest.gdgpune.in/) |
@@ -1007,12 +1032,14 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | IdentityShield 2027 | 2027-02-05 to 2027-02-06 | Pune | [↗](https://dev.events/conferences/identity-shield-2027-eiuq-wcz) |
 | WordCamp Pune 2027 | 2027-02-06 to 2027-02-07 | Pune | [↗](https://dev.events/conferences/word-camp-pune-2027-xr55to35) |
 | FinNext Conference Dubai 2027 | 2027-02-06 | Dubai | [↗](https://dev.events/conferences/fin-next-conference-dubai-2027-wr3ihojp) |
+| DDX Tokyo 2027 | 2027-02-12 | Tokyo | [↗](https://dev.events/conferences/ddx-tokyo-2027-yxawhhbv) |
 | WordCamp Mumbai 2027 | 2027-02-13 | Mumbai | [↗](https://dev.events/conferences/word-camp-mumbai-2027-n4icatdr) |
 | GopherCon Japan 2027 | 2027-02-13 to 2027-02-14 | Tokyo | [↗](https://dev.events/conferences/gopher-con-japan-2027-x6vb4pme) |
 | Lighting World & Home Tech Expo | 2027-02-15 to 2027-02-17 | New Delhi, DL, IN | [↗](https://allevents.in/new-delhi/lighting-world-and-home-tech-expo-tickets/80001433723888) |
 | Cyber Security Summit Philippines 2027 | 2027-02-17 | Manila | [↗](https://dev.events/conferences/cyber-security-summit-philippines-2027-bq7rm7n) |
 | AI Vibecoding Hackathon 2026 | 2027-02-21 | Bengaluru, IN | [↗](https://lu.ma/exx7cd47) |
 | try! Swift Tokyo 2027 | 2027-03-02 to 2027-03-04 | Tokyo | [↗](https://dev.events/conferences/try-swift-tokyo-2027-aum4rlef) |
+| DDX Dubai 2027 | 2027-03-19 to 2027-03-21 | Dubai | [↗](https://dev.events/conferences/ddx-dubai-2027-aqkdo9db) |
 | Elastic{ON} | 2027-03-23 | Singapore (Singapore) | [↗](https://www.elastic.co/events/elasticon) |
 | HACK Conference 2027 | 2027-03-31 | Seoul (South Korea) | [↗](https://dothack.io/) |
 | QonfX Bangalore 2027 | 2027-04-01 | Bangalore | [↗](https://dev.events/conferences/qonf-x-bangalore-2027-zbkus05y) |
@@ -1021,6 +1048,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | LEAP 2027 | 2027-04-12 to 2027-04-15 | Riyadh, Saudi Arabia | [↗](https://onegiantleap.com/) |
 | apidays Singapore 2027 | 2027-04-13 to 2027-04-14 | Singapore | [↗](https://www.apidays.global/events/singapore) |
 | DevOpsDays Tokyo 2027 | 2027-04-13 to 2027-04-14 | Tokyo (Japan) | [↗](https://www.devopsdaystokyo.org/) |
+| Digital Transformation Summit Malaysia 2027 | 2027-04-14 | Kuala Lumpur | [↗](https://dev.events/conferences/digital-transformation-summit-malaysia-2027-mevgmtk) |
 | GENAIX 2027: Global Generative & Agentic AI Summit | 2027-04-15 to 2027-04-16 | Singapore | [↗](https://dev.events/conferences/genaix-2027-global-generative-and-agentic-ai-summit-c-m-oz7y) |
 | React Summit Asia | 2027-04-15 to 2027-04-19 | Singapore | [↗](https://dev.events/conferences/react-summit-asia-kbvikigm) |
 | AI Coding Summit Asia | 2027-04-15 to 2027-04-19 | Singapore, Singapore | [↗](https://aicodingsummit.com/asia) |
@@ -1041,6 +1069,43 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Cyber Security Summit Malaysia 2027 | 2027-09-22 | Kuala Lumpur | [↗](https://dev.events/conferences/cyber-security-summit-malaysia-2027-j-rdjrwo) |
 | Open Source Summit Korea | 2027-10-14 to 2027-10-15 | Seoul | [↗](https://dev.events/conferences/open-source-summit-korea-zrlwvkyt) |
 | FinNext Conference Singapore 2027 | 2027-11-24 | Singapore | [↗](https://dev.events/conferences/fin-next-conference-singapore-2027-elkxy2hz) |
+| TOOCON #47 | 2026-11-03 | Kaohsiung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-kaohsiung-presents-toocon-47/) |
+| Towkay Talks 6 - Grow People, Grow Business | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/qe14huep) |
+| HKSTP Global Mixer - Mobility & Logistics in Singapore | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/45rqd9wm) |
+| The Private Capital Breakfast | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/dgz4o0xm) |
+| 🏆Demo Day🏆 Tencent Cloud AI CAN DO IT Hackathon Singapore 2026 | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/26fqf3hy) |
+| SGInnovate x Craft Health Tech Talk: Beyond the Pill: 3D-Printing for Personalised Medicine and Nutrition | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/pglutzaq) |
+| How to Choose the Right AI Tools for Work & Productivity | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/o221swl3) |
+| AIoT Korea Exhibition & Conference 2026 | 2026-11-03 to 2026-11-05 | Seoul, South Korea | [↗](https://www.cantonfair.net/event/53687-aiot-korea-exhibition) |
+| AI SRE Meetup - Singapore | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/hqq6qlqy) |
+| North Bengaluru Startups Meetup by CEDAT | 2026-11-03 | Bengaluru, IN | [↗](https://lu.ma/ktdpj89f) |
+| Introduction to Retrieval-Augmented Generation (RAG) | 2026-11-03 | Jaipur, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-manipal-university-jaipur-india-presents-introduction-to-retrieval-augmented-generation-rag/) |
+| AI Discovery Clinic by Singapore AI Association | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/cnz8x2gu) |
+| CNCG Singapore x Singapore HUG Meetup @RedHat Singapore | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/maakpfrk) |
+| Immersive Stress-Relief Relaxation Session with Fortune 500 Psychologist for Professionals, Parents, Students | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/jxd8shvb) |
+| Become Trauma Informed - A 3 part workshop for healing and connecting | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/fg1znf5c) |
+| HUJI TO INDUSTRY-  AI for Devs: From Theory to Production | 2026-11-03 | Jerozolima, Israel | [↗](https://gdg.community.dev/events/details/google-gdg-jerusalem-presents-huji-to-industry-ai-for-devs-from-theory-to-production/) |
+| NGOJAY: Ngobrolin Jurus Nge-yuay Pake e-ay | 2026-11-03 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-bandung-presents-ngojay-ngobrolin-jurus-nge-yuay-pake-e-ay/) |
+| GDG on Campus SKHU Backend Study Session - 05 예외처리 & Validation | 2026-11-03 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkonghoe-university-seoul-south-korea-presents-gdg-on-campus-skhu-backend-study-session-05-yeoeceori-amp-validation/) |
+| GDG Aarohan 2k26 – Installation Ceremony & Expert Tech Talks | 2026-11-03 | Howrah, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-mckv-institute-of-engineering-howrah-india-presents-gdg-aarohan-2k26-installation-ceremony-amp-expert-tech-talks/) |
+| Welcome to GDGoC on Campus: Induction Session | 2026-11-03 | Aziznagar, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-vidya-jyothi-institute-of-technology-aziznagar-india-presents-welcome-to-gdgoc-on-campus-induction-session/) |
+| Introduction to Retrieval-Augmented Generation (RAG) (only for MUJ Students) | 2026-11-03 | Jaipur, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-manipal-university-jaipur-india-presents-introduction-to-retrieval-augmented-generation-rag-only-for-muj-students/) |
+| Beyond Borders: Build, Fund & Scale | 2026-11-03 | Bengaluru, IN | [↗](https://lu.ma/h9nv1prg) |
+| Generative AI Training in Hyderabad \| Gen AI \| Free Demo | 2026-11-03 | Hyderabad, TS, IN | [↗](https://allevents.in/hyderabad/generative-ai-training-in-hyderabad-gen-ai-free-demo/100002004002398119) |
+| Media Accelerator & Startup Cohort | 2026-11-03 to 2026-11-06 | Mumbai, MH, IN | [↗](https://allevents.in/mumbai/media-accelerator-and-startup-cohort/100002004028780028) |
+| Play-with-Web: Hands-On Workshop | 2026-11-03 | Indore, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-indian-institute-of-technology-indore-india-presents-play-with-web-hands-on-workshop/) |
+| GDG on Campus HUFS Tuesday Live (GTL) - Weekly | 2026-11-03 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-hankuk-university-of-foreign-studies-seoul-south-korea-presents-gdg-on-campus-hufs-tuesday-live-gtl-weekly-34/) |
+| 【Lecture #3｜Beyond the Classroom: My Journey in Tech, Communities, Across Borders】【社課 #3 預告｜Beyond the Classroom：跨越國界的科技與社群之路】 | 2026-11-03 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-chengchi-university-taipei-taiwan-presents-lecture-3beyond-the-classroom-my-journey-in-tech-communities-across-borders-she-ke-3-yu-gao-beyond-the-classroomkua-yue-guo-jie-de-ke-ji-yu-she-qun-zhi-lu/) |
+| GDG on Campus Orientation (2026-27): Kickstart Your Tech Journey | 2026-11-03 | Kolkata, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-st-thomas-college-of-engineering-technology-kolkata-india-presents-gdg-on-campus-orientation-2026-27-kickstart-your-tech-journey/) |
+| APU Cloud Innovation Hackathon 2026 Briefing Session | 2026-11-03 | Kuala Lumpur, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-asia-pacific-university-of-technology-innovation-kuala-lumpur-malaysia-presents-apu-cloud-innovation-hackathon-2026-briefing-session/) |
+| GDG on Campus SKHU Frontend Study Session - 05 폼 다루기, React Router, styled-components | 2026-11-03 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkonghoe-university-seoul-south-korea-presents-gdg-on-campus-skhu-frontend-study-session-05-pom-darugi-react-router-styled-components/) |
+| Meet GDG: Community Introduction & Introduction | 2026-11-03 | Jorhat, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-jorhat-institute-of-science-technology-jorhat-india-presents-meet-gdg-community-introduction-amp-introduction/) |
+| Intro to High Fashion Modelling | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/vy4pxgda) |
+| Google Cloud Learn With Community : Info Session | 2026-11-03 | Meerut, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-meerut-institute-of-engineering-and-technology-meerut-india-presents-google-cloud-learn-with-community-info-session/) |
+| 基礎 Python - 2 | 2026-11-03 | Kaohsiung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-sun-yat-sen-university-kaohsiung-city-taiwan-presents-ji-chu-python-2/) |
+| IT Leaders Happy Hour \| Singapore | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/1e8a4f2t) |
+| Feminine Presence Style for Women Leaders or Professionals | 2026-11-03 | Singapore, SG | [↗](https://lu.ma/3rgmgvax) |
+| Red Hat Summit: Connect Taipei 2026 | 2026-11-03 | Taipei, TW | [↗](https://infosec-conferences.com/event/20261103-red-hat-summit-connect-taipei-2026/) |
 | Dubai FinTech Summit 2026 | 2026-11-02 to 2026-11-03 | Dubai | [↗](https://dev.events/conferences/dubai-fin-tech-summit-2026-xbyjabsn) |
 | MongoDB.local Tel Aviv | 2026-11-02 | Tel Aviv | [↗](https://dev.events/conferences/mongo-db-local-tel-aviv-ba-bizaw) |
 | 知らない世界の話をしよう \| 三田学園文化祭LT会 | 2026-11-02 | Kobe, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-greater-kwansai-presents-zhi-ranaishi-jie-nohua-woshiyou-san-tian-xue-yuan-wen-hua-ji-lthui/) |
@@ -1178,7 +1243,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Google Cloud Learn with Communities | 2026-10-31 | Shillong, India, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-north-eastern-hill-university-shillong-india-presents-google-cloud-learn-with-communities/) |
 | Design School S1: Designing the front door | 2026-10-31 | Bengaluru, IN | [↗](https://lu.ma/qxkc35bc) |
 | The Edit Room \| The Cult By Unchained | 2026-10-31 | Bengaluru, IN | [↗](https://lu.ma/j88rg30x) |
-| On Singapore Marathon Training Block (Long Runs) | 2026-10-31 | Singapore, SG | [↗](https://lu.ma/tqcx64b1) |
 | eChai Startup Demo Day in Mumbai | 2026-10-31 | Mumbai, MH, IN | [↗](https://allevents.in/mumbai/echai-startup-demo-day-in-mumbai/100002003954516905) |
 | Forward Deployed: The State of Software Engineering, 2026 | 2026-10-31 | Karachi, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-kolachi-presents-forward-deployed-the-state-of-software-engineering-2026/) |
 | Connecting AI to Real-world Action | 2026-10-31 | Salt, Jordan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-al-balqa-applied-university-salt-jordan-presents-connecting-ai-to-real-world-action/) |
@@ -1301,7 +1365,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Immersive Experiences for Brands | 2026-10-29 | Singapore, SG | [↗](https://lu.ma/b17mdpfr) |
 | CX Discovery Session | 2026-10-29 | Singapore, SG | [↗](https://lu.ma/oiofnlq4) |
 | 社区说｜AI 驱动产业革新：Google 多模态与 Agent 赋能短剧与时尚出海 | 2026-10-29 | Changji, China | [↗](https://gdg.community.dev/events/details/google-gdg-changji-presents-she-qu-shuo-ai-qu-dong-chan-ye-ge-xin-google-duo-mo-tai-yu-agent-fu-neng-duan-ju-yu-shi-shang-chu-hai/) |
-| REGISTRATION : Retrieval-Augmented Generation (RAG) Workshop Series - FINAL | 2026-10-29 | Dubai, United Arab Emirates | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-heriot-watt-university-dubai-dubai-united-arab-emirates-presents-registration-retrieval-augmented-generation-rag-workshop-series-final/) |
 | International Conference on Cryptography and Information Security (VCRIS) 2026 | 2026-10-29 | Hanoi, VN | [↗](https://infosec-conferences.com/event/20261029-international-conference-on-cryptography-and-information-security-vcris/) |
 | Red Hat Summit: Connect Tokyo 2026 | 2026-10-29 | Tokyo, JP | [↗](https://infosec-conferences.com/event/20261029-red-hat-summit-connect-tokyo-2026/) |
 | BFSI IT Summit: Thailand 2026 | 2026-10-29 | Bangkok, TH | [↗](https://infosec-conferences.com/event/20261029-bfsi-it-summit-thailand-2026/) |
@@ -1366,63 +1429,8 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Google Cloud Skills Lab Workshop | 2026-10-28 | Navi Mumbai, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-bharati-vidyapeeths-department-of-management-studies-navi-mumbai-india-presents-google-cloud-skills-lab-workshop/) |
 | Welcome Event for New GDG Team 2026-2027 | 2026-10-28 | Rayachoty, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sri-sai-institute-of-technology-science-rayachoty-india-presents-welcome-event-for-new-gdg-team-2026-2027/) |
 | Black hat India 2026 | 2026-10-27 to 2026-10-30 | Bengaluru (India) | [↗](https://www.blackhat-india.com/) |
-| Startup Talks by CEDAT | 2026-10-27 | Bengaluru, IN | [↗](https://lu.ma/o8gzp8c4) |
-| AI Context x ContainerDays Singapore | 2026-10-27 | Singapore, SG | [↗](https://lu.ma/aicontextsingapore) |
-| Meet Korean Ventures🚀 @ SWITCH 2026_1:1 Private Meetings | 2026-10-27 | Singapore, SG | [↗](https://lu.ma/2jxgj3hy) |
-| Hardware Builders Night @ SWITCH 2026 | 2026-10-27 | Singapore, SG | [↗](https://lu.ma/guqk6vm0) |
-| Welcome to the City (Singapore) | 2026-10-27 | Singapore, SG | [↗](https://lu.ma/ocfe7jw5) |
-| Hamamatsu: DeepTech & Manufacturing Innovation City | 2026-10-27 | Singapore, SG | [↗](https://lu.ma/mpda43b5) |
-| How to win in APAC and beyond: Networking dinner at Artemis Grill & Sky Bar | 2026-10-27 | Singapore, SG | [↗](https://lu.ma/65cy6vcg) |
-| FemTech Association Asia x La FrenchTech Singapore - Panel discussion | 2026-10-27 | Singapore, SG | [↗](https://lu.ma/r1l61jyd) |
-| TOHOKU NODE NIGHT 2026 ― 東北から世界へ ― | 2026-10-27 | Singapore, SG | [↗](https://lu.ma/wll1ufsm) |
-| YNC Beginner-Friendly Bouldering Social @ Climba Gym | 2026-10-27 | Singapore, SG | [↗](https://lu.ma/pz7f9dau) |
-| Korn Ferry & PCA - Independents: Unlock the SME Sector | 2026-10-27 | Singapore, SG | [↗](https://lu.ma/8dwv681m) |
-| Meet Korea’s Innovative Startups at SWITCH 2026 | 2026-10-27 | Singapore, SG | [↗](https://lu.ma/agwd2n6j) |
-| Singapore \| Claude Meetup #12 - Marketing | 2026-10-27 | Singapore, SG | [↗](https://lu.ma/claude-qlvr) |
-| SHUNYADRA™: A Guided NSDR Practice for Deep Rest, Regulation & Renewal | 2026-10-27 | Singapore, SG | [↗](https://lu.ma/ypd01lk2) |
-| Flutter Meetup #39 | 2026-10-27 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-taipei-presents-flutter-meetup-39/) |
-| Unpacking JEV and Decision Models | 2026-10-27 | Singapore, SG | [↗](https://lu.ma/5okibmzz) |
-| Bridging Innovation: The India-Germany Startup Bridge | 2026-10-27 | Bengaluru, IN | [↗](https://lu.ma/a2zimw3o) |
-| FutureLab : Off Script - Leadership Dinner | 2026-10-27 | Bengaluru, IN | [↗](https://lu.ma/s9s8q199) |
-| GDG Cloud Taipei / DevFest 暖身場：Google Cloud 與 AI 技術應用小聚 | 2026-10-27 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-taipei-presents-gdg-cloud-taipei-devfest-nuan-shen-chang-google-cloud-yu-ai-ji-shu-ying-yong-xiao-ju/) |
-| Brewing the Team of 2027: Oktober Beer Fest 🍻 | 2026-10-27 | Singapore, SG | [↗](https://lu.ma/kax5511i) |
-| Designing the Final Frontier | 2026-10-27 | Singapore, SG | [↗](https://lu.ma/cxres3po) |
-| Ship Consistent User Interfaces With AI | 2026-10-27 | Singapore, SG | [↗](https://lu.ma/5hh317ao) |
-| Welcome to GDG On Campus: Info Session | 2026-10-27 | Fatehgarh Sahib, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-baba-banda-singh-bahadur-engineering-college-fatehgarh-sahib-india-presents-welcome-to-gdg-on-campus-info-session/) |
-| Hacktoberfest Hack Day 2026 — AI × Open Source × Innovation | 2026-10-27 | Belgaum, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-visvesvaraya-technological-university-belgaum-india-presents-hacktoberfest-hack-day-2026-ai-x-open-source-x-innovation/) |
-| BBB Sarvasiddhi Meeting | 2026-10-27 | Bengaluru, IN | [↗](https://lu.ma/oyvpvtau) |
-| Founder Walk – From SWITCH to Gardens by the Bay | 2026-10-27 | Singapore, SG | [↗](https://lu.ma/ka5n9r7a) |
-| BRING UP Bengaluru | 2026-10-27 | Bengaluru, IN | [↗](https://lu.ma/affc3gm5) |
-| The Open Data Stack: Laying the Data Policy Foundation for AI | 2026-10-27 | Singapore, SG | [↗](https://lu.ma/pukkzudk) |
-| GDGoC KAIST 정기세션 @ 10월 27일 화요일 | 2026-10-27 | Daejeon, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-korea-advanced-institute-of-science-technology-daejeon-south-korea-presents-gdgoc-kaist-jeonggisesyeon-10weol-27il-hwayoil/) |
-| GDG 2026 / 10 月會 - 因為天氣因素 我們從 10/23 延到  10/27 | 2026-10-27 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-taipei-presents-gdg-2026-10-yue-hui-yin-wei-tian-qi-yin-su-wo-men-cong-1023-yan-dao-1027/) |
-| Prompt to Product: A 5-Day AI & Developer Experience | 2026-10-27 | Visakhapatnam, India | [↗](https://gdg.community.dev/events/details/google-gdg-vizag-presents-prompt-to-product-a-5-day-ai-amp-developer-experience/) |
-| GDG Learn with Community: Google Cloud Kickoff | 2026-10-27 | Sonipat, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-hindu-college-of-engineering-sonipat-india-presents-gdg-learn-with-community-google-cloud-kickoff/) |
-| Beauty & Sensibility in the Age of AI - Two Women in Dialogue on Beauty, Choice & Growth for Us and the Next Generation | 2026-10-27 | Singapore, SG | [↗](https://lu.ma/x6f2mmz6) |
-| Purpose, Confidence, Direction - University Admissions Guidance - Private Parent Salon | 2026-10-27 | Singapore, SG | [↗](https://lu.ma/rllcea6e) |
-| CP Mentorship Circle Orientation | 2026-10-27 | Delhi, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-indira-gandhi-delhi-technical-university-for-women-delhi-india-presents-cp-mentorship-circle-orientation/) |
-| Online Mogakco by GDG on Campus HUFS | 2026-10-27 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-hankuk-university-of-foreign-studies-seoul-south-korea-presents-online-mogakco-by-gdg-on-campus-hufs-11/) |
-| StudyJam 1 - UI/UX Design #ProductSeries \| Introduction to UI/UX | 2026-10-27 | Malang, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-brawijaya-malang-indonesia-presents-studyjam-1-uiux-design-productseries-introduction-to-uiux/) |
-| GDG on Campus SKHU Backend Study Session - 04 SQL & JPA | 2026-10-27 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkonghoe-university-seoul-south-korea-presents-gdg-on-campus-skhu-backend-study-session-04-sql-amp-jpa/) |
-| Cloud Learning Extravaganza by GDGoC KNIT Sultanpur | 2026-10-27 | Sultanpur, India, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kamla-nehru-institute-of-technology-sultanpur-india-presents-cloud-learning-extravaganza-by-gdgoc-knit-sultanpur/) |
-| AltSecCON 2026 | 2026-10-27 | Bangalore, IN | [↗](https://infosec-conferences.com/event/20261027-altseccon-2026/) |
-| OffensiveCon Tokyo 2026 | 2026-10-27 | Tokyo, JP | [↗](https://infosec-conferences.com/event/20261027-offensivecon-tokyo-2026/) |
-| Red Hat Summit: Connect Seoul 2026 | 2026-10-27 | Seoul, KR | [↗](https://infosec-conferences.com/event/20261027-red-hat-summit-connect-seoul-2026/) |
-| Studio Session - 3 | 2026-10-27 | Bengaluru, IN | [↗](https://lu.ma/d155zn1i) |
-| هندسة البيانات وقواعد البيانات | 2026-10-27 | Riyadh, Saudi Arabia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-princess-nourah-bint-abdulrahman-university-riyadh-saudi-arabia-presents-hnds-lbynt-wqwd-lbynt/) |
-| App Dev Mentorship Circle Orientation | 2026-10-27 | Delhi, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-indira-gandhi-delhi-technical-university-for-women-delhi-india-presents-app-dev-mentorship-circle-orientation/) |
-| GDG on Campus NCKU｜定期小聚 #01 | 2026-10-27 | Tainan, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-cheng-kung-university-tainan-city-taiwan-presents-gdg-on-campus-nckuding-qi-xiao-ju-01/) |
-| GDGoC DGU G-Sprint Team Idea Presentations | 2026-10-27 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-dongguk-university-seoul-south-korea-presents-gdgoc-dgu-g-sprint-team-idea-presentations/) |
-| Future ready by Hack2skil | 2026-10-27 | Pune, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-trinity-academy-of-engineering-pune-india-presents-future-ready-by-hack2skil/) |
-| Bupa Arabia Company Visit | 2026-10-27 | Jeddah, Saudi Arabia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-king-abdulaziz-university-jeddah-saudi-arabia-presents-bupa-arabia-company-visit/) |
-| GDG Cloud Campaign: Offline Lab Drive & Doubt Solving | 2026-10-27 | Pune, India, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-mit-arts-commerce-and-science-college-pune-india-presents-gdg-cloud-campaign-offline-lab-drive-amp-doubt-solving/) |
-| GDGoC ITMBU Inaugural Meet & Greet 2026 | 2026-10-27 | Vadodara, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-itm-sls-baroda-university-vadodara-india-presents-gdgoc-itmbu-inaugural-meet-amp-greet-2026/) |
-| GDGoC ITMBU Core Team Recruitment Kickoff 2026-2027 | 2026-10-27 | Vadodara, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-itm-sls-baroda-university-vadodara-india-presents-gdgoc-itmbu-core-team-recruitment-kickoff-2026-2027/) |
-| Google Cloud Learn With Communities \| Win $200 Lab Credits and  Exclusive Merchandise | 2026-10-27 | Vijayawada, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-k-l-deemed-to-be-university-vijayawada-india-presents-google-cloud-learn-with-communities-win-200-lab-credits-and-exclusive-merchandise/) |
 | The ACS/IEEE 23rd International Conference on Computer Systems and Applications | 2026-10-26 to 2026-10-29 | Dubai (United Arab Emirates) | [↗](https://aiccsa.net/AICCSA2026) |
-| ContainerDays & AI Context Singapore | 2026-10-26 to 2026-10-27 | Singapore | [↗](https://www.containerdays.io/containerdays-singapore-2026) |
 | AICCSA 2026 | 2026-10-26 to 2026-10-29 | Dubai | [↗](https://dev.events/conferences/aiccsa-2026-wlh0-9zu) |
-| Dubai AI Festival 2026 | 2026-10-26 to 2026-10-27 | Dubai, AE | [↗](https://dubaiaifestival.com/) |
 | K-Connect AI (umbrella of 5 linked shows) | 2026-10-13 to 2026-11-07 | Seoul / Goyang, South Korea | [↗](https://biz.heraldcorp.com/article/10901325) |
 | Web Summit Qatar | Jan 27 - Feb 3 2027 | Doha, Qatar | [↗](https://qatar.websummit.com) |
 | AIBoomi Events | TBA | Bengaluru, India | [↗](https://saasboomi.org/events) |
@@ -1440,9 +1448,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Sydney Tech Pickleball | 2026-11-03 | Sydney, AU | [↗](https://lu.ma/msl6kqh4) |
-| She Runs Weekly Wednesday City Run | 2026-11-03 | Sydney | [↗](https://lu.ma/1sgxha6l) |
-| Melbourne Cup at Avenue on Chifley | 2026-11-03 | Sydney, AU | [↗](https://lu.ma/6xb2owos) |
 | Atlassian for Startups: Demo Night | 2026-11-04 | Sydney, AU | [↗](https://lu.ma/1srmqcc1) |
 | AI in Cybersecurity: An Executive Roundtable Dinner | 2026-11-04 | Sydney, AU | [↗](https://lu.ma/vanta-mtb4) |
 | AWS User Group Sydney Meetup | 2026-11-04 | Sydney, AU | [↗](https://lu.ma/a9m3rv00) |
@@ -1496,11 +1501,14 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | fireyfemmes & Linkedin End of Year Spritz | 2026-11-19 | Sydney, AU | [↗](https://lu.ma/ydbwu69m) |
 | Startup Diwali Sydney | 2026-11-20 | Sydney, AU | [↗](https://lu.ma/bgnxtdi4) |
 | ALO RUNNERS CLUB with Kath Evans | 2026-11-20 | Sydney, AU | [↗](https://lu.ma/fopsudcr) |
+| Real estate private credit: big headlines, telling only part of the story. | 2026-11-20 | Sydney, AU | [↗](https://lu.ma/d3ieojct) |
 | DevFest Auckland 2026 | 2026-11-21 | Auckland, New Zealand | [↗](https://gdg.community.dev/events/details/google-gdg-auckland-presents-devfest-auckland-2026/) |
 | EDGE by Ampere | 2026-11-23 | Sydney, AU | [↗](https://lu.ma/yp81nenc) |
 | The Reinventor's Mindset Live | 2026-11-24 | Sydney, AU | [↗](https://lu.ma/sk74tfi3) |
+| Ellect Women Hybrid: Celebrating Three Years | 2026-11-24 | Sydney, AU | [↗](https://lu.ma/3j88ketk) |
 | One of the World's Largest Battery Fleets Is Parked in Our Garages, Waiting to Power Our Homes w/ Tyson R. CEO & Co-founder @ Merge Energy | 2026-11-25 | Sydney, AU | [↗](https://lu.ma/310nuokk) |
 | From AI User to AI Builder: Build Your Own AI Assistant | 2026-11-25 | Sydney, AU | [↗](https://lu.ma/8f4duakx) |
+| Robert Ian Bonnick & Andrew Shand - Building the Room | 2026-11-25 | Sydney, AU | [↗](https://lu.ma/9bkt6q7k) |
 | SydPy November Meetup | 2026-11-26 | Sydney, AU | [↗](https://lu.ma/v6xjy80v) |
 | AI Demo Night @ Atlassian Sydney 🇦🇺 | 2026-11-26 | Sydney, AU | [↗](https://lu.ma/lehcn2gr) |
 | Sydney - One Roof Women's National Conference (#OWNCon) | 2026-11-26 | Sydney, AU | [↗](https://lu.ma/7qplisu7) |
@@ -1519,6 +1527,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Difinity Conference - Auckland - 2026 | 2026-12-03 to 2026-12-04 | Auckland (New Zealand) | [↗](https://difinity.co.nz/) |
 | Write the Docs Australia | 2026-12-03 to 2026-12-04 | Melbourne | [↗](https://dev.events/conferences/write-the-docs-australia-89lr7-hz) |
 | Forza End of Year Drinks - Sydney | 2026-12-03 | Sydney, AU | [↗](https://lu.ma/d2oivciv) |
+| Startup Coffee Social #39 | 2026-12-03 | Sydney, AU | [↗](https://lu.ma/arv9qegy) |
 | DDD Brisbane 2026 | 2026-12-05 | Brisbane | [↗](https://dev.events/conferences/ddd-brisbane-2026-mdv-6-a) |
 | DevFest 2026: Nova Scotia | 2026-12-05 | Sydney, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-sydney-presents-devfest-2026-nova-scotia/) |
 | YOW! Brisbane 2026 | 2026-12-07 to 2026-12-09 | Brisbane | [↗](https://dev.events/conferences/yow-brisbane-2026-wwf7hor1) |
@@ -1546,9 +1555,13 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Melbourne Data Saturday 2027 | 2027-04-10 | Melbourne | [↗](https://dev.events/conferences/melbourne-data-saturday-2027-jghwk5bk) |
 | BFSI Innovation & Technology Summit Australia 2027 | 2027-08-17 | Sydney | [↗](https://dev.events/conferences/bfsi-innovation-and-technology-summit-australia-2027-43s0e2wf) |
 | Futurebuild Australia | 2027-09-22 to 2027-09-23 | Sydney | [↗](https://dev.events/conferences/futurebuild-australia-bbtrjoem) |
+| PlatformCon Live Day - Sydney | 2027-10-26 | Sydney, AU | [↗](https://lu.ma/pc27-sydney) |
 | Sydney Tech Expo 2027 | 2027-11-09 to 2027-11-10 | Sydney | [↗](https://dev.events/conferences/sydney-tech-expo-2027-ctiuizx4) |
 | The Enterprise Tech, Cloud & AI Show | 2027-11-09 to 2027-11-10 | Sydney | [↗](https://dev.events/conferences/the-enterprise-tech-cloud-and-ai-show-pxb0upxf) |
 | Data Centres & Digital Infrastructure Show | 2027-11-09 to 2027-11-10 | Sydney | [↗](https://dev.events/conferences/data-centres-and-digital-infrastructure-show-cvx5rhmk) |
+| Sydney Tech Pickleball | 2026-11-03 | Sydney, AU | [↗](https://lu.ma/msl6kqh4) |
+| She Runs Weekly Wednesday City Run | 2026-11-03 | Sydney | [↗](https://lu.ma/1sgxha6l) |
+| Melbourne Cup at Avenue on Chifley | 2026-11-03 | Sydney, AU | [↗](https://lu.ma/6xb2owos) |
 | AI & Tech Community Monthly Meet up: (Novotel Darling Harbour) | 2026-10-31 | Sydney, AU | [↗](https://lu.ma/veky590w) |
 | Aloha Saturdays - International Social + Latin Party | 2026-10-31 | Sydney, AU | [↗](https://lu.ma/tycokz2o) |
 | PG Down Under 2026 | 2026-10-30 | Sydney | [↗](https://dev.events/conferences/pg-down-under-2026-uaa1rfvm) |
@@ -1572,11 +1585,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Intercultural Music Dialogue: Voice, Country & Deep Listening | 2026-10-28 | Sydney, AU | [↗](https://lu.ma/lk12r3gj) |
 | Building WealthTech in Australia w/ Hayden Smith, Co-Founder & CTO @ Pearler | 2026-10-28 | Sydney, AU | [↗](https://lu.ma/j9yidr5e) |
 | Sydney Reception | 2026-10-28 | Sydney, AU | [↗](https://lu.ma/the-bzoi) |
-| Signal Sydney | 2026-10-27 | Sydney | [↗](https://dev.events/conferences/signal-sydney-wkz0segd) |
-| The Path to Sales Engineering | 2026-10-27 | Sydney, AU | [↗](https://lu.ma/ogb4eicm) |
-| PE Leaders Breakfast Sydney: Agentic Development in the Enterprise | 2026-10-27 | Sydney, AU | [↗](https://lu.ma/platform-nks0) |
-| Hyphae After Hours Co-working Sesh | 2026-10-27 | Brisbane, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-brisbane-presents-hyphae-after-hours-co-working-sesh/) |
-| JuiceIT Melbourne 2026 | 2026-10-27 | Melbourne, AU | [↗](https://infosec-conferences.com/event/20261027-juiceit-melbourne-2026/) |
 
 </details>
 
@@ -1586,151 +1594,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Cloud Identity Summit '26 | 2026-11-03 | Frankfurt (Germany) | [↗](https://www.identitysummit.cloud/) |
-| S2N: Storage Server Network | 2026-11-03 to 2026-11-04 | Berlin (Germany) | [↗](https://s2n.heise.de) |
-| The AI Conf | 2026-11-03 to 2026-11-04 | Barcelona (Spain) | [↗](https://theconf.ai/) |
-| Masterclass - Se structurer dès maintenant : pourquoi et comment | 2026-11-03 | Paris, FR | [↗](https://lu.ma/yqyq684y) |
-| DevFest | 2026-11-03 | Malmö, Sweden | [↗](https://gdg.community.dev/events/details/google-gdg-malmo-presents-devfest/) |
-| ManageEngine UserConf Switzerland | 2026-11-03 | Zurich | [↗](https://dev.events/conferences/manage-engine-user-conf-switzerland-rbp-oseg) |
-| Twilio Assemble London: The Future of Comms + AI | 2026-11-03 | London | [↗](https://dev.events/conferences/twilio-assemble-london-the-future-of-comms-ai-eileatwh) |
-| SuperReturn Europe 2026 | 2026-11-03 to 2026-11-06 | Amsterdam, Netherlands | [↗](https://informaconnect.com/superreturneurope/) |
-| ISPO Munich 2026 | 2026-11-03 to 2026-11-05 | Munich, Germany | [↗](https://www.ispo.com) |
-| Innovation dans les paiements | 2026-11-03 | Paris, FR | [↗](https://lu.ma/r16o7r34) |
-| State of AI 2026 - Paris launch event | 2026-11-03 | Paris, FR | [↗](https://lu.ma/soai-paris) |
-| Liquid Galaxy Agentic AI  skill contest | 2026-11-03 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-liquid-galaxy-agentic-ai-skill-contest/) |
-| Petit déjeuner RockFi | 2026-11-03 | Paris, FR | [↗](https://lu.ma/9sz0sepc) |
-| Assemblée Annuelle Citizen Capital - Invitation | 2026-11-03 | Paris, FR | [↗](https://lu.ma/1ybyd1zd) |
-| AI Marketing Night #11 | 2026-11-03 | Paris, FR | [↗](https://lu.ma/fwudpoe4) |
-| Soirée de lancement - projet de court-métrage documentaire sur la profession d'avocat ⚖️🥑 | 2026-11-03 | Paris, FR | [↗](https://lu.ma/d2n7yson) |
-| spektr supper club: paris | 2026-11-03 | Paris, FR | [↗](https://lu.ma/spektr-supper-club-paris) |
-| Speed Playing x Temple & Chapon | 2026-11-03 | Paris, FR | [↗](https://lu.ma/242n79y6) |
-| Women of SaaS Paris – Monthly Networking Drinks \| 3 Nov | 2026-11-03 | Paris, FR | [↗](https://lu.ma/8y8h2qz8) |
-| Startup Recette avec Max Berthelot : l'histoire de Lucis, de Paris à Y Combinator | 2026-11-03 | Paris, FR | [↗](https://lu.ma/ywrbv6xd) |
-| Barcelona Cybersecurity Congress | 2026-11-03 to 2026-11-05 | Barcelona | [↗](https://dev.events/conferences/barcelona-cybersecurity-congress-xklrz7c2) |
-| FinOps for AI: Cost per Task, Not Cost per Token | 2026-11-03 | Gothenburg, Sweden | [↗](https://gdg.community.dev/events/details/google-gdg-west-sweden-presents-finops-for-ai-cost-per-task-not-cost-per-token/) |
-| Google Cloud Builder Connect Poland 2026 \| PGE Narodowy | 2026-11-03 | Warsaw, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-warszawa-presents-google-cloud-builder-connect-poland-2026-pge-narodowy/) |
-| Open Lunch - Entrepreneurs talk | 2026-11-03 | Paris, FR | [↗](https://lu.ma/pnxrh7km) |
-| Data/IA : Faire de sa donnée un véritable actif | 2026-11-03 | Paris, FR | [↗](https://lu.ma/ytkg3oh8) |
-| Agentic analytics meetup Paris - Shark tank edition | 2026-11-03 | Paris, FR | [↗](https://lu.ma/c9vvmfmk) |
-| 🌴 ALOHA BUSINESS LUNCH – Spécial reprise d'entreprise ! | 2026-11-03 | Paris, FR | [↗](https://lu.ma/gxv76vnr) |
-| ⚽ SheMoves by SheEOs #2 Foot salle | 2026-11-03 | Paris, FR | [↗](https://lu.ma/lyr8miyv) |
-| 30 Founders X François Baroin | 2026-11-03 | Paris, FR | [↗](https://lu.ma/e0wusjl7) |
-| Taller de Álgebra | 2026-11-03 | UCAM Catholic University of Murcia, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ucam-murcia-spain-presents-taller-de-algebra/) |
-| Taller de Algoritmia | 2026-11-03 | UCAM Catholic University of Murcia, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ucam-murcia-spain-presents-taller-de-algoritmia/) |
-| Maker Basics: 3D Printing | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/qudhjyxf) |
-| Corporate Influencer Club Meetup Berlin @SBK | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/va148b4q) |
-| Beyond the pilot - Startups meet Corporate Innovation | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/8j1qmeb6) |
-| Claude Your Synth | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/svjq6fv3) |
-| Future Female Founders Meetup (AFM #19) | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/femalefuturefounders2) |
-| Your Personal BRAND is the sale:: Build a brand that sells for you [workshop] | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/lj5ta4y8) |
-| Everyday AI Club for Product Teams | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/everyday-ai-club-product-teams) |
-| Wake Me Up When The LLM Is Done | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/8u4nb0db) |
-| ALIVE — An Energy Experience | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/h8sbkblb) |
-| Antler Young VC Drinks #1 | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/5846owr0) |
-| BLISS AI Speaker Series: Human-Like Artificial Intelligence - Badr Alkhamissi | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/j2k7yyd4) |
-| CINEMA À TABLE # 12 (Armenia Culture) Screening \| Food \| Culture \| Networking | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/8udvigso) |
-| desirelines book club: episode 5 | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/9w47oqls) |
-| Scaling AI Startups: the GTM Playbook with Lovable and ElevenLabs | 2026-11-03 | Paris, FR | [↗](https://lu.ma/336q6ah4) |
-| BRAVE1 Invest Demo Day Paris | 2026-11-03 | Paris, FR | [↗](https://lu.ma/gfz6pgwl) |
-| Institut des Solutions Ile de France - Rencontre #2 | 2026-11-03 | Paris, FR | [↗](https://lu.ma/8fx22ivu) |
-| De l'idée à l'usine : créer son produit physique | 2026-11-03 | Paris, FR | [↗](https://lu.ma/0idftlrx) |
-| Cloudy Book Club: Becoming SRE - Chapter 5 to 10 (Part 2/3) 📕☁️ | 2026-11-03 | Munich, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-munich-presents-cloudy-book-club-becoming-sre-chapter-5-to-10-part-23/) |
-| Offline Reading Party 📚 \| Café Vegardie | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/v3ly84tt) |
-| SALT London 2026 | 2026-11-03 | London, GB | [↗](https://lu.ma/salt-london-2026) |
-| AI Breakfast Club | 2026-11-03 | London, GB | [↗](https://lu.ma/06bpyjsa) |
-| GreenJinn x The Felix Project: End-of-Year Volunteering Day | 2026-11-03 | London, GB | [↗](https://lu.ma/9rizjnup) |
-| The leadership journey from Marketing Director to CMO | 2026-11-03 | London, GB | [↗](https://lu.ma/t87ulqjz) |
-| Morning Masterclass \| Heirlooms & Heritage with Annoushka | 2026-11-03 | London, GB | [↗](https://lu.ma/wkt5ndbx) |
-| Built By Few: The Summit by Connect | 2026-11-03 | London, GB | [↗](https://lu.ma/phtg8nap) |
-| Creds: 2027 - What's Cooking? | 2026-11-03 | London, GB | [↗](https://lu.ma/ggzg07xf) |
-| PASS IT ON: Does Your Restaurant Need PR? Intentional Storytelling with Gemma Bell | 2026-11-03 | London, GB | [↗](https://lu.ma/8libw94t) |
-| Softr + Corgi: Coworking for AI Builders & Operators | 2026-11-03 | London, GB | [↗](https://lu.ma/softr-t65c) |
-| "Stop the seat" a protest against seat-based licensing in software | 2026-11-03 | London, GB | [↗](https://lu.ma/8zkxi9up) |
-| The Big Integration - By Lightspeed Commerce & Stacked | 2026-11-03 | London, GB | [↗](https://lu.ma/geqx7tf9) |
-| Women Building · Edition 01: The Art of Resilience | 2026-11-03 | London, GB | [↗](https://lu.ma/yek7sb8c) |
-| Networks November: A Year in Water Review and Drinks Reception | 2026-11-03 | London, GB | [↗](https://lu.ma/fwa-hajd) |
-| Diwali Workshop | 2026-11-03 | London, GB | [↗](https://lu.ma/1rsrri85) |
-| International Brand Growth Forum | 2026-11-03 | London, GB | [↗](https://lu.ma/0kt9y06y) |
-| Accenture x ShePartners (Consulting work experience) | 2026-11-03 | London, GB | [↗](https://lu.ma/1fo21bcj) |
-| Chief Strategy Officer Roundtable & Networking - London 2026 | 2026-11-03 | London, GB | [↗](https://lu.ma/4a8nlnzi) |
-| From Healthy Longevity to Human Flourishing | 2026-11-03 | London, GB | [↗](https://lu.ma/7kbhbxcb) |
-| HR, Uncapped | 2026-11-03 | London, GB | [↗](https://lu.ma/5bbvgm8i) |
-| The Narrative Rendez-Vous | 2026-11-03 | London, GB | [↗](https://lu.ma/xkg180ya) |
-| Phoenix Film Networking event | 2026-11-03 | London, GB | [↗](https://lu.ma/zdyu1v1k) |
-| COLLAB: Aperture | 2026-11-03 | London, GB | [↗](https://lu.ma/collabaperture) |
-| Seedance 2.5 London Creator Night | 2026-11-03 | London, GB | [↗](https://lu.ma/lc7nayjl) |
-| The UK's ambition for COP31 | 2026-11-03 | London, GB | [↗](https://lu.ma/mvfkk5i1) |
-| HOT BOYS DO NAILS 💅🏼 | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/hotboys-0tk2) |
-| Solutionary Coaching - Brand Launch | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/4jwn0o43) |
-| Berlin: Amela Dinner 🍷💜 | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/zn7beqwn) |
-| Apéro mensuel de la Foncière Bellevilles [Paris] | 2026-11-03 | Paris, FR | [↗](https://lu.ma/jgfimcjr) |
-| Rentrée AfterWork EDGE | 2026-11-03 | Paris, FR | [↗](https://lu.ma/095uuk1l) |
-| Palestine Cinema Days x Kalam Aflam: Foragers (2022) | 2026-11-03 | Paris, FR | [↗](https://lu.ma/ti7aus7b) |
-| Build Your Client Portal with AI in an Evening | 2026-11-03 | London, GB | [↗](https://lu.ma/build-client-portal) |
-| Shakhtar vs Sporting | 2026-11-03 | London, GB | [↗](https://lu.ma/hb3zi5g4) |
-| How to play by the new FTC, Meta, and Apple rules | 2026-11-03 | London, GB | [↗](https://lu.ma/app-lz5y) |
-| Regenerative Futures | 2026-11-03 | London, GB | [↗](https://lu.ma/6p4pf7pr) |
-| Rest & Root: A Sound Bath for DNA Founders | 2026-11-03 | London, GB | [↗](https://lu.ma/w9otg8q2) |
-| AI-First Software Modernisation: Building Platforms Ready for AI Agents | 2026-11-03 | London, GB | [↗](https://lu.ma/vw4tl8j4) |
-| Apollo Meetup: Dos and Don’ts of AI in 2027 for Revenue Leaders | 2026-11-03 | London, GB | [↗](https://lu.ma/uavsafe4) |
-| auri x @naataria Diwali Movie Night | 2026-11-03 | London, GB | [↗](https://lu.ma/7jkr5lpf) |
-| Build Beyond the Demo: Lovable + Go-to-Market | 2026-11-03 | London, GB | [↗](https://lu.ma/women-7q0c) |
-| Crosstide AI: Lessons from the front line | 2026-11-03 | London, GB | [↗](https://lu.ma/5eg4znlm) |
-| Expert Drinks with The Team Around You | 2026-11-03 | London, GB | [↗](https://lu.ma/v129jz0s) |
-| FINTECH Circle CEO Dinner | 2026-11-03 | London, GB | [↗](https://lu.ma/zf9yr4gy) |
-| Food and UX Hangout - London | 2026-11-03 | London, GB | [↗](https://lu.ma/6hqbhoqh) |
-| Internet Icons: Julia Whitney, BBC | 2026-11-03 | London, GB | [↗](https://lu.ma/granola-julia-whitney) |
-| November Wine Meetup 🍂 | 2026-11-03 | London, GB | [↗](https://lu.ma/mve0c7hx) |
-| Pre-SLUSH: Before The Freeze | 2026-11-03 | London, GB | [↗](https://lu.ma/4tmu61oh) |
-| Tech for Good Meetup | 2026-11-03 | London, GB | [↗](https://lu.ma/3q61hvve) |
-| Trend Graveyard: a creator meetup at Ballpoint | 2026-11-03 | London, GB | [↗](https://lu.ma/02nnhopf) |
-| Who Holds Your Keys? A Private Supper on Quantum Readiness | 2026-11-03 | London, GB | [↗](https://lu.ma/lfhd3cey) |
-| Writing and scheming | 2026-11-03 | London, GB | [↗](https://lu.ma/4yp4qkwa) |
-| AI, Machine Learning & Cybersecurity for Founders & Tech Professionals | 2026-11-03 | London, GB | [↗](https://lu.ma/ntl-2gzl) |
-| AI SaaSpocalypse: Is it over? Or is the bigger dip yet to come? | 2026-11-03 | London, GB | [↗](https://lu.ma/f9c49mj8) |
-| Asia Fusion: Tech, AI & Culture \| Networx London x AspirASIAN (Dataiku) | 2026-11-03 | London, GB | [↗](https://lu.ma/ntl-elbb) |
-| Biocomputing Hack | 2026-11-03 | London, GB | [↗](https://lu.ma/2khmpnqp) |
-| Creative Boom IRL London: November Social | 2026-11-03 | London, GB | [↗](https://lu.ma/fhuq5h1x) |
-| Curious Women in AI | 2026-11-03 | London, GB | [↗](https://lu.ma/zw9wwqhy) |
-| Encode AI Demo Night 3.0 | 2026-11-03 | London, GB | [↗](https://lu.ma/encode-ai-demo) |
-| London Tech Night \| Startups, Funding, Investors & Innovation | 2026-11-03 | London, GB | [↗](https://lu.ma/ntl-zhvo) |
-| The Growth Table London · Invite-only Dinner | 2026-11-03 | London, GB | [↗](https://lu.ma/growth-table-london) |
-| Dine with Tramlines: secure £250k for your B2B business | 2026-11-03 | London, GB | [↗](https://lu.ma/tablec-ljhm) |
-| JÑĀNA FILM CLUB: THE MATRIX | 2026-11-03 | London, GB | [↗](https://lu.ma/x8z9xyvi) |
-| In Conversation with Ray BLK presented by Union House | 2026-11-03 | London, GB | [↗](https://lu.ma/theqube-ehsf) |
-| zero point energy: listening room | 2026-11-03 | London, GB | [↗](https://lu.ma/ujuf2kuq) |
-| Sauna Night 🪵🌿🔥 with Rita | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/oxj80see) |
-| Club Innovation Curiosity x Climate House | 2026-11-03 | Paris, FR | [↗](https://lu.ma/o0uo6iis) |
-| Company Brain Meetup #01 | 2026-11-03 | Paris, FR | [↗](https://lu.ma/dm3n8szg) |
-| Meet the Women Shaping the Business of Sport | 2026-11-03 | Paris, FR | [↗](https://lu.ma/d8f997ml) |
-| ROUNDTABLE & NETWORKING EVENT : What AI really changes #1 | 2026-11-03 | Paris, FR | [↗](https://lu.ma/c1itol9u) |
-| Tuesdays @ Casa Tumbao 03.11.2026 | 2026-11-03 | London, GB | [↗](https://lu.ma/wxg4sgxy) |
-| Workshop with Soma Pirityi: Co-Founder Fit | 2026-11-03 | London, GB | [↗](https://lu.ma/wm2kqt5m) |
-| 5v5 casual football (Indoor) [Olympiastadion] | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/d1izsdui) |
-| From Tech to the Field: How to Approach Defense with HEXA and DefenseAngels | 2026-11-03 | Paris, FR | [↗](https://lu.ma/9yec41zq) |
-| capital run #69 | 2026-11-03 | London, GB | [↗](https://lu.ma/33v127u6) |
-| How I Made Millions Selling Chicken Coops | 2026-11-03 | London, GB | [↗](https://lu.ma/6z4m5s3d) |
-| Poly Crafting | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/1c90y4jl) |
-| Contrast Therapy Live · OYA x Verre & Quartz · EquipHotel 2026 | 2026-11-03 | Paris, FR | [↗](https://lu.ma/x0lg8o4v) |
-| Co-sensing Lab #3: When systems get stuck | 2026-11-03 | Paris, FR | [↗](https://lu.ma/97hcgc69) |
-| Dîner SKareers - Roxanne PENNE | 2026-11-03 | Paris, FR | [↗](https://lu.ma/jbw1bjbm) |
-| ML Breakthroughs Breakfast: ThAT x Prefrontal x Nebius | 2026-11-03 | London, GB | [↗](https://lu.ma/ml-breakthroughs-breakfast) |
-| The North European Cyber Days 2026 | 2026-11-03 | Oslo, NO | [↗](https://infosec-conferences.com/event/20261103-the-north-european-cyber-days-2026/) |
-| Transformational CISO Assembly: Barcelona 2026 | 2026-11-03 | Barcelona, ES | [↗](https://infosec-conferences.com/event/20261103-transformational-ciso-assembly-barcelona-2026/) |
-| Expoprotection 2026 | 2026-11-03 | Paris, FR | [↗](https://infosec-conferences.com/event/20261103-expoprotection-2026/) |
-| AI Soc Lecture 03: How ChatGPT Really Works | 2026-11-03 | London, GB | [↗](https://lu.ma/gyj4au28) |
-| Cloud Identity Summit 2026 | 2026-11-03 | Frankfurt, DE | [↗](https://infosec-conferences.com/event/20261103-cloud-identity-summit-2026/) |
-| Planificación de proyectos Club de Programación y desarrollo | 2026-11-03 | Huelva, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-huelva-university-huelva-spain-presents-planificacion-de-proyectos-club-de-programacion-y-desarrollo/) |
-| Rules of reproduction | 2026-11-03 | London, GB | [↗](https://lu.ma/dg42rjao) |
-| GiST Scripted Tuesday + Halloween social | 2026-11-03 | London, GB | [↗](https://lu.ma/t1oxh0gk) |
-| Brazilian Rhythms & FitDance Class in London | 2026-11-03 | London, GB | [↗](https://lu.ma/3q5dg7tk) |
-| Mangazeichnen Kinder/Teenager 9+ mit Margarita | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/m5eplinm) |
-| Chess Bar | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/100gramm-qrfv) |
-| Hoche Hour with Fabien Koutchekian, Genomines \| The Deep-Tech Startup Rewriting the Rules of Mining | 2026-11-03 | Paris, FR | [↗](https://lu.ma/hoche-hour-fabien-koutchekian) |
-| Linkedîne #4 Paris | 2026-11-03 | Paris, FR | [↗](https://lu.ma/06z9fexj) |
-| Paris Office Hours #27 | 2026-11-03 | Paris, FR | [↗](https://lu.ma/38c10dsk) |
-| CISOXSpain 2026 | 2026-11-03 | Madrid, ES | [↗](https://infosec-conferences.com/event/20261103-cisoxspain-2026/) |
-| CIO Challenges 2026 | 2026-11-03 | Copenhagen, DK | [↗](https://infosec-conferences.com/event/20261103-cio-challenges-2026/) |
 | code.talks | 2026-11-04 to 2026-11-05 | Hamburg (Germany) | [↗](https://codetalks.com) |
 | AutomationSTAR Conference | 2026-11-04 to 2026-11-05 | Antwerp (Belgium) | [↗](https://automation.eurostarsoftwaretesting.com/tickets) |
 | Øredev | 2026-11-04 to 2026-11-06 | Malmo (Sweden) | [↗](https://oredev.org) |
@@ -1890,6 +1753,15 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | School of Witches - The Truth sets me free | 2026-11-04 | Berlin, DE | [↗](https://lu.ma/hqzczg44) |
 | Wellness Wednesday Sauna Night 🧖🏻🔥🧖🏽‍♀️ | 2026-11-04 | Berlin, DE | [↗](https://lu.ma/jkbklw8z) |
 | Update x Gautier Picquet | 2026-11-04 | Paris, FR | [↗](https://lu.ma/vlkkqh8f) |
+| European Defense Tech Meetup – Valencia | 2026-11-04 | Valencia, Spain | [↗](https://www.startupgrind.com/events/details/startup-grind-valencia-presents-european-defense-tech-meetup-valencia/) |
+| New AI safety organisations: MATS pitches at LISA | 2026-11-04 | London, GB | [↗](https://lu.ma/u4r3v8lw) |
+| The Writer’s Blocc | 2026-11-04 | London, GB | [↗](https://lu.ma/tilhih19) |
+| CANAL SOCIAL RUN @ FUTURA HOUSE | 2026-11-04 | Berlin, DE | [↗](https://lu.ma/60c5uuym) |
+| Flow & Restore | 2026-11-04 | Berlin, DE | [↗](https://lu.ma/ltgc8tk2) |
+| WEDNESDAY INTERVALS | 2026-11-04 | Berlin, DE | [↗](https://lu.ma/muz1mqxd) |
+| Improbable PhD | 2026-11-04 | Paris, FR | [↗](https://lu.ma/p6bz5nfj) |
+| Active Vinyasa Flow | 2026-11-04 | Paris, FR | [↗](https://lu.ma/x10rzrjs) |
+| Sonotherapy•Quartzophone® with Iéna @Galerie Louis Barrand - Signature (FR/ENG) | 2026-11-04 | Paris, FR | [↗](https://lu.ma/uky620l8) |
 | Heapcon | 2026-11-05 | Belgrade, Serbia | [↗](https://heapcon.io/2026) |
 | Games Ground 2026 | 2026-11-05 to 2026-11-08 | Berlin | [↗](https://dev.events/conferences/games-ground-2026-6zybnaah) |
 | Startup Nights 2026 | 2026-11-05 to 2026-11-06 | Winterthur, Switzerland | [↗](https://www.startup-nights.ch/) |
@@ -2031,6 +1903,15 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Ivo Hosted Dinner - Legal Innovators Conference | 2026-11-05 | London, GB | [↗](https://lu.ma/byacvpsw) |
 | Haseeb Iqbal Presents: Jah Shaka Listening Session | 2026-11-05 | London, GB | [↗](https://lu.ma/qe0qjivd) |
 | Bière & Code & Beer | 2026-11-05 | Paris, FR | [↗](https://lu.ma/rmp0k0l1) |
+| Q4 Happy Hour - TMG/Mastercard x Amazon | 2026-11-05 | London, GB | [↗](https://lu.ma/zlgt03su) |
+| How To Avoid Rapid Weight Loss Skin Damage. | 2026-11-05 | London, GB | [↗](https://lu.ma/tj00lfk3) |
+| Mazal Night | 2026-11-05 | London, GB | [↗](https://lu.ma/yilgw1l0) |
+| <run> | 2026-11-05 | Berlin, DE | [↗](https://lu.ma/kf1qgwiz) |
+| Cell Up Challenge Kick Off | 2026-11-05 | Berlin, DE | [↗](https://lu.ma/a3o1kyyt) |
+| INTERVAL | 2026-11-05 | Berlin, DE | [↗](https://lu.ma/j4ga5x27) |
+| ACT WITH EASE \| Open Workshop on the Michael Chekhov acting technique \| Artistic Freedom Lab Opening | 2026-11-05 | Berlin, DE | [↗](https://lu.ma/cn0tz7j2) |
+| Open AI x ESCP AI | 2026-11-05 | Paris, FR | [↗](https://lu.ma/r0yoep6e) |
+| Effort & récupération⚡️ | 2026-11-05 | Paris, FR | [↗](https://lu.ma/7b7sgm2b) |
 | Portugal Tech Week 2026 | 2026-11-06 to 2026-11-15 | Lisbon, Portugal | [↗](https://portugaltechweek.com/) |
 | Dev Days Students \| Madrid | 2026-11-06 | Madrid (Spain) | [↗](https://githubcopilotdevdaysmadrid.techriders.es/) |
 | PyConES 2026 | 2026-11-06 to 2026-11-08 | Barcelona | [↗](https://dev.events/conferences/py-con-es-2026-jts3uabv) |
@@ -2092,6 +1973,13 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Tea & Violin Essence. Open Teahouse | 2026-11-06 | Berlin, DE | [↗](https://lu.ma/g2orrjey) |
 | WEST IS NOT DEAD \| open play night 🎾 | 2026-11-06 | Berlin, DE | [↗](https://lu.ma/912tosk6) |
 | Between Unknowns x The Analog Club \| Collection Anonyme - Droit de Regard(s) | 2026-11-06 | Paris, FR | [↗](https://lu.ma/nyqv65yo) |
+| Dev Grind | 2026-11-06 | London, GB | [↗](https://lu.ma/s1oqngt1) |
+| From Scroll to Stop｜An AI Content Salon for Creators & Marketers | 2026-11-06 | London, GB | [↗](https://lu.ma/pollo-h6p8) |
+| The Master Key to Riches: a workshop on living in the age of superintelligence w. Tony Czarnecki | 2026-11-06 | London, GB | [↗](https://lu.ma/0f4t18ti) |
+| A Bonfire Soiree | 2026-11-06 | London, GB | [↗](https://lu.ma/07g0kj9s) |
+| 8 years Birthday Bash | 2026-11-06 | Berlin, DE | [↗](https://lu.ma/100gramm-kiyp) |
+| Alexander Pape - Don't Leave Me Alone - Opening Party | 2026-11-06 | Berlin, DE | [↗](https://lu.ma/so962w9f) |
+| Gong Healing & Xian Cha Tea Ceremony | 2026-11-06 | Berlin, DE | [↗](https://lu.ma/oh7s57ti) |
 | DevFest 2026 - GDG Ourense | 2026-11-07 | Ourense (Spain) | [↗](https://gdg.community.dev/events/details/google-gdg-ourense-presents-devfest-2026/) |
 | Devfest Pescara 2026 | 2026-11-07 to 2026-11-08 | Pescara (Italy) | [↗](https://gdg.community.dev/events/details/google-gdg-pescara-presents-devfest-pescara-reloaded/) |
 | BiznagaFest 2026 | 2026-11-07 | Malaga, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-malaga-presents-biznagafest-2026/) |
@@ -2156,6 +2044,46 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Founders Running Club :: Paris | 2026-11-07 | Paris, FR | [↗](https://lu.ma/s52hfei0) |
 | Sweaty Saturday Shakeout Run | 2026-11-07 | Berlin, DE | [↗](https://lu.ma/38z69i5s) |
 | FILMHACK: Warm Up & Pitch | 2026-11-07 | Berlin, DE | [↗](https://lu.ma/t8p9g0yw) |
+| The Writer’s Blocc: Familial Folklore | 2026-11-07 | London, GB | [↗](https://lu.ma/ucv5vuha) |
+| AI Agents for Accessibility Hackathon | 2026-11-07 | London, GB | [↗](https://lu.ma/lzacr9yq) |
+| Battersea Parkrun takeover | 2026-11-07 | London, GB | [↗](https://lu.ma/1el4bxwg) |
+| Founders Running Club :: London | 2026-11-07 | London, GB | [↗](https://lu.ma/eia7vpcq) |
+| Brunch & Learn : Main character energy | 2026-11-07 | London, GB | [↗](https://lu.ma/8xu1n757) |
+| House London! #3 \| Data Hackathon | 2026-11-07 | London, GB | [↗](https://lu.ma/m3pbljlh) |
+| Open Art Spaces: Portobello Road | 2026-11-07 | London, GB | [↗](https://lu.ma/whz8m7xd) |
+| Sekcja Spacerowa: Ivinghoe Beacon i Ashridge Estate (Chiltern Hills) | 2026-11-07 | London, GB | [↗](https://lu.ma/4imouj5o) |
+| The AI Girls Club: The Lightning Round | 2026-11-07 | London, GB | [↗](https://lu.ma/xk3v4rfk) |
+| In person, founder pitch & feedback session | 2026-11-07 | London, GB | [↗](https://lu.ma/ppy541re) |
+| Walking Tour of Canary Wharf Data Centres | 2026-11-07 | London, GB | [↗](https://lu.ma/a6pwc56f) |
+| The Bloody Brilliant Fest by UPFRONT x THE CYCLE METHOD® | 2026-11-07 | London, GB | [↗](https://lu.ma/n7a56yir) |
+| The Clockworks Museum & Nature Journaling | 2026-11-07 | London, GB | [↗](https://lu.ma/4z2yqn17) |
+| ASTERA Seasonal Nature Walks - Wintering | 2026-11-07 | London, GB | [↗](https://lu.ma/v2ev5p9z) |
+| Interactive music workshop with Soundbeam 'The invisable keyboard in space' | 2026-11-07 | London, GB | [↗](https://lu.ma/8p52zpus) |
+| UK: Founders Raising Families | 2026-11-07 | London, GB | [↗](https://lu.ma/c93c1ycr) |
+| Bespoke Weaving Workshop | 2026-11-07 | London, GB | [↗](https://lu.ma/4d1l5cbz) |
+| Quantum Chess Afternoon | 2026-11-07 | London, GB | [↗](https://lu.ma/tyyf8vnr) |
+| Something Whimsy: Cake Decorating🌸🎀✨ | 2026-11-07 | London, GB | [↗](https://lu.ma/f1t7a0xc) |
+| Tabling and Flyering for the March Against AI Extinction | 2026-11-07 | London, GB | [↗](https://lu.ma/734em83w) |
+| WG Girls Coffee Meetup | 2026-11-07 | London, GB | [↗](https://lu.ma/1lxcptlr) |
+| Jigsaw & Gist x The Puzzle Theory: Puzzle Social | 2026-11-07 | London, GB | [↗](https://lu.ma/rf7f7lxb) |
+| 🍎Offline Women Discuss Health | 2026-11-07 | London, GB | [↗](https://lu.ma/rxhkaul5) |
+| The Writer’s Blocc: Pilates Edition | 2026-11-07 | London, GB | [↗](https://lu.ma/jn5uw13t) |
+| TRUTHLING LOOK-ALIKE CONTEST | 2026-11-07 | London, GB | [↗](https://lu.ma/sawwhkr1) |
+| Board Game Community Cafe | 2026-11-07 | London, GB | [↗](https://lu.ma/r5v0fh5m) |
+| The Reset Workshop | 2026-11-07 | London, GB | [↗](https://lu.ma/7dtd97zb) |
+| Screenwriters Reunited | 2026-11-07 | London, GB | [↗](https://lu.ma/vuign45c) |
+| Corgi Collection 01: Launch | 2026-11-07 | London, GB | [↗](https://lu.ma/n79p6i11) |
+| Heated Pilates, Protein Cocktails & Cake | 2026-11-07 | London, GB | [↗](https://lu.ma/8dssh0lb) |
+| Pilates & Pour: Realign with the Moon | 2026-11-07 | London, GB | [↗](https://lu.ma/ew1ox94t) |
+| Saturday Female Indoor Padel · BANDEJA | 2026-11-07 | London, GB | [↗](https://lu.ma/dg2w59ml) |
+| Padel x Salsa 💃🏻 🎾 | 2026-11-07 | London, GB | [↗](https://lu.ma/m938xt3a) |
+| Diwali on the Wharf | 2026-11-07 | London, GB | [↗](https://lu.ma/diwali-on-the-wharf) |
+| HM London: Saturday Night Party! | 2026-11-07 | London, GB | [↗](https://lu.ma/e45u1341) |
+| House Delight - Red November | 2026-11-07 | London, GB | [↗](https://lu.ma/mmnmjx21) |
+| Mindfulness en una Taza: Una experiencia de café, meditación y conexión. | 2026-11-07 | Berlin, DE | [↗](https://lu.ma/r10v61mf) |
+| Lecture Jeunesse pour les 3-6 ans | 2026-11-07 | Paris, FR | [↗](https://lu.ma/53539ucq) |
+| Quantum computing nella realtà: l'ottimizzazione industriale | 2026-11-07 | Modena, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-modena-presents-quantum-computing-nella-realta-lottimizzazione-industriale/) |
+| Liquid Galaxy al GSoC 2026 Mentor Summit — briefing and comments, VIDEO EDITION | 2026-11-07 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-liquid-galaxy-al-gsoc-2026-mentor-summit-briefing-and-comments-video-edition/) |
 | RUN CLUB 08/11 @La Montgolfière 18ème | 2026-11-08 | Paris, FR | [↗](https://lu.ma/t8n3d1ig) |
 | New Moon, Hot Mood. La première expérience astrologie & sauna. | 2026-11-08 | Paris, FR | [↗](https://lu.ma/as940ioa) |
 | 🍂 Offline Reading Party COSY x live piano 🎹 \| TOC x Verso \| Kawaa Lumière ☕ \| Paris 12th arr. | 2026-11-08 | Paris, FR | [↗](https://lu.ma/the-5oe5) |
@@ -2177,6 +2105,27 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Do not Disturb - Ambient Series | 2026-11-08 | Berlin, DE | [↗](https://lu.ma/pxn45c43) |
 | From Seaweed Photos to Chaos Theory: Forgotten Stories from Lives in Science | 2026-11-08 | Berlin, DE | [↗](https://lu.ma/h2zvkoze) |
 | summeronyourmind \| New Era & Community Gathering | 2026-11-08 | Berlin, DE | [↗](https://lu.ma/xl41tm6m) |
+| Attio x Point Nine Builders Café \| London | 2026-11-08 | London, GB | [↗](https://lu.ma/07pk17pg) |
+| GTM Sprint: Shipping is not enough | 2026-11-08 | London, GB | [↗](https://lu.ma/6056xrdf) |
+| Cafe crawl x Photowalk | 2026-11-08 | London, GB | [↗](https://lu.ma/xdfvpd31) |
+| Entr Tech Community Mixer | 2026-11-08 | London, GB | [↗](https://lu.ma/4nzcic9k) |
+| Lights, Builds & Desi : A Diwali Social for London's Asian Community | 2026-11-08 | London, GB | [↗](https://lu.ma/xv2i10gz) |
+| HackWimbledon November #1 | 2026-11-08 | London, GB | [↗](https://lu.ma/ax56z5lr) |
+| Readinroom | 2026-11-08 | London, GB | [↗](https://lu.ma/ydryzhmv) |
+| Yes Atlas: Scavenger Hunt- UK 🇬🇧 | 2026-11-08 | London, GB | [↗](https://lu.ma/bfgjvco9) |
+| Ideas Exchange: Session 2 \| Why We Build | 2026-11-08 | London, GB | [↗](https://lu.ma/s5yukuse) |
+| SEA C&S : Padel social | 2026-11-08 | London, GB | [↗](https://lu.ma/tl1if01d) |
+| The RESET. | 2026-11-08 | London, GB | [↗](https://lu.ma/u30oqe3n) |
+| Crafternoon | 2026-11-08 | London, GB | [↗](https://lu.ma/rrad6rnq) |
+| Your First Mahjong: A Curious Room Event | 2026-11-08 | London, GB | [↗](https://lu.ma/zs7v4mt0) |
+| CAIA: Fine Is Not a Feeling · A Sunday at Shai Space | 2026-11-08 | London, GB | [↗](https://lu.ma/5ix7nes3) |
+| Susitikimas su LT URM viceministru K. Vaitiekūnu | 2026-11-08 | London, GB | [↗](https://lu.ma/ggv65ace) |
+| Backgammon Social x GT Club | 2026-11-08 | London, GB | [↗](https://lu.ma/backga-0txj) |
+| Dahomey Screening | 2026-11-08 | London, GB | [↗](https://lu.ma/h3yiw9wr) |
+| Rising Founders Club x Lume: London | 2026-11-08 | London, GB | [↗](https://lu.ma/ef2zbq9l) |
+| HAVEN x JR Community Run w/SuperCoff - fueled by XXL Nutrition | 2026-11-08 | Berlin, DE | [↗](https://lu.ma/ahpg3rb4) |
+| Ice Dip Krumme Lanke/Schlachtensee | 2026-11-08 | Berlin | [↗](https://lu.ma/99gej4t8) |
+| Borrowed Words: Will AI Make Us Lose Our Own Voice? | 2026-11-08 | Berlin, BE, DE | [↗](https://allevents.in/berlin/borrowed-words-will-ai-make-us-lose-our-own-voice/100001997561106041) |
 | Web Summit Lisbon | 2026-11-09 to 2026-11-12 | Lisbon (Portugal) | [↗](https://websummit.com) |
 | LeadDev Berlin | 2026-11-09 | Berlin, Germany | [↗](https://leaddev.com/leaddev-berlin) |
 | InnoComp 2026 | 2026-11-09 to 2026-11-11 | Lisbon | [↗](https://dev.events/conferences/inno-comp-2026-j2sz8udi) |
@@ -2207,6 +2156,8 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | CryptoMondays: Self-Custody in the Age of MiCA | 2026-11-09 | Paris, FR | [↗](https://lu.ma/w3exw2ki) |
 | Comment concilier impact et développement commercial ? - Afterwork Alan x Edumapper | 2026-11-09 | Paris, FR | [↗](https://lu.ma/1fi0k6y7) |
 | Sound Bathing with beaniecelini | 2026-11-09 | Berlin, DE | [↗](https://lu.ma/9eeg3hi6) |
+| Breakfast Event: Where is your school overpaying for energy? | 2026-11-09 | London, GB | [↗](https://lu.ma/c65zf6iq) |
+| Dîner Machine, #7: Surveiller l'IA (AI Safety) | 2026-11-09 | Paris, FR | [↗](https://lu.ma/gwww6roi) |
 | Porto Tech Hub Conference 2026 | 2026-11-10 | Porto (Portugal) | [↗](https://portotechhub.com/conference-2026/) |
 | GoTech World 2026 | 2026-11-10 to 2026-11-11 | Bucharest | [↗](https://dev.events/conferences/go-tech-world-2026-js9sc6p0) |
 | NDC AI 2026 | 2026-11-10 to 2026-11-12 | Oslo | [↗](https://dev.events/conferences/ndc-ai-2026-bjho-f82) |
@@ -2247,6 +2198,9 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Vuejs//Berlin #111 Hack'n'Tell Edition | 2026-11-10 | Berlin, DE | [↗](https://lu.ma/lm3tcvd6) |
 | October2Shell: Fra PHP e dadi a quattro facce | 2026-11-10 | Genoa, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-genova-presents-october2shell-fra-php-e-dadi-a-quattro-facce/) |
 | Hors Parcours · Épisode 01 | 2026-11-10 | Paris, FR | [↗](https://lu.ma/t2r06ppm) |
+| AWSC im „Zeitlos“ am S-Bahnhof Savignyplatz | 2026-11-10 | Berlin, DE | [↗](https://lu.ma/kmjyi9hy) |
+| WIRE \| Femmes & IA : comment ne pas se laisser dépasser ? | 2026-11-10 | Paris, FR | [↗](https://lu.ma/eh0uvvdi) |
+| Taller GDG Calculo | 2026-11-10 | UCAM Catholic University of Murcia, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ucam-murcia-spain-presents-taller-gdg-calculo/) |
 | 59th IAPC World Conference | 2026-11-11 to 2026-11-14 | Sevilla (Spain) | [↗](https://iapc.org) |
 | CLC | 2026-11-11 | Mannheim, Germany | [↗](https://clc-conference.eu/index_en.php) |
 | Leading Design London | 2026-11-11 to 2026-11-12 | London | [↗](https://dev.events/conferences/leading-design-london-ck6cpkex) |
@@ -2282,6 +2236,9 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | GDG Lisbon x CNL x DevOps Lisbon \| KCD Warmup & Web Summit Side Event  #29 | 2026-11-11 | Lisbon, Portugal | [↗](https://gdg.community.dev/events/details/google-gdg-lisbon-presents-gdg-lisbon-x-cnl-x-devops-lisbon-kcd-warmup-amp-web-summit-side-event-29/) |
 | #132-nd event - Sports Analytics Hackathon | 2026-11-11 | Sarajevo, Bosnia and Herzegovina | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-sarajevo-presents-132-nd-event-sports-analytics-hackathon-1/) |
 | Breaking Fast - Finissage | 2026-11-11 | Paris, FR | [↗](https://lu.ma/ygyiy8sh) |
+| Berlin Collage Club Wednesday Social at Orangerie Neukölln! | 2026-11-11 | Berlin, DE | [↗](https://lu.ma/mq8xmex0) |
+| Agentic AI für KMU – vom Potenzial zur praktischen Anwendung | 2026-11-11 | Berlin, BE, DE | [↗](https://allevents.in/berlin/agentic-ai-für-kmu-vom-potenzial-zur-praktischen-anwendung/100002001509696381) |
+| Breaking Into Tech | 2026-11-11 | Madrid, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ie-university-madrid-spain-presents-breaking-into-tech/) |
 | Update Conference Prague 2026 | 2026-11-12 to 2026-11-13 | Prague (Czechia) | [↗](https://prague.updateconf.net) |
 | CMS Conf 2026 | 2026-11-12 to 2026-11-14 | Gdynia (Poland) | [↗](https://cmsconf.com) |
 | DevFest Marseille 2026 : Night Edition | 2026-11-12 | Marseille, France | [↗](https://gdg.community.dev/events/details/google-gdg-marseille-presents-devfest-marseille-2026-night-edition/) |
@@ -2344,6 +2301,13 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | thirdface & friends | 2026-11-12 | Berlin, DE | [↗](https://lu.ma/a6xbht5d) |
 | Transitioning into AI Safety Accountability Group | 2026-11-12 | Berlin, DE | [↗](https://lu.ma/it683s08) |
 | Hive - Ladies Who Tech November Coworking | 2026-11-12 | Paris, FR | [↗](https://lu.ma/n0g9ln8a) |
+| Contributing to Safer, more Ethical AI: Pathways In | 2026-11-12 | Berlin, DE | [↗](https://lu.ma/2py3a80e) |
+| 8yNightgame | 2026-11-12 | Berlin, DE | [↗](https://lu.ma/mwek00ro) |
+| Python Users Berlin Presentation Night | 2026-11-12 | Berlin, DE | [↗](https://lu.ma/3tbjapbw) |
+| Paris \| Claude Workshop X swanbase | 2026-11-12 | Paris, FR | [↗](https://lu.ma/claude-6fvl) |
+| La mort du SaaS ? Comprendre le marché, vendre et lever à l’heure de l’agentic | 2026-11-12 | Paris, FR | [↗](https://lu.ma/yq3efg8q) |
+| Meetup de Novembre chez Music Work ! | 2026-11-12 | Paris, France | [↗](https://gdg.community.dev/events/details/google-gdg-paris-android-presents-meetup-de-novembre-chez-music-work/) |
+| Taller: Crea tu producto con Antigravity y Gemini | 2026-11-12 | Marbella, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-marbella-presents-taller-crea-tu-producto-con-antigravity-y-gemini/) |
 | ffconf | 2026-11-13 | Brighton (UK) | [↗](https://2026.ffconf.org) |
 | Devopsdays Barcelona | 2026-11-13 to 2026-11-14 | Barcelona (Spain) | [↗](https://devopsdays.org/events/2026-barcelona) |
 | Product Circle - Leaders Lisbon | 2026-11-13 | Lisbon | [↗](https://dev.events/conferences/product-circle-leaders-lisbon-omqrvfqu) |
@@ -2363,6 +2327,8 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | AI, SaaS, Software, Cybersecurity & Tech Founders Networking Event London | 2026-11-13 | London, EN, GB | [↗](https://allevents.in/london/ai-saas-software-cybersecurity-and-tech-founders-networking-event-london/100002003295648211) |
 | Catalyst Co-Creation Community Circle #2 | 2026-11-13 | Berlin, DE | [↗](https://lu.ma/u59r2zfh) |
 | INSULA | 2026-11-13 | Paris, FR | [↗](https://lu.ma/1fr508lh) |
+| Founders Co-working Day | 2026-11-13 | Berlin, DE | [↗](https://lu.ma/equ91qxl) |
+| 48 Hours Film X AI FILMHACK | 2026-11-13 | Berlin, DE | [↗](https://lu.ma/flkqyiz4) |
 | Capitole du Libre | 2026-11-14 to 2026-11-15 | Toulouse (France) | [↗](https://capitoledulibre.org) |
 | 🛰️ NASA Space Apps Challenge Ahlen 2026 | 2026-11-14 | Ahlen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-nasa-space-apps-challenge-ahlen-2026/) |
 | BSides Copenhagen 2026 | 2026-11-14 | Copenhagen | [↗](https://dev.events/conferences/b-sides-copenhagen-2026-ijtwav2s) |
@@ -2381,6 +2347,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Constellations familiales & systémiques | 2026-11-14 | Paris, FR | [↗](https://lu.ma/92ojyeah) |
 | Marche pour un traité en IA | 2026-11-14 | Paris, FR | [↗](https://lu.ma/stop-pjeb) |
 | Micronutrition & Longevity: What Does the Science Say? | 2026-11-14 | Paris, FR | [↗](https://lu.ma/age-28r2) |
+| COOL GIRLS RUN TOGETHER - 7km | 2026-11-14 | Paris, FR | [↗](https://lu.ma/x1q5eltq) |
 | Solana Breakpoint 2026 | 2026-11-15 | London | [↗](https://dev.events/conferences/solana-breakpoint-2026-prup4prd) |
 | iGEM Innovation - Bio & Brews | 2026-11-15 | Paris, FR | [↗](https://lu.ma/qkozd2w7) |
 | ☕ Special: Offline Hangout x Slow Chocolate Drinking \| My Little Paris Bistrot \| Paris 9th | 2026-11-15 | Paris, FR | [↗](https://lu.ma/3mjcfm7p) |
@@ -2388,6 +2355,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | RUN CLUB 15/11 @La Montgolfière 18ème | 2026-11-15 | Paris, FR | [↗](https://lu.ma/qh8cl6eo) |
 | Sunday Morning Read-In | 2026-11-15 | Paris, FR | [↗](https://lu.ma/xkb9h95q) |
 | Sketch Club - November | 2026-11-15 | Paris, FR | [↗](https://lu.ma/k26glm57) |
+| Paint & Party Paris | 2026-11-15 | Paris, FR | [↗](https://lu.ma/paintparty15nov) |
 | NextGen Intelligence Conference: Data, Cloud & AI | 2026-11-16 to 2026-11-17 | London (UK) | [↗](https://techaiconf.com) |
 | iSAQB Software Architecture Gathering 2026 | 2026-11-16 to 2026-11-19 | Berlin (Germany) | [↗](https://sag.isaqb.org) |
 | AI Engineering Summit | 2026-11-16 to 2026-11-20 | Berlin (Germany) | [↗](https://ai-engineering-summit.de) |
@@ -2466,6 +2434,8 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | 🏡 BOOST-CAMP #16 - Être robuste | 2026-11-18 | Paris, FR | [↗](https://lu.ma/hp087drj) |
 | PARIS - Entrepreneurship Festival " Walk the Talk" | 2026-11-18 | Paris, FR | [↗](https://lu.ma/gbtpiudd) |
 | Simple language, complex code: The cost of Go's simplicity | 2026-11-18 | Porto, Portugal | [↗](https://gdg.community.dev/events/details/google-gdg-porto-presents-simple-language-complex-code-the-cost-of-gos-simplicity/) |
+| Agent Stack Series #00 x Holo AI Night | 2026-11-18 | Paris, FR | [↗](https://lu.ma/vercel-ndvn) |
+| After de l’Hacienda // Novembre 2026 | 2026-11-18 | Paris, FR | [↗](https://lu.ma/cxu1ayuj) |
 | Cloud Native Denmark 2026 | 2026-11-19 to 2026-11-20 | Copenhagen (Denmark) | [↗](https://cloudnativedenmark.dk) |
 | DevFest Toulouse 2026 | 2026-11-19 | Toulouse (France) | [↗](https://devfesttoulouse.fr/) |
 | reactjsday 2026 | 2026-11-19 | Verona (Italy) | [↗](https://www.reactjsday.it) |
@@ -2508,6 +2478,12 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Nouvelle collection EGGS & SUN by Anilore Banon | 2026-11-19 | Paris, FR | [↗](https://lu.ma/w53wgz04) |
 | L'Apéro des Hôtes | 2026-11-19 | Paris, FR | [↗](https://lu.ma/ek41umq3) |
 | AI in Business Conference • Nov 2026 • Exploring Enterprise AI | 2026-11-19 | London, EN, GB | [↗](https://allevents.in/london/ai-in-business-conference-•-nov-2026-•-exploring-enterprise-ai/100001990107667606) |
+| PARIS Sispower Day (Entrepreneuriat, Talk, Networking 🍸⭐️) | 2026-11-19 | Paris, FR | [↗](https://lu.ma/xrygj5y3) |
+| AfterLab event - Nucleate Paris | 2026-11-19 | Paris, FR | [↗](https://lu.ma/8iqiroyu) |
+| Cocktail Transaction emlyon | 2026-11-19 | Paris, FR | [↗](https://lu.ma/yzs0fixv) |
+| 🚀 Les Apéros de l’IA #15 — Rendez-vous chez Avalon | 2026-11-19 | Paris, FR | [↗](https://lu.ma/of51mz0k) |
+| Rencontre & Signature : Cédric Klapisch & Patrick Fabre | 2026-11-19 | Paris, FR | [↗](https://lu.ma/se41zuqw) |
+| ONE SHOT | 2026-11-19 | Paris, FR | [↗](https://lu.ma/7y3i0h1n) |
 | Agentic Engineering Day Zurich | 2026-11-20 | Zurich (Switzerland) | [↗](https://www.agenticdays.com/) |
 | angularday 2026 | 2026-11-20 | Verona (Italy) | [↗](https://www.angularday.it) |
 | PyCon Wroclaw 2026 | 2026-11-20 to 2026-11-21 | Wroclaw (Poland) | [↗](https://www.pyconwroclaw.com) |
@@ -2530,6 +2506,10 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Parcours Paris craft week "Apéro métiers créatifs" | 2026-11-20 | Paris, FR | [↗](https://lu.ma/62x25ru4) |
 | Visible, Credible, Funded: Women on What It Takes to Win in Business | 2026-11-20 | Paris, FR | [↗](https://lu.ma/7uix58xr) |
 | Paris \| Curated Dinner for Creatives | 2026-11-20 | Paris, FR | [↗](https://lu.ma/rlnv7mmp) |
+| DDX London 2026 | 2026-11-20 | London | [↗](https://dev.events/conferences/ddx-london-2026-yaplarfh) |
+| Book Club #02 | 2026-11-20 | Paris, FR | [↗](https://lu.ma/1crz01ay) |
+| Proiezione "I Once Dreamed About This Boat" - Parigi (con ACLI) | 2026-11-20 | Paris, FR | [↗](https://lu.ma/jjvc4tgs) |
+| Chingu Night 🇫🇷🇰🇷 친구 나이트 : Speed Friending | 2026-11-20 | Paris, FR | [↗](https://lu.ma/kore-hrzc) |
 | NIDC 2026: 10th Anniversary Edition! | 2026-11-21 | Belfast (UK) | [↗](https://www.nidevconf.com/) |
 | DevFest Stuttgart 2026 | 2026-11-21 | Stuttgart, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-stuttgart-presents-devfest-stuttgart-2026/) |
 | DevFest Girona 2026 | 2026-11-21 | Girona, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-girona-presents-devfest-girona-2026/) |
@@ -2548,6 +2528,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | API Conference Berlin | 2026-11-23 to 2026-11-27 | Berlin (Germany) | [↗](https://apiconference.net/berlin) |
 | MLCon Berlin 2026 | 2026-11-23 to 2026-11-27 | Berlin (Germany) | [↗](https://mlconference.ai/berlin/) |
 | DSC Europe (Data Science Conference) 2026 | 2026-11-23 to 2026-11-27 | Belgrade, Serbia | [↗](https://datasciconference.com/) |
+| Introducción a la Ciberseguridad: Primeros Pasos y Vulnerabilidades Básicas | 2026-11-23 | Jaen, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-jaen-presents-introduccion-a-la-ciberseguridad-primeros-pasos-y-vulnerabilidades-basicas/) |
 | Manage Agile 2026 | 2026-11-24 to 2026-11-26 | Leipzig (Germany) | [↗](https://www.manage-agile.de/) |
 | Big Data Conference Europe | 2026-11-24 to 2026-11-27 | Vilnius | [↗](https://dev.events/conferences/big-data-conference-europe-g2okbywt) |
 | AI World Congress London 2026 | 2026-11-24 to 2026-11-25 | London | [↗](https://dev.events/conferences/ai-world-congress-london-2026-1f401ilq) |
@@ -2616,6 +2597,9 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | apidays Paris | 2026-11-30 to 2026-12-03 | Paris | [↗](https://dev.events/conferences/apidays-paris-7xk3zi-c) |
 | HealthTech Investor Summit 2026 | 2026-11-30 to 2026-12-02 | Bruges, Belgium | [↗](https://www.healthtechinvestorsummit.com/) |
 | Tech For Retail 2026 | 2026-11-30 | Paris, France | [↗](https://www.techforretail.com/) |
+| AI Monday x Zeiss-Großplanetarium | 2026-11-30 | Berlin, BE, DE | [↗](https://allevents.in/berlin/ai-monday-x-zeiss-großplanetarium/100002003969207846) |
+| Digital Twins in Smart Factories: Concepts for efficient and flexible energy management | 2026-11-30 | Essen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-duisburg-essen-essen-germany-presents-digital-twins-in-smart-factories-concepts-for-efficient-and-flexible-energy-management/) |
+| Explorando Vulnerability Research: Del Descubrimiento a la Explotación | 2026-11-30 | Jaen, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-jaen-presents-explorando-vulnerability-research-del-descubrimiento-a-la-explotacion/) |
 | Cloud Native AI Summit – EUROPE 2026 | 2026-12-01 to 2026-12-02 | Paris | [↗](https://www.cloudnative.ai) |
 | Build It Summit | 2026-12-01 to 2026-12-03 | Paris | [↗](https://dev.events/conferences/build-it-summit-k66lx1xj) |
 | Chief AI Officer Summit London | 2026-12-01 | London | [↗](https://dev.events/conferences/chief-ai-officer-summit-london-ol9qeuex) |
@@ -2650,6 +2634,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | DevFest Izmir 2026 | 2026-12-05 | Bayraklı (Turkey) | [↗](https://gdg.community.dev/events/details/google-gdg-izmir-presents-devfest-izmir-2026/) |
 | DevFest 2026: Developers and builders in the agentic era | 2026-12-05 | Zagreb, Croatia | [↗](https://gdg.community.dev/events/details/google-gdg-zagreb-presents-devfest-2026-developers-and-builders-in-the-agentic-era-1/) |
 | 🚀 DevFest on Campus 2026: Explore AI, DevOps & Cybersecurity | 2026-12-05 | Poznań, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-collegium-da-vinci-poznan-poland-presents-devfest-on-campus-2026-explore-ai-devops-amp-cybersecurity/) |
+| DevFest Ahlen 2026 - ONLINE | 2026-12-05 | Ahlen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-devfest-ahlen-2026-online-1/) |
 | APE 2026 | 2026-12-07 to 2026-12-11 | Apenheul (Netherlands) | [↗](https://ai-ape.nl/) |
 | IT-Tage | 2026-12-07 | Frankfurt am Main, Germany | [↗](https://www.it-tage.org) |
 | IT-Tage 2026 | 2026-12-07 to 2026-12-10 | Frankfurt | [↗](https://dev.events/conferences/it-tage-2026-6azb9oo) |
@@ -2659,6 +2644,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | KCD Suisse Romande 2026 | 2026-12-09 to 2026-12-10 | Geneva (Switzerland) | [↗](https://kcd.cloud-native-romandy.ch/) |
 | droidcon London | 2026-12-09 | London, U.K. | [↗](https://london.droidcon.com) |
 | Open Source Experience 2026 | 2026-12-09 to 2026-12-10 | Paris | [↗](https://dev.events/conferences/open-source-experience-2026-p-ntdtj5) |
+| Global AI Community Helsinki | 2026-12-09 | Helsinki | [↗](https://dev.events/conferences/global-ai-community-helsinki-azbkydc4) |
 | KCD Provence | 2026-12-10 | Aix-en-Provence (France) | [↗](https://cloudnative-provence.fr/) |
 | CloudBrew 2026 - A two-day Microsoft Azure event | 2026-12-10 to 2026-12-11 | Mechelen (Belgium) | [↗](https://www.cloudbrew.be) |
 | Cinq Maîtres en Perspective: Simon Hantaï avec Pierre Wat - Galerie Amelie du Chalard | 2026-12-10 | Paris, FR | [↗](https://lu.ma/e8vi4klp) |
@@ -2672,6 +2658,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | DevFest Bari 2026 | 2026-12-12 | Bari, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-bari-presents-devfest-bari-2026/) |
 | NetCoreConf Barcelona 2026 | 2026-12-12 | Barcelona | [↗](https://dev.events/conferences/net-core-conf-madrid-2026-4cknjny) |
 | DevFest 2026 Ahlen | 2026-12-12 | Ahlen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-devfest-2026-ahlen/) |
+| DevFest Ahlen 2026 \| The AI Agentic Era 🚀 | 2026-12-12 | Ahlen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-devfest-ahlen-2026-the-ai-agentic-era/) |
 | Workshop Stampa 3D | 2026-12-16 | Saint-Vincent, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-valle-daosta-presents-workshop-stampa-3d-1/) |
 | aMP Day Luxembourg 2026 | 2026-12-17 | Luxembourg (Luxembourg) | [↗](https://ampcommunity.online/amp-day-luxembourg-2026/) |
 | Devfest Lleida 2026, Intel.ligència Artesanal, 13a edición | 2026-12-18 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-devfest-lleida-2026-intelligencia-artesanal-13a-edicion/) |
@@ -2969,6 +2956,151 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | webinale Munich | 2027-10-26 to 2027-10-30 | Munich | [↗](https://dev.events/conferences/webinale-munich-bbp7lc2z) |
 | International JavaScript Conference Munich | 2027-11-08 to 2027-11-12 | Munich | [↗](https://dev.events/conferences/international-java-script-conference-munich-ztj8s4fl) |
 | KubeCon + CloudNativeCon Europe 2028 | 2028-04-24 | Berlin (Germany) | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2028/) |
+| Cloud Identity Summit '26 | 2026-11-03 | Frankfurt (Germany) | [↗](https://www.identitysummit.cloud/) |
+| S2N: Storage Server Network | 2026-11-03 to 2026-11-04 | Berlin (Germany) | [↗](https://s2n.heise.de) |
+| The AI Conf | 2026-11-03 to 2026-11-04 | Barcelona (Spain) | [↗](https://theconf.ai/) |
+| Masterclass - Se structurer dès maintenant : pourquoi et comment | 2026-11-03 | Paris, FR | [↗](https://lu.ma/yqyq684y) |
+| DevFest | 2026-11-03 | Malmö, Sweden | [↗](https://gdg.community.dev/events/details/google-gdg-malmo-presents-devfest/) |
+| ManageEngine UserConf Switzerland | 2026-11-03 | Zurich | [↗](https://dev.events/conferences/manage-engine-user-conf-switzerland-rbp-oseg) |
+| Twilio Assemble London: The Future of Comms + AI | 2026-11-03 | London | [↗](https://dev.events/conferences/twilio-assemble-london-the-future-of-comms-ai-eileatwh) |
+| SuperReturn Europe 2026 | 2026-11-03 to 2026-11-06 | Amsterdam, Netherlands | [↗](https://informaconnect.com/superreturneurope/) |
+| ISPO Munich 2026 | 2026-11-03 to 2026-11-05 | Munich, Germany | [↗](https://www.ispo.com) |
+| Innovation dans les paiements | 2026-11-03 | Paris, FR | [↗](https://lu.ma/r16o7r34) |
+| State of AI 2026 - Paris launch event | 2026-11-03 | Paris, FR | [↗](https://lu.ma/soai-paris) |
+| Liquid Galaxy Agentic AI  skill contest | 2026-11-03 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-liquid-galaxy-agentic-ai-skill-contest/) |
+| Petit déjeuner RockFi | 2026-11-03 | Paris, FR | [↗](https://lu.ma/9sz0sepc) |
+| Assemblée Annuelle Citizen Capital - Invitation | 2026-11-03 | Paris, FR | [↗](https://lu.ma/1ybyd1zd) |
+| AI Marketing Night #11 | 2026-11-03 | Paris, FR | [↗](https://lu.ma/fwudpoe4) |
+| Soirée de lancement - projet de court-métrage documentaire sur la profession d'avocat ⚖️🥑 | 2026-11-03 | Paris, FR | [↗](https://lu.ma/d2n7yson) |
+| spektr supper club: paris | 2026-11-03 | Paris, FR | [↗](https://lu.ma/spektr-supper-club-paris) |
+| Speed Playing x Temple & Chapon | 2026-11-03 | Paris, FR | [↗](https://lu.ma/242n79y6) |
+| Women of SaaS Paris – Monthly Networking Drinks \| 3 Nov | 2026-11-03 | Paris, FR | [↗](https://lu.ma/8y8h2qz8) |
+| Startup Recette avec Max Berthelot : l'histoire de Lucis, de Paris à Y Combinator | 2026-11-03 | Paris, FR | [↗](https://lu.ma/ywrbv6xd) |
+| Barcelona Cybersecurity Congress | 2026-11-03 to 2026-11-05 | Barcelona | [↗](https://dev.events/conferences/barcelona-cybersecurity-congress-xklrz7c2) |
+| FinOps for AI: Cost per Task, Not Cost per Token | 2026-11-03 | Gothenburg, Sweden | [↗](https://gdg.community.dev/events/details/google-gdg-west-sweden-presents-finops-for-ai-cost-per-task-not-cost-per-token/) |
+| Google Cloud Builder Connect Poland 2026 \| PGE Narodowy | 2026-11-03 | Warsaw, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-warszawa-presents-google-cloud-builder-connect-poland-2026-pge-narodowy/) |
+| Open Lunch - Entrepreneurs talk | 2026-11-03 | Paris, FR | [↗](https://lu.ma/pnxrh7km) |
+| Data/IA : Faire de sa donnée un véritable actif | 2026-11-03 | Paris, FR | [↗](https://lu.ma/ytkg3oh8) |
+| Agentic analytics meetup Paris - Shark tank edition | 2026-11-03 | Paris, FR | [↗](https://lu.ma/c9vvmfmk) |
+| 🌴 ALOHA BUSINESS LUNCH – Spécial reprise d'entreprise ! | 2026-11-03 | Paris, FR | [↗](https://lu.ma/gxv76vnr) |
+| ⚽ SheMoves by SheEOs #2 Foot salle | 2026-11-03 | Paris, FR | [↗](https://lu.ma/lyr8miyv) |
+| 30 Founders X François Baroin | 2026-11-03 | Paris, FR | [↗](https://lu.ma/e0wusjl7) |
+| Taller de Álgebra | 2026-11-03 | UCAM Catholic University of Murcia, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ucam-murcia-spain-presents-taller-de-algebra/) |
+| Taller de Algoritmia | 2026-11-03 | UCAM Catholic University of Murcia, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ucam-murcia-spain-presents-taller-de-algoritmia/) |
+| Maker Basics: 3D Printing | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/qudhjyxf) |
+| Corporate Influencer Club Meetup Berlin @SBK | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/va148b4q) |
+| Beyond the pilot - Startups meet Corporate Innovation | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/8j1qmeb6) |
+| Claude Your Synth | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/svjq6fv3) |
+| Future Female Founders Meetup (AFM #19) | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/femalefuturefounders2) |
+| Your Personal BRAND is the sale:: Build a brand that sells for you [workshop] | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/lj5ta4y8) |
+| Everyday AI Club for Product Teams | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/everyday-ai-club-product-teams) |
+| Wake Me Up When The LLM Is Done | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/8u4nb0db) |
+| ALIVE — An Energy Experience | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/h8sbkblb) |
+| Antler Young VC Drinks #1 | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/5846owr0) |
+| BLISS AI Speaker Series: Human-Like Artificial Intelligence - Badr Alkhamissi | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/j2k7yyd4) |
+| CINEMA À TABLE # 12 (Armenia Culture) Screening \| Food \| Culture \| Networking | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/8udvigso) |
+| desirelines book club: episode 5 | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/9w47oqls) |
+| Scaling AI Startups: the GTM Playbook with Lovable and ElevenLabs | 2026-11-03 | Paris, FR | [↗](https://lu.ma/336q6ah4) |
+| BRAVE1 Invest Demo Day Paris | 2026-11-03 | Paris, FR | [↗](https://lu.ma/gfz6pgwl) |
+| Institut des Solutions Ile de France - Rencontre #2 | 2026-11-03 | Paris, FR | [↗](https://lu.ma/8fx22ivu) |
+| De l'idée à l'usine : créer son produit physique | 2026-11-03 | Paris, FR | [↗](https://lu.ma/0idftlrx) |
+| Cloudy Book Club: Becoming SRE - Chapter 5 to 10 (Part 2/3) 📕☁️ | 2026-11-03 | Munich, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-munich-presents-cloudy-book-club-becoming-sre-chapter-5-to-10-part-23/) |
+| Offline Reading Party 📚 \| Café Vegardie | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/v3ly84tt) |
+| SALT London 2026 | 2026-11-03 | London, GB | [↗](https://lu.ma/salt-london-2026) |
+| AI Breakfast Club | 2026-11-03 | London, GB | [↗](https://lu.ma/06bpyjsa) |
+| GreenJinn x The Felix Project: End-of-Year Volunteering Day | 2026-11-03 | London, GB | [↗](https://lu.ma/9rizjnup) |
+| The leadership journey from Marketing Director to CMO | 2026-11-03 | London, GB | [↗](https://lu.ma/t87ulqjz) |
+| Morning Masterclass \| Heirlooms & Heritage with Annoushka | 2026-11-03 | London, GB | [↗](https://lu.ma/wkt5ndbx) |
+| Built By Few: The Summit by Connect | 2026-11-03 | London, GB | [↗](https://lu.ma/phtg8nap) |
+| Creds: 2027 - What's Cooking? | 2026-11-03 | London, GB | [↗](https://lu.ma/ggzg07xf) |
+| PASS IT ON: Does Your Restaurant Need PR? Intentional Storytelling with Gemma Bell | 2026-11-03 | London, GB | [↗](https://lu.ma/8libw94t) |
+| Softr + Corgi: Coworking for AI Builders & Operators | 2026-11-03 | London, GB | [↗](https://lu.ma/softr-t65c) |
+| "Stop the seat" a protest against seat-based licensing in software | 2026-11-03 | London, GB | [↗](https://lu.ma/8zkxi9up) |
+| The Big Integration - By Lightspeed Commerce & Stacked | 2026-11-03 | London, GB | [↗](https://lu.ma/geqx7tf9) |
+| Women Building · Edition 01: The Art of Resilience | 2026-11-03 | London, GB | [↗](https://lu.ma/yek7sb8c) |
+| Networks November: A Year in Water Review and Drinks Reception | 2026-11-03 | London, GB | [↗](https://lu.ma/fwa-hajd) |
+| Diwali Workshop | 2026-11-03 | London, GB | [↗](https://lu.ma/1rsrri85) |
+| International Brand Growth Forum | 2026-11-03 | London, GB | [↗](https://lu.ma/0kt9y06y) |
+| Accenture x ShePartners (Consulting work experience) | 2026-11-03 | London, GB | [↗](https://lu.ma/1fo21bcj) |
+| Chief Strategy Officer Roundtable & Networking - London 2026 | 2026-11-03 | London, GB | [↗](https://lu.ma/4a8nlnzi) |
+| From Healthy Longevity to Human Flourishing | 2026-11-03 | London, GB | [↗](https://lu.ma/7kbhbxcb) |
+| HR, Uncapped | 2026-11-03 | London, GB | [↗](https://lu.ma/5bbvgm8i) |
+| The Narrative Rendez-Vous | 2026-11-03 | London, GB | [↗](https://lu.ma/xkg180ya) |
+| Phoenix Film Networking event | 2026-11-03 | London, GB | [↗](https://lu.ma/zdyu1v1k) |
+| COLLAB: Aperture | 2026-11-03 | London, GB | [↗](https://lu.ma/collabaperture) |
+| Seedance 2.5 London Creator Night | 2026-11-03 | London, GB | [↗](https://lu.ma/lc7nayjl) |
+| The UK's ambition for COP31 | 2026-11-03 | London, GB | [↗](https://lu.ma/mvfkk5i1) |
+| HOT BOYS DO NAILS 💅🏼 | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/hotboys-0tk2) |
+| Solutionary Coaching - Brand Launch | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/4jwn0o43) |
+| Berlin: Amela Dinner 🍷💜 | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/zn7beqwn) |
+| Apéro mensuel de la Foncière Bellevilles [Paris] | 2026-11-03 | Paris, FR | [↗](https://lu.ma/jgfimcjr) |
+| Rentrée AfterWork EDGE | 2026-11-03 | Paris, FR | [↗](https://lu.ma/095uuk1l) |
+| Palestine Cinema Days x Kalam Aflam: Foragers (2022) | 2026-11-03 | Paris, FR | [↗](https://lu.ma/ti7aus7b) |
+| Build Your Client Portal with AI in an Evening | 2026-11-03 | London, GB | [↗](https://lu.ma/build-client-portal) |
+| Shakhtar vs Sporting | 2026-11-03 | London, GB | [↗](https://lu.ma/hb3zi5g4) |
+| How to play by the new FTC, Meta, and Apple rules | 2026-11-03 | London, GB | [↗](https://lu.ma/app-lz5y) |
+| Regenerative Futures | 2026-11-03 | London, GB | [↗](https://lu.ma/6p4pf7pr) |
+| Rest & Root: A Sound Bath for DNA Founders | 2026-11-03 | London, GB | [↗](https://lu.ma/w9otg8q2) |
+| AI-First Software Modernisation: Building Platforms Ready for AI Agents | 2026-11-03 | London, GB | [↗](https://lu.ma/vw4tl8j4) |
+| Apollo Meetup: Dos and Don’ts of AI in 2027 for Revenue Leaders | 2026-11-03 | London, GB | [↗](https://lu.ma/uavsafe4) |
+| auri x @naataria Diwali Movie Night | 2026-11-03 | London, GB | [↗](https://lu.ma/7jkr5lpf) |
+| Build Beyond the Demo: Lovable + Go-to-Market | 2026-11-03 | London, GB | [↗](https://lu.ma/women-7q0c) |
+| Crosstide AI: Lessons from the front line | 2026-11-03 | London, GB | [↗](https://lu.ma/5eg4znlm) |
+| Expert Drinks with The Team Around You | 2026-11-03 | London, GB | [↗](https://lu.ma/v129jz0s) |
+| FINTECH Circle CEO Dinner | 2026-11-03 | London, GB | [↗](https://lu.ma/zf9yr4gy) |
+| Food and UX Hangout - London | 2026-11-03 | London, GB | [↗](https://lu.ma/6hqbhoqh) |
+| Internet Icons: Julia Whitney, BBC | 2026-11-03 | London, GB | [↗](https://lu.ma/granola-julia-whitney) |
+| November Wine Meetup 🍂 | 2026-11-03 | London, GB | [↗](https://lu.ma/mve0c7hx) |
+| Pre-SLUSH: Before The Freeze | 2026-11-03 | London, GB | [↗](https://lu.ma/4tmu61oh) |
+| Tech for Good Meetup | 2026-11-03 | London, GB | [↗](https://lu.ma/3q61hvve) |
+| Trend Graveyard: a creator meetup at Ballpoint | 2026-11-03 | London, GB | [↗](https://lu.ma/02nnhopf) |
+| Who Holds Your Keys? A Private Supper on Quantum Readiness | 2026-11-03 | London, GB | [↗](https://lu.ma/lfhd3cey) |
+| Writing and scheming | 2026-11-03 | London, GB | [↗](https://lu.ma/4yp4qkwa) |
+| AI, Machine Learning & Cybersecurity for Founders & Tech Professionals | 2026-11-03 | London, GB | [↗](https://lu.ma/ntl-2gzl) |
+| AI SaaSpocalypse: Is it over? Or is the bigger dip yet to come? | 2026-11-03 | London, GB | [↗](https://lu.ma/f9c49mj8) |
+| Asia Fusion: Tech, AI & Culture \| Networx London x AspirASIAN (Dataiku) | 2026-11-03 | London, GB | [↗](https://lu.ma/ntl-elbb) |
+| Biocomputing Hack | 2026-11-03 | London, GB | [↗](https://lu.ma/2khmpnqp) |
+| Creative Boom IRL London: November Social | 2026-11-03 | London, GB | [↗](https://lu.ma/fhuq5h1x) |
+| Curious Women in AI | 2026-11-03 | London, GB | [↗](https://lu.ma/zw9wwqhy) |
+| Encode AI Demo Night 3.0 | 2026-11-03 | London, GB | [↗](https://lu.ma/encode-ai-demo) |
+| London Tech Night \| Startups, Funding, Investors & Innovation | 2026-11-03 | London, GB | [↗](https://lu.ma/ntl-zhvo) |
+| The Growth Table London · Invite-only Dinner | 2026-11-03 | London, GB | [↗](https://lu.ma/growth-table-london) |
+| Dine with Tramlines: secure £250k for your B2B business | 2026-11-03 | London, GB | [↗](https://lu.ma/tablec-ljhm) |
+| JÑĀNA FILM CLUB: THE MATRIX | 2026-11-03 | London, GB | [↗](https://lu.ma/x8z9xyvi) |
+| In Conversation with Ray BLK presented by Union House | 2026-11-03 | London, GB | [↗](https://lu.ma/theqube-ehsf) |
+| zero point energy: listening room | 2026-11-03 | London, GB | [↗](https://lu.ma/ujuf2kuq) |
+| Sauna Night 🪵🌿🔥 with Rita | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/oxj80see) |
+| Club Innovation Curiosity x Climate House | 2026-11-03 | Paris, FR | [↗](https://lu.ma/o0uo6iis) |
+| Company Brain Meetup #01 | 2026-11-03 | Paris, FR | [↗](https://lu.ma/dm3n8szg) |
+| Meet the Women Shaping the Business of Sport | 2026-11-03 | Paris, FR | [↗](https://lu.ma/d8f997ml) |
+| ROUNDTABLE & NETWORKING EVENT : What AI really changes #1 | 2026-11-03 | Paris, FR | [↗](https://lu.ma/c1itol9u) |
+| Tuesdays @ Casa Tumbao 03.11.2026 | 2026-11-03 | London, GB | [↗](https://lu.ma/wxg4sgxy) |
+| Workshop with Soma Pirityi: Co-Founder Fit | 2026-11-03 | London, GB | [↗](https://lu.ma/wm2kqt5m) |
+| 5v5 casual football (Indoor) [Olympiastadion] | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/d1izsdui) |
+| From Tech to the Field: How to Approach Defense with HEXA and DefenseAngels | 2026-11-03 | Paris, FR | [↗](https://lu.ma/9yec41zq) |
+| capital run #69 | 2026-11-03 | London, GB | [↗](https://lu.ma/33v127u6) |
+| How I Made Millions Selling Chicken Coops | 2026-11-03 | London, GB | [↗](https://lu.ma/6z4m5s3d) |
+| Poly Crafting | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/1c90y4jl) |
+| Contrast Therapy Live · OYA x Verre & Quartz · EquipHotel 2026 | 2026-11-03 | Paris, FR | [↗](https://lu.ma/x0lg8o4v) |
+| Co-sensing Lab #3: When systems get stuck | 2026-11-03 | Paris, FR | [↗](https://lu.ma/97hcgc69) |
+| Dîner SKareers - Roxanne PENNE | 2026-11-03 | Paris, FR | [↗](https://lu.ma/jbw1bjbm) |
+| ML Breakthroughs Breakfast: ThAT x Prefrontal x Nebius | 2026-11-03 | London, GB | [↗](https://lu.ma/ml-breakthroughs-breakfast) |
+| The North European Cyber Days 2026 | 2026-11-03 | Oslo, NO | [↗](https://infosec-conferences.com/event/20261103-the-north-european-cyber-days-2026/) |
+| Transformational CISO Assembly: Barcelona 2026 | 2026-11-03 | Barcelona, ES | [↗](https://infosec-conferences.com/event/20261103-transformational-ciso-assembly-barcelona-2026/) |
+| Expoprotection 2026 | 2026-11-03 | Paris, FR | [↗](https://infosec-conferences.com/event/20261103-expoprotection-2026/) |
+| AI Soc Lecture 03: How ChatGPT Really Works | 2026-11-03 | London, GB | [↗](https://lu.ma/gyj4au28) |
+| Cloud Identity Summit 2026 | 2026-11-03 | Frankfurt, DE | [↗](https://infosec-conferences.com/event/20261103-cloud-identity-summit-2026/) |
+| Planificación de proyectos Club de Programación y desarrollo | 2026-11-03 | Huelva, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-huelva-university-huelva-spain-presents-planificacion-de-proyectos-club-de-programacion-y-desarrollo/) |
+| Rules of reproduction | 2026-11-03 | London, GB | [↗](https://lu.ma/dg42rjao) |
+| GiST Scripted Tuesday + Halloween social | 2026-11-03 | London, GB | [↗](https://lu.ma/t1oxh0gk) |
+| Brazilian Rhythms & FitDance Class in London | 2026-11-03 | London, GB | [↗](https://lu.ma/3q5dg7tk) |
+| Mangazeichnen Kinder/Teenager 9+ mit Margarita | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/m5eplinm) |
+| Chess Bar | 2026-11-03 | Berlin, DE | [↗](https://lu.ma/100gramm-qrfv) |
+| Hoche Hour with Fabien Koutchekian, Genomines \| The Deep-Tech Startup Rewriting the Rules of Mining | 2026-11-03 | Paris, FR | [↗](https://lu.ma/hoche-hour-fabien-koutchekian) |
+| Linkedîne #4 Paris | 2026-11-03 | Paris, FR | [↗](https://lu.ma/06z9fexj) |
+| Paris Office Hours #27 | 2026-11-03 | Paris, FR | [↗](https://lu.ma/38c10dsk) |
+| CISOXSpain 2026 | 2026-11-03 | Madrid, ES | [↗](https://infosec-conferences.com/event/20261103-cisoxspain-2026/) |
+| CIO Challenges 2026 | 2026-11-03 | Copenhagen, DK | [↗](https://infosec-conferences.com/event/20261103-cio-challenges-2026/) |
 | W-JAX München | 2026-11-02 to 2026-11-06 | Munich (Germany) | [↗](https://jax.de/muenchen) |
 | Data & AI Conference Europe 2026 | 2026-11-02 to 2026-11-06 | London | [↗](https://dev.events/conferences/data-and-ai-conference-europe-2026-gem83apy) |
 | Swift Connection | 2026-11-02 to 2026-11-03 | Paris | [↗](https://dev.events/conferences/swift-connection-ttpyco4n) |
@@ -3105,7 +3237,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Culture Musique x Shokz - 15th Anniversary | 2026-10-31 | Paris, FR | [↗](https://lu.ma/ohndvvl2) |
 | COMMON PULSE Ed. 2 – Mending Memory: Paper Embroidery, Archival Collage & Ancestral Remembering | 2026-10-31 | Paris, FR | [↗](https://lu.ma/vm5ascvk) |
 | EXP: Cotswolds Hike 📍 | 2026-10-31 | London, GB | [↗](https://lu.ma/hj284p5l) |
-| Founders Running Club :: London | 2026-10-31 | London, GB | [↗](https://lu.ma/eia7vpcq) |
 | the PROBLEM day | 2026-10-31 | London, GB | [↗](https://lu.ma/mczagntt) |
 | AI Founders Breakfast Club. Saturday 31st October | 2026-10-31 | London, GB | [↗](https://lu.ma/06cjzhx9) |
 | EF saturday_club | 2026-10-31 | London, GB | [↗](https://lu.ma/h30swzvz) |
@@ -3298,7 +3429,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Rev/Tech Ops - Trick or Treat? | 2026-10-29 | London, GB | [↗](https://lu.ma/f1hs6dvb) |
 | shipped #2 - London's FDE Meetup | 2026-10-29 | London, GB | [↗](https://lu.ma/6sgkihj2) |
 | The Forge Salon 001 | 2026-10-29 | London, GB | [↗](https://lu.ma/h69ui33m) |
-| 8yNightgame | 2026-10-29 | Berlin, DE | [↗](https://lu.ma/c7d2pcf7) |
 | Taste the difference: a sensory approach to specialty chocolate | 2026-10-29 | Paris, FR | [↗](https://lu.ma/hnzumjv1) |
 | Apéro Live Music Sessions: Groove & Funk DJ Set by Lekzda | 2026-10-29 | Paris, FR | [↗](https://lu.ma/tcm4y5oa) |
 | LIVE SESSION w/ Likkle studio @La Montgolfière Canal - 29.10.2026 | 2026-10-29 | Paris, FR | [↗](https://lu.ma/mgk672qb) |
@@ -3479,7 +3609,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Sentient Futures: AI × Non-humans Meetup in London. | 2026-10-28 | London, GB | [↗](https://lu.ma/z71yr5mb) |
 | EDC alumni dinner - London | 2026-10-28 | London, GB | [↗](https://lu.ma/f8pusmcc) |
 | Quinten Selhorst - An EWOR X Kickstart Fireside Chat | 2026-10-28 | London, GB | [↗](https://lu.ma/m7jszr8i) |
-| CANAL SOCIAL RUN @ FUTURA HOUSE | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/cvqfxnk7) |
 | Founders Coffee #6 | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/kv8707b7) |
 | afropaperbacks (silent) book club | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/5k3r9npn) |
 | School of Witches - My Body is my Vessel | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/szq8q194) |
@@ -3502,127 +3631,16 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Rogue AI: A Crisis Simulation | 2026-10-28 | London, GB | [↗](https://lu.ma/d4ac0vrm) |
 | Executive Coaching Office Hours with Yuri Narciss | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/circuit-yuri) |
 | Luiii‘s Film Club X Hanns Zischler | 2026-10-28 | Berlin, DE | [↗](https://lu.ma/vmkpt6ak) |
-| Active Vinyasa Flow | 2026-10-28 | Paris, FR | [↗](https://lu.ma/wuxmr4ye) |
 | IMpakt28 | 2026-10-28 | Paris, FR | [↗](https://lu.ma/jgg2e1hk) |
 | Directions EMEA 2026 | 2026-10-27 to 2026-10-29 | Paris (France) | [↗](https://www.directionsforpartners.com/emea2026) |
 | SAP TechEd | 2026-10-27 to 2026-10-29 | Berlin | [↗](https://dev.events/conferences/sap-tech-ed-nhgx-xdc) |
-| Code & Compliance | 2026-10-27 | Brussels | [↗](https://dev.events/conferences/code-and-compliance-vtas-s1a) |
-| The Android Circuit: Ninth Stop | 2026-10-27 | London, United Kingdom | [↗](https://gdg.community.dev/events/details/google-gdg-london-presents-the-android-circuit-ninth-stop/) |
-| GDG Lleida a Agrobiotech Innovation Forum 2026 — Liquid Galaxy amb IA agèntica i Gemini | 2026-10-27 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-gdg-lleida-a-agrobiotech-innovation-forum-2026-liquid-galaxy-amb-ia-agentica-i-gemini/) |
 | 0100 International 2026 | 2026-10-27 to 2026-10-29 | Milan, Italy | [↗](https://www.0100conferences.com/conferences/0100-international) |
-| Hacktelier - HETIC - 3 jours pour passer de l’idée au projet | 2026-10-27 | Paris, FR | [↗](https://lu.ma/dk9qebg7) |
-| FIA - 8ᵉ Afterwork | 2026-10-27 | Paris, FR | [↗](https://lu.ma/ww0zhtq1) |
-| Hop Tu Naa Lightning Talks | 2026-10-27 | Douglas, United Kingdom | [↗](https://gdg.community.dev/events/details/google-gdg-douglas-presents-hop-tu-naa-lightning-talks/) |
-| The Android Circuit: Ninth Stop, St Paul's | 2026-10-27 | London, United Kingdom | [↗](https://gdg.community.dev/events/details/google-gdg-london-presents-the-android-circuit-ninth-stop-st-pauls/) |
-| Founders Breakfast with Ryan Welti x Well in France | 2026-10-27 | Paris, FR | [↗](https://lu.ma/dgjefw99) |
-| Dîner-Conférence - Santé et Biodiversité | 2026-10-27 | Paris, FR | [↗](https://lu.ma/evenem-i6ea) |
-| Women in Climate Paris Afterwork | 2026-10-27 | Paris, FR | [↗](https://lu.ma/hlhbasra) |
-| Harness Engineering & Building a Software Factory | 2026-10-27 | London, United Kingdom | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-london-presents-harness-engineering-amp-building-a-software-factory/) |
-| WILDance | 2026-10-27 | Paris, FR | [↗](https://lu.ma/al2ifuxu) |
-| LÉGENDES : LE DRAGON D’OR & LE PÊCHEUR AU FOND DE LA TASSE À THÉ | 2026-10-27 | Paris, FR | [↗](https://lu.ma/hsd3w8c7) |
-| The Revenue Engine Hackathon: Paris Edition 🇫🇷 | 2026-10-27 | Paris, FR | [↗](https://lu.ma/cnhcdwc3) |
-| MARIONNETES SUR L'EAU | 2026-10-27 | Paris, FR | [↗](https://lu.ma/kv6h6mq7) |
-| Build with AI Workshop: Building an Autonomous Exam Prep & Faculty Simulator with Local LLMs: ADK for Node.js, Gemma 4 & Ollama | 2026-10-27 | Lisbon, Portugal | [↗](https://gdg.community.dev/events/details/google-gdg-lisbon-presents-build-with-ai-workshop-building-an-autonomous-exam-prep-amp-faculty-simulator-with-local-llms-adk-for-nodejs-gemma-4-amp-ollama/) |
-| Leap Monthly Breakfast: Connect, Pitch & Innovate ☕️ | 2026-10-27 | Berlin, DE | [↗](https://lu.ma/d2wi92x5) |
-| KI Park Expert Group - AI for Legal & Compliance | 2026-10-27 | Berlin, DE | [↗](https://lu.ma/y8y5caop) |
-| Conversations on Progress: Carbon Dioxide Removal | 2026-10-27 | Berlin, DE | [↗](https://lu.ma/adcx67s0) |
-| AI Automation for Beginners: Halloween Special! 🎃 | 2026-10-27 | Berlin, DE | [↗](https://lu.ma/co-leym) |
-| AI Is Challenging Testing, But What About Quality? \| 14th Berlin Meetup | 2026-10-27 | Berlin, DE | [↗](https://lu.ma/ttt-14th-berlin) |
-| Founder’s Café in Berlin | 2026-10-27 | Berlin, DE | [↗](https://lu.ma/bz2trurk) |
-| From Product Manager to Product Builder: A Hands-on Workshop with Scout24 x OpenAI | 2026-10-27 | Berlin, DE | [↗](https://lu.ma/h0wjhymo) |
-| QueerNext Workshop: Selling It - What Drag Can Teach You About Showing Up at Work | 2026-10-27 | Berlin, DE | [↗](https://lu.ma/mo8w8qhi) |
-| Chemsex Support & Change Group #2 | 2026-10-27 | Berlin, DE | [↗](https://lu.ma/qfrsxvgf) |
-| Drink & Paint \| femella x Entkorkte Kunst | 2026-10-27 | Berlin, DE | [↗](https://lu.ma/aefima9e) |
-| 12MIN.ME \| BERLIN \| HIRE 😍 #4 | 2026-10-27 | Berlin, DE | [↗](https://lu.ma/mj68n886) |
-| Morning Traces in Berlin (Langfuse Community Run) | 2026-10-27 | Berlin, DE | [↗](https://lu.ma/langfuse-mz0y) |
-| Female VC Club x ANTI: Red Light Pilates & Networking | 2026-10-27 | Berlin, DE | [↗](https://lu.ma/b2qpb26n) |
-| FDJ United Ventures x SheEOs | 2026-10-27 | Paris, FR | [↗](https://lu.ma/wo5qrxhj) |
-| Cercle 750 - Dîner Privé de CEO #10 | 2026-10-27 | Paris, FR | [↗](https://lu.ma/9lakey3p) |
-| Decision Confidence in Financial Services - Private Breakfast & Discussion - Mayfair, London | 2026-10-27 | London, GB | [↗](https://lu.ma/7lmc7gyo) |
-| Building Blocks: Using AI for Business | 2026-10-27 | London, GB | [↗](https://lu.ma/colori-3p87) |
-| Asia House Briefing with Amanda Brooks CBE, Interim Permanent Secretary, BIST | 2026-10-27 | London, GB | [↗](https://lu.ma/vq9g03kn) |
-| Neighbours Coworking: Morning Focus Session at the Black Tower | 2026-10-27 | London, GB | [↗](https://lu.ma/inb0j8de) |
-| Coworking Day: get work done & connect with people | 2026-10-27 | London, GB | [↗](https://lu.ma/y6wr8ckj) |
-| Mini First Aid for Kids | 2026-10-27 | London, GB | [↗](https://lu.ma/isfddc18) |
-| Safe, Open, and Equitable: Reimagining Global Research Collaboration | 2026-10-27 | London, GB | [↗](https://lu.ma/1nrdpst1) |
-| ACT Berlin #20 (AI Coworking Tuesday) | 2026-10-27 | Berlin, DE | [↗](https://lu.ma/act20) |
-| FORMÆ x Maison Fontaine | 2026-10-27 | Paris, FR | [↗](https://lu.ma/lqpsrsa1) |
-| Les ClimatoSportifs x Climate House | 2026-10-27 | Paris, FR | [↗](https://lu.ma/714c6a9f) |
-| 📚 XL Offline Reading Party \| Soirée de lancement : ACOTAR ⚔️ \| Fnac Montparnasse | 2026-10-27 | Paris, FR | [↗](https://lu.ma/the-nxxj) |
-| loveAI: October Edition | 2026-10-27 | London, GB | [↗](https://lu.ma/qjz3x4qa) |
-| TIE Roundtable Lunch London x Venture Leaders FinTech | 2026-10-27 | London, GB | [↗](https://lu.ma/reoczlw9) |
-| Neighbours Coworking: Afternoon Focus Session at the Black Tower | 2026-10-27 | London, GB | [↗](https://lu.ma/wgbiz7dr) |
-| 'The Dark' - 2x tickets to a spooky & specially adapted VI theatre show with touch tour and Audio Descriptive at Battersea Art Centre | 2026-10-27 | London, GB | [↗](https://lu.ma/sq5rsy5d) |
-| Future of Revenue Marketing London | 2026-10-27 | London, GB | [↗](https://lu.ma/0f649pqt) |
-| WORKSHOP: Negative prices, CfDs and batteries: the GB solar revenue case | 2026-10-27 | London, GB | [↗](https://lu.ma/6pa9gq9u) |
-| BLACK UNDERGRAD: AUTUMN CAREERS FAIR | 2026-10-27 | London, GB | [↗](https://lu.ma/3i3uijvd) |
-| Grantham Institute Annual Lecture 2026 with Anne Hidalgo | 2026-10-27 | London, GB | [↗](https://lu.ma/uyqc0kwq) |
-| The Infrastructure Decisions That Define Your Trajectory | 2026-10-27 | London, GB | [↗](https://lu.ma/LondonAIHubxAIforGrowth) |
-| AI Show and Tell | 2026-10-27 | London, GB | [↗](https://lu.ma/ipx5iyhg) |
-| Angel Academe Funder & Founder Networking | 2026-10-27 | London, GB | [↗](https://lu.ma/p5pz9p18) |
-| Black Women Founders Festival | 2026-10-27 | London, GB | [↗](https://lu.ma/9afbqeve) |
-| Building Your Team’s AI Tool Stack: What to Use, When and Why | 2026-10-27 | London, GB | [↗](https://lu.ma/fvxie3hz) |
-| Lessons in Fundraising, Scaling and Mental Toughness w/ Quinten Selhorst (Partner @EWOR, Co-Founder @Felyx ($80M raised + exited)) | 2026-10-27 | London, GB | [↗](https://lu.ma/ey57kwtv) |
-| Nucleate UK Activator Drop-in Session | 2026-10-27 | London, GB | [↗](https://lu.ma/gk3o41kn) |
-| "ONLY MOVEMENTS BETWEEN & WITHIN": Poetry w' Danny Hayward & Laurel Uziell | 2026-10-27 | London, GB | [↗](https://lu.ma/t8khubbb) |
-| RETHINKING ENGINEERING TEAMS | 2026-10-27 | London, GB | [↗](https://lu.ma/lo1udzvk) |
-| Runway by Sifted III | 2026-10-27 | London, GB | [↗](https://lu.ma/4mf21fz7) |
-| Term Sheet by Christmas: Fundraising in the Age of AI | 2026-10-27 | London, GB | [↗](https://lu.ma/mfoncua3) |
-| The Agentic Web Explained | 2026-10-27 | London, GB | [↗](https://lu.ma/AI4Oct26) |
-| The Android Circuit, ADS Special: St. Paul's | 2026-10-27 | London, GB | [↗](https://lu.ma/q57io4hs) |
-| The London AI Conference 2026 | 2026-10-27 | London, GB | [↗](https://lu.ma/London2026) |
-| Unlocking Japan: Investor Night in London | 2026-10-27 | London, GB | [↗](https://lu.ma/ach1w3rc) |
-| UXCrunch: AI Design at Every Size | 2026-10-27 | London, GB | [↗](https://lu.ma/hvsyh98u) |
-| WISE-LDN: Autumnal Evening Chez Saras | 2026-10-27 | London, GB | [↗](https://lu.ma/w73jxc09) |
-| WTS x Canva: Speed Mentoring Evening | 2026-10-27 | London, GB | [↗](https://lu.ma/wb4e8o1v) |
-| Annual Industry Networking Event | 2026-10-27 | London, GB | [↗](https://lu.ma/jfbv1rh6) |
-| ABRC X VINTAGE CLASSICS BOOKCLUB: IS IT THE END OF THE WORLD? | 2026-10-27 | London, GB | [↗](https://lu.ma/az9kkjnm) |
-| Difference Works - navigating work & business as a neurodiverse founder, freelancer or creative | 2026-10-27 | London, GB | [↗](https://lu.ma/szah0nq1) |
-| London SME Networking Event \| Business Owners, Founders & Professionals | 2026-10-27 | London, GB | [↗](https://lu.ma/ntl-g3vq) |
-| Property Investors & Real Estate Leaders Networking Night | 2026-10-27 | London, GB | [↗](https://lu.ma/ntl-dc9a) |
-| 👟 Sidestep | 2026-10-27 | London, GB | [↗](https://lu.ma/lu74gc5d) |
-| Startup Funding & Networking: VCs, Angels & Founders | 2026-10-27 | London, GB | [↗](https://lu.ma/ntl-zz8h) |
-| BEENIEMAN EMINENCE ALBUM LISTENING PARTY | 2026-10-27 | London, GB | [↗](https://lu.ma/eg21mg88) |
-| Digital Deliberative Spaces, Infrastructure, & Methods | 2026-10-27 | London, GB | [↗](https://lu.ma/novy2gxj) |
-| FULL MOON RITUAL with Jessii Rose | 2026-10-27 | London, GB | [↗](https://lu.ma/spiritual-d6aj) |
-| Halloween Edition TRD: London Startups Operator RunClub & Social | 2026-10-27 | London, GB | [↗](https://lu.ma/da0ioqx8) |
-| Liberalism, but for 130+ IQ Anglofuturists? | 2026-10-27 | London, GB | [↗](https://lu.ma/8lvbtivl) |
-| Meet, Eat & Connect: A Southeast Asian Community Dinner @ Kasa & Kin | 2026-10-27 | London, GB | [↗](https://lu.ma/3f72i9ta) |
-| Mode Office London Launch | 2026-10-27 | London, GB | [↗](https://lu.ma/fnnn8juk) |
-| Hybrid Seminar - Qiskit Fall Fest 2026 | 2026-10-27 | Berlin, DE | [↗](https://lu.ma/kfjdb8y0) |
-| Men's Embodiment Group Berlin | 2026-10-27 | Berlin, DE | [↗](https://lu.ma/10mbbqv4) |
-| Climbing & Networking for Builders - Hold The Grip | 2026-10-27 | Paris, FR | [↗](https://lu.ma/4or5jcc3) |
-| Between Rounds: A Fintech Dinner with QED & BlackFin | 2026-10-27 | Paris, FR | [↗](https://lu.ma/wus337hr) |
-| Update x Natacha Brami | 2026-10-27 | Paris, FR | [↗](https://lu.ma/z15x3ijq) |
-| Tuesdays @ Casa Tumbao 27.10.2026 | 2026-10-27 | London, GB | [↗](https://lu.ma/eo290m38) |
-| Blxk Mayo: Black Alt Expression and Music - Live Music | 2026-10-27 | London, GB | [↗](https://lu.ma/1t03g2jv) |
-| Security Cleared Expo London 2026 | 2026-10-27 | London, GB | [↗](https://infosec-conferences.com/event/20261027-security-cleared-expo-london-2026-2/) |
-| AMCHAM T&#038;T Cybersecurity Conference 2026 | 2026-10-27 | Port of Spain, Trinidad & Tobago | [↗](https://infosec-conferences.com/event/20261027-amcham-tandt-cybersecurity-conference-2026/) |
-| capital run #68 | 2026-10-27 | London, GB | [↗](https://lu.ma/xwak0kwc) |
-| hardware builder coffee | 2026-10-27 | London, GB | [↗](https://lu.ma/26ih12u1) |
-| HOME AWAY FROM HOME | 2026-10-27 | London, GB | [↗](https://lu.ma/yoewzk4s) |
-| UROP 101: Research Showcase 2026 | 2026-10-27 | London, GB | [↗](https://lu.ma/c38wjdmw) |
-| Collective Singing - Room to Resonate | 2026-10-27 | Berlin, DE | [↗](https://lu.ma/50vpidvt) |
-| Heliview Identity &amp; Access Management 2026 | 2026-10-27 | Copenhagen, DK | [↗](https://infosec-conferences.com/event/20261027-heliview-identity-and-access-management-2026/) |
-| Fireside Chat with Quinten Selhorst (Partner @EWOR, Co-Founder & ex-CEO @felyx) | 2026-10-27 | London, GB | [↗](https://lu.ma/tx8z3c7t) |
-| Cinema Club \| Obsession | 2026-10-27 | London, GB | [↗](https://lu.ma/44bmor3g) |
-| Neural Networks from Scratch: Teaching AI to Read Your Handwriting \| AI Society Lecture Series | 2026-10-27 | London, GB | [↗](https://lu.ma/fpn2659q) |
-| Speed Business Networking for Professionals in London | 2026-10-27 | London, GB | [↗](https://lu.ma/yep9t9m0) |
-| Workshop with Shil Ghosh | 2026-10-27 | London, GB | [↗](https://lu.ma/p8efo4iw) |
-| The Blocc Stop | 2026-10-27 | London, GB | [↗](https://lu.ma/zqbifhe2) |
-| Coworking Day: Membership Trial 🧑‍💻🌿 | 2026-10-27 | Berlin, DE | [↗](https://lu.ma/7gwtd83t) |
-| Coffee & Lift #32 Tuesdays — Women+ Gym Meetup at John Reed Prenzlauer Berg | 2026-10-27 | Berlin, DE | [↗](https://lu.ma/6s3kfjo5) |
-| Info Session | 2026-10-27 | Istanbul, Türkiye | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-istanbul-okan-university-istanbul-turkiye-presents-info-session-2/) |
-| Cloud Native Days Norway | 2026-10-26 to 2026-10-27 | Bergen (Norway) | [↗](https://2026.cloudnativedays.no/) |
 | Techorama 2026 Netherlands | 2026-10-26 to 2026-10-28 | Utrecht (Netherlands) | [↗](https://www.techorama.nl) |
 | International PHP Conference Munich 2026 | 2026-10-26 to 2026-10-30 | Munich (Germany) | [↗](https://phpconference.com/munich/) |
 | International JavaScript Conference Munich 2026 | 2026-10-26 to 2026-10-30 | Munich (Germany) | [↗](https://javascript-conference.com/muenchen/) |
 | Internationale JavaScript Conference Munich | 2026-10-26 to 2026-10-30 | Munich | [↗](https://dev.events/conferences/internationale-java-script-conference-munich-fgnh1jiz) |
 | AI Week Frankfurt 2026 | 2026-10-26 to 2026-10-30 | Frankfurt am Main | [↗](https://dev.events/conferences/ai-week-frankfurt-2026-cwr32dnr) |
-| Testing Portugal | 2026-10-26 to 2026-10-27 | Lisbon | [↗](https://dev.events/conferences/testing-portugal-e-ftxcv) |
 | webinale Munich 2026 | 2026-10-26 to 2026-10-30 | Munich | [↗](https://dev.events/conferences/webinale-munich-2026-rvmfkwgw) |
-| Y Oslo | 2026-10-26 to 2026-10-27 | Oslo | [↗](https://dev.events/conferences/y-oslo-8pdjtu58) |
-| EKON - Oktober Düsseldorf | 2026-10-23 to 2026-10-27 | Dusseldorf (Germany) | [↗](https://entwickler-konferenz.de/de) |
 | Cloud Native Amsterdam | 2026-09-17 to 2026-11-18 | Amsterdam | [↗](https://dev.events/conferences/cloud-native-amsterdam-7ll5p-sn) |
 | OWASP Chapter Frankfurt | 2026-07-01 to 2026-11-25 | Frankfurt am Main, Germany | [↗](https://owasp.org/www-chapter-frankfurt/) |
 | meshcloud Con'26 | TBA | Frankfurt, Germany | [↗](https://con26.meshcloud.io/ ) |
@@ -3637,123 +3655,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Humanoid Robots Summit North America 2026 | 2026-11-03 to 2026-11-04 | Chicago, IL (USA) | [↗](https://acgrobotus.com/) |
-| Get Into GEAR – Cohorte Google Cloud Career Launchpad \| Séance 2 | 2026-11-03 | Montreal, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-polytechnique-montreal-montreal-canada-presents-get-into-gear-cohorte-google-cloud-career-launchpad-seance-2/) |
-| CONNECTED IDEAS x Startup Grind Event for Rochester Startup Week | 2026-11-03 | Rochester, United States of America | [↗](https://www.startupgrind.com/events/details/startup-grind-rochester-presents-connected-ideas-x-startup-grind-event-for-rochester-startup-week/) |
-| Founder Signal: What Actually Gets You Investor-Ready | 2026-11-03 | Boston, United States of America | [↗](https://www.startupgrind.com/events/details/startup-grind-boston-presents-founder-signal-what-actually-gets-you-investor-ready/) |
-| TestGuild IRL Austin 2026 | 2026-11-03 | Austin | [↗](https://dev.events/conferences/test-guild-irl-austin-2026-t8cywibm) |
-| Production Ready AI Lab 1: Building a Multi-Agent System | 2026-11-03 | San Diego, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-at-university-of-california-san-diego-united-states-presents-production-ready-ai-lab-1-building-a-multi-agent-system/) |
-| Guest Speaker - The AI-Era Software Engineer: From College Projects to Production-Ready Systems | 2026-11-03 | Hayward, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-california-state-university-east-bay-hayward-united-states-presents-guest-speaker-the-ai-era-software-engineer-from-college-projects-to-production-ready-systems/) |
-| GDG UWGB Bi-Weekly Meeting 26-4 | 2026-11-03 | Green Bay, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-wisconsin-green-bay-presents-gdg-uwgb-bi-weekly-meeting-26-4/) |
-| Dance Alchemy® - Sweat & Surrender | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/s6pr1uga) |
-| Rethink Ideas Tour + Trip | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/85kylid6) |
-| THE STRATEGIC OWNER SERIES: Would you buy your business? An Interactive Case Workshop for Owners Who Play to Win | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/9k7bszqo) |
-| Toronto Women’s Fall Social \| Thryve Circle | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/nae7mkiy) |
-| WISE x RCEO: Summer Internship Networking Workshop | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/nl23ozhj) |
-| Social Reading Night #33 - **Creeds Coffee** | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/apwjjv3z) |
-| Craft Cafe: Make friends, Make crafts | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/8mqhiihq) |
-| Education and Connections: Reproductive Health to Perimenopause | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/awsau76z) |
-| Annex Community Fridge Trivia Night + Food Drive | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/qgllh2o5) |
-| Vibe Coding with Google AI Studio | 2026-11-03 | Grand Rapids, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-calvin-university-grand-rapids-united-states-presents-vibe-coding-with-google-ai-studio-1/) |
-| Fluid Foundations with NINI | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/vax1emed) |
-| Pluto Women's Circle 🌙 | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/pdieis3j) |
-| ARAB FEUD LAT NIGHT | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/0978n7hq) |
-| Executive Dinner: Leveraging AI Agents | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/toronto-ai) |
-| Resume Roast & Career Workshop with Rezzy | 2026-11-03 | Toronto, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-seneca-polytechnic-toronto-canada-presents-resume-roast-amp-career-workshop-with-rezzy/) |
-| Percepta Lounge - INFORMS 2026 | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/amhz5dr2) |
-| MCP in Production: What’s Missing? | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/elastic-mcp) |
-| LLM-enabled formal software verification | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/trajec-gvn2) |
-| GDG Career Panel | 2026-11-03 | Minneapolis, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-minnesota-twin-cities-minneapolis-united-states-presents-gdg-career-panel/) |
-| Tech Networking Night | 2026-11-03 | Regina, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-regina-regina-canada-presents-tech-networking-night/) |
-| 9Zero x YPE Mentorship Program Resume Workshop: Telling Your Career Story | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/yperesume) |
-| Dia de Muertos: A Celebration of Community, Culture & Care 🧡 for Hospitality Workers! | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/l5o5yz5g) |
-| MIDGUARD SYSTEMS GOES SILICON VALLEY! | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/si2bnikk) |
-| Writing Club | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/abxsg231) |
-| Art Club with Shasta Garcia | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/qrppb8dn) |
-| ClawCamp Campfire: Sovereign AI - Own Your Stack | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/hx7ywmxp) |
-| Navigating AI: Politics and Society in Germany and the United States | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/hrd4z1xw) |
-| The Future Of Compilers And Programming Languages | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/26rd8qgp) |
-| Make Your Own Perfume | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/dm9hcg5q) |
-| The AI Will See You Now: AI for Healthcare, Sports and Human Performance | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/ti8gow87) |
-| Rest & Reset | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/5h43eqdv) |
-| SF Lean Meetup | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/l83qdr0z) |
-| Spark & Spirits SF: Data & AI After Party | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/mpzaf7kq) |
-| (Unofficial)GamesBeat SF Day1:Dinner & Mixer | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/o4f6ajlh) |
-| FC SF • Founders Run & Coffee! | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/2opylbqn) |
-| Wilbe x Gigascale: An Unscripted Breakfast | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/sucxqjfw) |
-| Inference Routing Summit | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/v1qkf012) |
-| Multi-Mission Autonomy for the Fire Service | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/8fj2rll3) |
-| 9Zero October Cohort - Welcome Breakfast | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/9cmdact9) |
-| Defense Tech Conference 2026 | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/defensetechwest) |
-| Hello World, A Linq Event | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/zkrdrh2t) |
-| Korea–SF AI Business Matching Day | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/wgqypsam) |
-| Many Paths: Stories for a Better Future with Fire – An Interactive Screening | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/rl2yhpms) |
-| Soho Diner Backgammon Night | 2026-11-03 | New York, US | [↗](https://lu.ma/6cklg3uu) |
-| AI Startup Open Mic | 2026-11-03 | New York, US | [↗](https://lu.ma/3bimt3ii) |
-| run to l'industrie pizza! | 2026-11-03 | New York, US | [↗](https://lu.ma/9xvs1nc1) |
-| FC NYC • Founders Run & Coffee! | 2026-11-03 | New York, US | [↗](https://lu.ma/zm4q009z) |
-| NYC Fintech Coffee | 2026-11-03 | New York, US | [↗](https://lu.ma/x26au1y0) |
-| Brew & Build: Persona x Corgi NYC EDITION | 2026-11-03 | New York, US | [↗](https://lu.ma/personacorgicafeny) |
-| Claude Code Workshop with Tenex - NYC | 2026-11-03 | New York, US | [↗](https://lu.ma/tenex-claude-code-workshop-NYC-11.3) |
-| Electric Ride & Site Visit with First Student | 2026-11-03 | New York, US | [↗](https://lu.ma/aeg-26q4-sitevisit) |
-| Open Studio: Architects & Designers Coworking Session | 2026-11-03 | New York, US | [↗](https://lu.ma/com64xjd) |
-| Physical AI & Robotics Developer Workshop with Intel | 2026-11-03 | New York, US | [↗](https://lu.ma/newyork-6qse) |
-| PEF & Friends GEO Workshop | 2026-11-03 | New York, US | [↗](https://lu.ma/9kmoiah1) |
-| Build an Agent Factory with OpenAI’s Agents API and Rasa Mantle | 2026-11-03 | New York, US | [↗](https://lu.ma/56nl6dpz) |
-| Pole Session: Level 2/3 | 2026-11-03 | New York, US | [↗](https://lu.ma/1sn2cgqu) |
-| 5 to 9 | 2026-11-03 | New York, US | [↗](https://lu.ma/jjbkcojw) |
-| Mahjong Invitational for NYC Engineers | 2026-11-03 | New York, US | [↗](https://lu.ma/ybhmzrsp) |
-| AIMLC Meetup: Did AI Break The Navier-Stokes Equations? | 2026-11-03 | New York, US | [↗](https://lu.ma/zshgy0bc) |
-| BCIs: Inflection or Peak? | 2026-11-03 | New York, US | [↗](https://lu.ma/zhxf3by7) |
-| Field Notes: The Exhibition \| Opening Night @ Fabrik | 2026-11-03 | New York, US | [↗](https://lu.ma/nhh0e5st) |
-| Founder and Investor Card Trading Night | 2026-11-03 | New York, US | [↗](https://lu.ma/ttujc461) |
-| Frontier Paper Club | 2026-11-03 | New York, US | [↗](https://lu.ma/ybo5dulu) |
-| Agents We Shipped, Agents We Killed | 2026-11-03 | New York, US | [↗](https://lu.ma/2oedqcbk) |
-| ba•objeto wrap party | 2026-11-03 | New York, US | [↗](https://lu.ma/eo9tajpm) |
-| Beyond Small Talk: Tech Mixer | 2026-11-03 | New York, US | [↗](https://lu.ma/mxfcb9wx) |
-| Bound by AI: Should AI Be Able to Bind Business? | 2026-11-03 | New York, US | [↗](https://lu.ma/2026-itny-distribution-debates) |
-| Chi Kung, A Wellness Movement Class | 2026-11-03 | New York, US | [↗](https://lu.ma/inynblxm) |
-| Fall Fashion Networking Event | 2026-11-03 | New York, US | [↗](https://lu.ma/n01mwvo3) |
-| Gallery Opening At Satellite Art Show | 2026-11-03 | New York, US | [↗](https://lu.ma/dbl9vnij) |
-| Grounded in Gratitude: An Evening of Journaling, Meditation & Sound Bath | 2026-11-03 | New York, US | [↗](https://lu.ma/9zbyo5aj) |
-| I Play Rocky Screening | 2026-11-03 | New York, US | [↗](https://lu.ma/ec78t2fp) |
-| Mobile App Build Night @Corgi Cafe | 2026-11-03 | New York, US | [↗](https://lu.ma/ro1mshjx) |
-| Prenatal Happy Hour | 2026-11-03 | New York, US | [↗](https://lu.ma/ok7d11t5) |
-| Presales Leader Dinner NYC | 2026-11-03 | New York, US | [↗](https://lu.ma/bmd3r0di) |
-| Sinead O'Sullivan. Fireside chat. Ireland, Unfinished. | 2026-11-03 | New York, US | [↗](https://lu.ma/2z3h1kyj) |
-| Sobremesa No. 1: Human in the Loop | 2026-11-03 | New York, US | [↗](https://lu.ma/k5wb9haq) |
-| Pause & Glow - Yoga & Facial Self Care | 2026-11-03 | New York, US | [↗](https://lu.ma/neaapp-gofb) |
-| Navigating Fertility Treatment: Supporting the body through egg freezing, IUI and IVF | 2026-11-03 | New York, US | [↗](https://lu.ma/ai04xl2w) |
-| NYC Dinner with Friends | 2026-11-03 | New York, US | [↗](https://lu.ma/hl0e2qpp) |
-| Tribeca Club: Infra & Cyber Dinner | 2026-11-03 | New York, US | [↗](https://lu.ma/g99us2km) |
-| The Trampoline Hall Lecture Series | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/ur3dvnkl) |
-| Cómo dirigir, evaluar y confiar en la Inteligencia Artificial | 2026-11-03 | Mexico City, Mexico | [↗](https://gdg.community.dev/events/details/google-gdg-cdmx-presents-como-dirigir-evaluar-y-confiar-en-la-inteligencia-artificial/) |
-| Star Trek Trivia Night | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/hydyqgll) |
-| Accelr8 \| Cowork Club | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/accelr8-gd0c) |
-| Content Baddies 🎞️ | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/k4rllout) |
-| Breaking Into Product Design: A Fireside Chat | 2026-11-03 | New York, US | [↗](https://lu.ma/jma56hn3) |
-| LISA FRANK NOSTALGIA NIGHT✨ | 2026-11-03 | New York, US | [↗](https://lu.ma/9lt4hlwb) |
-| Outliers Welcome Party | 2026-11-03 | New York, US | [↗](https://lu.ma/outlierswelcome) |
-| WinC x Tech@NYU: AI & Sustainability with ecogpt | 2026-11-03 | New York, US | [↗](https://lu.ma/11rd4851) |
-| MahPoints mahjong league game night Nov 3 | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/bbz8zj5o) |
-| Stop Your AI From Lying: Build Dashboards You Can Trust | 2026-11-03 | Phoenix, US | [↗](https://www.meetup.com/phoenix-ai-for-business-workshops-networking-strategy/events/316998543/) |
-| AI x Women's Health Breakfast - Founders, Investors & Clinicians | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/80qehysg) |
-| Chinese / HK Mahjong on the Upper West Side! | 2026-11-03 | New York, US | [↗](https://lu.ma/adkflr5w) |
-| Intro to Laser Cutting & Engraving: Basic Use & Safety | 2026-11-03 | New York, US | [↗](https://lu.ma/f1e5pxmn) |
-| OTSec Canada 2026 | 2026-11-03 | Montreal, CA | [↗](https://infosec-conferences.com/event/20261103-otsec-canada-2026/) |
-| End of Year Potluck Art Industry Dinner (Tribeca, NYC) | 2026-11-03 | New York, US | [↗](https://lu.ma/n5t88xij) |
-| Research Study Participant – Paid AI Wearables Study | 2026-11-03 | New York, NY, US | [↗](https://allevents.in/new-york/research-study-participant-paid-ai-wearables-study/100002003685145207) |
-| Morning Grind: Founder Coffee Drop-In | 2026-11-03 | Grand Rapids, United States of America | [↗](https://www.startupgrind.com/events/details/startup-grind-grand-rapids-presents-morning-grind-founder-coffee-drop-in/) |
-| ManageEngine Shield NxG: Chicago 2026 | 2026-11-03 | Chicago, US | [↗](https://infosec-conferences.com/event/20261103-manageengine-shield-nxg-chicago-2026/) |
-| Edition FinCrime Leaders Summit: New York CIty 2026 | 2026-11-03 | New York City, US | [↗](https://infosec-conferences.com/event/20261103-edition-fincrime-leaders-summit-new-york-city-2026/) |
-| Intro to APIs and Postman | 2026-11-03 | Troy, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-rensselaer-polytechnic-institute-troy-united-states-presents-intro-to-apis-and-postman/) |
-| Kips Bay Coworking Meetup | 2026-11-03 | New York, US | [↗](https://lu.ma/9ckn0ju8) |
-| AI Futures - Forecasting the Future of AI Progress | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/s2g7k063) |
-| CISOXMinneapolis 2026 | 2026-11-03 | Minneapolis, US | [↗](https://infosec-conferences.com/event/20261103-cisoxminneapolis-2026/) |
-| RBLN West 2026 | 2026-11-03 | San Francisco, US | [↗](https://infosec-conferences.com/event/20261103-rbln-west-2026/) |
-| YubiNation Summit 2026 | 2026-11-03 | San Francisco, US | [↗](https://infosec-conferences.com/event/20261103-yubination-summit-2026/) |
-| ISC East 2026 | 2026-11-03 | New York City, US | [↗](https://infosec-conferences.com/event/20261103-isc-east-2026/) |
-| Bank IT Conference Toronto | 2026-11-03 | Toronto, CA | [↗](https://infosec-conferences.com/event/20261103-bank-it-conference-toronto/) |
 | Open Source in Finance Forum New York | 2026-11-04 to 2026-11-05 | New York, NY (USA) | [↗](https://events.linuxfoundation.org/open-source-finance-forum-new-york/) |
 | rvatech/ Women in Technology Conference | 2026-11-04 to 2026-11-05 | Richmond, VA (USA) | [↗](https://rvatech.com/rvatech-events/rvatech-women-in-technology-conference/) |
 | 2026 ACSA Leadership Summit | 2026-11-04 to 2026-11-07 | Chula Vista, CA (USA) | [↗](https://bit.ly/26LeadershipSummit) |
@@ -3912,6 +3813,10 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | BCI Readiness Forum | 2026-11-04 | New York, US | [↗](https://lu.ma/bci-readiness-nyc-2026) |
 | Lawtrades: Private Screening of You Can See Everything | 2026-11-04 | New York, US | [↗](https://lu.ma/lawtrades-h6on) |
 | Secrets of AI-Pilled Organizations | 2026-11-04 | New York, US | [↗](https://lu.ma/lvql9buv) |
+| Physical AI Over Matcha: What Broke When You Changed the Robot? | 2026-11-04 | San Francisco, US | [↗](https://lu.ma/zpux4wuf) |
+| Bar Scrum with Simon Zebo | 2026-11-04 | New York, US | [↗](https://lu.ma/96dkbz8o) |
+| New Stadium: 216 | 2026-11-04 | Toronto, CA | [↗](https://lu.ma/stadium216) |
+| Social Coding & Happy Hour | 2026-11-04 | Charleston, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-charleston-presents-social-coding-amp-happy-hour-39/) |
 | OWASP Global AppSec US 2026 - CFP (San Francisco) | 2026-11-05 to 2026-11-06 | San Francisco, CA (USA) | [↗](https://owasp.glueup.com/event/owasp-global-appsec-usa-2026-167174/) |
 | WordCamp Canada 2026 | 2026-11-05 to 2026-11-06 | Vancouver | [↗](https://dev.events/conferences/word-camp-canada-2026-ke5zosbn) |
 | UXDX San Francisco | 2026-11-05 to 2026-11-06 | San Francisco | [↗](https://dev.events/conferences/uxdx-san-francisco-glfkabqb) |
@@ -4095,6 +4000,51 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | On Slop: Culture Slop, in conversation at times | 2026-11-05 | New York, US | [↗](https://lu.ma/sxsm3y1q) |
 | Sisley Paris x Womansplain present: An Evening with Becky Fawcett, Founder and CEO of Helpusadopt.org | 2026-11-05 | New York, US | [↗](https://lu.ma/helpusadopt_womansplain) |
 | The Private Estate & Advisory Circle - Manhattan · The Niche Group | 2026-11-05 | New York, US | [↗](https://lu.ma/wljfqkh1) |
+| Rooftop Investor Dinner: How Oscar Winner A.R. Rahman Is Reinventing Music with AI | 2026-11-05 | San Francisco, US | [↗](https://lu.ma/venture-pq65) |
+| Trivia at Rikki's with Coach Mahoney | 2026-11-05 | San Francisco, US | [↗](https://lu.ma/281vz6jl) |
+| In-person meetup in SF | 2026-11-05 | San Francisco, US | [↗](https://lu.ma/lds53r6t) |
+| Fireside Chat w/ Cory and Alex | 2026-11-05 | New York, US | [↗](https://lu.ma/kpt6854s) |
+| Site Visit \| Resilience Infrastructure: East Side Coastal Resiliency | 2026-11-05 | New York, US | [↗](https://lu.ma/nyu-pe6y) |
+| BNI 20 Super Connectors Happy Hour | 2026-11-05 | New York, US | [↗](https://lu.ma/hdoptfbi) |
+| Cracken CISO Dinner event | 2026-11-05 | New York, US | [↗](https://lu.ma/3dinf4do) |
+| EA Data & Tech Meetup | 2026-11-05 | New York, US | [↗](https://lu.ma/njbsozin) |
+| FDE of NY Talks at Datadog | 2026-11-05 | New York, US | [↗](https://lu.ma/klw6jrtv) |
+| Founder Golf with Cluster & Hammock (a16z speedrun) | 2026-11-05 | New York, US | [↗](https://lu.ma/o6v4jnuf) |
+| Ghosts in the System - How AI Powers Scale | 2026-11-05 | New York, US | [↗](https://lu.ma/yxxzlmuc) |
+| Harvest - Vercel Women in Engineering Event | 2026-11-05 | New York, US | [↗](https://lu.ma/harvest-vercel) |
+| LinkedIn Executive & Leaders Community \| Q4 Private Dinner NYC | 2026-11-05 | New York, US | [↗](https://lu.ma/7f3wdf8g) |
+| November 5: how does leadership need to change in the era of AI? | 2026-11-05 | New York, US | [↗](https://lu.ma/8jdg3ie9) |
+| NYC DSSG \| Data Diplomats For Nonprofits - November Happy Hour | 2026-11-05 | New York, US | [↗](https://lu.ma/f0decmbv) |
+| Parts Of The Whole Group Exhibition | 2026-11-05 | New York, US | [↗](https://lu.ma/31xplf1o) |
+| Reciprocal Founders Roundtable (40 and Over) | 2026-11-05 | New York, US | [↗](https://lu.ma/g9jppyjf) |
+| The Zeroth in New York: Page One of AI Transformation | 2026-11-05 | New York, US | [↗](https://lu.ma/x4d12osu) |
+| Vibe Coding for Designers | 2026-11-05 | New York, US | [↗](https://lu.ma/151i0zqo) |
+| Building a Private Equity Firm: Inside 8 Pillars Capital | 2026-11-05 | New York, US | [↗](https://lu.ma/etti7umr) |
+| First Concepts Creative Sprint NYC | 2026-11-05 | New York, US | [↗](https://lu.ma/qtaumm0n) |
+| Opening Reception \| Clark Fox: Beyond Obedience | 2026-11-05 | New York, US | [↗](https://lu.ma/qmzuo278) |
+| Inside TPM: Technical Product Management across Industries | 2026-11-05 | New York, US | [↗](https://lu.ma/lls8cxxu) |
+| A Burgundy Friendsgiving | 2026-11-05 | New York, US | [↗](https://lu.ma/vfgd7f4r) |
+| A Chief of Staff Mixer on Growth (Thur Nov 5) | 2026-11-05 | New York, US | [↗](https://lu.ma/iu6xzqey) |
+| Boba Making for VCs and Founders | 2026-11-05 | New York, US | [↗](https://lu.ma/whcrrc4g) |
+| Cake Decorating Workshop 🍰 | 2026-11-05 | New York, US | [↗](https://lu.ma/maayans-ucwj) |
+| Candle Painting 🕯️ | 2026-11-05 | New York, US | [↗](https://lu.ma/dvaah0f1) |
+| Close Club Finance Happy Hour — NYC 🥂 | 2026-11-05 | New York, US | [↗](https://lu.ma/mxglsm7f) |
+| Entrepreneurship Supper Club in NYC featuring Jamie Henning and Mika Mooney | 2026-11-05 | New York, US | [↗](https://lu.ma/q32q754q) |
+| F&B Roundtable NYC | 2026-11-05 | New York, US | [↗](https://lu.ma/id7jeyjp) |
+| Goddesses of Grace - A Biweekly Wisdom & Ancestral Healing Circle in NYC | 2026-11-05 | New York, US | [↗](https://lu.ma/k29j70bc) |
+| Invite-Only Evening with Privy: NY | 2026-11-05 | New York, US | [↗](https://lu.ma/IntroPrivyNY) |
+| Mahj in Manhattan: Bam Dot Crack x Shtick | 2026-11-05 | New York, US | [↗](https://lu.ma/ol8dz2as) |
+| [member-only] CNC Router: Basic Use & Safety | 2026-11-05 | New York, US | [↗](https://lu.ma/velqlucm) |
+| Mondrio: NYC Private Dinner - Monetizing AI | 2026-11-05 | New York, US | [↗](https://lu.ma/jpty0h1g) |
+| Mosaic Pottery Workshop | 2026-11-05 | New York, US | [↗](https://lu.ma/maayans-vo28) |
+| Off The Record Dinner: Pt.II | 2026-11-05 | New York, US | [↗](https://lu.ma/md59a1v5) |
+| Onmiflow Digital x Maintouch: NYC Agency Happy Hour | 2026-11-05 | New York, US | [↗](https://lu.ma/c53160nj) |
+| Real Estate Networking | 2026-11-05 | New York, US | [↗](https://lu.ma/163ttpa7) |
+| Reclaiming Joy: An Evening with Dr. Judith Joseph + 4A | 2026-11-05 | New York, US | [↗](https://lu.ma/80pkyffv) |
+| SCULPT + SURRENDER | 2026-11-05 | New York, US | [↗](https://lu.ma/mf3e5rew) |
+| SuperCouncil 26 \| New York City | 2026-11-05 | New York, US | [↗](https://lu.ma/awhzcy1t) |
+| Business Models for Human Flourishing | 2026-11-05 | New York, US | [↗](https://lu.ma/n1kayp7d) |
+| Kickstart Your Career: AI assisted Interview Workshop | 2026-11-05 | Madison, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-wisconsin-madison-madison-united-states-presents-kickstart-your-career-ai-assisted-interview-workshop/) |
 | SeaGL (the Seattle GNU/Linux Conference) | 2026-11-06 to 2026-11-07 | Seattle, WA (USA) | [↗](https://seagl.org) |
 | PNW Day of Data 2026 | 2026-11-06 to 2026-11-07 | Vancouver, Washington | [↗](https://dayofdata.org/2026-11-07-dayofdata1149) |
 | Texas Linux Fest | 2026-11-06 to 2026-11-07 | Austin | [↗](https://dev.events/conferences/texas-linux-fest-k4lkpnyv) |
@@ -4155,6 +4105,59 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | VISA SF Meetup: Security When Everyone Has an Agent | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/acpvioey) |
 | Women + AI x MNT Studio: Oh, She Builds | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/womenai-78p4) |
 | Backgammon Club | 2026-11-06 | Toronto, CA | [↗](https://lu.ma/7fw3dtkq) |
+| OWASP After Hours with Pixee + Miggo | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/36dvzx25) |
+| pie social @ idler | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/1dm0fvm4) |
+| A Country Worth Burning: Inside the NASA FireSense Project | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/5vuzu5xe) |
+| CISO Strategy Salon - OWASP AppSec Conference | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/0d2iqr89) |
+| Come make bracelets and keychains! | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/usecorgi-bojn) |
+| Even Day SF: Build for the Glasses of the Future with Even Realities | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/jvcxz1he) |
+| Fireside Dinner with Patreon CEO Jack Conte | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/jackconte) |
+| LangChain SF Meetup with TypeSafe AI: Judgment Calls | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/iuc3ostf) |
+| Shepherd AI Engineers Dinner | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/nvr17npf) |
+| Stripe Developer Meetup San Francisco November 2026 | 2026-11-06 | South San Francisco, US | [↗](https://lu.ma/avmfp2tu) |
+| Agentic Aha'aina: A Payments & eCommerce Executive Roundtable Dinner | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/baselayer-twr4) |
+| GTM Series #03: Stevie Case (x-CRO Vanta) | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/gtmseries_vanta) |
+| Millennial Punk: Episodes 3 & 4 + Conversation | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/4a0ouiss) |
+| Punk Software Hack Night: Own your interfaces | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/5v4ke7kg) |
+| 139th SF Hardware Meetup @ Vizcom \| Manufacturing and Design | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/2u9iuenk) |
+| AI Automation Agency Meetup | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/jamic0vl) |
+| Amplify Security + Root Evidence OWASP Dinner | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/wcvgjw3o) |
+| Founders, Operators & Investors: Rooftop Social | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/uy7rhoiy) |
+| Friday x Miraj Collective | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/1rsro4qz) |
+| Golden Gate Social Hour & Hoops, Hops and Warriors Ticket Raffle 🌉 | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/n7annems) |
+| LPL Book Club: Into the Blue | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/5jktaw7q) |
+| SparkLabs Tokenize AI Dinner | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/ce6i4njp) |
+| SPC Demo Night | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/southpark-hkkd) |
+| XX Dinner с Любой Пашковской | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/jyxskggd) |
+| Better Call Claude | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/freestyle-yh5k) |
+| Community Jam Sesh | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/e1n8bfh1) |
+| Designing Another World: Kickoff | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/af5czeip) |
+| Diwali Party | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/ruqh6eyr) |
+| manual reading club: the practice of machine reading | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/machinereading) |
+| Reward Snacking with Abundant Vol. 2 | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/6nz66d98) |
+| Tech Comedy Night: Dinner & Stand-Up | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/qn51h91z) |
+| Romanians in Tech meet Moldovans in Tech in SF | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/5wtzfglj) |
+| Women in Robotics Dinner | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/vvyj3sjs) |
+| 🏃‍➡️ The Builders Run #SF-01 x Gründerzeit House | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/kkbm11wi) |
+| Free 1st Fridays: Coworking at Third Realm | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/i9u0z10f) |
+| PLATFORMday San Francisco 2026 Q4 | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/platformday-san-francisco-2026-q4) |
+| Robotics Hack @ CCSF | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/ccsf-robotics-hack) |
+| PEF SF Monthly Breakfast - November Edition (Every 1st Friday) | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/8egi11kn) |
+| Founder/VC Breakfast @ Focus Innovation Studio | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/aqz0bik7) |
+| Hack the Feed: Creator Tools Hackathon with Oriane, GMI Cloud & Lovable at Amplitude HQ! | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/92iq2a12) |
+| Founders GTM Coffee Meetup | 2026-11-06 | San Francisco, US | [↗](https://lu.ma/8v9rokfj) |
+| Bootstrapped to a $60M Exit: Fireside Chat with Shaan Arora and Zander Arnold | 2026-11-06 | New York, US | [↗](https://lu.ma/380za055) |
+| Fides Entrepreneurship Dinner with Colin Moran | 2026-11-06 | New York, US | [↗](https://lu.ma/fides-3891) |
+| HealthTech Leaders Dinner, hosted by Lemma | 2026-11-06 | New York, US | [↗](https://lu.ma/8fr3jcue) |
+| Intellectual Salon Series - Dr. Eric Verdin | 2026-11-06 | New York, US | [↗](https://lu.ma/qpiurh6e) |
+| Music Industry 101, Session 2: Recordings & Label Deals | 2026-11-06 | New York, US | [↗](https://lu.ma/wp2kctqv) |
+| NYC: Recalculating: How New Motherhood Reorients Your Career and Life — to Your Advantage | 2026-11-06 | New York, US | [↗](https://lu.ma/bl1nfgbb) |
+| Reading for Writers: James Baldwin | 2026-11-06 | New York, US | [↗](https://lu.ma/q3iy8jgx) |
+| ReCON - Coinspiracy II | 2026-11-06 | New York, US | [↗](https://lu.ma/recon) |
+| The Borderless Office: Identity and Access in the World of Remote-First Growth | 2026-11-06 | New York, US | [↗](https://lu.ma/hj9dgulf) |
+| The Check In \| Men’s Mental Health | 2026-11-06 | New York, US | [↗](https://lu.ma/6d7162ic) |
+| The Dinner Table Club at San Babila (Upper East Side) | 2026-11-06 | New York, US | [↗](https://lu.ma/DinnerTableSanBabila2) |
+| date night with friends | 2026-11-06 | New York, US | [↗](https://lu.ma/take2-5cht) |
 | Iowa Code Camp Fall 2026 | 2026-11-07 | Iowa (USA) | [↗](https://iowacodecamp.com) |
 | DevFest KC 2026 | 2026-11-07 | Kansas City, MO (USA) | [↗](https://devfestkc.com) |
 | JCONF 2026 GUATEMALA | 2026-11-07 | Guatemala City | [↗](https://dev.events/conferences/jconf-2026-guatemala-dasfw1ig) |
@@ -4210,6 +4213,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Future Nostalgia | 2026-11-08 | Toronto, CA | [↗](https://lu.ma/2oq9f3xu) |
 | SIMRAN | 2026-11-08 | Toronto, CA | [↗](https://lu.ma/yhc9pd3h) |
 | 🔥Toronto Founder Walk #13 - How to make ambitious friends and influence people. | 2026-11-08 | Toronto, CA | [↗](https://lu.ma/hs4ogqdo) |
+| the third sunday stroll through the PATH | 2026-11-08 | Toronto, CA | [↗](https://lu.ma/izcjy6d3) |
 | KubeCon + CloudNativeCon North America | 2026-11-09 to 2026-11-12 | Salt Lake City, UT, U.S.A. | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026) |
 | Agentics Day: MCP + Agents North America | 2026-11-09 | Salt Lake City, UT (USA) | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/agentics-day-mcp-agents/) |
 | Observability Day North America | 2026-11-09 | Salt Lake City, UT (USA) | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/observability-day/) |
@@ -4271,6 +4275,8 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | ☁️ Get Into GEAR: Google Cloud Career Launchpad Study Jam & Progress Check-In | 2026-11-10 | Grand Rapids, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-calvin-university-grand-rapids-united-states-presents-get-into-gear-google-cloud-career-launchpad-study-jam-amp-progress-check-in/) |
 | Two Steps Forward: November Co-Working | 2026-11-10 | Toronto, CA | [↗](https://lu.ma/4tnjcywz) |
 | NTUT Fireside Chat on Neurotechnology & Medical Devices | 2026-11-10 | Toronto, CA | [↗](https://lu.ma/l4elr6ht) |
+| The $10 Billion Playbook: Deals, Risk & Leadership with Oded Orgil | 2026-11-10 | Toronto, CA | [↗](https://lu.ma/1g1va1lz) |
+| CRUG is Back: R+AI Happy Hour | 2026-11-10 | Chicago, us | [↗](https://www.meetup.com/chicago-r-user-group/events/317150986/) |
 | CodeLaunch | 2026-11-11 | Dallas, United States | [↗](https://codelaunch.com/) |
 | Product-Led Summit Toronto | 2026-11-11 to 2026-11-12 | Toronto | [↗](https://dev.events/conferences/product-led-summit-toronto-l-8eedxh) |
 | AIE CODE 2026 | 2026-11-11 to 2026-11-13 | San Francisco | [↗](https://dev.events/conferences/aie-code-2026-77fc6uhx) |
@@ -4328,6 +4334,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | AI Agents for Business - Toronto | 2026-11-12 | Toronto, ON, CA | [↗](https://allevents.in/toronto/ai-agents-for-business-toronto/100002003119404060) |
 | Data Data Night \| Women, Sovereignty and AI, Part 1: The Labour Market | 2026-11-12 | Toronto, CA | [↗](https://lu.ma/9b3koh3h) |
 | Easylens Workshop & Speed Challenge | 2026-11-12 | Toronto, CA | [↗](https://lu.ma/ib2xdnou) |
+| Embed payments into your platform or marketplace | 2026-11-12 | Toronto, CA | [↗](https://lu.ma/stripe-connect) |
 | pgDay México 2026 | 2026-11-13 | Mexico City | [↗](https://dev.events/conferences/pg-day-mexico-2026-wal4kqq) |
 | Michigan DevFest + AI Hackathon 2026 | 2026-11-13 | Detroit, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-detroit-presents-michigan-devfest-ai-hackathon-2026/) |
 | AI Community Conference Toronto 2026 | 2026-11-13 | Toronto | [↗](https://dev.events/conferences/ai-community-conference-toronto-2026-cguxz0rv) |
@@ -4352,6 +4359,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Hardware Happy Hour (3H) Phoenix (metro) | 2026-11-13 | Phoenix, us | [↗](https://www.meetup.com/hardware-happy-hour-3h-phoenix/events/317147544/) |
 | Dive into AI-Assisted Golang | 2026-11-13 | State College, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-state-college-presents-dive-into-ai-assisted-golang/) |
 | Friday Coffee Chat: Another Type of Networking \| Lucky 13 | 2026-11-13 | Toronto, CA | [↗](https://lu.ma/p064vs12) |
+| GDG Jeopardy! Night | 2026-11-13 | Toronto, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-toronto-metropolitan-university-toronto-canada-presents-gdg-jeopardy-night/) |
 | DevFest Campeche 2026 | 2026-11-14 | Campeche, Mexico | [↗](https://gdg.community.dev/events/details/google-gdg-san-francisco-de-campeche-presents-devfest-campeche-2026/) |
 | Hack The Nest | 2026-11-14 | Ypsilanti, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-eastern-michigan-university-presents-hack-the-nest/) |
 | NASA Space Apps Chicago x GDG DevFest | 2026-11-14 | Evanston, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-northwestern-university-presents-nasa-space-apps-chicago-x-gdg-devfest/) |
@@ -4400,6 +4408,8 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | LIELOS by Levram | 2026-11-15 | Toronto, CA | [↗](https://lu.ma/m410otqi) |
 | Toronto Founders Dinner: For Female Entrepreneurs | 2026-11-15 | Toronto, CA | [↗](https://lu.ma/wet0gdzd) |
 | Lucky Knots Workshop hosted by @ginnnychen | 2026-11-15 | Toronto, CA | [↗](https://lu.ma/uq4fme5e) |
+| Sunday Reading Club | 2026-11-15 | Toronto, CA | [↗](https://lu.ma/ypjl42hv) |
+| Hamid's Colouring Book Launch | 2026-11-15 | Toronto, CA | [↗](https://lu.ma/2cqdqou2) |
 | AI Coding Summit New York Edition | 2026-11-16 to 2026-11-19 | New York, NY (USA) | [↗](https://aicodingsummit.com/nyc) |
 | JSNation US | 2026-11-16 to 2026-11-19 | New York, NY (USA) | [↗](https://jsnation.us) |
 | Ai Coding Summit (New York Edition) | 2026-11-16 to 2026-11-19 | New York | [↗](https://dev.events/conferences/ai-coding-summit-new-york-edition-m5oyvewo) |
@@ -4433,6 +4443,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Small Business AI Builder Tour: San Francisco | 2026-11-17 | San Francisco, CA, US | [↗](https://allevents.in/san-francisco/small-business-ai-builder-tour-san-francisco/100002003517292154) |
 | Startup Grind Bar Night @ The Nassau Inn (November 17) | 2026-11-17 | Princeton, United States of America | [↗](https://www.startupgrind.com/events/details/startup-grind-princeton-presents-startup-grind-bar-night-the-nassau-inn-november-17/) |
 | At $1M and Beyond, the Cost of a Bad Decision Goes Up. | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/m0z056zb) |
+| Closing the Gap Between Business Systems & AI: An Executive Dinner | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/z8oozkr2) |
 | Molding Conference 2026 | 2026-11-18 to 2026-11-19 | Greenville, SC (USA) | [↗](https://www.moldingconference.com/) |
 | Nerdearla México 2026 | 2026-11-18 to 2026-11-20 | Mexico City (Mexico) | [↗](https://nerdearla.mx) |
 | Nerdearla Mexico 2026 | 2026-11-18 to 2026-11-20 | Mexico City | [↗](https://dev.events/conferences/nerdearla-mexico-2026-umn7agy4) |
@@ -4459,6 +4470,12 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Non-Fic Club: Just Mercy by Bryan Stevenson (Book + Movie) | 2026-11-18 | Toronto, CA | [↗](https://lu.ma/l5ab5yyn) |
 | Startup Networking San Francisco: Founders, Investors & Talent Mixer | 2026-11-18 | San Francisco, CA, US | [↗](https://allevents.in/san-francisco/startup-networking-san-francisco-founders-investors-and-talent-mixer/100001987627020925) |
 | Map The Room x Vū Cafe : Past Lives | 2026-11-18 | Toronto, CA | [↗](https://lu.ma/7pw0nqi2) |
+| C100 Fellows Toronto Meet & Greet | 2026-11-18 | Toronto, CA | [↗](https://lu.ma/gzlpopev) |
+| AI & Cloud Security : Trends, Careers & Connections | 2026-11-18 | Toronto, CA | [↗](https://lu.ma/e9202dmd) |
+| 💸 FUC Money: The Workshop (Holiday Edition) 🎄 | 2026-11-18 | Toronto, CA | [↗](https://lu.ma/ioerv7d8) |
+| AI-Powered Mob Programming Jam | 2026-11-18 | Albany, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-capital-region-presents-ai-powered-mob-programming-jam/) |
+| Okta Workflows Community Meetup, San Francisco | 2026-11-18 | San Francisco, us | [↗](https://www.meetup.com/okta-workflows/events/317148701/) |
+| Chicago Data Night: Royal Hansen (Google) | 2026-11-18 | Chicago, us | [↗](https://www.meetup.com/chicago-data-night/events/317090032/) |
 | Getting Started with Open Source Contributions | 2026-11-19 | Richardson, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-the-university-of-texas-at-dallas-richardson-united-states-presents-getting-started-with-open-source-contributions-2026-11-19/) |
 | Agents & APIs NYC Developer Meetup | 2026-11-19 to 2026-11-20 | New York, NY | [↗](https://luma.com/5ohpxqxn) |
 | Ghana Tech Summit - 2026 Ai Edition | 2026-11-19 | New York, NY, US | [↗](https://allevents.in/new-york/ghana-tech-summit-2026-ai-edition/100001362903052719) |
@@ -4473,6 +4490,8 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | AI x the Relevance Advantage @ the NJ AI Hub | 2026-11-19 | Princeton, United States of America | [↗](https://www.startupgrind.com/events/details/startup-grind-princeton-presents-ai-x-the-relevance-advantage-the-nj-ai-hub/) |
 | Tech & Business Networking Toronto | 2026-11-19 | Toronto, ON, CA | [↗](https://allevents.in/toronto/tech-and-business-networking-toronto/100001291770433139) |
 | MongoDB.local Toronto | 2026-11-19 | Toronto | [↗](https://dev.events/conferences/mongo-db-local-toronto-u1tahzn0) |
+| Speedrun the Product Community: A Product Management Speed-Networking Event | 2026-11-19 | Chicago, US | [↗](https://www.meetup.com/chipma/events/316659297/) |
+| Databricks Nov Meetup | 2026-11-19 | Chicago, us | [↗](https://www.meetup.com/databricks-meetup-chicago/events/317147052/) |
 | Swiftsonic '26 | 2026-11-20 to 2026-11-22 | Tennessee (USA) | [↗](https://www.swiftsonicconf.com) |
 | Neurology Conference 2026 | 2026-11-20 to 2026-11-21 | Aloft Boston Seaport District, 401-403 D St, Boston, MA 02210, United States | [↗](https://pubscholars.org/) |
 | DevFest Vancouver 2026 | 2026-11-20 | Vancouver, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-vancouver-presents-devfest-vancouver-2026/) |
@@ -4494,6 +4513,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | DevFest Surrey 2026 | 2026-11-21 | Surrey, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-surrey-presents-devfest-surrey-2026/) |
 | Python Meeting | 2026-11-21 | Phoenix, us | [↗](https://www.meetup.com/pyphoenix-meetup-group/events/317030010/) |
 | RocketRide — Developer-First AI Pipeline Infrastructure | 2026-11-21 | Fresno, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-fresno-presents-rocketride-developer-first-ai-pipeline-infrastructure/) |
+| Build Your First Multi-Agent AI System with the Google ADK, MCP & A2A Protocols! | 2026-11-21 | Ottawa, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-ottawa-ottawa-canada-presents-build-your-first-multi-agent-ai-system-with-the-google-adk-mcp-amp-a2a-protocols/) |
 | AGNTCon + MCPCon | 2026-11-22 | San Jose, CA (USA) | [↗](https://events.linuxfoundation.org/agntcon-mcpcon-north-america/) |
 | GDG Nashville's Monthly Virtual Meet-Up | 2026-11-22 | Nashville, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-nashville-presents-gdg-nashvilles-monthly-virtual-meet-up-2/) |
 | Get into GEAR: Beyond Chatbots, Build Your First AI Agent with Google ADK | 2026-11-23 | Towson, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-towson-university-towson-usa-presents-get-into-gear-beyond-chatbots-build-your-first-ai-agent-with-google-adk/) |
@@ -4548,12 +4568,15 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Convergence 2026 | 2026-12-08 to 2026-12-11 | Miami | [↗](https://dev.events/conferences/convergence-2026-lhz-vler) |
 | Interactive Angular Q&A Session with GDEs | 2026-12-08 | Salt Lake City, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-salt-lake-city-presents-interactive-angular-qampa-session-with-gdes/) |
 | Agent-Ready Websites: WebMCP in Chrome with Gemini | 2026-12-08 | Surrey, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-surrey-presents-agent-ready-websites-webmcp-in-chrome-with-gemini/) |
+| DevFest 2026 - Extended: Agent-Ready Websites: WebMCP in Chrome with Gemini | 2026-12-08 | Surrey, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-surrey-presents-devfest-2026-extended-agent-ready-websites-webmcp-in-chrome-with-gemini/) |
 | The AI Summit New York 2026 | 2026-12-09 to 2026-12-10 | New York, NY (USA) | [↗](https://newyork.theaisummit.com/) |
 | AI Infra Summit 6 | 2026-12-09 | San Francisco, CA (USA) | [↗](https://aiinfra.live/) |
 | The Future of AI Infrastructure | 2026-12-09 | New York City, United States of America | [↗](https://www.startupgrind.com/events/details/startup-grind-new-york-city-presents-the-future-of-ai-infrastructure/) |
 | Dive into Game Development: Building 2D Web Games with Flutter & Flame | 2026-12-09 | Tampa, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-tampa-bay-presents-dive-into-game-development-building-2d-web-games-with-flutter-amp-flame/) |
+| Building with AI: Elastic × AI Security Engineers | 2026-12-09 | Chicago, us | [↗](https://www.meetup.com/elastic-chicago-user-group/events/317209153/) |
 | AI Demo Series: THE GRAND FINAL | 2026-12-10 | Bay Area, United States of America | [↗](https://www.startupgrind.com/events/details/startup-grind-silicon-valley-san-francisco-bay-area-presents-ai-demo-series-the-grand-final/) |
 | Portfolio Review + Holiday Social | 2026-12-10 | Chicago, us | [↗](https://www.meetup.com/nivanlive/events/316767637/) |
+| HVTech Virtual: Understanding the AI Search Journey with Gemini & Google Maps | 2026-12-10 | Hudson, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-hudson-presents-hvtech-virtual-understanding-the-ai-search-journey-with-gemini-amp-google-maps/) |
 | KCD Florida 2026 – Miami | 2026-12-11 | Miami, United States of America | [↗](https://community2.cncf.io/events/details/cncf-kcd-florida-presents-kcd-florida-2026-miami/) |
 | Carpool to Los Angeles Devfest | 2026-12-11 | Fresno, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-fresno-presents-carpool-to-los-angeles-devfest/) |
 | Swift Language User Group (SLUG) x Cocoaheads \| December \| San Francisco | 2026-12-11 | San Francisco, us | [↗](https://www.meetup.com/swift-language/events/314414516/) |
@@ -4568,6 +4591,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | BSides RDU 2026 | 2026-12-18 | Raleigh, NC (USA) | [↗](https://bsidesrdu.org) |
 | The Year-End Social | 2026-12-18 | Surrey, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-surrey-presents-the-year-end-social/) |
 | Exploring AI for Beginners | 2026-12-20 | Lethbridge, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-lethbridge-presents-exploring-ai-for-beginners/) |
+| Morning Grind: Founder Coffee Drop-In | 2026-12-29 | Grand Rapids, United States of America | [↗](https://www.startupgrind.com/events/details/startup-grind-grand-rapids-presents-morning-grind-founder-coffee-drop-in-2026-12-29/) |
 | Build with Gemma: 305 HackFiesta Miami Hackathon Edition January 2027 (Session A In-Person @ FIU - Date & Room TBD / Session B - Jan 1-31, 2027 - Virtual Asynchronous) \| Build W AI | 2027-01-01 | Miami, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-florida-international-university-presents-build-with-gemma-305-hackfiesta-miami-hackathon-edition-january-2027-session-a-in-person-fiu-date-amp-room-tbd-session-b-jan-1-31-2027-virtual-asynchronous-build-w-ai/) |
 | CES 2027 | 2027-01-06 to 2027-01-09 | Las Vegas | [↗](https://dev.events/conferences/ces-2027-mc0vtou1) |
 | CodeMash 2027 | 2027-01-12 | Sandusky, United States | [↗](https://codemash.org/) |
@@ -4691,6 +4715,122 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Build with Gemma: 305 Veterans Hackathon Edition November 2027 (Session A In-Person @ FIU - Date & Room TBD / Session B - Nov 1-30, 2027 - Virtual Asynchronous) \| Build W AI | 2027-11-01 | Miami, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-florida-international-university-presents-build-with-gemma-305-veterans-hackathon-edition-november-2027-session-a-in-person-fiu-date-amp-room-tbd-session-b-nov-1-30-2027-virtual-asynchronous-build-w-ai/) |
 | KubeCon + CloudNativeCon North America 2027 | 2027-11-08 to 2027-11-11 | New Orleans, LA (USA) | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2027/) |
 | Build with Gemma: 305 CodeFest Hackathon Edition December 2027 (Session A - Virtual - Date TBD / Session B - Dec 1-31, 2027 - Virtual Asynchronous) \| Build W AI | 2027-12-01 | Miami, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-florida-international-university-presents-build-with-gemma-305-codefest-hackathon-edition-december-2027-session-a-virtual-date-tbd-session-b-dec-1-31-2027-virtual-asynchronous-build-w-ai/) |
+| Humanoid Robots Summit North America 2026 | 2026-11-03 to 2026-11-04 | Chicago, IL (USA) | [↗](https://acgrobotus.com/) |
+| Get Into GEAR – Cohorte Google Cloud Career Launchpad \| Séance 2 | 2026-11-03 | Montreal, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-polytechnique-montreal-montreal-canada-presents-get-into-gear-cohorte-google-cloud-career-launchpad-seance-2/) |
+| CONNECTED IDEAS x Startup Grind Event for Rochester Startup Week | 2026-11-03 | Rochester, United States of America | [↗](https://www.startupgrind.com/events/details/startup-grind-rochester-presents-connected-ideas-x-startup-grind-event-for-rochester-startup-week/) |
+| Founder Signal: What Actually Gets You Investor-Ready | 2026-11-03 | Boston, United States of America | [↗](https://www.startupgrind.com/events/details/startup-grind-boston-presents-founder-signal-what-actually-gets-you-investor-ready/) |
+| TestGuild IRL Austin 2026 | 2026-11-03 | Austin | [↗](https://dev.events/conferences/test-guild-irl-austin-2026-t8cywibm) |
+| Production Ready AI Lab 1: Building a Multi-Agent System | 2026-11-03 | San Diego, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-at-university-of-california-san-diego-united-states-presents-production-ready-ai-lab-1-building-a-multi-agent-system/) |
+| Guest Speaker - The AI-Era Software Engineer: From College Projects to Production-Ready Systems | 2026-11-03 | Hayward, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-california-state-university-east-bay-hayward-united-states-presents-guest-speaker-the-ai-era-software-engineer-from-college-projects-to-production-ready-systems/) |
+| GDG UWGB Bi-Weekly Meeting 26-4 | 2026-11-03 | Green Bay, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-wisconsin-green-bay-presents-gdg-uwgb-bi-weekly-meeting-26-4/) |
+| Dance Alchemy® - Sweat & Surrender | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/s6pr1uga) |
+| Rethink Ideas Tour + Trip | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/85kylid6) |
+| THE STRATEGIC OWNER SERIES: Would you buy your business? An Interactive Case Workshop for Owners Who Play to Win | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/9k7bszqo) |
+| Toronto Women’s Fall Social \| Thryve Circle | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/nae7mkiy) |
+| WISE x RCEO: Summer Internship Networking Workshop | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/nl23ozhj) |
+| Social Reading Night #33 - **Creeds Coffee** | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/apwjjv3z) |
+| Craft Cafe: Make friends, Make crafts | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/8mqhiihq) |
+| Education and Connections: Reproductive Health to Perimenopause | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/awsau76z) |
+| Annex Community Fridge Trivia Night + Food Drive | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/qgllh2o5) |
+| Vibe Coding with Google AI Studio | 2026-11-03 | Grand Rapids, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-calvin-university-grand-rapids-united-states-presents-vibe-coding-with-google-ai-studio-1/) |
+| Fluid Foundations with NINI | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/vax1emed) |
+| Pluto Women's Circle 🌙 | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/pdieis3j) |
+| ARAB FEUD LAT NIGHT | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/0978n7hq) |
+| Executive Dinner: Leveraging AI Agents | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/toronto-ai) |
+| Resume Roast & Career Workshop with Rezzy | 2026-11-03 | Toronto, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-seneca-polytechnic-toronto-canada-presents-resume-roast-amp-career-workshop-with-rezzy/) |
+| Percepta Lounge - INFORMS 2026 | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/amhz5dr2) |
+| MCP in Production: What’s Missing? | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/elastic-mcp) |
+| LLM-enabled formal software verification | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/trajec-gvn2) |
+| GDG Career Panel | 2026-11-03 | Minneapolis, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-minnesota-twin-cities-minneapolis-united-states-presents-gdg-career-panel/) |
+| Tech Networking Night | 2026-11-03 | Regina, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-regina-regina-canada-presents-tech-networking-night/) |
+| 9Zero x YPE Mentorship Program Resume Workshop: Telling Your Career Story | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/yperesume) |
+| Dia de Muertos: A Celebration of Community, Culture & Care 🧡 for Hospitality Workers! | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/l5o5yz5g) |
+| MIDGUARD SYSTEMS GOES SILICON VALLEY! | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/si2bnikk) |
+| Writing Club | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/abxsg231) |
+| Art Club with Shasta Garcia | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/qrppb8dn) |
+| ClawCamp Campfire: Sovereign AI - Own Your Stack | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/hx7ywmxp) |
+| Navigating AI: Politics and Society in Germany and the United States | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/hrd4z1xw) |
+| The Future Of Compilers And Programming Languages | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/26rd8qgp) |
+| Make Your Own Perfume | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/dm9hcg5q) |
+| The AI Will See You Now: AI for Healthcare, Sports and Human Performance | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/ti8gow87) |
+| Rest & Reset | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/5h43eqdv) |
+| SF Lean Meetup | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/l83qdr0z) |
+| Spark & Spirits SF: Data & AI After Party | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/mpzaf7kq) |
+| (Unofficial)GamesBeat SF Day1:Dinner & Mixer | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/o4f6ajlh) |
+| FC SF • Founders Run & Coffee! | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/2opylbqn) |
+| Wilbe x Gigascale: An Unscripted Breakfast | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/sucxqjfw) |
+| Inference Routing Summit | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/v1qkf012) |
+| Multi-Mission Autonomy for the Fire Service | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/8fj2rll3) |
+| 9Zero October Cohort - Welcome Breakfast | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/9cmdact9) |
+| Defense Tech Conference 2026 | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/defensetechwest) |
+| Hello World, A Linq Event | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/zkrdrh2t) |
+| Korea–SF AI Business Matching Day | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/wgqypsam) |
+| Many Paths: Stories for a Better Future with Fire – An Interactive Screening | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/rl2yhpms) |
+| Soho Diner Backgammon Night | 2026-11-03 | New York, US | [↗](https://lu.ma/6cklg3uu) |
+| AI Startup Open Mic | 2026-11-03 | New York, US | [↗](https://lu.ma/3bimt3ii) |
+| run to l'industrie pizza! | 2026-11-03 | New York, US | [↗](https://lu.ma/9xvs1nc1) |
+| FC NYC • Founders Run & Coffee! | 2026-11-03 | New York, US | [↗](https://lu.ma/zm4q009z) |
+| NYC Fintech Coffee | 2026-11-03 | New York, US | [↗](https://lu.ma/x26au1y0) |
+| Brew & Build: Persona x Corgi NYC EDITION | 2026-11-03 | New York, US | [↗](https://lu.ma/personacorgicafeny) |
+| Claude Code Workshop with Tenex - NYC | 2026-11-03 | New York, US | [↗](https://lu.ma/tenex-claude-code-workshop-NYC-11.3) |
+| Electric Ride & Site Visit with First Student | 2026-11-03 | New York, US | [↗](https://lu.ma/aeg-26q4-sitevisit) |
+| Open Studio: Architects & Designers Coworking Session | 2026-11-03 | New York, US | [↗](https://lu.ma/com64xjd) |
+| Physical AI & Robotics Developer Workshop with Intel | 2026-11-03 | New York, US | [↗](https://lu.ma/newyork-6qse) |
+| PEF & Friends GEO Workshop | 2026-11-03 | New York, US | [↗](https://lu.ma/9kmoiah1) |
+| Build an Agent Factory with OpenAI’s Agents API and Rasa Mantle | 2026-11-03 | New York, US | [↗](https://lu.ma/56nl6dpz) |
+| Pole Session: Level 2/3 | 2026-11-03 | New York, US | [↗](https://lu.ma/1sn2cgqu) |
+| 5 to 9 | 2026-11-03 | New York, US | [↗](https://lu.ma/jjbkcojw) |
+| Mahjong Invitational for NYC Engineers | 2026-11-03 | New York, US | [↗](https://lu.ma/ybhmzrsp) |
+| AIMLC Meetup: Did AI Break The Navier-Stokes Equations? | 2026-11-03 | New York, US | [↗](https://lu.ma/zshgy0bc) |
+| BCIs: Inflection or Peak? | 2026-11-03 | New York, US | [↗](https://lu.ma/zhxf3by7) |
+| Field Notes: The Exhibition \| Opening Night @ Fabrik | 2026-11-03 | New York, US | [↗](https://lu.ma/nhh0e5st) |
+| Founder and Investor Card Trading Night | 2026-11-03 | New York, US | [↗](https://lu.ma/ttujc461) |
+| Frontier Paper Club | 2026-11-03 | New York, US | [↗](https://lu.ma/ybo5dulu) |
+| Agents We Shipped, Agents We Killed | 2026-11-03 | New York, US | [↗](https://lu.ma/2oedqcbk) |
+| ba•objeto wrap party | 2026-11-03 | New York, US | [↗](https://lu.ma/eo9tajpm) |
+| Beyond Small Talk: Tech Mixer | 2026-11-03 | New York, US | [↗](https://lu.ma/mxfcb9wx) |
+| Bound by AI: Should AI Be Able to Bind Business? | 2026-11-03 | New York, US | [↗](https://lu.ma/2026-itny-distribution-debates) |
+| Chi Kung, A Wellness Movement Class | 2026-11-03 | New York, US | [↗](https://lu.ma/inynblxm) |
+| Fall Fashion Networking Event | 2026-11-03 | New York, US | [↗](https://lu.ma/n01mwvo3) |
+| Gallery Opening At Satellite Art Show | 2026-11-03 | New York, US | [↗](https://lu.ma/dbl9vnij) |
+| Grounded in Gratitude: An Evening of Journaling, Meditation & Sound Bath | 2026-11-03 | New York, US | [↗](https://lu.ma/9zbyo5aj) |
+| I Play Rocky Screening | 2026-11-03 | New York, US | [↗](https://lu.ma/ec78t2fp) |
+| Mobile App Build Night @Corgi Cafe | 2026-11-03 | New York, US | [↗](https://lu.ma/ro1mshjx) |
+| Prenatal Happy Hour | 2026-11-03 | New York, US | [↗](https://lu.ma/ok7d11t5) |
+| Presales Leader Dinner NYC | 2026-11-03 | New York, US | [↗](https://lu.ma/bmd3r0di) |
+| Sinead O'Sullivan. Fireside chat. Ireland, Unfinished. | 2026-11-03 | New York, US | [↗](https://lu.ma/2z3h1kyj) |
+| Sobremesa No. 1: Human in the Loop | 2026-11-03 | New York, US | [↗](https://lu.ma/k5wb9haq) |
+| Pause & Glow - Yoga & Facial Self Care | 2026-11-03 | New York, US | [↗](https://lu.ma/neaapp-gofb) |
+| Navigating Fertility Treatment: Supporting the body through egg freezing, IUI and IVF | 2026-11-03 | New York, US | [↗](https://lu.ma/ai04xl2w) |
+| NYC Dinner with Friends | 2026-11-03 | New York, US | [↗](https://lu.ma/hl0e2qpp) |
+| Tribeca Club: Infra & Cyber Dinner | 2026-11-03 | New York, US | [↗](https://lu.ma/g99us2km) |
+| The Trampoline Hall Lecture Series | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/ur3dvnkl) |
+| Cómo dirigir, evaluar y confiar en la Inteligencia Artificial | 2026-11-03 | Mexico City, Mexico | [↗](https://gdg.community.dev/events/details/google-gdg-cdmx-presents-como-dirigir-evaluar-y-confiar-en-la-inteligencia-artificial/) |
+| Star Trek Trivia Night | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/hydyqgll) |
+| Accelr8 \| Cowork Club | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/accelr8-gd0c) |
+| Content Baddies 🎞️ | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/k4rllout) |
+| Breaking Into Product Design: A Fireside Chat | 2026-11-03 | New York, US | [↗](https://lu.ma/jma56hn3) |
+| LISA FRANK NOSTALGIA NIGHT✨ | 2026-11-03 | New York, US | [↗](https://lu.ma/9lt4hlwb) |
+| Outliers Welcome Party | 2026-11-03 | New York, US | [↗](https://lu.ma/outlierswelcome) |
+| WinC x Tech@NYU: AI & Sustainability with ecogpt | 2026-11-03 | New York, US | [↗](https://lu.ma/11rd4851) |
+| MahPoints mahjong league game night Nov 3 | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/bbz8zj5o) |
+| Stop Your AI From Lying: Build Dashboards You Can Trust | 2026-11-03 | Phoenix, US | [↗](https://www.meetup.com/phoenix-ai-for-business-workshops-networking-strategy/events/316998543/) |
+| AI x Women's Health Breakfast - Founders, Investors & Clinicians | 2026-11-03 | San Francisco, US | [↗](https://lu.ma/80qehysg) |
+| Chinese / HK Mahjong on the Upper West Side! | 2026-11-03 | New York, US | [↗](https://lu.ma/adkflr5w) |
+| Intro to Laser Cutting & Engraving: Basic Use & Safety | 2026-11-03 | New York, US | [↗](https://lu.ma/f1e5pxmn) |
+| OTSec Canada 2026 | 2026-11-03 | Montreal, CA | [↗](https://infosec-conferences.com/event/20261103-otsec-canada-2026/) |
+| End of Year Potluck Art Industry Dinner (Tribeca, NYC) | 2026-11-03 | New York, US | [↗](https://lu.ma/n5t88xij) |
+| Research Study Participant – Paid AI Wearables Study | 2026-11-03 | New York, NY, US | [↗](https://allevents.in/new-york/research-study-participant-paid-ai-wearables-study/100002003685145207) |
+| ManageEngine Shield NxG: Chicago 2026 | 2026-11-03 | Chicago, US | [↗](https://infosec-conferences.com/event/20261103-manageengine-shield-nxg-chicago-2026/) |
+| Edition FinCrime Leaders Summit: New York CIty 2026 | 2026-11-03 | New York City, US | [↗](https://infosec-conferences.com/event/20261103-edition-fincrime-leaders-summit-new-york-city-2026/) |
+| Intro to APIs and Postman | 2026-11-03 | Troy, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-rensselaer-polytechnic-institute-troy-united-states-presents-intro-to-apis-and-postman/) |
+| Kips Bay Coworking Meetup | 2026-11-03 | New York, US | [↗](https://lu.ma/9ckn0ju8) |
+| AI Futures - Forecasting the Future of AI Progress | 2026-11-03 | Toronto, CA | [↗](https://lu.ma/s2g7k063) |
+| CISOXMinneapolis 2026 | 2026-11-03 | Minneapolis, US | [↗](https://infosec-conferences.com/event/20261103-cisoxminneapolis-2026/) |
+| RBLN West 2026 | 2026-11-03 | San Francisco, US | [↗](https://infosec-conferences.com/event/20261103-rbln-west-2026/) |
+| YubiNation Summit 2026 | 2026-11-03 | San Francisco, US | [↗](https://infosec-conferences.com/event/20261103-yubination-summit-2026/) |
+| ISC East 2026 | 2026-11-03 | New York City, US | [↗](https://infosec-conferences.com/event/20261103-isc-east-2026/) |
+| Bank IT Conference Toronto | 2026-11-03 | Toronto, CA | [↗](https://infosec-conferences.com/event/20261103-bank-it-conference-toronto/) |
 | Open Source Analytics Conference | 2026-11-02 | San Francisco, CA (USA) | [↗](https://osacon.io) |
 | Microsoft TechCon 365 Dallas 2026 | 2026-11-02 to 2026-11-06 | Dallas, TX (USA) | [↗](https://www.techcon365.com/Dallas) |
 | OWASP Global AppSec USA 2026 | 2026-11-02 to 2026-11-06 | San Francisco | [↗](https://dev.events/conferences/owasp-global-app-sec-usa-2026-f721y-4) |
@@ -4897,7 +5037,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Web AI Summit | 2026-10-30 | Sunnyvale, CA (USA) | [↗](https://goo.gle/WebAISummit26) |
 | Negotiation Transformed? AI in Bargaining and its Broader Implications | 2026-10-30 | New York, NY, US | [↗](https://allevents.in/new-york/negotiation-transformed-ai-in-bargaining-and-its-broader-implications/100001998809567222) |
 | Rise & Flow: Women in Tech Hot Yoga at eComm North | 2026-10-30 | Toronto, CA | [↗](https://lu.ma/6e5dijwe) |
-| Diwali Party | 2026-10-30 | Toronto, CA | [↗](https://lu.ma/frrfn1qs) |
 | Halloween at Pluto - A NIGHT BETWEEN WORLDS | 2026-10-30 | Toronto, CA | [↗](https://lu.ma/pluto-halloween) |
 | Toronto's Cutest Run Club (Oct 30) 🧚👻🎃 | 2026-10-30 | Toronto, CA | [↗](https://lu.ma/r60dcy46) |
 | Brass & Knuckles | 2026-10-30 | Toronto, CA | [↗](https://lu.ma/c05io7g1) |
@@ -4945,7 +5084,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | The Deployment Moat: A Physical AI Industry Panel | 2026-10-30 | San Francisco, US | [↗](https://lu.ma/9qyybpyn) |
 | Everyday Gouache | 2026-10-30 | San Francisco, US | [↗](https://lu.ma/jxyvxlo1) |
 | Hexa × Google: European Founders meet-up | 2026-10-30 | San Francisco, US | [↗](https://lu.ma/8q8fwz0z) |
-| AI Automation Agency Meetup | 2026-10-30 | San Francisco, US | [↗](https://lu.ma/ydvdrnsm) |
 | Designers & Machines October 2026 | 2026-10-30 | San Francisco, US | [↗](https://lu.ma/u0l7j6iz) |
 | [External] Scott Wiener friend banking pizza party 🍕 - let's making voting fun! | 2026-10-30 | San Francisco, US | [↗](https://lu.ma/aisafety-7vpq) |
 | Founder Dinner with Gigsafe & Rho | 2026-10-30 | San Francisco, US | [↗](https://lu.ma/s1fxmsib) |
@@ -4954,7 +5092,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | My Roommate is Trying to Kill Me Book Release | 2026-10-30 | San Francisco, US | [↗](https://lu.ma/ed32d9ok) |
 | The Growth Table Dinner | 2026-10-30 | San Francisco, US | [↗](https://lu.ma/z8c3ttcq) |
 | Breath is Life: Community Breathwork and Soundbath | 2026-10-30 | San Francisco, US | [↗](https://lu.ma/wt4g140t) |
-| Community Jam Sesh | 2026-10-30 | San Francisco, US | [↗](https://lu.ma/9kzcb3n3) |
 | CozyEssays 009 | 2026-10-30 | San Francisco, US | [↗](https://lu.ma/1wjwdsb0) |
 | Inference as Instrument | 2026-10-30 | San Francisco, US | [↗](https://lu.ma/modal-48ev) |
 | Romanian Tech in SF - October Drinks & Chat | 2026-10-30 | San Francisco, US | [↗](https://lu.ma/13gynyln) |
@@ -5218,7 +5355,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Career Woman Supper Club in NYC featuring Jamie Henning | 2026-10-29 | New York, US | [↗](https://lu.ma/8jad1jad) |
 | Consumer Founder Dinner (with VHS Ventures) | 2026-10-29 | New York, US | [↗](https://lu.ma/5oc4rw14) |
 | Founders Golf Club NYC Kickoff | 2026-10-29 | New York, US | [↗](https://lu.ma/o6q2kven) |
-| Founders, Operators & Investors: Rooftop Social | 2026-10-29 | New York, US | [↗](https://lu.ma/dwljtvli) |
 | KYBeware! A Haunted Hallow-Housewarming by Baselayer | 2026-10-29 | New York, US | [↗](https://lu.ma/hallow-housewarming) |
 | Literary Dinner: On Dystopias | 2026-10-29 | New York, US | [↗](https://lu.ma/rvvfaqa0) |
 | Paint a Cake \| Oil Painting Workshop | 2026-10-29 | New York, US | [↗](https://lu.ma/jpl3fyy5) |
@@ -5455,134 +5591,13 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Get into GEAR - Multi Agent AI Application with Gemini and Google ADK | 2026-10-28 | Richardson, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-the-university-of-texas-at-dallas-richardson-united-states-presents-get-into-gear-multi-agent-ai-application-with-gemini-and-google-adk-2026-10-28/) |
 | OWASP LASCON 2026 - Training | 2026-10-27 to 2026-10-28 | Austin, TX (USA) | [↗](http://lascon.org) |
 | OWASP LASCON 2026 | 2026-10-27 to 2026-10-30 | Austin | [↗](https://dev.events/conferences/owasp-lascon-2026-dzyeuihp) |
-| SEV0 | 2026-10-27 | San Francisco | [↗](https://dev.events/conferences/sev-0-5ilzralb) |
-| Building Stateful Agentic Apps with the Gemini Interactions API | 2026-10-27 | San Jose, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-san-jose-presents-building-stateful-agentic-apps-with-the-gemini-interactions-api/) |
-| Grace Hopper Celebration | 2026-10-27 | Philadelphia, United States | [↗](https://ghc.anitab.org/) |
-| Startup Grind Bar Night @ The Nassau Inn (October 27) | 2026-10-27 | Princeton, United States of America | [↗](https://www.startupgrind.com/events/details/startup-grind-princeton-presents-startup-grind-bar-night-the-nassau-inn-october-27/) |
-| Building AI Agents That Teams Can Trust \| Chicago Meetup | 2026-10-27 | Chicago, us | [↗](https://www.meetup.com/the-test-tribe-chicago/events/316766542/) |
-| Meet Your AI Concierge | 2026-10-27 | Phoenix, US | [↗](https://www.meetup.com/phoenix-ai-for-business-workshops-networking-strategy/events/316808608/) |
-| Benchmark Toronto Industry Breakfast | 2026-10-27 | Toronto, CA | [↗](https://lu.ma/25dzt7eo) |
-| Senior Tech Meetup #15 - What Can't AI do? | 2026-10-27 | Toronto, CA | [↗](https://lu.ma/rb0ivqi7) |
-| Breaking Burnout Live \| Downtown Toronto | 2026-10-27 | Toronto, CA | [↗](https://lu.ma/breaking-hp9s) |
-| Healthtech Social by Scalpels & Spreadsheets | 2026-10-27 | Toronto, CA | [↗](https://lu.ma/snshalloween) |
-| Feminist Documentary Night | 2026-10-27 | Toronto, CA | [↗](https://lu.ma/9gyardbg) |
-| Luxury... and Make It Loud. Self-Fashioning in Black, Latinx & Queer Communities. by nigel lezama | 2026-10-27 | Toronto, CA | [↗](https://lu.ma/duvhkqe3) |
-| SF's Biggest Professional Networking Mixer - Entrepreneur, Tech & Game-Changers | 2026-10-27 | San Francisco, us | [↗](https://www.meetup.com/ai-professionals-san-francisco/events/316791964/) |
-| Advance Carbon Removal Coalition - CDR Workshop | 2026-10-27 | Toronto, CA | [↗](https://lu.ma/7m9usjsv) |
-| Social Reading Night #32 - **Creeds Coffee** | 2026-10-27 | Toronto, CA | [↗](https://lu.ma/rks0ezhg) |
-| Community Leader Roundtable #10 | 2026-10-27 | Toronto, CA | [↗](https://lu.ma/supercollider-toronto-community-leaderroundtable10) |
-| Dwell & Swell - Deeptech & Bio Edition | 2026-10-27 | Toronto, CA | [↗](https://lu.ma/dsdeeptech) |
-| BEGINNER LINE DANCING: GAGA AND THE LITTLE MONSTERS | 2026-10-27 | Toronto, CA | [↗](https://lu.ma/c96w2rb0) |
-| NERP is not exclusively Raspberry Pi | 2026-10-27 | Chicago, us | [↗](https://www.meetup.com/nerp-not-exclusively-raspberry-pi/events/316876147/) |
-| From Satellite to Signal: Building a Geospatial Agentic AI Stack | 2026-10-27 | San Francisco, us | [↗](https://www.meetup.com/geomeetup/events/317061292/) |
-| Toronto Dinner with Stan Engineers \| Stan | 2026-10-27 | Toronto, CA | [↗](https://lu.ma/standinner) |
-| MahPoints mahjong league game night Oct 27 | 2026-10-27 | Toronto, CA | [↗](https://lu.ma/zdj3jxak) |
-| Accelerating Frontier AI: The Compute Crisis is a Reinforcement Learning Problem | 2026-10-27 | San Francisco, US | [↗](https://lu.ma/053wztcl) |
-| Building Reliable AI Systems: Tech Talk, Panel, Book Launch and Mixer | 2026-10-27 | San Francisco, US | [↗](https://lu.ma/qyo5y6el) |
-| Are We Running Too Many Agents? | 2026-10-27 | San Francisco, US | [↗](https://lu.ma/0qr6bxcw) |
-| Bids and Bourbon | 2026-10-27 | San Francisco, US | [↗](https://lu.ma/p7l0i132) |
-| How to Get Customers to Actually Pay | 2026-10-27 | San Francisco, US | [↗](https://lu.ma/xrrmbz46) |
-| Executive Supper Club in San Francisco featuring Samantha Low and Angela Wu | 2026-10-27 | San Francisco, US | [↗](https://lu.ma/qw8smqy2) |
-| 90/30 Club Reading: Discovering Interpretable Algorithms by Decompiling Transformers to RASP | 2026-10-27 | San Francisco, US | [↗](https://lu.ma/pe6lf6sv) |
-| Building Your Discord Server Through Every Stage of Game Development | 2026-10-27 | San Francisco, US | [↗](https://lu.ma/tiat-6cdj) |
-| KEYBOARD NIGHT at User Experience Gallery | 2026-10-27 | San Francisco, US | [↗](https://lu.ma/ikj23e58) |
-| MX8 Labs IIEX West Kickoff Dinner | 2026-10-27 | San Francisco, US | [↗](https://lu.ma/vw6qp0zb) |
-| Post Exam Joy Movie | 2026-10-27 | San Francisco, US | [↗](https://lu.ma/zt3nrv6x) |
-| A Court of Splintered Harmony Release Party | 2026-10-27 | San Francisco, US | [↗](https://lu.ma/59ktv2n1) |
-| Breakfast & Agentic Hacking Challenge with Alt Security, Okta Ventures, and Runtime Ventures | 2026-10-27 | San Francisco, US | [↗](https://lu.ma/x7lmea3h) |
-| Free Coffee for Devs with Solstice | 2026-10-27 | San Francisco, US | [↗](https://lu.ma/a33dkf1s) |
-| SEV0 - The reliability conference (SF) | 2026-10-27 | San Francisco, US | [↗](https://lu.ma/wuoe9ul2) |
-| Group Coaching: Navigating Two Identities as an Immigrant Founder | 2026-10-27 | San Francisco, US | [↗](https://lu.ma/u0u2y4p0) |
-| Neera demo #10 - San Francisco | 2026-10-27 | San Francisco, US | [↗](https://lu.ma/l5v1zqgk) |
-| GTM AI Paradox: You Got Speed, But Lost the System - One Way Summit Official Side Event | 2026-10-27 | San Francisco, US | [↗](https://lu.ma/h0sa5l3i) |
-| 𓊓 Community Dinner #86 | 2026-10-27 | Toronto, CA | [↗](https://lu.ma/1rg-dinner-86) |
-| Code Clash 4th | 2026-10-27 | Monroe, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-louisiana-monroe-monroe-united-states-presents-code-clash-4th/) |
-| Legacy Lounge SF \| The Capital Playbook with GPs | 2026-10-27 | San Francisco, US | [↗](https://lu.ma/yopf3jy5) |
-| INFERENCE: Dinner @ Wayfare 🍸 | 2026-10-27 | San Francisco, US | [↗](https://lu.ma/3dm9k3jp) |
-| Indoor Tennis Clinic | 2026-10-27 | New York, US | [↗](https://lu.ma/vvoaqdow) |
-| Grid City: Buses and Ferries | 2026-10-27 | New York, US | [↗](https://lu.ma/2vhc6lp5) |
-| Executive Breakfast: Your AI pilot works. Who owns it in production? | 2026-10-27 | New York, US | [↗](https://lu.ma/rgvartey) |
-| Consortium New York Fall 2026 | 2026-10-27 | New York, US | [↗](https://lu.ma/c5fzyw7h) |
-| Studio Sessions: Architecture & Design Coworking | 2026-10-27 | New York, US | [↗](https://lu.ma/9zerbax9) |
-| Volunteer: 9/11 Memorial Clean Up | 2026-10-27 | New York, US | [↗](https://lu.ma/q6kfb52t) |
-| Frontier AI Salon: New York | 2026-10-27 | New York, US | [↗](https://lu.ma/9fepy670) |
-| Make Partner Day! | 2026-10-27 | New York, US | [↗](https://lu.ma/w4ar8o0t) |
-| BuiltSmall: AI Foundations for Small Businesses (Hybrid Session) | 2026-10-27 | New York, US | [↗](https://lu.ma/p1gn6i8u) |
-| Climate Capital in The Age of AI: Funding The Solutions That Matter, with the United Nations | 2026-10-27 | New York, US | [↗](https://lu.ma/lse-2j35) |
-| THE NEW LOCAL 2026 — The North America Cross-Cultural Brand Marketing Summit | 2026-10-27 | New York, US | [↗](https://lu.ma/kxs6f93o) |
-| BUILD YOUR BRAND THROUGH NEWSLETTERS & SOCIAL MEDIA CONTENT w/ Erin Wheelock | 2026-10-27 | New York, US | [↗](https://lu.ma/4zjz0epu) |
-| How to Raise Your First Priced Round | 2026-10-27 | New York, US | [↗](https://lu.ma/71lbollt) |
-| Flare NYC: Swell Week Drinks | 2026-10-27 | New York, US | [↗](https://lu.ma/pv1hqf61) |
-| Day of the Bats: Welcoming Bat Conservation International to DSI | 2026-10-27 | New York, US | [↗](https://lu.ma/rd5iv9kh) |
-| Taco Tech Tuesday: Halloween Edition Part 2 | 2026-10-27 | New York, US | [↗](https://lu.ma/dym2t4lt) |
-| Tech@NYU Hackday x Rho: Startup Pitch Night | 2026-10-27 | New York, US | [↗](https://lu.ma/o9rmldcr) |
-| Joys That Transform Us: A Reading and Discussion with Dwayne Betts | 2026-10-27 | New York, US | [↗](https://lu.ma/dwaynebetts) |
-| Matcha Mahjong Mixer: For VCs x Founders | 2026-10-27 | New York, US | [↗](https://lu.ma/nc59v4gd) |
-| UES Pod: Happy Hour | 2026-10-27 | New York, US | [↗](https://lu.ma/hvswsjrb) |
-| Fashion in Conversation with Sabrina Cohen | 2026-10-27 | New York, US | [↗](https://lu.ma/hfqkez8q) |
-| Fireside Chat With Bill Kenney (Focus Lab) & Peter Kang \| NYC Brand Agency Leaders | 2026-10-27 | New York, US | [↗](https://lu.ma/bx-3qlo) |
-| Pepper's Health Tech Spice Hours: Hands-on AI time | 2026-10-27 | New York, US | [↗](https://lu.ma/3cwkahh7) |
-| Startup Pitch Night: $1K Cash Drop + Special Guest: Andrei Papancea (NLX Co-founder, acq. by AWS) | 2026-10-27 | New York, US | [↗](https://lu.ma/hhckhrnb) |
-| State of AI 2026 - NYC launch event | 2026-10-27 | New York, US | [↗](https://lu.ma/soai-nyc) |
-| The NYC First-Time Homebuyer Seminar (Hybrid: In-Person & Virtual) | 2026-10-27 | New York, US | [↗](https://lu.ma/3mwq5gpa) |
-| art club @ corgi - portraits tutorial | 2026-10-27 | New York, US | [↗](https://lu.ma/4w4hgct5) |
-| Chance AI x Product Design Club Campus Hackathon | 2026-10-27 | New York, US | [↗](https://lu.ma/aysshz9g) |
-| Decoders Dinner - October Edition | 2026-10-27 | New York, US | [↗](https://lu.ma/uz7fer4a) |
-| From Vision to Draft: Tools for Starting and Keeping Going | 2026-10-27 | New York, US | [↗](https://lu.ma/idealist-u3rq) |
-| Halloween Happy Hour with Brian | 2026-10-27 | New York, US | [↗](https://lu.ma/r7a0msuc) |
-| Managing and Leading in the AI age: How Team Leaders Navigate the AI Ecosystem with Ethic | 2026-10-27 | New York, US | [↗](https://lu.ma/raqdxrqv) |
-| NYC RE Principals/Developers Dinner | 2026-10-27 | New York, US | [↗](https://lu.ma/cohorts-17uk) |
-| Percepta x Sapienne - Builders After Dark: An evening for women in AI | 2026-10-27 | New York, US | [↗](https://lu.ma/9kulxk97) |
-| Ship Yourself an Assistant: Build Your First Full-Stack App with Base44 | 2026-10-27 | New York, US | [↗](https://lu.ma/sw4nv1pv) |
-| The Upstream Problem - 5 to 9 Society Dinner in NYC | 2026-10-27 | New York, US | [↗](https://lu.ma/40vw8cq2) |
-| Asian Founders Club & Vibranium Labs Present: Founders After Dark | 2026-10-27 | New York, US | [↗](https://lu.ma/9yreeb7u) |
-| Dating the Dead: What Makes a Connection Real? | 2026-10-27 | New York, US | [↗](https://lu.ma/mh2becni) |
-| Decoding COGE with Abundance NY & Citizens Union | 2026-10-27 | New York, US | [↗](https://lu.ma/14p62n8i) |
-| Early Operators, Engineers, & Founders in NYC: Halloween Candy Bags for the Kids | 2026-10-27 | New York, US | [↗](https://lu.ma/fb76l2ki) |
-| Get Out of Your Own Way: Strengthen Your Intuition & Get Unstuck | 2026-10-27 | New York, US | [↗](https://lu.ma/tl8vg52u) |
-| Jones Street Salon: Research After Hours | 2026-10-27 | New York, US | [↗](https://lu.ma/ktfcldaa) |
-| Oct 27th, 2026 \| 2CE \| NYC Patients are asking about metal-free implants. Are you ready? | 2026-10-27 | New York, US | [↗](https://lu.ma/3pkvrk0t) |
-| Preparing for Pregnancy: Building the healthiest foundation | 2026-10-27 | New York, US | [↗](https://lu.ma/fbgwc1hn) |
-| Read Between The Crimes - A Mystery Genre Themed Party! Reading Rhythms Midtown: October 27th | 2026-10-27 | New York, US | [↗](https://lu.ma/reading-j9po) |
-| The Shortlist Network Dinner | 2026-10-27 | New York, US | [↗](https://lu.ma/networkdinner) |
-| UGLY TALK: BUILDING FANDOMS IN 2027 | 2026-10-27 | New York, US | [↗](https://lu.ma/uglytalk-f3b3) |
-| Vibecoding 101 | 2026-10-27 | New York, US | [↗](https://lu.ma/index-4osk) |
-| Welcome to Youvoya House | 2026-10-27 | New York, US | [↗](https://lu.ma/i25mgeya) |
-| The Fifteen: Curated Founders Dinner | 2026-10-27 | Toronto, CA | [↗](https://lu.ma/eetoronto-6vu1) |
 | unprompted \| The AI Security Practitioner Conference (October 2026) | 2026-10-27 to 2026-10-29 | San Francisco, CA (USA) & Online | [↗](https://unpromptedcon.org/) |
 | ODSC AI West 2026 | 2026-10-27 to 2026-10-29 | Burlingame, CA (USA) & Online | [↗](https://odsc.ai/west/) |
-| Circuit Hacking Monday – Open Electronics Workshop | 2026-10-27 | San Francisco, US | [↗](https://www.meetup.com/noisebridge/events/316877398/) |
-| Women Mean Business: Sell More, Keep More. | 2026-10-27 | San Francisco, US | [↗](https://lu.ma/ehh1ej38) |
-| The Glass Box Roadshow \| Executive Track New York City | 2026-10-27 | New York, US | [↗](https://lu.ma/ai-204r) |
-| Reading Rhythms Harlem: October 27th | 2026-10-27 | New York, US | [↗](https://lu.ma/reading-f3to) |
-| Headline Pasta Making | 2026-10-27 | New York, US | [↗](https://lu.ma/v79ae6hy) |
-| Inner Child Art Nyte: Spooky Szn! | 2026-10-27 | New York, US | [↗](https://lu.ma/ahafoa96) |
-| Antimetal Dinner at Dirty French | 2026-10-27 | New York, US | [↗](https://lu.ma/antimetal-i8ex) |
-| [Brands Only] DTC Dinner \| DTC Builders NYC | 2026-10-27 | New York, US | [↗](https://lu.ma/kmdobuzn) |
-| Creative Intelligence Omakase with NewForm and Winterberry Group | 2026-10-27 | New York, US | [↗](https://lu.ma/tjcf43of) |
-| Finance & AI: An Evening in New York | 2026-10-27 | New York, US | [↗](https://lu.ma/3t7put0c) |
-| NYC Startup Casino Night🗽🎲 | 2026-10-27 | New York, US | [↗](https://lu.ma/n78p6vav) |
-| Pivotal After Hours: A GCM Grosvenor's Networking Gathering | 2026-10-27 | New York, US | [↗](https://lu.ma/iqq67nhy) |
-| Prediction Markets NYC: Between the Headlines | 2026-10-27 | New York, US | [↗](https://lu.ma/xrk2yiwt) |
-| Pro Retro: First Look | 2026-10-27 | New York, US | [↗](https://lu.ma/n82c3l8i) |
-| YC / VC Pitch & Roast 🔥 by NYC Founders Club and Brex | 2026-10-27 | New York, US | [↗](https://lu.ma/pitchandroast927) |
-| Speedrun Founders Dinner by Atrios | 2026-10-27 | New York, US | [↗](https://lu.ma/sr-1027) |
-| The Healthtech Table \| NYC | 2026-10-27 | New York, US | [↗](https://lu.ma/dg04qca3) |
-| Flow & Restore (FiDi) | 2026-10-27 | New York, US | [↗](https://lu.ma/jc6jdo0o) |
-| Event Shows&#8217; Cyber Security Summit 2026 | 2026-10-27 | Minneapolis, US | [↗](https://infosec-conferences.com/event/20261027-event-shows-cyber-security-summit-2026/) |
-| [un]prompted 2026 | 2026-10-27 | San Francisco, US | [↗](https://infosec-conferences.com/event/20261027-unprompted-2026/) |
-| Mission Founders Running Club | 2026-10-27 | San Francisco, US | [↗](https://lu.ma/wz3e36vw) |
-| [un]prompted \| The AI Security Practitioner Conference | 2026-10-27 | San Francisco, US | [↗](https://lu.ma/pywdcwal) |
-| HR Brunch & Learn: AI Tools + 2027 Benefits Roundtable | 2026-10-27 | New York, US | [↗](https://lu.ma/october-hr-brunch-and-learn) |
-| Savvy SGP: Hiring Happy Hour! | 2026-10-27 | New York, US | [↗](https://lu.ma/vh1pxape) |
-| Workshop: Basic Usage and Safety | 2026-10-27 | New York, US | [↗](https://lu.ma/fk8yb2us) |
 | Vibe Coding Con | 2026-10-26 to 2026-10-28 | Las Vegas, NV (USA) | [↗](http://Vibecodingcon.ai) |
 | HashiConf | 2026-10-26 to 2026-10-29 | Atlanta, USA | [↗](https://www.hashicorp.com/en/conferences/hashiconf) |
 | IBM TechXchange | 2026-10-26 to 2026-10-29 | Atlanta, GA (USA) | [↗](https://www.ibm.com/community/ibm-techxchange-conference/) |
 | SAINTCON 2026 | 2026-10-26 to 2026-10-30 | Provo, UT (USA) | [↗](https://www.saintcon.org) |
 | Ai Dev Craft | 2026-10-26 to 2026-10-28 | Las Vegas, Nevada | [↗](https://ai-devcraft.com) |
-| ICSTP 2026: Software Testing Process | 2026-10-26 to 2026-10-27 | Los Angeles | [↗](https://dev.events/conferences/icstp-2026-software-testing-process-8qz04fhd) |
-| FIPS 'n' Chips Cryptographic Module Validation Bootcamp | 2026-10-26 to 2026-10-27 | Austin | [↗](https://dev.events/conferences/fips-n-chips-cryptographic-module-validation-bootcamp-umorfqxw) |
 | Gartner HR Symposium/Xpo | 2026-10-26 to 2026-10-28 | Orlando | [↗](https://dev.events/conferences/gartner-hr-symposium-xpo-st3c-ql9) |
 | 2026 Power Platform Community Conference | 2026-10-25 to 2026-10-30 | Las Vegas, NV (USA) | [↗](https://powerplatformconf.com) |
 | SuiteWorld 2026 \| Las Vegas | 2026-10-25 to 2026-10-28 | Las Vegas | [↗](https://dev.events/conferences/suite-world-2026-las-vegas-o6xqwv2p) |
@@ -5607,7 +5622,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| KavaCon 2026 | 2026-11-03 | Asunción, Paraguay | [↗](https://infosec-conferences.com/event/20261103-kavacon-2026/) |
 | Nullbyte Security Conference 2026 | 2026-11-04 to 2026-11-05 | Salvador (Brazil) | [↗](https://nullbyte-con.org) |
 | Da Estatística aos Agentes de IA: Dados e Blockchain na Prática | 2026-11-04 | Campinas, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-campinas-presents-da-estatistica-aos-agentes-de-ia-dados-e-blockchain-na-pratica/) |
 | ¡Inteligencia para Defender el Mundo Digital: Aprende con los expertos! | 2026-11-05 | Asunción, Paraguay | [↗](https://gdg.community.dev/events/details/google-gdg-asuncion-presents-inteligencia-para-defender-el-mundo-digital-aprende-con-los-expertos/) |
@@ -5627,6 +5641,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | DEVFEST 2026 | 2026-11-07 | Medellin, Colombia | [↗](https://gdg.community.dev/events/details/google-gdg-medellin-presents-devfest-2026-1/) |
 | Dos Dados à Decisão. Desenvolvendo um Sistema de Recomendação | 2026-11-07 | Brasília, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-brasilia-presents-dos-dados-a-decisao-desenvolvendo-um-sistema-de-recomendacao/) |
 | DevFest Santanderes 2026 🚀 | 2026-11-07 | Cúcuta, Colombia | [↗](https://gdg.community.dev/events/details/google-gdg-cucuta-presents-devfest-santanderes-2026/) |
+| Rumbo al NASA Space Apps: Taller Serverless con GCP y Firebase | 2026-11-07 | Piura, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-piura-presents-rumbo-al-nasa-space-apps-taller-serverless-con-gcp-y-firebase/) |
 | Nasa Space Apps Uberlândia | 2026-11-10 | Uberlandia, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-uberlandia-presents-nasa-space-apps-uberlandia/) |
 | Revolucione sua Aplicação: Workshop Angular Signals | 2026-11-13 | Caxias do Sul, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-caxias-do-sul-presents-revolucione-sua-aplicacao-workshop-angular-signals/) |
 | DevFest Lima 2026 - Día I | 2026-11-13 | Lima, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-lima-presents-devfest-lima-2026-dia-i/) |
@@ -5700,6 +5715,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | GITEX AI LATAM | 2027-03-16 | São Paulo, Brazil | [↗](https://www.gitexlatam.com) |
 | Devopsdays Belo Horizonte | 2027-05-15 | Belo Horizonte (Brazil) | [↗](https://devopsdays.org/events/2027-belo-horizonte) |
 | Devopsdays Curitiba | 2027-08-21 | Curitiba (Brazil) | [↗](https://devopsdays.org/events/2027-curitiba) |
+| KavaCon 2026 | 2026-11-03 | Asunción, Paraguay | [↗](https://infosec-conferences.com/event/20261103-kavacon-2026/) |
 | Conexão com o Mercado: Desenvolvedores em Vitória da Conquista | 2026-11-01 | Vitória da Conquista, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-vitoria-da-conquista-presents-conexao-com-o-mercado-desenvolvedores-em-vitoria-da-conquista/) |
 | 10 Anos do GDG Uberlândia Celebration [INSCRIÇÕES EM BREVE] | 2026-10-31 | Uberlandia, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-uberlandia-presents-10-anos-do-gdg-uberlandia-celebration-inscricoes-em-breve/) |
 | DevFest Belo Horizonte | 2026-10-31 | Belo Horizonte, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-belo-horizonte-presents-devfest-belo-horizonte-2/) |
@@ -5722,8 +5738,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | AI Agents Ambato | 2026-10-29 | Santo Domingo, Ecuador | [↗](https://gdg.community.dev/events/details/google-gdg-santo-domingo-de-los-tsachilas-presents-ai-agents-ambato/) |
 | Live Previa DevFest - Tech Cali Day: Estrategias e Innovación | 2026-10-29 | Cali, Colombia | [↗](https://gdg.community.dev/events/details/google-gdg-cali-presents-live-previa-devfest-tech-cali-day-estrategias-e-innovacion/) |
 | Vivo Segura Conference - 4ª Edição (Dia 02) | 2026-10-28 | São Paulo | [↗](https://www.papercall.io/vivoseguraconf4villages) |
-| Vivo Segura Conference - 4ª Edição (Dia 01) | 2026-10-27 | São Paulo | [↗](https://www.papercall.io/vivoseguraconf4ed) |
-| DevFest Presidente Prudente 2026 | 2026-10-27 | Presidente Prudente, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-presidente-prudente-presents-devfest-presidente-prudente-2026/) |
 
 </details>
 
@@ -5733,104 +5747,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| XtremeJ | 2026-11-03 | Online | [↗](https://dev.events/conferences/xtreme-j-e8whinpm) |
-| ALASCA Summit 2026 | 2026-11-03 to 2026-11-04 | Dresden | [↗](https://dev.events/conferences/alasca-summit-2026-bx5mteft) |
-| Node-RED Con 2026 | 2026-11-03 | Online | [↗](https://dev.events/conferences/node-red-con-2026-lqiyxdie) |
-| Advanced Technology Days 21 | 2026-11-03 to 2026-11-04 | Zagreb | [↗](https://dev.events/conferences/advanced-technology-days-21-p-ja2a9j) |
-| KAVACON CYBERSECURITY CONFERENCE 2026 | 2026-11-03 to 2026-11-13 | Online | [↗](https://dev.events/conferences/kavacon-cybersecurity-conference-2026-cuie9ld6) |
-| CALL FOR PAPER – KAVACON CYBERSECURITY CONFERENCE 2026 | 2026-11-03 to 2026-11-13 | VIRTUAL | [↗](https://kavacon.org) |
-| The Future of AI Governance: Forecasting the Next Five Years | 2026-11-03 | Unknown | [↗](https://www.dataversity.net/webinar/the-future-of-ai-governance-forecasting-the-next-five-years/) |
-| London – Unlock Agent Autonomy, Safely: AI Governance in Practice | 2026-11-03 | Unknown | [↗](https://www.docker.com/events/ai-without-losing-control/) |
-| aiDevCon | 2026-11-03 | Unknown | [↗](https://tessl.io/devcon/) |
-| Vultr: Agent Rush Hackathon | 2026-11-03 | Unknown | [↗](https://lablab.ai/ai-hackathons/vultr-hackathon) |
-| SANS AI Cybersecurity Summit Fall 2026 | 2026-11-03 | Unknown | [↗](https://www.sans.org/cyber-security-training-events/ai-summit-fall-2026) |
-| Morning Run & Coffee Break | 2026-11-03 | Chiyoda City, JP | [↗](https://lu.ma/02i90p0c) |
-| Humanoid Hack Tokyo 3 — 発表観覧 | 2026-11-03 | Shibuya, JP | [↗](https://lu.ma/fvbbx29u) |
-| ピックルボールプレー会＠銀座／新橋 vol.1 \| Pickleball Play Session at Ginza/Shimbashi｜YOHAKU place | 2026-11-03 | Chiyoda City, JP | [↗](https://lu.ma/yohaku-1r35) |
-| 第2回ランニングイベント 皇居ラン | 2026-11-03 | Chiyoda City, JP | [↗](https://lu.ma/edd7iiuu) |
-| AAIF - Agentic AI Night | 2026-11-03 | Pyrmont, AU | [↗](https://lu.ma/0ex5yg1q) |
-| Euro Naval 2026: Beers & Bots | 2026-11-03 | Villepinte, FR | [↗](https://lu.ma/ktxxjzhn) |
-| AIMUG Monthly Mixer & Showcase | 2026-11-03 | Online | [↗](https://www.meetup.com/austin-langchain-ai-group/events/315504034/) |
-| Grafana & Friends Singapore | 2026-11-03 | Unknown | [↗](https://www.meetup.com/grafana-and-friends-singapore/events/316976705/) |
-| Carnival SHONAN | 2026-11-03 | Fujisawa, JP | [↗](https://lu.ma/f9jasplk) |
-| How to Land a Software Engineering Job in 2027 | 2026-11-03 | Virtual/Online | [↗](https://www.meetup.com/career-job-search-events/events/317086042/) |
-| CRAFT&PICNIC: pipe cleaner flowers | 2026-11-03 | Shibuya, JP | [↗](https://lu.ma/2qffap1t) |
-| [Pickle Salon Tokyo] 11/3 (Tue.) 20:00~21:00 | 2026-11-03 | Minato City, JP | [↗](https://lu.ma/5sdhc6pz) |
-| The Constraints Will Move. You Have to Learn Your Way Into Them | 2026-11-03 | Virtual/Online | [↗](https://www.meetup.com/agilertp/events/316540339/) |
-| Build Your Online Business with Linda Thomas | 2026-11-03 | Virtual/Online | [↗](https://www.meetup.com/build-your-online-business-with-linda-thomas/events/316531506/) |
-| ChatGPT 101: Build a Multiplayer Game x ASCII | 2026-11-03 | Kumbalgodu, IN | [↗](https://lu.ma/y5ulj09e) |
-| Clay in Sydney: Party with Ben Broadley, Clay Cup 2026 Champion 🎉 | 2026-11-03 | Surry Hills, AU | [↗](https://lu.ma/uuanjfmc) |
-| AI Native DevCon NYC | 2026-11-03 | Unknown | [↗](https://tessl.io/events/ai-devcon-nyc) |
-| Executive Roundtable on Project Performance & Delivery | 2026-11-03 | Wembley, GB | [↗](https://lu.ma/chp4qeih) |
-| はじめてのCodex：ほしいものを、その場でつくろう｜第1回ワークショップ | 2026-11-03 | Meguro City, JP | [↗](https://lu.ma/ihpg64dk) |
-| (2hours x4courts) Pickleball Night 🏓 @Minato City (OASIS PICKLE) - 11/3 (Tue) 20:00 | 2026-11-03 | Minato City, JP | [↗](https://lu.ma/zl67nzia) |
-| AXSC SAUNA CLUB | 2026-11-03 | Shinagawa City, JP | [↗](https://lu.ma/aqkss2yi) |
-| LinkedIn Authority Builders | 2026-11-03 | Virtual/Online | [↗](https://www.meetup.com/kansas-city-business-network/events/316977599/) |
-| Nextwork AI Training & Project Development | 2026-11-03 | Virtual/Online | [↗](https://www.meetup.com/nextwork-build-and-brew-san-antonio/events/316966791/) |
-| GitHub: Open source Unlocked | 2026-11-03 | Doddaballapura, IN | [↗](https://lu.ma/iztx970g) |
-| Real Human Run Tokyo Vol. 03｜11月3日（火・祝） | 2026-11-03 | Shibuya, JP | [↗](https://lu.ma/dn85m808) |
-| Workshop IA x Wavestone : construisez votre agent RAG | 2026-11-03 | Jouy-en-Josas, FR | [↗](https://lu.ma/ro3vtli9) |
-| Piailleries #1: IA et cybersécurité | 2026-11-03 | Gif-sur-Yvette, FR | [↗](https://lu.ma/i7uv3mhg) |
-| FLUTTER WORKSHOP | 2026-11-03 | Gaborone, Botswana | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-botswana-gaborone-botswana-presents-flutter-workshop/) |
-| UI/UX Quest: Introduction to the world of UI/UX | 2026-11-03 | Algiers, Algeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ecole-nationale-superieure-de-lintelligence-artificielle-algiers-algeria-presents-uiux-quest-introduction-to-the-world-of-uiux/) |
-| Apache Iceberg™ Meetup Bay Area | 2026-11-03 | Sunnyvale, US | [↗](https://lu.ma/sficebergnov) |
-| Hard Things | 2026-11-03 | Redwood City, US | [↗](https://lu.ma/vovioxbq) |
-| Plug and Play Taiwan x Silicon Valley Founders & Investors Happy Hour | 2026-11-03 | Palo Alto, US | [↗](https://lu.ma/kjjnwjny) |
-| Nikesh Arora (CEO, Palo Alto Networks) @ Stanford AI Club | 2026-11-03 | Stanford, US | [↗](https://lu.ma/s6coovs3) |
-| Frenelle PBC Private Investor Briefing - Palo Alto | 2026-11-03 | Palo Alto, US | [↗](https://lu.ma/FrenelleCA) |
-| Stanford LP Seminar Series #18 (Rockefeller; Murdock Trust; Dietrich; PFR TFI; Lambourn Capital; Ten Eighty Capital) | 2026-11-03 | Stanford, US | [↗](https://lu.ma/9kuyivbp) |
-| Design & Donuts Social (SWExFigma) | 2026-11-03 | San Jose, US | [↗](https://lu.ma/cwxxnbiz) |
-| From Silicon Valley to Canada: Rethinking Corporate Venture | 2026-11-03 | Palo Alto, US | [↗](https://lu.ma/n7rhminc) |
-| Silicon Valley November Summit 2026 | 2026-11-03 | Sunnyvale, US | [↗](https://lu.ma/pnpsvnovsummit26) |
-| TechEquity Ai Summit 2026: Talks + Workshops + Hackathon, Ft Google, Nvidia, DeepMind, Snowflake and more | 2026-11-03 | Menlo Park, US | [↗](https://lu.ma/ai-summit-2026) |
-| Snowflake Platform Training: Introduction to the Snowflake Data Cloud Workshop | 2026-11-03 | Menlo Park, US | [↗](https://lu.ma/workshop-snowflake-nov-3-2026) |
-| VC Round Table: An Intimate Conversation with Amrit Rao | 2026-11-03 | Palo Alto, US | [↗](https://lu.ma/sn6jfwgb) |
-| Cozy Comfort Reading Party Williamsburg: November 2nd | 2026-11-03 | Kings County, US | [↗](https://lu.ma/bgvos1ce) |
-| Musly Members Only Gathering \| Vinyl Night @ Moondog HiFi \| November 2nd \| New York | 2026-11-03 | Brooklyn, US | [↗](https://lu.ma/uvdks4b7) |
-| Vintage Beaded Jewelry Making | 2026-11-03 | Kings County, US | [↗](https://lu.ma/mgmw8geq) |
-| Open Gym Basketball | 2026-11-03 | Kings County, US | [↗](https://lu.ma/1qhb3vbv) |
-| Pitch & Run - Prospect Park | 2026-11-03 | Kings County, US | [↗](https://lu.ma/8vxdejas) |
-| Mamas Who Walk: South Plainfield | 2026-11-03 | South Plainfield, US | [↗](https://lu.ma/o88luq5g) |
-| Sunset Yards Elementary School Tour | 2026-11-03 | Brooklyn, US | [↗](https://lu.ma/wifbslkf) |
-| Crocheting 101 | 2026-11-03 | Brooklyn, US | [↗](https://lu.ma/es3nnym6) |
-| How to Value Income Producing Buildings w/ Edward Kalisvaart of KW NYC | 2026-11-03 | Manhasset, US | [↗](https://lu.ma/mvmnt4gj) |
-| Downtown Elementary School Tour | 2026-11-03 | Brooklyn, US | [↗](https://lu.ma/dwaj8v39) |
-| Windsor Terrace K-8 Tour | 2026-11-03 | Brooklyn, US | [↗](https://lu.ma/jkp86tol) |
-| Matchmaker, Matchmaker Make me a Movie | 2026-11-03 | Kings County, US | [↗](https://lu.ma/mv95c2xy) |
-| Seven Samurai | 2026-11-03 | Brooklyn, US | [↗](https://lu.ma/lpldvugr) |
-| The Power of LinkedIn with Ava Carroll | 2026-11-03 | Brooklyn, US | [↗](https://lu.ma/dfin5uae) |
-| AI Quest: Preparing Data for AI | 2026-11-03 | Algiers, Algeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ecole-nationale-superieure-de-lintelligence-artificielle-algiers-algeria-presents-ai-quest-preparing-data-for-ai/) |
-| BASES x Altimeter Capital \| Fireside Chat with Brad Gerstner | 2026-11-03 | Stanford, US | [↗](https://lu.ma/foi42gtm) |
-| Mamas Who Walk: Mountain Lakes | 2026-11-03 | Mountain Lakes, US | [↗](https://lu.ma/9fey0kqs) |
-| BAD Readers Qlub | 2026-11-03 | Bronx, US | [↗](https://lu.ma/eot2npe1) |
-| From Bio to Build: A Hands-On AI Workshop | 2026-11-03 | Doddaballapura, IN | [↗](https://lu.ma/c40sy6yc) |
-| AI Wrote it.  Who tested it? | 2026-11-03 | Virtual/Online | [↗](https://www.meetup.com/software-quality-assurance/events/316977725/) |
-| Nikesh Arora x Brad Gerstner \| Stanford AI Club & BASES | 2026-11-03 | Stanford, US | [↗](https://lu.ma/6d8elbie) |
-| Guided Dessert Tasting | 2026-11-03 | Brooklyn, US | [↗](https://lu.ma/nwqwq1u4) |
-| Breathwork in Astoria \| with Cassie Ray | 2026-11-03 | Queens, US | [↗](https://lu.ma/5zgoh57e) |
-| 11/4 (水) 7時~7時45分 皇居ラン | 2026-11-03 | Chiyoda City, JP | [↗](https://lu.ma/y13j2se5) |
-| Cyber Squeeze UK 2026 | 2026-11-03 | Liverpool, GB | [↗](https://infosec-conferences.com/event/20261103-cyber-squeeze-uk-2026/) |
-| Project NEXUS: Behaviour is where every security domain connects | 2026-11-03 | Online | [↗](https://infosec-conferences.com/event/20261103-project-nexus-behaviour-is-where-every-security-domain/) |
-| Benelux Cyber Summit 2026 | 2026-11-03 | Amsterdamn, NL | [↗](https://infosec-conferences.com/event/20261103-benelux-cyber-summit-2026/) |
-| Cybera Cyber Summit 2026 | 2026-11-03 | Banff, CA | [↗](https://infosec-conferences.com/event/20261103-cybera-cyber-summit-2026/) |
-| Supabase Learning Session | 2026-11-03 | Ankara, Türkiye | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ostim-teknik-university-ankara-turkiye-presents-supabase-learning-session/) |
-| Investor Dinner - B2B/Enterprise AI, Vertical AI & Cybersecurity - Synexis Premium [By Approval Only] | 2026-11-03 | San Carlos, US | [↗](https://lu.ma/premai3) |
-| Monday Majlis: Pursuing Justice, Effecting Change: A Conversation on Faith-Based Activism [Feat. Rusha Latif] | 2026-11-03 | Berkeley, US | [↗](https://lu.ma/2ccqvx28) |
-| Little Amanah: Fall Term 11/3 Class | 2026-11-03 | North Brunswick Township, US | [↗](https://lu.ma/ou7ic6xa) |
-| Erlebniskochen-Training | 2026-11-03 | Falkensee, DE | [↗](https://lu.ma/xtdiw37a) |
-| PICKLEBALL TOKYO（ピックルボール東京）@ 池袋｜インドア2面 🏓 | 2026-11-03 | Toshima City, JP | [↗](https://lu.ma/mn9lvuhq) |
-| Stop Protecting Microsoft with Microsoft | 2026-11-03 | Online | [↗](https://infosec-conferences.com/event/20261103-stop-protecting-microsoft-with-microsoft/) |
-| Nexus Transcendence 2026 | 2026-11-03 | Washington, US | [↗](https://infosec-conferences.com/event/20261103-nexus-transcendence-2026/) |
-| International Robot Safety Conference 2026 | 2026-11-03 | Detroit, US | [↗](https://infosec-conferences.com/event/20261103-international-robot-safety-conference-2026/) |
-| Cleanup Club 11/3 🚮 | 2026-11-03 | Brooklyn, US | [↗](https://lu.ma/qzahvbj7) |
-| スタジオアワー２｜ChatGPT・Codexと一緒に、作りたいものを作ってみよう！ | 2026-11-03 | Yokohama, JP | [↗](https://lu.ma/bdynugw1) |
-| NERDEARLA España 2026 | 2026-11-03 | La Nave, ES | [↗](https://infosec-conferences.com/event/20261103-nerdearla-espana-2026/) |
-| Red Hat Summit: Connect Bogota 2026 | 2026-11-03 | Bogotá, CO | [↗](https://infosec-conferences.com/event/20261103-red-hat-summit-connect-bogota-2026/) |
-| Palo Alto CISO Roundtable 2026 | 2026-11-03 | Palo Alto, US | [↗](https://infosec-conferences.com/event/20261103-palo-alto-ciso-roundtable-2026/) |
-| XChange Deutschland 2026 | 2026-11-03 | Mannheim, DE | [↗](https://infosec-conferences.com/event/20261103-xchange-deutschland-2026/) |
-| Agentic AI in IT Operations: What is Changing and What is Next | 2026-11-03 | Online | [↗](https://infosec-conferences.com/event/20261103-agentic-ai-in-it-operations-what-is-changing/) |
-| Cyber Leaders&#8217; Summit: UK November 2026 | 2026-11-03 | Manchester, GB | [↗](https://infosec-conferences.com/event/20261103-cyber-leaders-summit-uk-november-2026/) |
-| Active Directory Community Virtual Meetup &#8211; November 2026 | 2026-11-03 | Online | [↗](https://infosec-conferences.com/event/20261103-active-directory-community-virtual-meetup-november-2026/) |
 | Gartner Customer Service & Support Conference | 2026-11-04 to 2026-11-05 | Denver | [↗](https://dev.events/conferences/gartner-customer-service-and-support-conference-rulyafnw) |
 | Øredev 2026 | 2026-11-04 to 2026-11-06 | Malmo | [↗](https://dev.events/conferences/oredev-2026-ddgipogd) |
 | code.talks 2026 | 2026-11-04 to 2026-11-05 | Hamburg | [↗](https://dev.events/conferences/code-talks-2026-t5e3fd8y) |
@@ -5954,6 +5870,9 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | SAVE THE DEAL w/ Tommy Schwan of New American Funding | 2026-11-04 | Manhasset, US | [↗](https://lu.ma/l22qfb0a) |
 | November Bronze £36 Wednesday 4/11/18/25 | 2026-11-04 | Ilford, GB | [↗](https://lu.ma/ay8j06lt) |
 | Silver £70 Wednesday & Friday November | 2026-11-04 | Ilford, GB | [↗](https://lu.ma/bz9mi6zu) |
+| Besant Technologies - Drive attendance | 2026-11-04 | Hirandahalli, IN | [↗](https://lu.ma/nontq9cp) |
+| 📺イアン(Iain)地上波出演記念🎉 Pickleball Night🗼 @Tokyo Tower (OASIS PICKLE) - 11/4 (Wed) 19:00 | 2026-11-04 | Minato City, JP | [↗](https://lu.ma/uap7rbyw) |
+| Основы AI-агентов: собираем своего помощника | 2026-11-04 | Oral, Kazakhstan | [↗](https://gdg.community.dev/events/details/google-gdg-oral-presents-osnovy-ai-agentov-sobiraem-svoego-pomoshchnika/) |
 | Conf42 Platform Engineering 2026 | 2026-11-05 | Online | [↗](https://www.conf42.com/platform2026) |
 | Heapcon | 2026-11-05 to 2026-11-06 | Belgrade | [↗](https://dev.events/conferences/heapcon-pzb1trzm) |
 | HR World Summit UAE 2026 | 2026-11-05 | Abu Dhabi | [↗](https://dev.events/conferences/hr-world-summit-uae-2026-tqarosg2) |
@@ -6070,6 +5989,19 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Solar Maverick 300: Clean Energy Networking & Celebration | 2026-11-05 | Jersey City, US | [↗](https://lu.ma/oj8frtug) |
 | 🍷 UNA COPITA ENTRE MAMÁS "entre el fútbol y la vida, un ratito para nosotras." | 2026-11-05 | Queens, US | [↗](https://lu.ma/n58mj508) |
 | Earth Breathing \| Hackathon | 2026-11-05 | Cergy, FR | [↗](https://lu.ma/scaco3z7) |
+| Studio Sessions | 2026-11-05 | Berkeley, US | [↗](https://lu.ma/2syzd8l1) |
+| The Rcoz South Asian Women Support Group | 2026-11-05 | Newark, US | [↗](https://lu.ma/x1lejx4c) |
+| Face Time Beauty Presents the Makeup Workshop: Tricks of the Trade | 2026-11-05 | Brooklyn, US | [↗](https://lu.ma/s1pjbemg) |
+| Home Buyer Seminar | 2026-11-05 | Massapequa, US | [↗](https://lu.ma/3j4l6co6) |
+| Stitchgiving Evening Of Needlepoint | 2026-11-05 | Harrison, US | [↗](https://lu.ma/slr8wb2g) |
+| NYC Weekly Waving Training | 2026-11-05 | Brooklyn, US | [↗](https://lu.ma/3vx655ug) |
+| VC New York: Freelancers' Happy Hour | 2026-11-05 | Brooklyn, US | [↗](https://lu.ma/thevideo-095p) |
+| Desolas Mezcal Tasting at Ray's Hometown Bar in NY | 2026-11-05 | Brooklyn, US | [↗](https://lu.ma/2x8em4sy) |
+| Fast Forward with Filed. | 2026-11-05 | Jersey City, US | [↗](https://lu.ma/ket3ttrp) |
+| junk journaling workshop + A YEAR OF CREATIVE MAGIC launch party!!!! | 2026-11-05 | Brooklyn, US | [↗](https://lu.ma/l7x5goe0) |
+| Princess Mononoke (1997) Screening and Discussion | 2026-11-05 | Stamford, US | [↗](https://lu.ma/moqwmkra) |
+| Rest Practice: Yoga Nidra & Sound Journey | 2026-11-05 | Kings County, US | [↗](https://lu.ma/b0mgj61p) |
+| Seat at the Table - An International Dining Experience | 2026-11-05 | Kings County, US | [↗](https://lu.ma/cmzlngka) |
 | UX Brighton | 2026-11-06 | Brighton, U.K. | [↗](https://uxbri.org) |
 | Data & AI Builders Conference | 2026-11-06 | Bergamo, Lombardy | [↗](https://dataaibuildersconf.it) |
 | Moldova DevCon 2026 | 2026-11-06 to 2026-11-07 | Chișinau | [↗](https://dev.events/conferences/moldova-dev-con-2026-gd23d1yk) |
@@ -6131,6 +6063,31 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | TFF: The Last Phi Hunter | 2026-11-06 | Redwood City, US | [↗](https://lu.ma/lzlwkpuf) |
 | The VINE : The Video Industry Networking Event | 2026-11-06 | Oakland, US | [↗](https://lu.ma/0c4001ia) |
 | 11/7 ROUGH RUN vol.8 | 2026-11-06 | Shibuya, JP | [↗](https://lu.ma/czqy9hjj) |
+| Lean LaunchPad Spring 2027: Ideas Showcase 🚀 | 2026-11-06 | Berkeley, US | [↗](https://lu.ma/6y6ydmui) |
+| Dynamic Talks \| Make your AI-first SDLC measurable\| Bay Area Engineering Meetup | 2026-11-06 | San Ramon, US | [↗](https://lu.ma/vqn5k3ya) |
+| Socratic Seminar 75 | 2026-11-06 | Stanford, US | [↗](https://lu.ma/phz724vw) |
+| Money & the Mind: A 5-part Healing Centered Financial Wellness Series | 2026-11-06 | Oakland, US | [↗](https://lu.ma/o7ik7yvv) |
+| Private investor / infrastructure- party | 2026-11-06 | Los Altos Hills, US | [↗](https://lu.ma/60c8qefw) |
+| Women Building & Leading Organizations | 2026-11-06 | Oakland, US | [↗](https://lu.ma/5bjnwfnu) |
+| Blokes Night @ The Redwood | 2026-11-06 | Palo Alto, US | [↗](https://lu.ma/p8f0xjoi) |
+| CATALYZE ⚡️ Clarify Your Vision. Communicate It Brilliantly | 2026-11-06 | Berkeley, US | [↗](https://lu.ma/jj52gz2k) |
+| DATA STRUCTURES & ALGORITHMS STUDY GROUP | 2026-11-06 | Santa Clara, US | [↗](https://lu.ma/a3ovuly8) |
+| Meditation & Creative Mini Retreat: Escape the Everyday | 2026-11-06 | Menlo Park, US | [↗](https://lu.ma/senet3fj) |
+| Private Dinner: Legal, Finance & Ops Leaders | 2026-11-06 | Menlo Park, US | [↗](https://lu.ma/arceus-bi58) |
+| 10k Before 10a | 2026-11-06 | Belvedere, US | [↗](https://lu.ma/7z7uxvho) |
+| Biotech Open Pitch Session | 2026-11-06 | Stanford, US | [↗](https://lu.ma/yklgathz) |
+| Community Art Jam | 2026-11-06 | Los Altos, US | [↗](https://lu.ma/w2aelhwt) |
+| The Expat Woman Global Connect: Pleasanton Meetup | 2026-11-06 | Pleasanton, US | [↗](https://lu.ma/yn5r1ord) |
+| South Bay Area: Generalist Meetup | 2026-11-06 | Los Altos, US | [↗](https://lu.ma/y1sm3y6p) |
+| VIP GRAND OPENING - Sweet Fingers Downtown Oakland | 2026-11-06 | Oakland, US | [↗](https://lu.ma/c3g654y8) |
+| Diwali Potluck Celebration | 2026-11-06 | Palo Alto, US | [↗](https://lu.ma/dqwv0guw) |
+| Treehub Health x AI Founders Lunch with Bo Shi of Valtruis | 2026-11-06 | Los Altos, US | [↗](https://lu.ma/o8j8qvoo) |
+| Incense Making Workshop + Tea Party | 2026-11-06 | Brooklyn, US | [↗](https://lu.ma/2g12lj73) |
+| Panthers v All Stars - Home Game | 2026-11-06 | Loughton, GB | [↗](https://lu.ma/n178ij41) |
+| Friday Badminton 8.30pm - 10pm | 2026-11-06 | Ilford, GB | [↗](https://lu.ma/yzby1ijl) |
+| ミルクの中のイワナ / A Trout in the Milk | 2026-11-06 | Uenohara, JP | [↗](https://lu.ma/cineyama-95z1) |
+| Fabrication Savons | 2026-11-06 | Bagneux, FR | [↗](https://lu.ma/bolkf4wm) |
+| Hybrid MI Python - Workflows for Bioinformatics | 2026-11-06 | Online | [↗](https://www.meetup.com/michigan-python/events/314598196/) |
 | DevFest KC 2026 | 2026-11-07 | Kansas City, Missouri | [↗](https://devfestkc.com) |
 | Iowa Code Camp Fall 2026 | 2026-11-07 | Ankeny | [↗](https://dev.events/conferences/iowa-code-camp-fall-2026-hmct40z2) |
 | BiznagaFest 2026 | 2026-11-07 | Malaga | [↗](https://dev.events/conferences/biznaga-fest-2026-wcnxd1aq) |
@@ -6193,6 +6150,14 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | 「教えて！八郎先生」500回記念 公開収録11月7日（土）横浜みなとみらい | 2026-11-07 | Yokohama, JP | [↗](https://lu.ma/egauyk0a) |
 | 8km easy group run & Picnic \| RUN&POKI MORNING by HYPER ASAKATSU CREATER | 2026-11-07 | Shibuya, JP | [↗](https://lu.ma/lcyg7fff) |
 | CA \| SUPER MINISO Square One Product Launch Event 🎉 | 2026-11-07 | Mississauga, CA | [↗](https://lu.ma/84t4c8s8) |
+| Trail Run / Hike \| No Tech Adventures | 2026-11-07 | Westhumble, GB | [↗](https://lu.ma/5qp38d55) |
+| Pilates Content Day at Müve Pilates, Ilford | 2026-11-07 | Ilford, GB | [↗](https://lu.ma/x668y0nx) |
+| Be Community Meal | 2026-11-07 | Warley, GB | [↗](https://lu.ma/1x5zg4sj) |
+| What's The Adi? The Living Room. | 2026-11-07 | Greenford, GB | [↗](https://lu.ma/dweku6l0) |
+| Ghost Hunt Season 1 Episode 1: Edinburgh Castle | 2026-11-07 | Kecamatan Batam Kota, ID | [↗](https://lu.ma/182hdu0a) |
+| Power Pulse 100% Femmes | 2026-11-07 | Arcueil, FR | [↗](https://lu.ma/x8rocl3m) |
+| Chère Petite Fille | 2026-11-07 | Saint-Open-l'Aumône, FR | [↗](https://lu.ma/ahb4fe0r) |
+| (GlobalCpp) Inside a Small Game Engine: An Architecture Tour in Modern C++  | 2026-11-07 | Virtual/Online | [↗](https://www.meetup.com/chicago-c-cpp-users-group/events/317262260/) |
 | 2026 GOVIT Leadership Summit & Symposium | 2026-11-08 to 2026-11-10 | Bloomington | [↗](https://dev.events/conferences/2026-govit-leadership-summit-and-symposium-thdrgpfr) |
 | Simply Cyber Con 2026 | 2026-11-08 to 2026-11-09 | Charleston | [↗](https://dev.events/conferences/simply-cyber-con-2026-xjbnh4od) |
 | DevFest Calgary 2026 | 2026-11-08 | Calgary | [↗](https://dev.events/conferences/dev-fest-calgary-2026-2exicptw) |
@@ -6212,6 +6177,10 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | TACORUN vol.10 | 2026-11-08 | Shibuya, JP | [↗](https://lu.ma/0vclykxa) |
 | Morning French toast Run | 2026-11-08 | Chuo City, JP | [↗](https://lu.ma/da2x7lim) |
 | Let's Go Hiking | 2026-11-08 | Vaughan, CA | [↗](https://lu.ma/x3ho7tyt) |
+| Somali Hikers: Epping Forest Hike | 2026-11-08 | Theydon Bois, GB | [↗](https://lu.ma/isomjbwy) |
+| She Loves: Sunday Social | 2026-11-08 | Shibuya, JP | [↗](https://lu.ma/ptyslzzx) |
+| 団地写真散歩 Danchi Photo Walk | 2026-11-08 | Yokohama, JP | [↗](https://lu.ma/m638fpj9) |
+| The Gut Microbiome: Your Body’s Hidden Ecosystem | 2026-11-08 | Ajax, CA | [↗](https://lu.ma/ojb440kj) |
 | 2026 NARI Milwaukee Remodeler & Supplier Expo | 2026-11-09 to 2026-11-10 | Brookfield, Wisconsin | [↗](https://www.narimilwaukee.org/expo) |
 | GenAI Workshop Fest | 2026-11-09 to 2026-11-10 | Valencia | [↗](https://dev.events/conferences/gen-ai-workshop-fest-z9nfnuk) |
 | DSLAM Night Shift Stuttgart | 2026-11-09 | Stuttgart | [↗](https://dev.events/conferences/dslam-night-shift-stuttgart-bivlkzqp) |
@@ -6230,6 +6199,8 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | AI Isn't the New Threat. It's the New Clock | 2026-11-09 | Unknown | [↗](https://intelligence.theregister.com/paper/view/21050/ai-isn-t-the-new-threat-it-s-the-new-clock) |
 | The Shift from SDLC to ADLC: How the Role of Humans is Changing | 2026-11-09 | Unknown | [↗](https://www.scworld.com/cybercast/the-shift-from-sdlc-to-adlc-how-the-human-role-is-changing-in-software-development?utm_source=SnykSP) |
 | オンチェーン金融の現在地と未来 - 金融市場インフラと金融ビジネスの変革 - | 2026-11-09 | Chuo City, JP | [↗](https://lu.ma/gee3slcq) |
+| 11/10 (火) 7時~7時45分 皇居ラン | 2026-11-09 | Chiyoda City, JP | [↗](https://lu.ma/4mx1bqo7) |
+| Elyos Dinner Club: Sydney Edition! Lifting the lid on AI Agents for field services | 2026-11-09 | Barangaroo, AU | [↗](https://lu.ma/1lg8iuez) |
 | XtremeJS Online Conference | 2026-11-10 | Unknown | [↗](https://xtremejs.dev) |
 | Global Security Symposium | 2026-11-10 | Online | [↗](https://dev.events/conferences/global-security-symposium-yb91jxog) |
 | .NET Conf | 2026-11-10 | Online | [↗](https://www.dotnetconf.net/) |
@@ -6257,6 +6228,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Lino-print Wrapping Paper workshop | 2026-11-10 | Setagaya City, JP | [↗](https://lu.ma/g4wn3yjg) |
 | Tacos+Tech | 2026-11-10 | Tempe, us | [↗](https://www.meetup.com/dataphx/events/316925594/) |
 | Bondi AI Collective | 2026-11-10 | Bondi Junction, AU | [↗](https://lu.ma/d4t346fy) |
+| After Dark SYD: A Happy Hour by Aikido Security | 2026-11-10 | Surry Hills, AU | [↗](https://lu.ma/aikido-o5dh) |
 | CLC | 2026-11-11 to 2026-11-12 | Mannheim | [↗](https://dev.events/conferences/clc-djdu2lvr) |
 | CLC 26 | 2026-11-11 to 2026-11-12 | Mannheim | [↗](https://dev.events/conferences/clc-26-ilj3vts8) |
 | Qubit Conference® Slovakia 2026 | 2026-11-11 to 2026-11-12 | Demanovska Dolina | [↗](https://dev.events/conferences/qubit-conference-slovakia-2026-wf-rc5fr) |
@@ -6297,6 +6269,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | IDEA CLIMBING〜事業アイデアを人に説明できるようになろう！ | 2026-11-11 | Chiyoda City, JP | [↗](https://lu.ma/ed9g4esp) |
 | Bitcoin++ Insider Edition | 2026-11-11 | Shinjuku City, JP | [↗](https://lu.ma/4q8vwo2f) |
 | 〖風KAZE ✖︎ 参謀BAR コラボイベント〗世代を超えて学ぼう会特別ゲスト：西住祐弥氏 | 2026-11-11 | Minato City, JP | [↗](https://lu.ma/ao236a7p) |
+| Forest Workshop evening at Impact HUB Tokyo: UX Designer (Session 1/3) | 2026-11-11 | Meguro City, JP | [↗](https://lu.ma/tcuozuhm) |
 | NODES 26 | 2026-11-12 | Online Conference | [↗](https://joind.in/event/nodes-26) |
 | Tokyo Salone, a vision for the future | 2026-11-12 | Minato City, JP | [↗](https://lu.ma/tokyo-salone) |
 | J-Fall | 2026-11-12 | Ede | [↗](https://dev.events/conferences/j-fall-qjl2a00f) |
@@ -6349,6 +6322,8 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Agent Orchestration in the Enterprise: Coordination, Control, and Scale | 2026-11-12 | Virtual/Online | [↗](https://www.meetup.com/data-science-nc/events/317199431/) |
 | AI 影片極速後製：Antigravity 實作工作坊 (Fast-Track AI Video Post-Production: Antigravity Hands-on Workshop) | 2026-11-12 | Hong Kong, Hong Kong | [↗](https://gdg.community.dev/events/details/google-gdg-hong-kong-presents-ai-ying-pian-ji-su-hou-zhi-antigravity-shi-zuo-gong-zuo-fang-fast-track-ai-video-post-production-antigravity-hands-on-workshop/) |
 | ESPACE AI — BEYOND INCORPORATION | 2026-11-12 | Johor Bahru, MY | [↗](https://lu.ma/5rw42jb4) |
+| ゆる撮影会【第２部】 | 2026-11-12 | Taito City, JP | [↗](https://lu.ma/d1bvdqpp) |
+| 【参謀BARコネクターNight】ご縁をお繋ぎします！どなたでもご来店歓迎！ | 2026-11-12 | Shinjuku City, JP | [↗](https://lu.ma/udn48d5e) |
 | JIHE 2026 – Japan International Hemp Expo | 2026-11-13 | Shibuya, JP | [↗](https://lu.ma/hpztknzq) |
 | Akademy 2026 | 2026-11-13 | Graz | [↗](https://dev.events/conferences/akademy-2026-1owsa4dw) |
 | WordCamp Pisa 2026 | 2026-11-13 to 2026-11-14 | Pisa | [↗](https://dev.events/conferences/word-camp-pisa-2026-czlkc2rr) |
@@ -6392,6 +6367,8 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Webinar with Cosmos Labs: Designing Tokenized Deposits for a Multi-Ledger Future | 2026-11-13 | Virtual/Online | [↗](https://www.meetup.com/lfdt-north-carolina/events/317156463/) |
 | LATIN PARTY • NOVEMBER 13 • SHIBUYA SCRAMBLE S • TOKYO | 2026-11-13 | Shibuya, JP | [↗](https://lu.ma/1hemdhy5) |
 | How to build a meaningful career with zero to little experience. \| Pillars Network x UTM MSA | 2026-11-13 | Mississauga, CA | [↗](https://lu.ma/sslvhjsr) |
+| ニュースではわからない、韓国ビットコインのリアル @cafe 3104 | 2026-11-13 | Shinjuku City, JP | [↗](https://lu.ma/bdcm6pyo) |
+| 人間、掘れば掘るほど面白い。 〜肩書きを脱いだ40人の「偏愛」と「哲学」を愛でる夜〜（一日店長：石井 誠人 × 山田 杏奈） | 2026-11-13 | Minato City, JP | [↗](https://lu.ma/j7t6whhs) |
 | Capitole du Libre 2026 | 2026-11-14 to 2026-11-15 | Toulouse | [↗](https://dev.events/conferences/capitole-du-libre-2026-yjowu3we) |
 | DevFest Tiaret 2026 | 2026-11-14 | Tiaret, Algeria | [↗](https://gdg.community.dev/events/details/google-gdg-tiaret-presents-devfest-tiaret-2026/) |
 | M365 Community Days Atlanta 2026 | 2026-11-14 | Morrow | [↗](https://dev.events/conferences/m365-community-days-atlanta-2026-wofch0oy) |
@@ -6440,6 +6417,11 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | AI in AZ - AI Film Premiere Night (The Stewards) | 2026-11-14 | Scottsdale, us | [↗](https://www.meetup.com/ai-arizona/events/316540389/) |
 | Cybersecurity Workshops & Hands-On In-Person Training | 2026-11-14 | Lusaka, Zambia | [↗](https://gdg.community.dev/events/details/google-gdg-lusaka-presents-cybersecurity-workshops-amp-hands-on-in-person-training/) |
 | ♨️🏃‍♀️SENTO RUN with Levätä🧴✨ | 2026-11-14 | Taito City, JP | [↗](https://lu.ma/iiyon-8v5k) |
+| [JWC JB] FREE Barista Class for Auditors ONLY | 2026-11-14 | Johor Bahru, MY | [↗](https://lu.ma/acixpwhm) |
+| Kickboxing × Cafe | 2026-11-14 | Koto City, JP | [↗](https://lu.ma/ef8cx0md) |
+| The D.A.D. Group Presents: 'Hair Day' | 2026-11-14 | Pickering, CA | [↗](https://lu.ma/scd1qe2q) |
+| AWS Community Day Belém | 2026-11-14 | Unknown | [↗](https://awscommunityday.com.br/#norte) |
+| Devfest - Gemini Enterprise Demo and Deploy to GCP with Antigravity | 2026-11-14 | Online | [↗](https://www.meetup.com/gdgcloudindy/events/317261943/) |
 | DevFest × SunHacks ASU 2026 | 2026-11-15 | Tempe | [↗](https://dev.events/conferences/dev-fest-sun-hacks-asu-2026-ija8tzww) |
 | Devfest'26 Gaziantep | 2026-11-15 | Gaziantep, Türkiye | [↗](https://gdg.community.dev/events/details/google-gdg-gaziantep-presents-devfest26-gaziantep/) |
 | Вечер Настолок | 2026-11-15 | Zetland, AU | [↗](https://lu.ma/25tdnz96) |
@@ -6482,6 +6464,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | GPU Detective Stories: PyTorch Recompiles & Hidden Bottlenecks | 2026-11-16 | Virtual/Online | [↗](https://www.meetup.com/ai-performance-engineering-meetup-arlington-va/events/317162352/) |
 | 🏃‍♀️‍➡️🔥iiyon!! plus Run｜at New Balance RunHub🥤🏃‍♂️‍➡️ | 2026-11-16 | Shibuya, JP | [↗](https://lu.ma/iiyon-dhay) |
 | From AI Pilot to Production on Google Cloud | 2026-11-16 | Virtual/Online | [↗](https://www.meetup.com/meetup-group-xfwllgfg/events/317252770/) |
+| How to Build an AI Employee That Starts Today | 2026-11-16 | Virtual/Online | [↗](https://www.meetup.com/chicago-startup-founder-101/events/317106996/) |
 | betterCode() .NET 11.0 | 2026-11-17 | Online | [↗](https://net.bettercode.eu) |
 | React Summit US | 2026-11-17 to 2026-11-20 | Online | [↗](https://reactsummit.us/) |
 | Open Source Monitoring conference | 2026-11-17 to 2026-11-19 | Bavaria | [↗](https://osmc.de) |
@@ -6525,6 +6508,9 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | 【創業者二人参戦】Supabase東京ミートアップ | 2026-11-17 | Minato City, JP | [↗](https://lu.ma/supabase-eh6n) |
 | [Pickle Salon Tokyo] 11/17 (Tue.) 21:00~22:00 | 2026-11-17 | Minato City, JP | [↗](https://lu.ma/liobae92) |
 | Mam's en mouvement | 2026-11-17 | Osny, FR | [↗](https://lu.ma/82jz261e) |
+| DuckDB × MySQL Day | 2026-11-17 | Online | [↗](https://dev.events/conferences/duck-db-my-sql-day-pfya0hae) |
+| JAWS FESTA 2026 | 2026-11-17 | Unknown | [↗](https://jawsfesta2026.jaws-ug.jp/) |
+| Building AI Memory: From a Local Robot to a 1,000-Fly Hive Mind | 2026-11-17 | Virtual/Online | [↗](https://www.meetup.com/odsc-chicago-data-science/events/317074281/) |
 | X-Ops Conference Madrid 2026 | 2026-11-18 to 2026-11-21 | Mostoles | [↗](https://dev.events/conferences/x-ops-conference-madrid-2026-jkmbncnk) |
 | PgConf.Nepal 2026 | 2026-11-18 to 2026-11-21 | Kathmandu | [↗](https://dev.events/conferences/pg-conf-nepal-2026-3-3tcr11) |
 | KSUG.AI Australia #72 - Sydney @ Nutanix | 2026-11-18 | Millers Point, AU | [↗](https://lu.ma/svwjwds7) |
@@ -6545,6 +6531,8 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Maitreya AI In Finance C-Suite Dinner | 2026-11-18 | Andaz, SG | [↗](https://lu.ma/eai3lzta) |
 | Agentic AI Multimodal MonthlyMixer - Where Agents Minds Meet | 2026-11-18 | Virtual/Online | [↗](https://www.meetup.com/ac-rdu/events/317196768/) |
 | AI Demo Day Q4 | 2026-11-18 | Virtual/Online | [↗](https://www.meetup.com/data-science-nc/events/315312565/) |
+| Find Your Sydney Co-founder | 2026-11-18 | Ultimo, AU | [↗](https://lu.ma/sljwcsql) |
+| AI knows your brand. Will it choose you? A leadership breakfast briefing with LEOPRD. | 2026-11-18 | Haymarket, AU | [↗](https://lu.ma/pb6doqhb) |
 | Conf42 MLOps 2026 | 2026-11-19 | Online | [↗](https://www.conf42.com/mlops2026) |
 | 27th NextGen Payments & RegTech Forum - Cyprus | 2026-11-19 | Limassol | [↗](https://dev.events/conferences/27th-next-gen-payments-and-reg-tech-forum-cyprus-aedhkwlx) |
 | DevFest Toulouse 2026 | 2026-11-19 | Toulouse | [↗](https://dev.events/conferences/dev-fest-toulouse-2026-06aigazz) |
@@ -6574,6 +6562,8 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Se rencontrer à la Ferme de l'Envol, entre acteurs de l'agroécologie 🌱 Evènement de campagne | 2026-11-19 | Brétigny-sur-Orge, FR | [↗](https://lu.ma/8jxitjir) |
 | ZK Learning Group: ZK Identity, supporting AML/KYC with ZK | 2026-11-19 | Virtual/Online | [↗](https://www.meetup.com/lfdt-north-carolina/events/317064975/) |
 | Fabric Community Call | 2026-11-19 | Virtual/Online | [↗](https://www.meetup.com/triad-microsoft-data-platform-user-group/events/317151360/) |
+| AI for Work: Build Your Own AI-Powered CRM | 2026-11-19 | Virtual/Online | [↗](https://www.meetup.com/odsc-chicago-data-science/events/317062283/) |
+| Introduction to Scalable High-Level Quantum Programming with Classiq | 2026-11-19 | Virtual/Online | [↗](https://www.meetup.com/quantum-computing-chicago-illinois-and-beyond/events/317154539/) |
 | Agentic Engineering Days Zurich | 2026-11-20 | Unknown | [↗](https://www.agenticdays.com) |
 | PWNORDIE 2026 | 2026-11-20 to 2026-11-21 | Quito | [↗](https://dev.events/conferences/pwnordie-2026-wzdvooqc) |
 | angularday 2026 | 2026-11-20 | Verona | [↗](https://dev.events/conferences/angularday-2026-kkvumlui) |
@@ -6590,6 +6580,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | DevFest Bamenda 2026 | 2026-11-20 to 2026-11-21 | Bamenda | [↗](https://dev.events/conferences/dev-fest-bamenda-2026-r8qsjmcg) |
 | DevFest Valencia 2026 | 2026-11-20 to 2026-11-21 | Valencia | [↗](https://dev.events/conferences/dev-fest-valencia-2026-zbqr41yu) |
 | DevFest Belgium 2026 | 2026-11-20 | Charleroi | [↗](https://dev.events/conferences/dev-fest-belgium-2026-aiioo5s) |
+| How AI Can Enhance Survey Research | 2026-11-20 | Online | [↗](https://www.meetup.com/pydatachi/events/317159634/) |
 | AppSec Days India 2026 Virtual Conference | 2026-11-21 | Online | [↗](https://india.appsecdays.org/) |
 | OWASP AppSec Days India 2026 | 2026-11-21 | Online | [↗](https://dev.events/conferences/owasp-app-sec-days-india-2026-9-7at3-s) |
 | NIDC 2026: 10th Anniversary Edition! | 2026-11-21 | Belfast | [↗](https://dev.events/conferences/nidc-2026-10th-anniversary-edition-fd3j0fqb) |
@@ -6619,6 +6610,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | DevFest Münster 2026 | 2026-11-21 | Munster | [↗](https://dev.events/conferences/dev-fest-muenster-2026-ivoqsoxh) |
 | Design Table EOY Catchup | 2026-11-21 | The Rocks, AU | [↗](https://lu.ma/r9jhob2k) |
 | Sendai RubyKaigi 03 | 2026-11-21 | Sendai | [↗](https://dev.events/conferences/sendai-ruby-kaigi-03-pl-qlxx8) |
+| AI fwdays’26 | 2026-11-21 | Online | [↗](https://dev.events/conferences/ai-fwdays-26-rdfvmlj8) |
 | DevFest Ghardaia 2026 | 2026-11-22 | Ghardaia, Algeria | [↗](https://gdg.community.dev/events/details/google-gdg-ghardaia-presents-devfest-ghardaia-2026/) |
 | DevFest 2026 Ashgabat | 2026-11-22 | Ashgabat, Turkmenistan | [↗](https://gdg.community.dev/events/details/google-gdg-ashgabat-presents-devfest-2026-ashgabat/) |
 | DevFest Sfax 2026 | 2026-11-22 | Sfax | [↗](https://dev.events/conferences/dev-fest-sfax-2026-jnttg-3a) |
@@ -6640,6 +6632,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Red Hat Summit Connect Paris | 2026-11-24 | Unknown | [↗](https://www.redhat.com/en/summit/connect/emea/paris-2026) |
 | Accelerating deployment for the AI dev lifecycle | 2026-11-24 | Online | [↗](https://platformengineering.org/events/accelerating-deployment-for-the-ai-dev-lifecycle-2026-11-24) |
 | Aussie Startup Padel - Sydney | 2026-11-24 | Alexandria, AU | [↗](https://lu.ma/96vfmnvb) |
+| Momentum Launch Party 🎉 | 2026-11-24 | Haymarket, AU | [↗](https://lu.ma/momentum-launch-party) |
 | WordPress Sydney End-of-Year Social | 2026-11-25 | Eveleigh, AU | [↗](https://lu.ma/6p2mh2wb) |
 | DevOpsDays Islamabad 2026 | 2026-11-25 | Islamabad | [↗](https://dev.events/conferences/dev-ops-days-islamabad-2026-g7uf4rbc) |
 | AiXCon Global 2026 | 2026-11-25 | Chandigarh | [↗](https://dev.events/conferences/ai-x-con-global-2026-jbnlymm9) |
@@ -6723,6 +6716,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | IT Security Summit Munich | 2026-11-30 | Online | [↗](https://it-security-summit.com/munich) |
 | NVIDIA GTC Washington | 2026-11-30 to 2026-12-03 | Washington | [↗](https://dev.events/conferences/nvidia-gtc-washington-wx7ewrne) |
 | Azure Cloud Lab 2026 | 2026-11-30 to 2026-12-04 | VIRTUAL | [↗](https://www.azurecloudlab.net/) |
+| Get to know Cockroach Labs at AWS re:Invent | 2026-11-30 | Unknown | [↗](https://www.cockroachlabs.com/events/aws-reinvent/) |
 | JakartaOne Livestream 2026 | 2026-12-01 | Online | [↗](https://jakartaone.jakarta.ee/jakartaone-livestream-2026/) |
 | DevOpsDays Recife 2026 | 2026-12-01 | Recife | [↗](https://devopsdays.org/events/2026-recife) |
 | Agile Leadership Conference 2026 | 2026-12-01 to 2026-12-02 | Online | [↗](https://dev.events/conferences/agile-leadership-conference-2026-8gpr2rev) |
@@ -6791,6 +6785,8 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Devfest Kütahya | 2026-12-05 | Kütahya, Türkiye | [↗](https://gdg.community.dev/events/details/google-gdg-kutahya-presents-devfest-kutahya/) |
 | DevFest Naryn 2026 | 2026-12-05 | Bishkek, Kyrgyzstan | [↗](https://gdg.community.dev/events/details/google-gdg-bishkek-presents-devfest-naryn-2026/) |
 | .NET Conf 2026 Community Edition South Africa | 2026-12-05 | Bloemfontein | [↗](https://dev.events/conferences/net-conf-2026-community-edition-south-africa-mkqhnas) |
+| Devfest Kano 2026 | 2026-12-05 | Kano | [↗](https://dev.events/conferences/devfest-kano-2026-5elacgx5) |
+| DevFest on Campus 2026 | 2026-12-05 | Poznan | [↗](https://dev.events/conferences/dev-fest-on-campus-2026-n0yzeujh) |
 | Open Source Summit Japan + Automotive Linux Summit + Embedded Linux Conference Asia 2026 | 2026-12-06 to 2026-12-08 | Unknown | [↗](https://events.linuxfoundation.org/open-source-summit-japan) |
 | DevFest Fresno 2026 | 2026-12-06 | Fresno | [↗](https://dev.events/conferences/dev-fest-fresno-2026-nnf0lrny) |
 | ArchConf | 2026-12-07 | Clearwater, FL, U.S.A. | [↗](https://archconf.com) |
@@ -6802,6 +6798,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | PyData Global 2026 | 2026-12-08 to 2026-12-10 | Online | [↗](https://dev.events/conferences/py-data-global-2026-8bywehp) |
 | Team on Tour: Toronto | 2026-12-08 | Unknown | [↗](https://events.atlassian.com/teamontour-toronto?utm_medium=event-web-referral&utm_source=cross-promo&utm_context=701qb00000wi1f7yai&utm_campaign=K:event%7CH:in-person%7CN:tot_toronto%7CP:agnostic%7CO:event-marketing%7CF:pre-event%7CC:event-home&utm_content=events_tile&event_id=386465) |
 | Fifty First Prompts: What to Do When Your LLM Suffers From Daily Amnesia | 2026-12-08 | Unknown | [↗](https://intelligence.theregister.com/paper/view/21048/fifty-first-prompts-what-to-do-when-your-llm-suffers-from-daily-amnesia) |
+| Training & Agent Efficiency: a Snowflake NeurIPS Mixer | 2026-12-08 | Darling Harbour, AU | [↗](https://lu.ma/rnp5zv8q) |
 | Great International AI Native Summit (GAINS) | 2026-12-09 to 2026-12-10 | Karnataka | [↗](https://ainativesummit.com) |
 | AI Context Series Paris | 2026-12-09 | Puteaux, FR | [↗](https://lu.ma/rikjfvfm) |
 | BlackHat | 2026-12-09 | Unknown | [↗](https://blackhatmea.com/tickets-2026) |
@@ -6841,6 +6838,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | DevFest Cuenca 2026 | 2026-12-12 | Cuenca | [↗](https://dev.events/conferences/dev-fest-cuenca-2026-hvvaevqb) |
 | DevFest Bari 2026 | 2026-12-12 | Bari | [↗](https://dev.events/conferences/dev-fest-bari-2026-y7knsdtl) |
 | DevFest GDG Kyiv 2026 | 2026-12-12 | Kyiv, Ukraine | [↗](https://gdg.community.dev/events/details/google-gdg-kyiv-presents-devfest-gdg-kyiv-2026/) |
+| AWS Community Day Nigeria | 2026-12-12 | Unknown | [↗](https://www.meetup.com/aws-womens-user-group-port-harcourt/events/316776385/) |
 | DevFest 2026 Ahlen | 2026-12-13 | Ahlen | [↗](https://dev.events/conferences/dev-fest-2026-ahlen-iroa3a2e) |
 | DevFest Shenzhen 2026 | 2026-12-13 | Shenzhen | [↗](https://dev.events/conferences/dev-fest-shenzhen-2026-ywczj5hi) |
 | Softwarearchitektur für KI-Systeme | 2026-12-14 to 2026-12-16 | Online | [↗](https://dev.events/conferences/softwarearchitektur-fuer-ki-systeme-fyyq7wfu) |
@@ -6867,6 +6865,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | GDG Addis DevFest ’26 | 2026-12-26 | Addis Ababa, Ethiopia | [↗](https://gdg.community.dev/events/details/google-gdg-addis-presents-gdg-addis-devfest-26/) |
 | .NET Conf 2026 Amravati | 2026-12-26 | Amravati | [↗](https://dev.events/conferences/net-conf-2026-amravati-ynrnhhts) |
 | Alexandria DevFest 2026 | 2026-12-26 | Alexandria | [↗](https://dev.events/conferences/alexandria-dev-fest-2026-h4tgopcy) |
+| AWS Community Day Lahore 2026 | 2026-12-26 | Lahore | [↗](https://dev.events/conferences/aws-community-day-lahore-2026-uh2ljv03) |
 | How I fixed it – GDG Cloud Chandigarh | 2026-12-29 | Unknown | [↗](https://gdg.community.dev/gdg-cloud-chandigarh) |
 | ACM-IEEE WIE Twin Cities \| Enterprise Systems & Platforms in the AI Era | 2026-12-31 | Online | [↗](https://twincities-techhub.lovable.app/about) |
 | DevOpsDays Vitoria 2027 | 2027-01-01 | Vitoria | [↗](https://devopsdays.org/events/2027-vitoria) |
@@ -6888,6 +6887,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | SANS Stay Sharp: Jan 2027 | 2027-01-21 | Unknown | [↗](https://www.sans.org/cyber-security-training-events/stay-sharp-jan-2027) |
 | From Awareness to Impact: Emotional Intelligence is the Key | 2027-01-22 | Khartoum, Sudan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sudan-university-of-science-technology-khartoum-sudan-presents-from-awareness-to-impact-emotional-intelligence-is-the-key/) |
 | PyCon CI 2027 | 2027-01-22 | Unknown | [↗](https://www.python.org/events/python-events/2252/) |
+| 9th Cloud8 virtual Summit 2027 | 2027-01-22 | Online | [↗](https://dev.events/conferences/9th-cloud8-virtual-summit-2027-ijkhit) |
 | Buy your tickets here | 2027-01-23 | Unknown | [↗](https://pretix.eu/phpbenelux/conference2027/) |
 | FUN OCaml | 2027-01-25 to 2027-01-26 | Online | [↗](https://fun-ocaml.com) |
 | eBPF Summit 2027: Security Edition | 2027-01-26 to 2027-01-27 | Online | [↗](https://dev.events/conferences/e-bpf-summit-2027-security-edition-xa-xiae6) |
@@ -6918,6 +6918,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | LDR514 Live Online February | 2027-02-12 | Unknown | [↗](https://www.sans.org/cyber-security-training-events/ldr514-lo-february) |
 | gophercon.jp | 2027-02-13 | Unknown | [↗](https://gophercon.jp/2027/) |
 | SEC501 Live Online February | 2027-02-13 | Unknown | [↗](https://www.sans.org/cyber-security-training-events/sec501-lo-february) |
+| SEC522 Live Online February | 2027-02-13 | Unknown | [↗](https://www.sans.org/cyber-security-training-events/sec522-lo-february) |
 | Power BI Summit 16. – 17. Februar 2027 | 2027-02-15 to 2027-02-16 | Unknown | [↗](https://events.m365-summits.de/PowerBISummit1617Februar2027) |
 | ARCTIC Conference | 2027-02-16 to 2027-02-18 | Oulu | [↗](https://dev.events/conferences/arctic-conference-2hq9ykym) |
 | Power BI Summit | 2027-02-16 to 2027-02-17 | Online | [↗](https://dev.events/conferences/power-bi-summit-r6y74erp) |
@@ -7141,6 +7142,7 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Productlab Conference 2027 | 2027-09-08 to 2027-09-10 | Online | [↗](https://dev.events/conferences/productlab-conference-2027-inaydi-h) |
 | CloudX 2027 | 2027-09-08 to 2027-09-10 | Santa Clara | [↗](https://dev.events/conferences/cloud-x-2027-of124dmh) |
 | Observability 2027 | 2027-09-09 | Online | [↗](https://dev.events/conferences/observability-2027-eej-m480) |
+| DDX San Diego 2027 | 2027-09-16 | San Diego | [↗](https://dev.events/conferences/ddx-san-diego-2027-mszyikgr) |
 | Open Source Summit Europe 2027 | 2027-09-20 to 2027-09-22 | Glasgow | [↗](https://dev.events/conferences/open-source-summit-europe-2027-jz5tkzhu) |
 | Atlas Digital Summit 2027 | 2027-09-20 to 2027-09-22 | Reykjavik | [↗](https://dev.events/conferences/atlas-digital-summit-2027-zjf5q3-s) |
 | AI Agents 2027 | 2027-09-23 | Online | [↗](https://dev.events/conferences/ai-agents-2027-vvrukoxr) |
@@ -7162,6 +7164,103 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | MLOps 2027 | 2027-12-02 | Online | [↗](https://dev.events/conferences/ml-ops-2027-lxkvutfw) |
 | Chaos Engineering 2027 | 2027-12-16 | Online | [↗](https://dev.events/conferences/chaos-engineering-2027-m6np64oy) |
 | Conf42 Chaos Engineering 2027 | 2027-12-16 | VIRTUAL | [↗](https://www.conf42.com/ce2027) |
+| XtremeJ | 2026-11-03 | Online | [↗](https://dev.events/conferences/xtreme-j-e8whinpm) |
+| ALASCA Summit 2026 | 2026-11-03 to 2026-11-04 | Dresden | [↗](https://dev.events/conferences/alasca-summit-2026-bx5mteft) |
+| Node-RED Con 2026 | 2026-11-03 | Online | [↗](https://dev.events/conferences/node-red-con-2026-lqiyxdie) |
+| Advanced Technology Days 21 | 2026-11-03 to 2026-11-04 | Zagreb | [↗](https://dev.events/conferences/advanced-technology-days-21-p-ja2a9j) |
+| KAVACON CYBERSECURITY CONFERENCE 2026 | 2026-11-03 to 2026-11-13 | Online | [↗](https://dev.events/conferences/kavacon-cybersecurity-conference-2026-cuie9ld6) |
+| CALL FOR PAPER – KAVACON CYBERSECURITY CONFERENCE 2026 | 2026-11-03 to 2026-11-13 | VIRTUAL | [↗](https://kavacon.org) |
+| The Future of AI Governance: Forecasting the Next Five Years | 2026-11-03 | Unknown | [↗](https://www.dataversity.net/webinar/the-future-of-ai-governance-forecasting-the-next-five-years/) |
+| London – Unlock Agent Autonomy, Safely: AI Governance in Practice | 2026-11-03 | Unknown | [↗](https://www.docker.com/events/ai-without-losing-control/) |
+| aiDevCon | 2026-11-03 | Unknown | [↗](https://tessl.io/devcon/) |
+| Vultr: Agent Rush Hackathon | 2026-11-03 | Unknown | [↗](https://lablab.ai/ai-hackathons/vultr-hackathon) |
+| SANS AI Cybersecurity Summit Fall 2026 | 2026-11-03 | Unknown | [↗](https://www.sans.org/cyber-security-training-events/ai-summit-fall-2026) |
+| Morning Run & Coffee Break | 2026-11-03 | Chiyoda City, JP | [↗](https://lu.ma/02i90p0c) |
+| Humanoid Hack Tokyo 3 — 発表観覧 | 2026-11-03 | Shibuya, JP | [↗](https://lu.ma/fvbbx29u) |
+| ピックルボールプレー会＠銀座／新橋 vol.1 \| Pickleball Play Session at Ginza/Shimbashi｜YOHAKU place | 2026-11-03 | Chiyoda City, JP | [↗](https://lu.ma/yohaku-1r35) |
+| 第2回ランニングイベント 皇居ラン | 2026-11-03 | Chiyoda City, JP | [↗](https://lu.ma/edd7iiuu) |
+| AAIF - Agentic AI Night | 2026-11-03 | Pyrmont, AU | [↗](https://lu.ma/0ex5yg1q) |
+| Euro Naval 2026: Beers & Bots | 2026-11-03 | Villepinte, FR | [↗](https://lu.ma/ktxxjzhn) |
+| AIMUG Monthly Mixer & Showcase | 2026-11-03 | Online | [↗](https://www.meetup.com/austin-langchain-ai-group/events/315504034/) |
+| Grafana & Friends Singapore | 2026-11-03 | Unknown | [↗](https://www.meetup.com/grafana-and-friends-singapore/events/316976705/) |
+| Carnival SHONAN | 2026-11-03 | Fujisawa, JP | [↗](https://lu.ma/f9jasplk) |
+| How to Land a Software Engineering Job in 2027 | 2026-11-03 | Virtual/Online | [↗](https://www.meetup.com/career-job-search-events/events/317086042/) |
+| CRAFT&PICNIC: pipe cleaner flowers | 2026-11-03 | Shibuya, JP | [↗](https://lu.ma/2qffap1t) |
+| [Pickle Salon Tokyo] 11/3 (Tue.) 20:00~21:00 | 2026-11-03 | Minato City, JP | [↗](https://lu.ma/5sdhc6pz) |
+| The Constraints Will Move. You Have to Learn Your Way Into Them | 2026-11-03 | Virtual/Online | [↗](https://www.meetup.com/agilertp/events/316540339/) |
+| Build Your Online Business with Linda Thomas | 2026-11-03 | Virtual/Online | [↗](https://www.meetup.com/build-your-online-business-with-linda-thomas/events/316531506/) |
+| ChatGPT 101: Build a Multiplayer Game x ASCII | 2026-11-03 | Kumbalgodu, IN | [↗](https://lu.ma/y5ulj09e) |
+| Clay in Sydney: Party with Ben Broadley, Clay Cup 2026 Champion 🎉 | 2026-11-03 | Surry Hills, AU | [↗](https://lu.ma/uuanjfmc) |
+| AI Native DevCon NYC | 2026-11-03 | Unknown | [↗](https://tessl.io/events/ai-devcon-nyc) |
+| Executive Roundtable on Project Performance & Delivery | 2026-11-03 | Wembley, GB | [↗](https://lu.ma/chp4qeih) |
+| はじめてのCodex：ほしいものを、その場でつくろう｜第1回ワークショップ | 2026-11-03 | Meguro City, JP | [↗](https://lu.ma/ihpg64dk) |
+| (2hours x4courts) Pickleball Night 🏓 @Minato City (OASIS PICKLE) - 11/3 (Tue) 20:00 | 2026-11-03 | Minato City, JP | [↗](https://lu.ma/zl67nzia) |
+| AXSC SAUNA CLUB | 2026-11-03 | Shinagawa City, JP | [↗](https://lu.ma/aqkss2yi) |
+| LinkedIn Authority Builders | 2026-11-03 | Virtual/Online | [↗](https://www.meetup.com/kansas-city-business-network/events/316977599/) |
+| Nextwork AI Training & Project Development | 2026-11-03 | Virtual/Online | [↗](https://www.meetup.com/nextwork-build-and-brew-san-antonio/events/316966791/) |
+| GitHub: Open source Unlocked | 2026-11-03 | Doddaballapura, IN | [↗](https://lu.ma/iztx970g) |
+| Real Human Run Tokyo Vol. 03｜11月3日（火・祝） | 2026-11-03 | Shibuya, JP | [↗](https://lu.ma/dn85m808) |
+| Workshop IA x Wavestone : construisez votre agent RAG | 2026-11-03 | Jouy-en-Josas, FR | [↗](https://lu.ma/ro3vtli9) |
+| Piailleries #1: IA et cybersécurité | 2026-11-03 | Gif-sur-Yvette, FR | [↗](https://lu.ma/i7uv3mhg) |
+| UI/UX Quest: Introduction to the world of UI/UX | 2026-11-03 | Algiers, Algeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ecole-nationale-superieure-de-lintelligence-artificielle-algiers-algeria-presents-uiux-quest-introduction-to-the-world-of-uiux/) |
+| Apache Iceberg™ Meetup Bay Area | 2026-11-03 | Sunnyvale, US | [↗](https://lu.ma/sficebergnov) |
+| Hard Things | 2026-11-03 | Redwood City, US | [↗](https://lu.ma/vovioxbq) |
+| Plug and Play Taiwan x Silicon Valley Founders & Investors Happy Hour | 2026-11-03 | Palo Alto, US | [↗](https://lu.ma/kjjnwjny) |
+| Nikesh Arora (CEO, Palo Alto Networks) @ Stanford AI Club | 2026-11-03 | Stanford, US | [↗](https://lu.ma/s6coovs3) |
+| Frenelle PBC Private Investor Briefing - Palo Alto | 2026-11-03 | Palo Alto, US | [↗](https://lu.ma/FrenelleCA) |
+| Stanford LP Seminar Series #18 (Rockefeller; Murdock Trust; Dietrich; PFR TFI; Lambourn Capital; Ten Eighty Capital) | 2026-11-03 | Stanford, US | [↗](https://lu.ma/9kuyivbp) |
+| Design & Donuts Social (SWExFigma) | 2026-11-03 | San Jose, US | [↗](https://lu.ma/cwxxnbiz) |
+| From Silicon Valley to Canada: Rethinking Corporate Venture | 2026-11-03 | Palo Alto, US | [↗](https://lu.ma/n7rhminc) |
+| Silicon Valley November Summit 2026 | 2026-11-03 | Sunnyvale, US | [↗](https://lu.ma/pnpsvnovsummit26) |
+| TechEquity Ai Summit 2026: Talks + Workshops + Hackathon, Ft Google, Nvidia, DeepMind, Snowflake and more | 2026-11-03 | Menlo Park, US | [↗](https://lu.ma/ai-summit-2026) |
+| Snowflake Platform Training: Introduction to the Snowflake Data Cloud Workshop | 2026-11-03 | Menlo Park, US | [↗](https://lu.ma/workshop-snowflake-nov-3-2026) |
+| VC Round Table: An Intimate Conversation with Amrit Rao | 2026-11-03 | Palo Alto, US | [↗](https://lu.ma/sn6jfwgb) |
+| Cozy Comfort Reading Party Williamsburg: November 2nd | 2026-11-03 | Kings County, US | [↗](https://lu.ma/bgvos1ce) |
+| Musly Members Only Gathering \| Vinyl Night @ Moondog HiFi \| November 2nd \| New York | 2026-11-03 | Brooklyn, US | [↗](https://lu.ma/uvdks4b7) |
+| Vintage Beaded Jewelry Making | 2026-11-03 | Kings County, US | [↗](https://lu.ma/mgmw8geq) |
+| Open Gym Basketball | 2026-11-03 | Kings County, US | [↗](https://lu.ma/1qhb3vbv) |
+| Pitch & Run - Prospect Park | 2026-11-03 | Kings County, US | [↗](https://lu.ma/8vxdejas) |
+| Mamas Who Walk: South Plainfield | 2026-11-03 | South Plainfield, US | [↗](https://lu.ma/o88luq5g) |
+| Sunset Yards Elementary School Tour | 2026-11-03 | Brooklyn, US | [↗](https://lu.ma/wifbslkf) |
+| Crocheting 101 | 2026-11-03 | Brooklyn, US | [↗](https://lu.ma/es3nnym6) |
+| How to Value Income Producing Buildings w/ Edward Kalisvaart of KW NYC | 2026-11-03 | Manhasset, US | [↗](https://lu.ma/mvmnt4gj) |
+| Downtown Elementary School Tour | 2026-11-03 | Brooklyn, US | [↗](https://lu.ma/dwaj8v39) |
+| Windsor Terrace K-8 Tour | 2026-11-03 | Brooklyn, US | [↗](https://lu.ma/jkp86tol) |
+| Matchmaker, Matchmaker Make me a Movie | 2026-11-03 | Kings County, US | [↗](https://lu.ma/mv95c2xy) |
+| Seven Samurai | 2026-11-03 | Brooklyn, US | [↗](https://lu.ma/lpldvugr) |
+| The Power of LinkedIn with Ava Carroll | 2026-11-03 | Brooklyn, US | [↗](https://lu.ma/dfin5uae) |
+| AI Quest: Preparing Data for AI | 2026-11-03 | Algiers, Algeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ecole-nationale-superieure-de-lintelligence-artificielle-algiers-algeria-presents-ai-quest-preparing-data-for-ai/) |
+| BASES x Altimeter Capital \| Fireside Chat with Brad Gerstner | 2026-11-03 | Stanford, US | [↗](https://lu.ma/foi42gtm) |
+| Mamas Who Walk: Mountain Lakes | 2026-11-03 | Mountain Lakes, US | [↗](https://lu.ma/9fey0kqs) |
+| BAD Readers Qlub | 2026-11-03 | Bronx, US | [↗](https://lu.ma/eot2npe1) |
+| From Bio to Build: A Hands-On AI Workshop | 2026-11-03 | Doddaballapura, IN | [↗](https://lu.ma/c40sy6yc) |
+| AI Wrote it.  Who tested it? | 2026-11-03 | Virtual/Online | [↗](https://www.meetup.com/software-quality-assurance/events/316977725/) |
+| Nikesh Arora x Brad Gerstner \| Stanford AI Club & BASES | 2026-11-03 | Stanford, US | [↗](https://lu.ma/6d8elbie) |
+| Guided Dessert Tasting | 2026-11-03 | Brooklyn, US | [↗](https://lu.ma/nwqwq1u4) |
+| Breathwork in Astoria \| with Cassie Ray | 2026-11-03 | Queens, US | [↗](https://lu.ma/5zgoh57e) |
+| 11/4 (水) 7時~7時45分 皇居ラン | 2026-11-03 | Chiyoda City, JP | [↗](https://lu.ma/y13j2se5) |
+| Cyber Squeeze UK 2026 | 2026-11-03 | Liverpool, GB | [↗](https://infosec-conferences.com/event/20261103-cyber-squeeze-uk-2026/) |
+| Project NEXUS: Behaviour is where every security domain connects | 2026-11-03 | Online | [↗](https://infosec-conferences.com/event/20261103-project-nexus-behaviour-is-where-every-security-domain/) |
+| Benelux Cyber Summit 2026 | 2026-11-03 | Amsterdamn, NL | [↗](https://infosec-conferences.com/event/20261103-benelux-cyber-summit-2026/) |
+| Cybera Cyber Summit 2026 | 2026-11-03 | Banff, CA | [↗](https://infosec-conferences.com/event/20261103-cybera-cyber-summit-2026/) |
+| Supabase Learning Session | 2026-11-03 | Ankara, Türkiye | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ostim-teknik-university-ankara-turkiye-presents-supabase-learning-session/) |
+| Investor Dinner - B2B/Enterprise AI, Vertical AI & Cybersecurity - Synexis Premium [By Approval Only] | 2026-11-03 | San Carlos, US | [↗](https://lu.ma/premai3) |
+| Monday Majlis: Pursuing Justice, Effecting Change: A Conversation on Faith-Based Activism [Feat. Rusha Latif] | 2026-11-03 | Berkeley, US | [↗](https://lu.ma/2ccqvx28) |
+| Little Amanah: Fall Term 11/3 Class | 2026-11-03 | North Brunswick Township, US | [↗](https://lu.ma/ou7ic6xa) |
+| Erlebniskochen-Training | 2026-11-03 | Falkensee, DE | [↗](https://lu.ma/xtdiw37a) |
+| PICKLEBALL TOKYO（ピックルボール東京）@ 池袋｜インドア2面 🏓 | 2026-11-03 | Toshima City, JP | [↗](https://lu.ma/mn9lvuhq) |
+| Stop Protecting Microsoft with Microsoft | 2026-11-03 | Online | [↗](https://infosec-conferences.com/event/20261103-stop-protecting-microsoft-with-microsoft/) |
+| Nexus Transcendence 2026 | 2026-11-03 | Washington, US | [↗](https://infosec-conferences.com/event/20261103-nexus-transcendence-2026/) |
+| International Robot Safety Conference 2026 | 2026-11-03 | Detroit, US | [↗](https://infosec-conferences.com/event/20261103-international-robot-safety-conference-2026/) |
+| Cleanup Club 11/3 🚮 | 2026-11-03 | Brooklyn, US | [↗](https://lu.ma/qzahvbj7) |
+| スタジオアワー２｜ChatGPT・Codexと一緒に、作りたいものを作ってみよう！ | 2026-11-03 | Yokohama, JP | [↗](https://lu.ma/bdynugw1) |
+| NERDEARLA España 2026 | 2026-11-03 | La Nave, ES | [↗](https://infosec-conferences.com/event/20261103-nerdearla-espana-2026/) |
+| Red Hat Summit: Connect Bogota 2026 | 2026-11-03 | Bogotá, CO | [↗](https://infosec-conferences.com/event/20261103-red-hat-summit-connect-bogota-2026/) |
+| Palo Alto CISO Roundtable 2026 | 2026-11-03 | Palo Alto, US | [↗](https://infosec-conferences.com/event/20261103-palo-alto-ciso-roundtable-2026/) |
+| XChange Deutschland 2026 | 2026-11-03 | Mannheim, DE | [↗](https://infosec-conferences.com/event/20261103-xchange-deutschland-2026/) |
+| Agentic AI in IT Operations: What is Changing and What is Next | 2026-11-03 | Online | [↗](https://infosec-conferences.com/event/20261103-agentic-ai-in-it-operations-what-is-changing/) |
+| Cyber Leaders&#8217; Summit: UK November 2026 | 2026-11-03 | Manchester, GB | [↗](https://infosec-conferences.com/event/20261103-cyber-leaders-summit-uk-november-2026/) |
+| Active Directory Community Virtual Meetup &#8211; November 2026 | 2026-11-03 | Online | [↗](https://infosec-conferences.com/event/20261103-active-directory-community-virtual-meetup-november-2026/) |
 | SREday Amsterdam 2026 Q4 | 2026-11-02 | North Holland | [↗](https://sreday.com/2026-amsterdam-q4/) |
 | Open Source Analytics Conference | 2026-11-02 | Online | [↗](https://osacon.io) |
 | W-JAX München | 2026-11-02 | Online | [↗](https://jax.de/muenchen) |
@@ -7351,7 +7450,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Living Lab — The Beginning | 2026-10-31 | Königs Wusterhausen, DE | [↗](https://lu.ma/t7b9rmh4) |
 | Tokyo Repair Workshop @ Communita Cafe | 2026-10-31 | Meguro City, JP | [↗](https://lu.ma/35wnyuod) |
 | HALLOWEEN NIGHT @ UNPLAN SHINJUKU \| ハロウィンナイト at UNPLAN Shinjuku | 2026-10-31 | Shinjuku City, JP | [↗](https://lu.ma/zg3ya4ay) |
-| Power Pulse 100% Femmes | 2026-10-31 | Arcueil, FR | [↗](https://lu.ma/c4r7svma) |
 | East Bay Entrepreneurs - Business Networking Coffee Chat | 2026-10-31 | Pleasanton, US | [↗](https://lu.ma/fenv5koi) |
 | Retell Halloween Party | 2026-10-31 | Redwood City, US | [↗](https://lu.ma/wjhdo5bb) |
 | Shaping AI, Shaped by AI: A Night of Conversation & Games | 2026-10-31 | Palo Alto, US | [↗](https://lu.ma/5691ycy0) |
@@ -7793,111 +7891,11 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | AI as Your Second Brain | 2026-10-28 | Virtual/Online | [↗](https://www.meetup.com/scrum-masters-of-the-universe/events/317148547/) |
 | it-sa Nürnberg 2026 | 2026-10-27 to 2026-10-29 | Nurnberg | [↗](https://dev.events/conferences/it-sa-nuernberg-2026-hdmk18pu) |
 | Summit of Things 2026 | 2026-10-27 to 2026-10-29 | Online | [↗](https://dev.events/conferences/summit-of-things-2026-5ttmnhu) |
-| ODSC AI West 2026 \| San Francisco/Virtual | 2026-10-27 | Burlingame, us | [↗](https://www.meetup.com/odsc-dallas-data-science/events/314996330/) |
-| Your Bourse Golf Day | 2026-10-27 | Little Bay, AU | [↗](https://lu.ma/mz5y7oyf) |
-| Fraud Detection on the Elliptic Bitcoin Dataset: Graphs, Leakage, and Topology | 2026-10-27 | Urbandale, us | [↗](https://www.meetup.com/pyowa-iowa-python-user-group/events/316749553/) |
 | VLCTESTING 2026 | 2026-10-27 to 2026-10-28 | Valencia | [↗](https://dev.events/conferences/vlctesting-2026-cohdxrcv) |
-| Platform Engineering Meetup: Agents broke the balance (& how to fix it) | 2026-10-27 | Online | [↗](https://platformengineering.org/events/agents-broke-the-balance-how-to-fix-it-2026-10-27) |
 | AI Context New York | 2026-10-27 to 2026-10-28 | New City, NY | [↗](https://www.aicontextseries.com/new-york) |
-| it-sa Nuremberg | 2026-10-27 | Unknown | [↗](https://www.itsa365.de/de-de/it-sa-expo-congress/ueber-die-messe) |
-| AI Hot Topics: Breaking and Hardening the MCP Trust Chain | 2026-10-27 | Unknown | [↗](https://go.snyk.io/ai-hot-topics-mcp-sec-isc2.html) |
 | Pathfinder Summit 2026 | 2026-10-27 to 2026-10-28 | Online | [↗](https://dev.events/conferences/pathfinder-summit-2026-riutriza) |
-| Unstoppable Fabric: Deep Dive into Scalable, AI-Ready Spark in Microsoft Fabric | 2026-10-27 | Virtual/Online | [↗](https://www.meetup.com/tripass/events/316880028/) |
-| The Fractional Table・Tokyo 01 | 2026-10-27 | Minato City, JP | [↗](https://lu.ma/zh5cm0l8) |
-| GOX ボードゲームデー | 2026-10-27 | Shinjuku City, JP | [↗](https://lu.ma/kzfninyq) |
-| Unlocking Government Incentives: SR&ED and Grants with Deloitte (lunch&learn) | 2026-10-27 | Hamilton, CA | [↗](https://lu.ma/innova-tjj0) |
-| 【10/27上映】クロムモリブデン『テキサス芝刈機』 | 2026-10-27 | Setagaya City, JP | [↗](https://lu.ma/3spho8dg) |
-| 10/27(Tue)19:30 Imperial Palace Run／皇居ラン | 2026-10-27 | Chiyoda City, JP | [↗](https://lu.ma/witnx1nf) |
-| Ethereum Meetup Tokyo Vol.26 | 2026-10-27 | Bunkyo City, JP | [↗](https://lu.ma/lw4cn2jv) |
-| Your Team Looks Slow. Where Do You Look First? | 2026-10-27 | Virtual/Online | [↗](https://www.meetup.com/the-job-hackers-agile-meetup/events/316769965/) |
-| The AI X Leadership Summit 2026 | 2026-10-27 | Burlingame, us | [↗](https://www.meetup.com/data-science-odsc-seattle/events/315616840/) |
-| Modernize Databases Faster with AI-Assisted Migration and Optimization | 2026-10-27 | Virtual/Online | [↗](https://www.meetup.com/microsoft-reactor-san-francisco/events/316873997/) |
-| AironWorks Open Office Day #3｜世界で勝つスタートアップのファイナンス ~ 日本からグローバルNo. 1を獲る戦略を語る | 2026-10-27 | Minato City, JP | [↗](https://lu.ma/9tbs6cjp) |
-| 27/10 - ACOTAR Lovers Listen & Bedazzle Party | 2026-10-27 | Surry Hills, AU | [↗](https://lu.ma/sheruns-cj61) |
-| [KOCCA] Coupang Play Remake IP Showcase 2026 & 日韓コンテンツビジネス交流会 | 2026-10-27 | Minato City, JP | [↗](https://lu.ma/arguddv9) |
-| 企業文化を守りながら、組織を成長させるには / Culture At Scale: Protecting What Makes a Company Successful While Growing | 2026-10-27 | Minato City, JP | [↗](https://lu.ma/cpndvc2u) |
-| 社内の生成AI活用、どう広げる？ ― 効果的なAI活用推進のための活用事例・研修設計・定着の進め方 ― | 2026-10-27 | Chiyoda City, JP | [↗](https://lu.ma/shzcutw9) |
-| Laser Chess and the Consequences of Deterministic Games | 2026-10-27 | Shibuya, JP | [↗](https://lu.ma/qxmtjp1i) |
-| 10% OFF! 6 Weeks to HIRED: The Fall 2026 Job Search Bootcamp | 2026-10-27 | Virtual/Online | [↗](https://www.meetup.com/svbbdev-silicon-valley-blackberry-jammors/events/316732355/) |
-| Coffee with AI: Meaning, Value & Life in the Age of AI | 2026-10-27 | Larkspur, us | [↗](https://www.meetup.com/coffee-with-ai-meaning-value-life-in-the-age-of-ai/events/317056780/) |
-| Trick, Treat, & Deploy: AWS Card Clash | 2026-10-27 | San Antonio, us | [↗](https://www.meetup.com/san-antonio-aws-users-group/events/316892225/) |
-| Cross-Border Bridge for Startups and Talents: Sydney to Asia via Hong Kong | 2026-10-27 | Haymarket, AU | [↗](https://lu.ma/ukd8gu4i) |
-| Meaningful Longevity | 2026-10-27 | San Carlos, US | [↗](https://lu.ma/mbc-di7r) |
-| Daytona AI Researchers - Berkeley, October 2026 | 2026-10-27 | Berkeley, US | [↗](https://lu.ma/ai-researchers-berkeley) |
-| HACKER'S MOVIE NIGHT | 2026-10-27 | Santa Clara, US | [↗](https://lu.ma/3cze7the) |
-| [FA26] DT x Anthropic Panel | 2026-10-27 | Berkeley, US | [↗](https://lu.ma/ps4siah5) |
-| What Psychedelics Reveal About How We See the World | 2026-10-27 | Oakland, US | [↗](https://lu.ma/mqef6lev) |
-| Considering Private AI: Protection, Price, and Performance | 2026-10-27 | San Mateo, US | [↗](https://lu.ma/AIR_Oct-execroundtable) |
-| Agilent xCELLigence RTCA eSight Training | 2026-10-27 | San Carlos, US | [↗](https://lu.ma/emej80q1) |
-| Interview Skills Bootcamp Day 3: Storytelling & Technical Interview Prep | 2026-10-27 | San Jose, US | [↗](https://lu.ma/vklhnict) |
-| Palo Alto Utility's Grid Modernization with Stanford IEEE | 2026-10-27 | Stanford, US | [↗](https://lu.ma/v5gz9zz9) |
-| Next-Generation Nanoparticle Purification | 2026-10-27 | San Carlos, US | [↗](https://lu.ma/wvkqbl6n) |
-| From Silicon Valley to Langley: Fireside Chat with Nand Mulchandani | 2026-10-27 | Stanford, US | [↗](https://lu.ma/ry3qnzay) |
-| Women in Tech: Coffee & Connections | 2026-10-27 | Sunnyvale, US | [↗](https://lu.ma/492x6xmj) |
-| 10/27 WakaWaka Meetup! ～酒フェス！昭和ナイト！～ | 2026-10-27 | Minato City, JP | [↗](https://lu.ma/mzcnvq5v) |
-| Red Hat Summit: Connect Dallas 2026 | 2026-10-27 | Dallas, US | [↗](https://infosec-conferences.com/event/20261027-red-hat-summit-connect-dallas-2026/) |
-| Meet ICT Bahrain 2026 | 2026-10-27 | Manama, BH | [↗](https://infosec-conferences.com/event/20261027-meet-ict-bahrain-2026/) |
-| The Guardians of the Amazon | 2026-10-27 | Palo Alto, US | [↗](https://lu.ma/5evi1fs4) |
-| Animation Nights New York (ANNY) at The Gutter Spare Room! | 2026-10-27 | Kings County | [↗](https://lu.ma/ht18t7s3) |
-| Creative Hot Seat Nook | 2026-10-27 | Huntington, US | [↗](https://lu.ma/nooksand-crqg) |
-| Limitless Fitness Halloween Kids Run | 2026-10-27 | Queens, US | [↗](https://lu.ma/urhasmr5) |
-| Science of Success: Who Gets Funded, and Why? | 2026-10-27 | Princeton, US | [↗](https://lu.ma/ma9plfej) |
-| OPEN TABS | 2026-10-27 | Brooklyn, US | [↗](https://lu.ma/the-hd32) |
-| Pawn Chess Club x Newlab | 2026-10-27 | Brooklyn, US | [↗](https://lu.ma/mvj1yfaa) |
-| Across the Interview Table | 2026-10-27 | Brooklyn, US | [↗](https://lu.ma/1ao99jax) |
-| Book Launch: At the Edge of Where God Built | 2026-10-27 | Brooklyn, US | [↗](https://lu.ma/rlybv05f) |
-| Founder Pitch Clinic with Anthony Rose & Dave Wolovsky | 2026-10-27 | Brooklyn, US | [↗](https://lu.ma/dehgirvb) |
-| Pawn Chess Club at Newlab | 2026-10-27 | Brooklyn, US | [↗](https://lu.ma/d6xymuwk) |
-| Backgammon at Cafe Landwer | 2026-10-27 | Brooklyn, US | [↗](https://lu.ma/zjdyx18i) |
-| Book Club: Back for Blood: Never Whistle at Night Part II | 2026-10-27 | Brooklyn, US | [↗](https://lu.ma/tapyyzyq) |
-| Chapter 8: A Book Club Experience | 2026-10-27 | Brooklyn, US | [↗](https://lu.ma/45fuz6bj) |
-| creative charmscape: spooky edition | 2026-10-27 | Kings County, US | [↗](https://lu.ma/nqvn9ybv) |
-| Not Your Mother’s Mahjong 10/27 | 2026-10-27 | Brooklyn, US | [↗](https://lu.ma/svms3xqd) |
-| Reading Rhythms Bronx: October 27th | 2026-10-27 | Bronx, US | [↗](https://lu.ma/reading-l92y) |
-| The WORK ROOM Presents: Impact Over Intros: Say More Than Your Job Title | 2026-10-27 | Newark, US | [↗](https://lu.ma/impactoverintros) |
-| 女性限定キャンドルヨガ＆ジャーナリング | 2026-10-27 | Chuo City, JP | [↗](https://lu.ma/rc6xxwdn) |
-| Pickleball Night🗼 @Tokyo Tower (OASIS PICKLE) - 10/27 (Tue) 20:00 | 2026-10-27 | Minato City, JP | [↗](https://lu.ma/yo8w2bcr) |
-| AI Agents for Data Engineering Workflows: Best Practices & Challenges | 2026-10-27 | Virtual/Online | [↗](https://www.meetup.com/bay-area-machine-learning-meetups/events/317000875/) |
-| IMRON Security and Safety Summit 2026 | 2026-10-27 | Arlington, US | [↗](https://infosec-conferences.com/event/20261027-imron-security-and-safety-summit-2026/) |
-| CyberHackCon 2026 | 2026-10-27 | Baku, Azerbaijan | [↗](https://infosec-conferences.com/event/20261027-cyberhackcon-2026/) |
-| What 200 Security Leaders Told Us About Network Device Security | 2026-10-27 | Online | [↗](https://infosec-conferences.com/event/20261027-what-200-security-leaders-told-us-about-network/) |
-| Is DNS Ready for the AI Era? | 2026-10-27 | Online | [↗](https://infosec-conferences.com/event/20261027-is-dns-ready-for-the-ai-era/) |
-| Designing a Modern Identity Stack for the Vishing Era | 2026-10-27 | Online | [↗](https://infosec-conferences.com/event/20261027-designing-a-modern-identity-stack-for-the-vishing/) |
-| Stop Paying for Tokens You Don’t Need: Cost Control for LLM and Agent Traffic | 2026-10-27 | Online | [↗](https://infosec-conferences.com/event/20261027-stop-paying-for-tokens-you-dont-need-cost/) |
-| The Downbeat - with Carla! | 2026-10-27 | Berkeley, US | [↗](https://lu.ma/nav62jx5) |
-| Brothers Bowling! | 2026-10-27 | San Jose, US | [↗](https://lu.ma/qoin8mc6) |
-| EVERYTHING MUST GO - Marla Lou's Closet Sale | 2026-10-27 | Brooklyn, US | [↗](https://lu.ma/t7x11u41) |
-| 19th Hoboken Founders & Entrepreneurs Meetup \| October 2026 | 2026-10-27 | Hoboken, US | [↗](https://lu.ma/m2ey1pqs) |
-| Design Your Own Tarot Spread | 2026-10-27 | Kings County, US | [↗](https://lu.ma/da0r15yg) |
-| Metamorphosis Series by x3butterfly | 2026-10-27 | Brooklyn, US | [↗](https://lu.ma/b8x20u73) |
-| Mismatch: The Official Book Launch Party | 2026-10-27 | Montclair, US | [↗](https://lu.ma/aamkcmr2) |
-| Spooky Season Reading Party Greenpoint: October 27 | 2026-10-27 | Brooklyn, US | [↗](https://lu.ma/reading-54kb) |
-| Substack Writers’ Workshop Part I | 2026-10-27 | Brooklyn, US | [↗](https://lu.ma/jonfvewj) |
-| Pass the Canvas 'Pon the Left Hand Side: An Evening of Painting & Community in Partnership with Major | 2026-10-27 | Brooklyn, US | [↗](https://lu.ma/5nzksdmi) |
-| Pop-up headshot day | 2026-10-27 | Darlinghurst, AU | [↗](https://lu.ma/mc7nj9tb) |
-| DMA x DAI: Uncovered - Marketing & Analytics | 2026-10-27 | Hamilton, CA | [↗](https://lu.ma/fu66j1r6) |
-| GDG on Campus Sakarya University - Hackathon | 2026-10-27 | Sakarya, Türkiye | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sakarya-universitesi-sakarya-turkiye-presents-gdg-on-campus-sakarya-university-hackathon/) |
-| The attack path most security tools overlook | 2026-10-27 | Online | [↗](https://infosec-conferences.com/event/20261027-the-attack-path-most-security-tools-overlook/) |
-| Governance, Risk &#038; Compliance Summit NSW 2026 | 2026-10-27 | Pyrmont, AU | [↗](https://infosec-conferences.com/event/20261027-governance-risk-and-compliance-summit-nsw-2026/) |
-| Reuters Events: Automotive USA 2026 | 2026-10-27 | Detroit, US | [↗](https://infosec-conferences.com/event/20261027-reuters-events-automotive-usa-2026/) |
-| Shift.Forward() | 2026-10-27 | Online | [↗](https://infosec-conferences.com/event/20261027-shiftforward/) |
-| From the Early Internet to Agentic AI: How DNS Must Evolve | 2026-10-27 | Online | [↗](https://infosec-conferences.com/event/20261027-from-the-early-internet-to-agentic-ai-how/) |
-| IT-SA Expo Congress 2026 | 2026-10-27 | Nuremberg, DE | [↗](https://infosec-conferences.com/event/20261027-it-sa-expo-congress-2026/) |
-| The Hidden Cost of AI-Built Firewall Tools | 2026-10-27 | Online | [↗](https://infosec-conferences.com/event/20261027-the-hidden-cost-of-ai-built-firewall-tools/) |
-| ATT&#038;CKcon 7.0 | 2026-10-27 | McLean, US | [↗](https://infosec-conferences.com/event/20261027-attandckcon-70/) |
-| OT Security First Jubail 2026 | 2026-10-27 | Al Jubail, SA | [↗](https://infosec-conferences.com/event/20261027-ot-security-first-jubail-2026/) |
-| Aktonomy Fall 2026 The Biggest Agentic AI Security Summit | 2026-10-27 | Online | [↗](https://infosec-conferences.com/event/20261027-aktonomy-fall-2026-the-biggest-agentic-ai-security/) |
-| Grace Hopper Celebration 2026 | 2026-10-27 | Anaheim, US | [↗](https://infosec-conferences.com/event/20261027-grace-hopper-celebration-2026/) |
-| Is That Linux Alert Real? A 4-Point Checklist | 2026-10-27 | Online | [↗](https://infosec-conferences.com/event/20261027-is-that-linux-alert-real-a-4-point-checklist/) |
-| Picnic & Friendship Bracelet Making | 2026-10-27 | Stanford, US | [↗](https://lu.ma/8lgvqpx8) |
-| DBS Business Class Venture Connect - Bangalore Edition \| Investor Invite | 2026-10-27 | Koramangala, IN | [↗](https://lu.ma/8m3s3ath) |
-| 🦕 Cozy Night Pickle [1-hour] ✨ < Beginner + Intermediate> | 2026-10-27 | Koto City, JP | [↗](https://lu.ma/40nfruup) |
-| Solve Case Studies with Google AI Studio | 2026-10-27 | Ankara, Türkiye | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ted-university-ankara-turkiye-presents-solve-case-studies-with-google-ai-studio/) |
-| Black Hat India | 2026-10-27 | Unknown | [↗](https://www.blackhat-india.com/) |
-| it-sa Expo&Congress | 2026-10-27 | Unknown | [↗](https://www.itsa365.de/en/conference) |
 | IBM TechXchange 2026 | 2026-10-26 to 2026-10-29 | Atlanta | [↗](https://dev.events/conferences/ibm-tech-xchange-2026-xooz7clc) |
 | Techorama 2026 Netherlands | 2026-10-26 to 2026-10-28 | Utrecht | [↗](https://dev.events/conferences/techorama-2026-netherlands-xsyy6rgk) |
-| Cloud Native Days Norway | 2026-10-26 to 2026-10-27 | Bergen | [↗](https://dev.events/conferences/cloud-native-days-norway-zttnx0ej) |
 | SAINTCON 2026 | 2026-10-26 to 2026-10-30 | Provo | [↗](https://dev.events/conferences/saintcon-2026-xsoednp7) |
 | JCON USA 2026 at IBM TechXchange | 2026-10-26 to 2026-10-29 | Atlanta | [↗](https://dev.events/conferences/jcon-usa-2026-at-ibm-tech-xchange-2fytlix8) |
 | JCON USA | 2026-10-26 to 2026-10-29 | Atlanta, GA, U.S.A. | [↗](https://2026.usa.jcon.one) |

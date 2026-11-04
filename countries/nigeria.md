@@ -1,10 +1,9 @@
 # Developer Events in Nigeria
 
-45 upcoming events. [Back to the full directory](../README.md)
+47 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Pre-Devefest Campus Outreach-COOU | 2026-11-03 | Onitsha, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-onitsha-presents-pre-devefest-campus-outreach-coou/) |
 | DevFest Ilorin 2026 | 2026-11-06 | Ilorin, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-ilorin-presents-devfest-ilorin-2026/) |
 | Club Site with Next.js and TypeScript | 2026-11-06 | Iyin, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-federal-university-of-technology-and-environmental-sciences-iyin-ekiti-nigeria-presents-club-site-with-nextjs-and-typescript/) |
 | Understanding the Boring stuff in Flutter: Build your first MVVM Project in Flutter | 2026-11-06 | Iyin, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-federal-university-of-technology-and-environmental-sciences-iyin-ekiti-nigeria-presents-understanding-the-boring-stuff-in-flutter-build-your-first-mvvm-project-in-flutter/) |
@@ -20,6 +19,9 @@
 | Road to DevFest Ibadan 2026: Web Track Kickoff | 2026-11-07 | Ibadan, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-ibadan-presents-road-to-devfest-ibadan-2026-web-track-kickoff/) |
 | Road to DevFest Ibadan 2026: Cybersecurity Track Kickoff | 2026-11-07 | Ibadan, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-ibadan-presents-road-to-devfest-ibadan-2026-cybersecurity-track-kickoff/) |
 | DevFest Keffi 2026 | 2026-11-07 | Keffi, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-keffi-presents-devfest-keffi-2026/) |
+| On Campus Startup Sandbox Episode 003 | 2026-11-07 | Kano, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-bayero-university-kano-kano-nigeria-presents-on-campus-startup-sandbox-episode-003/) |
+| Agent Skills for Web Development | 2026-11-07 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-agent-skills-for-web-development/) |
+| Unlocking Google AI Plus: Student Activation & Onboarding Session | 2026-11-07 | Alasia, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-lagos-state-university-ojo-nigeria-presents-unlocking-google-ai-plus-student-activation-amp-onboarding-session/) |
 | Building with AI at the W3W Creative Hub | 2026-11-14 | Warri, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-warri-presents-building-with-ai-at-the-w3w-creative-hub/) |
 | Road to DevFest Yola: Hands-On Workshop 2 | 2026-11-14 | Jimeta, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-yola-presents-road-to-devfest-yola-hands-on-workshop-2/) |
 | TECH IGNITE '26 | 2026-11-19 | Uyo, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-uyo-uyo-nigeria-presents-tech-ignite-26/) |

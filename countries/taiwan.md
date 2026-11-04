@@ -1,13 +1,10 @@
 # Developer Events in Taiwan
 
-15 upcoming events. [Back to the full directory](../README.md)
+12 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| TOOCON #47 | 2026-11-03 | Kaohsiung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-kaohsiung-presents-toocon-47/) |
-| 【Lecture #3｜Beyond the Classroom: My Journey in Tech, Communities, Across Borders】【社課 #3 預告｜Beyond the Classroom：跨越國界的科技與社群之路】 | 2026-11-03 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-chengchi-university-taipei-taiwan-presents-lecture-3beyond-the-classroom-my-journey-in-tech-communities-across-borders-she-ke-3-yu-gao-beyond-the-classroomkua-yue-guo-jie-de-ke-ji-yu-she-qun-zhi-lu/) |
-| 基礎 Python - 2 | 2026-11-03 | Kaohsiung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-sun-yat-sen-university-kaohsiung-city-taiwan-presents-ji-chu-python-2/) |
-| Red Hat Summit: Connect Taipei 2026 | 2026-11-03 | Taipei, TW | [↗](https://infosec-conferences.com/event/20261103-red-hat-summit-connect-taipei-2026/) |
+| Crypto - Basic | 2026-11-04 | Taichung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-chung-hsing-university-taichung-taiwan-presents-crypto-basic/) |
 | DevFest Kaohsiung 2026 | 2026-11-14 | Kaohsiung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-kaohsiung-presents-devfest-kaohsiung-2026/) |
 | DevFest Kaohsiung 2026 After Buffet | 2026-11-14 | Kaohsiung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-kaohsiung-presents-devfest-kaohsiung-2026-after-buffet/) |
 | GDGoC NCU X OpenTPI 期中專案分享會 | 2026-11-14 | Taoyuan, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-central-university-taoyuan-city-taiwan-presents-gdgoc-ncu-x-opentpi-qi-zhong-zhuan-an-fen-xiang-hui/) |

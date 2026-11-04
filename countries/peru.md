@@ -1,6 +1,6 @@
 # Developer Events in Peru
 
-19 upcoming events. [Back to the full directory](../README.md)
+20 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -8,6 +8,7 @@
 | DevFest Arequipa 2026 | 2026-11-07 | Arequipa, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-arequipa-presents-devfest-arequipa-2026/) |
 | DevFest Cusco 2026 Kickoff | 2026-11-07 | Cusco, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-cusco-presents-devfest-cusco-2026-kickoff/) |
 | DevFest Cusco 2026 | 2026-11-07 | Cusco, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-cusco-presents-devfest-cusco-2026/) |
+| Rumbo al NASA Space Apps: Taller Serverless con GCP y Firebase | 2026-11-07 | Piura, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-piura-presents-rumbo-al-nasa-space-apps-taller-serverless-con-gcp-y-firebase/) |
 | DevFest Lima 2026 - Día I | 2026-11-13 | Lima, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-lima-presents-devfest-lima-2026-dia-i/) |
 | Black Alpaca 2026 | 2026-11-14 | Lima (Peru) | [↗](https://www.blackalpaca.org/) |
 | DevFest Lima 2026 - II | 2026-11-14 | Lima, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-lima-presents-devfest-lima-2026-ii/) |

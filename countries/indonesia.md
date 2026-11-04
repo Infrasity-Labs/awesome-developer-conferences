@@ -4,7 +4,6 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| NGOJAY: Ngobrolin Jurus Nge-yuay Pake e-ay | 2026-11-03 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-bandung-presents-ngojay-ngobrolin-jurus-nge-yuay-pake-e-ay/) |
 | Study Jam IoT #1: The Hello World of IoT | 2026-11-04 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-pasundan-bandung-indonesia-presents-study-jam-iot-1-the-hello-world-of-iot/) |
 | Unlock the Ecosystem: Meet the Community, Teach the Machine | 2026-11-07 | Makassar, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-negeri-makassar-makassar-indonesia-presents-unlock-the-ecosystem-meet-the-community-teach-the-machine/) |
 | DevFest Jogjakarta 2026 | 2026-11-08 | Yogyakarta, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-jogjakarta-presents-devfest-jogjakarta-2026/) |
@@ -19,4 +18,5 @@
 | DevFest Depok 2026 | 2026-12-05 | Depok, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-depok-presents-devfest-depok-2026/) |
 | DevFest Cloud Jakarta 2026 | 2026-12-12 | Jakarta (Indonesia) | [↗](https://app.advocu.com/events/6ab9dae89716fe1c1a4d2074) |
 | DevFest 2026 Surabaya : Build Secure and Scalable Agent | 2026-12-12 | Surabaya, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-surabaya-presents-devfest-2026-surabaya-build-secure-and-scalable-agent/) |
+| DevFest 2026 Semarang | 2026-12-12 | Semarang, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-semarang-presents-devfest-2026-semarang/) |
 | Devfest Bandung 2026 : Tech Meets Human | 2026-12-19 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-bandung-presents-devfest-bandung-2026-tech-meets-human/) |
