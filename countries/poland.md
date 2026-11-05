@@ -4,7 +4,7 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| BCG Platinion x GDG on Campus PW - Case Workshop | 2026-11-04 | Warsaw, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-politechnika-warszawska-warsaw-poland-presents-bcg-platinion-x-gdg-on-campus-pw-case-workshop/) |
+| The Hack Summit 2026 | 2026-11-05 | Warsaw, PL | [↗](https://infosec-conferences.com/event/20261105-the-hack-summit-2026/) |
 | CMS Conf 2026 | 2026-11-12 to 2026-11-14 | Gdynia (Poland) | [↗](https://cmsconf.com) |
 | AI × Voices #2 | 2026-11-12 | Krakow | [↗](https://dev.events/conferences/ai-voices-2-semwmdjw) |
 | Google Dev Fest 2026 Wroclaw | 2026-11-13 | Wroclaw, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-wroclaw-presents-google-dev-fest-2026-wroclaw/) |

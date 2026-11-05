@@ -1,10 +1,9 @@
 # Developer Events in Greece
 
-10 upcoming events. [Back to the full directory](../README.md)
+9 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| GDGoC Kickoff: Discover & Connect | 2026-11-04 | Athens, Greece | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-west-attica-athens-greece-presents-gdgoc-kickoff-discover-amp-connect-1/) |
 | Google Cloud 101 | 2026-11-05 | Thessaloniki, Greece | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-aristotle-university-of-thessaloniki-thessaloniki-greece-presents-google-cloud-101/) |
 | GenAI Summit Athens 2026 | 2026-11-16 | Athens, Greece | [↗](https://www.genaisummitseeurope.com/) |
 | Open Conf 2026 - SPEECHES and WORKSHOPS | 2026-11-20 to 2026-11-21 | Athens (Greece) | [↗](https://open-conf.gr/) |

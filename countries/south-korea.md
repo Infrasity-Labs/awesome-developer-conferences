@@ -1,6 +1,6 @@
 # Developer Events in South Korea
 
-40 upcoming events. [Back to the full directory](../README.md)
+39 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -12,7 +12,6 @@
 | Digital Media Tech Show 2026 | 2026-11-04 to 2026-11-06 | Goyang, South Korea | [↗](https://www.cantonfair.net/event/66399-digital-media-tech-show) |
 | Robot World 2026 | 2026-11-04 to 2026-11-07 | Goyang, South Korea | [↗](https://tradefest.io/en/event/robotworld) |
 | World Hydrogen Expo 2026 (WHE / H2 MEET) | 2026-11-04 to 2026-11-06 | Goyang, South Korea | [↗](https://biz.heraldcorp.com/article/10839546) |
-| GDG on Campus: SSWU 26-27 November Monthly Session | 2026-11-04 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungshin-womens-university-seoul-south-korea-presents-gdg-on-campus-sswu-26-27-november-monthly-session/) |
 | bitcoin++ privacy edition | 2026-11-05 to 2026-11-06 | Seoul | [↗](https://dev.events/conferences/bitcoin-privacy-edition-tdisyiwb) |
 | Ocean Tech Korea 2026 | 2026-11-05 | Seoul, South Korea | [↗](https://thinkyou.co.kr/mobile/contest/67362/) |
 | Edge AI Day 2026 (Advantech) | 2026-11-06 | Seoul, South Korea | [↗](https://akr-go.advantech.com/EdgeAIDay?src=onoffmix) |
