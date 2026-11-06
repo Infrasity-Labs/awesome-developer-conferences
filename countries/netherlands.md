@@ -1,6 +1,6 @@
 # Developer Events in Netherlands
 
-46 upcoming events. [Back to the full directory](../README.md)
+48 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -12,6 +12,7 @@
 | BSides Amsterdam 2026 | 2026-11-19 | Amsterdam (Netherlands) | [↗](https://www.bsidesams.org) |
 | Tech Talk @inSpace | 2026-11-19 | Eindhoven, Netherlands | [↗](https://gdg.community.dev/events/details/google-gdg-eindhoven-presents-tech-talk-inspace/) |
 | Tech Talk with InSpace | 2026-11-19 | Eindhoven, Netherlands | [↗](https://gdg.community.dev/events/details/google-gdg-eindhoven-presents-tech-talk-with-inspace/) |
+| Internals of Git & Kotlin multiplatform using AI @ ABN Amro | 2026-11-19 | Utrecht, Netherlands | [↗](https://gdg.community.dev/events/details/google-the-dutch-android-user-group-presents-internals-of-git-amp-kotlin-multiplatform-using-ai-abn-amro/) |
 | Product Circle - Leaders Amsterdam | 2026-11-20 | Amsterdam | [↗](https://dev.events/conferences/product-circle-leaders-amsterdam-xdmhexuf) |
 | Weekly Meeten en Drinken | 2026-11-25 | Amsterdam, Netherlands | [↗](https://gdg.community.dev/events/details/google-gdg-amsterdam-presents-weekly-meeten-en-drinken-2026-11-25/) |
 | AICA | 2026-11-26 | Amsterdam | [↗](https://dev.events/conferences/aica-55ond3w2) |
@@ -35,6 +36,7 @@
 | Laracon EU 2027 | 2027-04-05 to 2027-04-07 | Amsterdam | [↗](https://dev.events/conferences/laracon-eu-2027-xwuevfxz) |
 | MLcon Amsterdam 2027 | 2027-04-19 to 2027-04-23 | Amsterdam | [↗](https://dev.events/conferences/m-lcon-amsterdam-2027-gbx-mjag) |
 | DevOpsCon Amsterdam 2027 | 2027-04-19 to 2027-04-23 | Amsterdam | [↗](https://dev.events/conferences/dev-ops-con-amsterdam-2027-fmicck4r) |
+| DevOpsCon & MLCon/AI Engineering Summit 2027 | 2027-04-19 to 2027-04-23 | Amsterdam | N/A |
 | Dutch Blockchain Week 2027 | 2027-05-17 to 2027-05-23 | Amsterdam | [↗](https://dev.events/conferences/dutch-blockchain-week-2027-5ktwo30e) |
 | SmashingConf Amsterdam | 2027-05-18 to 2027-05-21 | Amsterdam | [↗](https://dev.events/conferences/smashing-conf-amsterdam-zvw1kefk) |
 | Leadership Ateliers | 2027-05-20 to 2027-05-21 | Amsterdam, Netherlands | [↗](https://ateliers.design/leadership) |

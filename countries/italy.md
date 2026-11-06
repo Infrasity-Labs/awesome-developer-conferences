@@ -1,6 +1,6 @@
 # Developer Events in Italy
 
-44 upcoming events. [Back to the full directory](../README.md)
+46 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -38,12 +38,14 @@
 | AI Festival 2027 | 2027-02-11 to 2027-02-12 | Milan, Italy | [↗](https://www.aifestival.it/) |
 | The Data Science and AI Summit | 2027-02-22 to 2027-02-23 | Rome | [↗](https://dev.events/conferences/the-data-science-and-ai-summit-arhok-vo) |
 | Incontro DevOps Italia (IDI) 2027 | 2027-03-09 | Bologna (Italy) | [↗](https://incontrodevops.it/) |
+| RE-FRAME 2027 · Didacthaton 🧩 l'AI generativa si fa in classe | 2027-03-14 | Potenza, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-basilicata-presents-re-frame-2027-didacthaton-lai-generativa-si-fa-in-classe/) |
 | Web Day 2027 | 2027-03-25 | Milan | [↗](https://dev.events/conferences/web-day-2027-p-gvpgqh) |
 | dxday 2027 &#8211; AI Edition | 2027-04-12 | Bologna, Italy | [↗](https://www.dxday.it/) |
 | dxday AI Edition 2027 | 2027-04-12 | Bologna (Italy) | [↗](https://dxday.it) |
 | GITEX AI MEDITERRANEAN ITALY/ROME 2027 | 2027-04-21 to 2027-04-22 | Rome | [↗](https://dev.events/conferences/gitex-ai-mediterranean-italy-rome-2027-rcgivosk) |
 | GITEX AI MEDITERRANEAN | 2027-04-21 to 2027-04-22 | Rome, Italy | [↗](https://www.gitexitaly.com) |
 | phpday 2027 | 2027-05-13 to 2027-05-14 | Verona (Italy) | [↗](https://www.phpday.it/) |
+| Open Data Hub Day 2027 | 2027-05-13 | Bolzano (Italy) | [↗](https://opendatahub.com/events/day27/) |
 | Platmosphere 2027 | 2027-05-18 | Milan (Italy) | [↗](https://platmosphere.com) |
 | Milan0day 2027 | 2027-05-20 | Milan (Italy) | [↗](https://k1nd4sus.it/events/milan0day2026) |
 | AI Week | 2027-05-25 to 2027-05-26 | Milan | [↗](https://dev.events/conferences/ai-week-kuu35ga4) |

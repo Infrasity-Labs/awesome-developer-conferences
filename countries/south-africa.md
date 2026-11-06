@@ -1,9 +1,10 @@
 # Developer Events in South Africa
 
-9 upcoming events. [Back to the full directory](../README.md)
+10 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
+| Angular Unlocked: Data Flow & Forms Part 2 | 2026-11-11 | Soweto, South Africa | [↗](https://gdg.community.dev/events/details/google-gdg-soweto-presents-angular-unlocked-data-flow-amp-forms-part-2/) |
 | DevFest Johannesburg 2026 | 2026-11-21 | Johannesburg, South Africa | [↗](https://gdg.community.dev/events/details/google-gdg-johannesburg-presents-devfest-johannesburg-2026/) |
 | Data & AI Community Day Durban: Encore | 2026-11-21 | Durban | [↗](https://dev.events/conferences/data-and-ai-community-day-durban-encore-oljuc81j) |
 | Africa Games Week | 2026-12-06 | Cape Town, South Africa | [↗](https://gamesweek.africa/) |

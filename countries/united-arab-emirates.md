@@ -1,15 +1,17 @@
 # Developer Events in United Arab Emirates
 
-15 upcoming events. [Back to the full directory](../README.md)
+17 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| REGISTRATION : Retrieval-Augmented Generation (RAG) Workshop Series - FINAL | 2026-11-05 | Dubai, United Arab Emirates | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-heriot-watt-university-dubai-dubai-united-arab-emirates-presents-registration-retrieval-augmented-generation-rag-workshop-series-final/) |
+| 🚀 IDEAVERSE: Where Ideas Take Shape | 2026-11-09 | Dubai, United Arab Emirates | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-bits-pilani-dubai-united-arab-emirates-presents-ideaverse-where-ideas-take-shape/) |
 | GESS Dubai 2026 | 2026-11-10 to 2026-11-12 | Dubai | [↗](https://dev.events/conferences/gess-dubai-2026-lpm24cgm) |
+| Beyond the Prompt: Making AI Work for You | 2026-11-10 | Dubai, United Arab Emirates | [↗](https://www.startupgrind.com/events/details/startup-grind-dubai-presents-beyond-the-prompt-making-ai-work-for-you/) |
 | Experts Live Emirates 2026 | 2026-11-11 to 2026-11-12 | Dubai (United Arab Emirates) | [↗](http://expertslive.ae/) |
 | DevFest 2026 by GDG Abu Dhabi | 2026-11-21 | Abu Dhabi, United Arab Emirates | [↗](https://gdg.community.dev/events/details/google-gdg-abu-dhabi-presents-devfest-2026-by-gdg-abu-dhabi/) |
 | GITEX Global | 2026-12-07 to 2026-12-11 | Dubai, UAE | [↗](https://www.gitex.com) |
 | Expand North Star 2026 | 2026-12-08 to 2026-12-10 | Dubai, United Arab Emirates | [↗](https://expandnorthstar.com) |
+| Startup World Cup Abu Dhabi → Silicon Valley → US$1M: Your Pitch Starts Here (Apply by 20 Nov) | 2026-12-12 | Dubai, United Arab Emirates | [↗](https://www.startupgrind.com/events/details/startup-grind-dubai-presents-startup-world-cup-abu-dhabi-silicon-valley-us1m-your-pitch-starts-here-apply-by-20-nov/) |
 | Startup Grind Dubai × TEDxPalm Jumeirah: Join the Community and Save on Your Ticket | 2027-01-16 | Dubai, United Arab Emirates | [↗](https://www.startupgrind.com/events/details/startup-grind-dubai-presents-startup-grind-dubai-x-tedxpalm-jumeirah-join-the-community-and-save-on-your-ticket/) |
 | World Health Expo Dubai 2027 | 2027-01-25 to 2027-01-28 | Dubai, United Arab Emirates | [↗](https://worldhealthexpo.com/events/healthcare/dubai/en/homepage-dubai2026.html) |
 | BlockDown Festival Dubai 2027 | 2027-01-26 to 2027-01-27 | Dubai | [↗](https://dev.events/conferences/block-down-festival-dubai-2027-hzy5kgik) |

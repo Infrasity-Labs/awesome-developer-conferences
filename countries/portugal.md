@@ -1,10 +1,9 @@
 # Developer Events in Portugal
 
-31 upcoming events. [Back to the full directory](../README.md)
+30 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| GDG Braga x DevOps Braga x OutSystem UG Braga - KCD Warmup | 2026-11-05 | Braga, Portugal | [↗](https://gdg.community.dev/events/details/google-gdg-braga-presents-gdg-braga-x-devops-braga-x-outsystem-ug-braga-kcd-warmup/) |
 | Portugal Tech Week 2026 | 2026-11-06 to 2026-11-15 | Lisbon, Portugal | [↗](https://portugaltechweek.com/) |
 | DevFest Lagos, Portugal 2026 | 2026-11-07 | Lagos, Portugal | [↗](https://gdg.community.dev/events/details/google-gdg-lagos-presents-devfest-lagos-portugal-2026/) |
 | Workshop: Crafting a Lagos Tourism Agent with Gemma & Genkit - DevFest Lagos, Portugal 2026 | 2026-11-07 | Lagos, Portugal | [↗](https://gdg.community.dev/events/details/google-gdg-lagos-presents-workshop-crafting-a-lagos-tourism-agent-with-gemma-amp-genkit-devfest-lagos-portugal-2026/) |

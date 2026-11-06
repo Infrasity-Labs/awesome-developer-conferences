@@ -1,9 +1,11 @@
 # Developer Events in Indonesia
 
-17 upcoming events. [Back to the full directory](../README.md)
+19 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
+| AI: Hello Automation | 2026-11-06 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-widyatama-university-bandung-indonesia-presents-ai-hello-automation/) |
+| UI/UX: Ta'aruf dengan Figma, UI/UX & Design Thinking | 2026-11-06 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-widyatama-university-bandung-indonesia-presents-uiux-taaruf-dengan-figma-uiux-amp-design-thinking/) |
 | Unlock the Ecosystem: Meet the Community, Teach the Machine | 2026-11-07 | Makassar, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-negeri-makassar-makassar-indonesia-presents-unlock-the-ecosystem-meet-the-community-teach-the-machine/) |
 | Road to DevFest: One Day Trip Mapay Bandoeng | 2026-11-07 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-bandung-presents-road-to-devfest-one-day-trip-mapay-bandoeng/) |
 | DevFest Jogjakarta 2026 | 2026-11-08 | Yogyakarta, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-jogjakarta-presents-devfest-jogjakarta-2026/) |

@@ -4,7 +4,7 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| FutureCISO Conference Malaysia 2026 | 2026-11-05 | Kuala Lumpur, MY | [↗](https://infosec-conferences.com/event/20261105-futureciso-conference-malaysia-2026/) |
+| 🚀 Vibe Coding with Google Antigravity & AI Studio: Build a NASA Space Hazard Tracker! 🌍💻 | 2026-11-06 | Johor Bahru, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universiti-teknologi-malaysia-johor-bahru-malaysia-presents-vibe-coding-with-google-antigravity-amp-ai-studio-build-a-nasa-space-hazard-tracker/) |
 | Internal Core Team Study Jam | 2026-11-13 | Georgetown, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-george-town-presents-internal-core-team-study-jam/) |
 | DevFest Kuala Lumpur 2026 | 2026-11-14 | Kuala Lumpur, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-kuala-lumpur-presents-devfest-kuala-lumpur-2026/) |
 | Gamefest: Tetrio Showdown | 2026-11-16 | Penang, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universiti-sains-malaysia-penang-malaysia-presents-gamefest-tetrio-showdown/) |

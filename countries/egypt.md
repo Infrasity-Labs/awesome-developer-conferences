@@ -1,11 +1,9 @@
 # Developer Events in Egypt
 
-23 upcoming events. [Back to the full directory](../README.md)
+21 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| DevFast Red Sea: Kickstart Your Coding Journey | 2026-11-05 | Hurghada, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-hurghada-presents-devfast-red-sea-kickstart-your-coding-journey/) |
-| DevFest Red Sea: Kickstart Your Coding Journey | 2026-11-05 | Hurghada, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-hurghada-presents-devfest-red-sea-kickstart-your-coding-journey/) |
 | OOP & Data Modeling | 2026-11-06 | Giza, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-october-6-university-giza-egypt-presents-oop-amp-data-modeling/) |
 | Backend Session 2: Kickstart PHP: Mastering the Basics | 2026-11-06 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-backend-session-2-kickstart-php-mastering-the-basics/) |
 | AI Automation Session 2: Dive into Data Structures: Loops & Collections | 2026-11-06 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-ai-automation-session-2-dive-into-data-structures-loops-amp-collections-2026-11-06/) |

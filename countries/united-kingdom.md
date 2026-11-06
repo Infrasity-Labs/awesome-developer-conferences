@@ -1,85 +1,11 @@
 # Developer Events in United Kingdom
 
-331 upcoming events. [Back to the full directory](../README.md)
+327 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | Solana Hacker House | 2026-11-01 to 2026-11-13 | London | [↗](https://dev.events/conferences/solana-hacker-house-guokpxup) |
 | Data & AI Conference Europe 2026 | 2026-11-02 to 2026-11-06 | London | [↗](https://dev.events/conferences/data-and-ai-conference-europe-2026-gem83apy) |
-| SG London - AI Demo Night 2026 | 2026-11-05 | London, United Kingdom | [↗](https://www.startupgrind.com/events/details/startup-grind-london-presents-sg-london-ai-demo-night-2026/) |
-| Impact Run Club #004 | 2026-11-05 | London, GB | [↗](https://lu.ma/cpkt78sz) |
-| Before the Market Opens: The AI & Finance Breakfast | 2026-11-05 | London, GB | [↗](https://lu.ma/tu44cwlv) |
-| Founder Nation: Breakie @ The Savoy (For Tech Founders) | 2026-11-05 | London, GB | [↗](https://lu.ma/4ebnq8st) |
-| London coffee morning: Support a student (November) | 2026-11-05 | London, GB | [↗](https://lu.ma/wo3wqgtp) |
-| The New Normal (TNN): The Future of...GETTING FOUND ONLINE (AEO, GEO, SEO, PR) | 2026-11-05 | London, GB | [↗](https://lu.ma/xbbfbgr4) |
-| Who owns the software stack? A breakfast for finance leaders | 2026-11-05 | London, GB | [↗](https://lu.ma/3435d86s) |
-| ABM Agents In The Wild | 2026-11-05 | London, GB | [↗](https://lu.ma/c7fjtjs9) |
-| The Business of Colour | 2026-11-05 | London, GB | [↗](https://lu.ma/nzxazr32) |
-| Vital Stats 2026: Pinning Down the Peekaboo Buyer | 2026-11-05 | London, GB | [↗](https://lu.ma/l3089f3f) |
-| No Agenda Breakfast: ThatRound | 2026-11-05 | London, GB | [↗](https://lu.ma/i6seihpu) |
-| Care Home Research Forum with Teton | 2026-11-05 | London, GB | [↗](https://lu.ma/4684yqe2) |
-| Consumer Family Offices & Investors Breakfast | 2026-11-05 | London, GB | [↗](https://lu.ma/npqltk8b) |
-| Elevate: Boundaries Not Burnout | 2026-11-05 | London, GB | [↗](https://lu.ma/71a04zfy) |
-| HR in London: Breakfast with Fleet, Humaans & G-P | 2026-11-05 | London, GB | [↗](https://lu.ma/g9nvt3q2) |
-| IRL: Designing and building teams for scaling with David Titman, CMO at Bio&Me | 2026-11-05 | London, GB | [↗](https://lu.ma/tf0ndj1m) |
-| The Glass Box Roadshow \| London | 2026-11-05 | London, GB | [↗](https://lu.ma/20ro0v83) |
-| AI & Business Growth - Business Networking Event in London | 2026-11-05 | London, EN, GB | [↗](https://allevents.in/london/ai-and-business-growth-business-networking-event-in-london/100002000256826012) |
-| Co-working for women in tech | 2026-11-05 | London, GB | [↗](https://lu.ma/w89v02sz) |
-| Game, Set, Match: An Executive Leadership Lunch | 2026-11-05 | London, GB | [↗](https://lu.ma/fkfhev7t) |
-| INSURTECH RUN CLUB x CLEARSPEED - NOVEMBER EDITION | 2026-11-05 | London, GB | [↗](https://lu.ma/twjkpw7m) |
-| [London] AI Workshop with Neo4j and Google | 2026-11-05 | London, GB | [↗](https://lu.ma/h5ohdxpu) |
-| Annual DACH Region MedTech Forum | 2026-11-05 | London, GB | [↗](https://lu.ma/snfu344z) |
-| Blue Lake VC 2026. Our Very First AGM Meeting (London) | 2026-11-05 | London, GB | [↗](https://lu.ma/ql5b3kma) |
-| HyperTribe London: Coffee Chat | 2026-11-05 | London, GB | [↗](https://lu.ma/1pumyb79) |
-| Building Deep Tech Ventures from Day Zero | 2026-11-05 | London, GB | [↗](https://lu.ma/winl33ao) |
-| House of Sol Workshops: The Operator Question: How Validator Choice Shapes Staking Outcomes: SRI x Figment | 2026-11-05 | London, GB | [↗](https://lu.ma/HoS-Workshops-Figment) |
-| Built in London with Google DeepMind | 2026-11-05 | London, GB | [↗](https://lu.ma/vercel-8b8w) |
-| From Net Zero to Resilience: How Sustainability Became Everyone's Business | 2026-11-05 | London, GB | [↗](https://lu.ma/p7yt0pay) |
-| Kili London Meetup #3 | 2026-11-05 | London, GB | [↗](https://lu.ma/l1pl15ea) |
-| Sip and Paint | 2026-11-05 | London, GB | [↗](https://lu.ma/iuexb032) |
-| The Atelier Edit: After Hours at Aranyani | 2026-11-05 | London, GB | [↗](https://lu.ma/nimvpanf) |
-| The Fifth Social | 2026-11-05 | London, GB | [↗](https://lu.ma/c9awiyn4) |
-| Why Your Startup Isn't Getting Funded | 2026-11-05 | London, GB | [↗](https://lu.ma/foundersx-qym7) |
-| Athlete Monitoring \| Jamie Mitchell | 2026-11-05 | London, GB | [↗](https://lu.ma/3osmnmqr) |
-| BUILD DIFFERENT OR GET REBUILT // NBE Live Session | 2026-11-05 | London, GB | [↗](https://lu.ma/c34021ih) |
-| Designing Futures: What We Give Forward | 2026-11-05 | London, GB | [↗](https://lu.ma/4lkgf2hc) |
-| GeoCyclone: Cyberterrorism - Extremism & Hacking | 2026-11-05 | London, GB | [↗](https://lu.ma/uqml6c19) |
-| n8n London Community Show & Tell | 2026-11-05 | London, GB | [↗](https://lu.ma/n8n-z337) |
-| Pub Club: Round 06 | 2026-11-05 | London, GB | [↗](https://lu.ma/l9waxy3z) |
-| Tech Leaders Meetup - London | 2026-11-05 | London, GB | [↗](https://lu.ma/myp6spnr) |
-| Agents on Tap: build your AI agent team with Lua | 2026-11-05 | London, GB | [↗](https://lu.ma/z1v0fujw) |
-| AI in the Physical World - Hosted by London Women in AI | 2026-11-05 | London, GB | [↗](https://lu.ma/054iv3eg) |
-| Be UPFRONT: Five Rules for Backing Yourself and Playing Bigger | 2026-11-05 | London, GB | [↗](https://lu.ma/u5bo2w91) |
-| Data, Lies & Society: Can You Really Trust The Machine? | 2026-11-05 | London, GB | [↗](https://lu.ma/0thvkmf8) |
-| Dinner and DSARs with Phaselaw | 2026-11-05 | London, GB | [↗](https://lu.ma/3qlpkrui) |
-| EA Community Board Game Night! | 2026-11-05 | London, GB | [↗](https://lu.ma/3znqniuy) |
-| Islamic Art Inspired Bookmark Painting Workshop | 2026-11-05 | London, GB | [↗](https://lu.ma/2ghlmht1) |
-| 15u30: November Edition supported by Seapoint & Killik | 2026-11-05 | London, GB | [↗](https://lu.ma/jrk94d0h) |
-| Better Every Call? Building the Voice AI Improvement Loop | 2026-11-05 | London, GB | [↗](https://lu.ma/c0iiab0e) |
-| cook club with Riya Patel [diwali edition] | 2026-11-05 | London, GB | [↗](https://lu.ma/goolnzpq) |
-| Hitchhiker's Guide to the Galaxy Presents: Who Owns the Future? | 2026-11-05 | London, GB | [↗](https://lu.ma/hy2btyee) |
-| Incomplete Ideas | 2026-11-05 | London, GB | [↗](https://lu.ma/qtfctkus) |
-| Property unfiltered | 2026-11-05 | London, GB | [↗](https://lu.ma/35o1icdi) |
-| What If You'd Chosen Differently? -- A Sci-Fi Short Story Club | 2026-11-05 | London, GB | [↗](https://lu.ma/ips934qu) |
-| Backgammon Social x Assouline: The Art of the Game | 2026-11-05 | London, GB | [↗](https://lu.ma/backga-bhle) |
-| Corma Dinner during IAM UK | 2026-11-05 | London, GB | [↗](https://lu.ma/j853ay2y) |
-| Doris - The New Era | 2026-11-05 | London, GB | [↗](https://lu.ma/bjec9u10) |
-| GiST Creative Thursday + Halloween social | 2026-11-05 | London, GB | [↗](https://lu.ma/zlpv8xin) |
-| Karaoke Night | 2026-11-05 | London, GB | [↗](https://lu.ma/ebryyn8f) |
-| Kobieca rownowaga po 40. - zywienie, ktore wspiera zdrowie | 2026-11-05 | London, GB | [↗](https://lu.ma/adnv404w) |
-| London Product Leader Happy Hour - Pendomoniumx Afterparty | 2026-11-05 | London, GB | [↗](https://lu.ma/merge-sckl) |
-| Thursdays @ Casa Tumbao 05.11.2026 | 2026-11-05 | London, GB | [↗](https://lu.ma/e0qsn08p) |
-| Vietnamese Appreciation Group: Monthly Dinner Nov-26 | 2026-11-05 | London, GB | [↗](https://lu.ma/4dpxqhf8) |
-| One Big Unit - Samhain Circle | 2026-11-05 | London, GB | [↗](https://lu.ma/mvo0d8dm) |
-| TDI PRESENTS: LIFE SURE IS SWEET | 2026-11-05 | London, GB | [↗](https://lu.ma/z6r8cowk) |
-| Lost&Found- Collect Your B̶a̶g̶g̶a̶g̶e̶ Career | 2026-11-05 | London, GB | [↗](https://lu.ma/krcw5m3m) |
-| Ivo Hosted Dinner - Legal Innovators Conference | 2026-11-05 | London, GB | [↗](https://lu.ma/byacvpsw) |
-| Haseeb Iqbal Presents: Jah Shaka Listening Session | 2026-11-05 | London, GB | [↗](https://lu.ma/qe0qjivd) |
-| Q4 Happy Hour - TMG/Mastercard x Amazon | 2026-11-05 | London, GB | [↗](https://lu.ma/zlgt03su) |
-| How To Avoid Rapid Weight Loss Skin Damage. | 2026-11-05 | London, GB | [↗](https://lu.ma/tj00lfk3) |
-| Mazal Night | 2026-11-05 | London, GB | [↗](https://lu.ma/yilgw1l0) |
-| Rogue AI: A Crisis Simulation, Part II | 2026-11-05 | London, GB | [↗](https://lu.ma/savj5ahp) |
-| IDC: FutureTech Summit UK 2026 | 2026-11-05 | London, GB | [↗](https://infosec-conferences.com/event/20261105-idc-futuretech-summit-uk-2026/) |
 | Friday Breakfast Club | 2026-11-06 | London, GB | [↗](https://lu.ma/ikb2h6kb) |
 | Venture Capital and Angel Investment Bootcamp | 2026-11-06 | London, GB | [↗](https://lu.ma/mp1277f5) |
 | Human x Artificial Intelligence (Day 2 of 3) | 2026-11-06 | London, GB | [↗](https://lu.ma/r4yuj6gs) |
@@ -109,6 +35,7 @@
 | The Master Key to Riches: a workshop on living in the age of superintelligence w. Tony Czarnecki | 2026-11-06 | London, GB | [↗](https://lu.ma/0f4t18ti) |
 | A Bonfire Soiree | 2026-11-06 | London, GB | [↗](https://lu.ma/07g0kj9s) |
 | Ethereum Community Coworking Day @ Encode Hub | 2026-11-06 | London, GB | [↗](https://lu.ma/auho5m0c) |
+| Bob Bob Ricard City (6th Nov) | 2026-11-06 | London, GB | [↗](https://lu.ma/ji4jzc9x) |
 | Agentic Data Lab: Stateless Models, Stateful Systems: Designing Data Layers for Long-Running Agents | 2026-11-07 | Romford, United Kingdom | [↗](https://gdg.community.dev/events/details/google-gdg-essex-presents-agentic-data-lab-stateless-models-stateful-systems-designing-data-layers-for-long-running-agents/) |
 | The Writer’s Blocc: Familial Folklore | 2026-11-07 | London, GB | [↗](https://lu.ma/ucv5vuha) |
 | AI Agents for Accessibility Hackathon | 2026-11-07 | London, GB | [↗](https://lu.ma/lzacr9yq) |
@@ -149,6 +76,7 @@
 | Encode Coffee Club: Saturday Co-working | 2026-11-07 | London, GB | [↗](https://lu.ma/encode-ve37) |
 | South LDN Women’s Only 🏀 | 2026-11-07 | London, GB | [↗](https://lu.ma/r2aadizk) |
 | Dia De Los Muertos | 2026-11-07 | London, GB | [↗](https://lu.ma/izmqq0pd) |
+| FFS Socials: Diwali Pre’s | 2026-11-07 | London, GB | [↗](https://lu.ma/m7pbm6hh) |
 | Attio x Point Nine Builders Café \| London | 2026-11-08 | London, GB | [↗](https://lu.ma/07pk17pg) |
 | GTM Sprint: Shipping is not enough | 2026-11-08 | London, GB | [↗](https://lu.ma/6056xrdf) |
 | Cafe crawl x Photowalk | 2026-11-08 | London, GB | [↗](https://lu.ma/xdfvpd31) |
@@ -168,6 +96,7 @@
 | Dahomey Screening | 2026-11-08 | London, GB | [↗](https://lu.ma/h3yiw9wr) |
 | Rising Founders Club x Lume: London | 2026-11-08 | London, GB | [↗](https://lu.ma/ef2zbq9l) |
 | Back To Notting Hill 🍂 | 2026-11-08 | London, GB | [↗](https://lu.ma/iuh6cduz) |
+| Faith. Lates - Session 12 | 2026-11-08 | London, GB | [↗](https://lu.ma/hafdthaj) |
 | The Audio Developer Conference | 2026-11-09 | Bristol, United Kingdom | [↗](https://audio.dev/) |
 | FTT Fintech Festival 2026 | 2026-11-09 to 2026-11-10 | London, United Kingdom | [↗](https://www.fintechtalents.com/events/europe/festival-london/) |
 | Brazen (Bristol Technology Festival) 2026 | 2026-11-09 to 2026-11-13 | Bristol, United Kingdom | [↗](https://techspark.co/tech-festival/) |
@@ -198,6 +127,7 @@
 | A London Book Tasting With The Service95 Book Club | 2026-11-09 | London, GB | [↗](https://lu.ma/ki4paawj) |
 | ATProto London November | 2026-11-09 | London, GB | [↗](https://lu.ma/f86ebld5) |
 | NO ONE WAY IN | 2026-11-09 | London, GB | [↗](https://lu.ma/l8zmy0w6) |
+| Co-Working & Connections in partnership with The Arding Rooms | 2026-11-09 | London, GB | [↗](https://lu.ma/t6mzhydg) |
 | The MarTech Summit London 2026 | 2026-11-10 to 2026-11-11 | London | [↗](https://dev.events/conferences/the-mar-tech-summit-london-2026-3weqporu) |
 | Startup Pitch & Networking London | 2026-11-10 | London, EN, GB | [↗](https://allevents.in/london/startup-pitch-and-networking-london/100002000173041410) |
 | DAS London Run Club with Lucius and Cybrid | 2026-11-10 | London, GB | [↗](https://lu.ma/gaiz74d9) |
@@ -250,9 +180,74 @@
 | Startup Pitch & Networking in London | 2026-11-10 | London, GB | [↗](https://lu.ma/2h86s6ht) |
 | The Impact List • The London Gala | 2026-11-10 | London, GB | [↗](https://lu.ma/kxuvr10h) |
 | The Rival 50 2026: Launch Party | 2026-11-10 | London, GB | [↗](https://lu.ma/qi6w570x) |
+| AI Builders London - Nov 10 | 2026-11-10 | London, GB | [↗](https://lu.ma/lon-nov10) |
+| AI Salon: Decision-Making in the age of AI [London] | 2026-11-10 | London, GB | [↗](https://lu.ma/ecan58la) |
+| CryptoUK x The Digital Chamber: Member Networking Event | 2026-11-10 | London, GB | [↗](https://lu.ma/cryptouk-36w1) |
+| Frontier Safety & Evals | 2026-11-10 | London, GB | [↗](https://lu.ma/a99mmrt8) |
+| [Hands-on Workshop] Production Agent Evals: AAIF London x Braintrust x Modal | 2026-11-10 | London, GB | [↗](https://lu.ma/uiowlg0f) |
+| Internet Icons: Jeffrey Veen | 2026-11-10 | London, GB | [↗](https://lu.ma/granola-jeffrey-veen) |
+| What the Film Industry Wants \| Panel & Networking | 2026-11-10 | London, GB | [↗](https://lu.ma/58kmkx3b) |
+| Agentic Finance: After the Close | 2026-11-10 | London, GB | [↗](https://lu.ma/zwr7nynl) |
+| Product Lightning Talks - 10th Nov 2026 | 2026-11-10 | London, GB | [↗](https://lu.ma/yqgd4y5r) |
+| The Offline Reading Party 📚 \| Hammersmith | 2026-11-10 | London, GB | [↗](https://lu.ma/89v0sibs) |
+| Friendship Blind Date | 2026-11-10 | London, GB | [↗](https://lu.ma/m9714ndq) |
+| GEM'S PIZZA & PLOD x WELL KNEADED | 2026-11-10 | London, GB | [↗](https://lu.ma/w9uyhm2y) |
+| Rooftop Night \| Fouders & Co-Founders \| Business Networking in London | 2026-11-10 | London, GB | [↗](https://lu.ma/ntl-nssn) |
+| Rooftop Startup Funding & Networking \| Founders, VCs & Angel Investors | 2026-11-10 | London, GB | [↗](https://lu.ma/ntl-glqf) |
+| The Personal Branding Problem: Grace Andrews Fireside Chat | 2026-11-10 | London, GB | [↗](https://lu.ma/theqube-2u34) |
+| Builders Meetup \| LONDON | 2026-11-10 | London, GB | [↗](https://lu.ma/builders-meetup-london) |
+| Critical Hedonism(s): Beyond Travel: Exploring Hedonist Escapes in Our Own Backyards | 2026-11-10 | London, GB | [↗](https://lu.ma/wyod511w) |
+| Every Batman Needs AI Agents w/ Notion | 2026-11-10 | London, GB | [↗](https://lu.ma/1sc64zyz) |
+| Executive Digital Assets Dinner w/ Halborn | 2026-11-10 | London, GB | [↗](https://lu.ma/dashalborndinner) |
+| Female Longevity: Building Strength for Life | 2026-11-10 | London, GB | [↗](https://lu.ma/uw3ewoio) |
+| Nerd Forum - what next? | 2026-11-10 | London, GB | [↗](https://lu.ma/vpkt9m97) |
+| Property, Landlords & Business Owners - Business Networking Event in London | 2026-11-10 | London, GB | [↗](https://lu.ma/ntl-nr4c) |
+| Rooftop Night for Founders, Finance, Tech & Business Professionals | 2026-11-10 | London, GB | [↗](https://lu.ma/ntl-ziji) |
+| Starting Again: Lessons from a Serial Founder | 2026-11-10 | London, GB | [↗](https://lu.ma/gb2hke2c) |
+| Urdu Poetry Workshop: 'Hum Dekhenge' by Faiz Ahmed Faiz | 2026-11-10 | London, GB | [↗](https://lu.ma/hwc6o6ms) |
+| Below the Surface: CRYMBO × Orbs | 2026-11-10 | London, GB | [↗](https://lu.ma/048ehkci) |
+| Blockaid Institutional Dinner (VIP) | 2026-11-10 | London, GB | [↗](https://lu.ma/blockaid-uj77) |
+| DAS London: Investor Mixer | 2026-11-10 | London, GB | [↗](https://lu.ma/9eafv3yp) |
+| KOI Circle: Asians in Tech Dinner | 2026-11-10 | London, GB | [↗](https://lu.ma/y48zx4n4) |
+| NEW MOON CACAO + SOUND CEREMONY with Kate Fleur | 2026-11-10 | London, GB | [↗](https://lu.ma/h0eyrsbg) |
+| The library after hours: an evening of Dark Academia | 2026-11-10 | London, GB | [↗](https://lu.ma/n7dl8hk0) |
+| The Unsaid - Private View | 2026-11-10 | London, GB | [↗](https://lu.ma/jbrr39j0) |
+| TRD: London Startups Operator RunClub & Social (+wellness goodies by Stoa) 🎁 | 2026-11-10 | London, GB | [↗](https://lu.ma/1w3awriw) |
+| Turks in Tech UK - 10 November 2026 | 2026-11-10 | London, GB | [↗](https://lu.ma/pldhci1z) |
+| Unauthorised Absence screening, Islington | 2026-11-10 | London, GB | [↗](https://lu.ma/jukd8bye) |
+| DevConnect × WorldBuilder Summit | 2026-11-10 | London, GB | [↗](https://lu.ma/it38db2o) |
+| Klyk Padel Evening | 2026-11-10 | London, GB | [↗](https://lu.ma/fvtx2hij) |
+| Stripe padel club | 2026-11-10 | London, GB | [↗](https://lu.ma/flk73lti) |
+| The London Private Table by Sentora & Huma | 2026-11-10 | London, GB | [↗](https://lu.ma/thelondonprivatetable) |
+| VIP Cocktail Night, Hosted by A&M Crypto and Latham & Watkins | 2026-11-10 | London, GB | [↗](https://lu.ma/up5knoe4) |
 | Leading Design London | 2026-11-11 to 2026-11-12 | London | [↗](https://dev.events/conferences/leading-design-london-ck6cpkex) |
 | CyberSecurity Live: an FStech conference | 2026-11-11 | London, EN, GB | [↗](https://allevents.in/london/cybersecurity-live-an-fstech-conference/100001989297128261) |
 | NEAR x Ondo Mixer @ DASLondon | 2026-11-11 | London | [↗](https://dev.events/conferences/near-x-ondo-mixer-das-london-bud6o78j) |
+| Dream and Run London \| Powered by Dream Brew | 2026-11-11 | London, GB | [↗](https://lu.ma/8hk6xtvo) |
+| Cover the Distance 5K \| DAS London 🇬🇧 | 2026-11-11 | London, GB | [↗](https://lu.ma/gh66ltup) |
+| Women of the Wharf Meetup | 2026-11-11 | London, GB | [↗](https://lu.ma/xvlx7zsv) |
+| Chief of Staff Workout with Ramp & Robin | 2026-11-11 | London, GB | [↗](https://lu.ma/csgk3ef2) |
+| Meet Jersey: Digital Assets Breakfast | 2026-11-11 | London, GB | [↗](https://lu.ma/dudrils9) |
+| Move & Mend - Yoga & Sound Bath with Jason DaPonte and Cheryl Ndione | 2026-11-11 | London, GB | [↗](https://lu.ma/nl7gv31w) |
+| AI Breakfast Briefing \| How our ways of working have shifted | 2026-11-11 | London, GB | [↗](https://lu.ma/7yefg06l) |
+| AI, growth and value creation: The new playbook for Fractional & Interim Marketing Leaders | 2026-11-11 | London, GB | [↗](https://lu.ma/w3oqwcbf) |
+| Black Friday Fry-up | 2026-11-11 | London, GB | [↗](https://lu.ma/0xlt6rr4) |
+| Brain Breakfast 3: Community | 2026-11-11 | London, GB | [↗](https://lu.ma/sqo9yasv) |
+| Talent Breakfast with Dex | 2026-11-11 | London, GB | [↗](https://lu.ma/dex-99g0) |
+| AWIC x DAS London Panel "Phantom Assets: Counterfeit Tokens, Collateral Risk and Digital Asset Resilience" | 2026-11-11 | London, GB | [↗](https://lu.ma/shdn5h19) |
+| Beyond the Tag Breakfast with WeArisma | 2026-11-11 | London, GB | [↗](https://lu.ma/fgqscg35) |
+| Financial Lines: The Only Way Is Up? | 2026-11-11 | London, GB | [↗](https://lu.ma/uns35g23) |
+| Human Judgement in an AI-Native World \| Lightning Talk by Venture School | 2026-11-11 | London, GB | [↗](https://lu.ma/1es5rsln) |
+| Design & 3D Print NFC Keychains | 2026-11-11 | London, GB | [↗](https://lu.ma/56t09731) |
+| Notting But a Good Time | 2026-11-11 | London, GB | [↗](https://lu.ma/zlkr6jpr) |
+| Ollie Jaffe (P-Zero Research) – TasteVal talk | 2026-11-11 | London, GB | [↗](https://lu.ma/safeai-xa5o) |
+| Forma Residency Ship & Show \| LIVE in London 2026 | 2026-11-11 | London, GB | [↗](https://lu.ma/zoyuihzw) |
+| BNB PADEL CLUB at DAS LONDON | 2026-11-11 | London, GB | [↗](https://lu.ma/ry1m8mwg) |
+| Canton & Cocktails | 2026-11-11 | London, GB | [↗](https://lu.ma/canton-3iff) |
+| Founders Circle: Founders Truth | 2026-11-11 | London, GB | [↗](https://lu.ma/imdwm82z) |
+| Join the Dots: Evening Drinks with ConnexOS | 2026-11-11 | London, GB | [↗](https://lu.ma/v9rsuchw) |
+| Scaling DeFi: London Edition | 2026-11-11 | London, GB | [↗](https://lu.ma/y6on1z3r) |
+| Worldbuilder London Afters | 2026-11-11 | London, GB | [↗](https://lu.ma/z2utewbn) |
 | SF Ben Con ’26 | 2026-11-12 | London | [↗](https://dev.events/conferences/sf-ben-con-26-okxhym6w) |
 | The Go & Cloud Circuit: Second Stop, Bishopsgate | 2026-11-12 | London, United Kingdom | [↗](https://gdg.community.dev/events/details/google-gdg-london-presents-the-go-amp-cloud-circuit-second-stop-bishopsgate/) |
 | King's AI Summit: Agents of Science | 2026-11-12 | London, EN, GB | [↗](https://allevents.in/london/kings-ai-summit-agents-of-science/100002002116846383) |
@@ -288,6 +283,7 @@
 | BSides Newcastle 2026 | 2026-11-28 | Newcastle upon Tyne (UK) | [↗](https://bsidesnewcastle.org) |
 | Chief AI Officer Summit London | 2026-12-01 | London | [↗](https://dev.events/conferences/chief-ai-officer-summit-london-ol9qeuex) |
 | Product-Led Summit London | 2026-12-02 to 2026-12-03 | London | [↗](https://dev.events/conferences/product-led-summit-london-ffmjdiyx) |
+| SG London - AI Demo Night 2026 | 2026-12-02 | London, United Kingdom | [↗](https://www.startupgrind.com/events/details/startup-grind-london-presents-sg-london-ai-demo-night-2026/) |
 | DevFest @ Bletchley Park 2026: Explore the Future of Tech Where It All Began | 2026-12-05 | Bletchley, United Kingdom | [↗](https://gdg.community.dev/events/details/google-gdg-bletchley-presents-devfest-bletchley-park-2026-explore-the-future-of-tech-where-it-all-began/) |
 | TPU Learning Club: High-Performance AI — Build, Optimize & Scale | 2026-12-05 | Romford, United Kingdom | [↗](https://gdg.community.dev/events/details/google-gdg-essex-presents-tpu-learning-club-high-performance-ai-build-optimize-amp-scale/) |
 | Oxford DevFest 2026 | 2026-12-05 | Oxford, United Kingdom | [↗](https://gdg.community.dev/events/details/google-gdg-oxford-presents-oxford-devfest-2026/) |
