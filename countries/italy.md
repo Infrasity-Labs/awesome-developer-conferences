@@ -4,11 +4,10 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| AI Heroes - Community Booth | 2026-11-06 | Turin, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-torino-presents-ai-heroes-community-booth/) |
-| Il ruolo dell'Intelligenza Artificiale nell'area Commerciale Aziendale | 2026-11-06 | Vicenza, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-vicenza-presents-il-ruolo-dellintelligenza-artificiale-nellarea-commerciale-aziendale/) |
 | Devfest Pescara 2026 | 2026-11-07 to 2026-11-08 | Pescara (Italy) | [↗](https://gdg.community.dev/events/details/google-gdg-pescara-presents-devfest-pescara-reloaded/) |
 | Data & AI Builders Conference 2026 | 2026-11-07 | Bergamo (Italy) | [↗](https://dataaibuildersconf.it) |
 | Quantum computing nella realtà: l'ottimizzazione industriale | 2026-11-07 | Modena, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-modena-presents-quantum-computing-nella-realta-lottimizzazione-industriale/) |
+| Bacchus – Se potessi tornare a vent'anni | 2026-11-07 | Rome, Italy, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-luiss-guido-carli-rome-italy-presents-bacchus-se-potessi-tornare-a-ventanni/) |
 | Networking Night: Tech Talks & Beer | 2026-11-09 | Gela, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-gela-presents-networking-night-tech-talks-amp-beer/) |
 | October2Shell: Fra PHP e dadi a quattro facce | 2026-11-10 | Genoa, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-genova-presents-october2shell-fra-php-e-dadi-a-quattro-facce/) |
 | Salotto MIX | 2026-11-11 to 2026-11-12 | Milan | [↗](https://dev.events/conferences/salotto-mix-bit-7our) |
@@ -28,6 +27,7 @@
 | Investor Days 2026 | 2026-11-25 to 2026-11-26 | Milan, Italy | [↗](https://www.b2match.com/e/investor-days-2026) |
 | Road To DevFest Alps 2026 | 2026-11-25 | Saint-Vincent, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-valle-daosta-presents-road-to-devfest-alps-2026/) |
 | GDG Onboarding Aperitivo 🎉 | 2026-11-25 | Rome, Italy, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-luiss-guido-carli-rome-italy-presents-gdg-onboarding-aperitivo/) |
+| Aspettando Devfest Alps 2026 - Aperitech Party | 2026-11-27 | Torino, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-torino-presents-aspettando-devfest-alps-2026-aperitech-party/) |
 | Devfest Alps 2026 | 2026-11-28 | Torino, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-torino-presents-devfest-alps-2026/) |
 | .NET Conference 2026 | 2026-12-04 | Milan | [↗](https://dev.events/conferences/net-conference-2026-efypsved) |
 | XmasDev 2026 | 2026-12-11 | Rome | [↗](https://dev.events/conferences/xmas-dev-2026-2ykpzzfq) |

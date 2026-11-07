@@ -1,30 +1,10 @@
 # Developer Events in Canada
 
-266 upcoming events. [Back to the full directory](../README.md)
+264 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| WordCamp Canada 2026 | 2026-11-05 to 2026-11-06 | Vancouver | [↗](https://dev.events/conferences/word-camp-canada-2026-ke5zosbn) |
 | PNW Day of Data 2026 | 2026-11-06 to 2026-11-07 | Vancouver, Washington | [↗](https://dayofdata.org/2026-11-07-dayofdata1149) |
-| DevFest Montréal | 2026-11-06 | Montreal (Canada) | [↗](https://devfest.gdgmontreal.com/fr/) |
-| DevFest MTL '26 | 2026-11-06 | Montreal, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-montreal-presents-devfest-mtl-26/) |
-| Minimum Viable Pancakes (MVPs) / Tech Startup Breakfast Series | 2026-11-06 | Toronto, CA | [↗](https://lu.ma/w4laai0x) |
-| The New Era of Sales | 2026-11-06 | Toronto, CA | [↗](https://lu.ma/m3xvdimf) |
-| AI Builder Café: Build Your AI Product & Launch Team | 2026-11-06 | Toronto, CA | [↗](https://lu.ma/earu4yuz) |
-| Claude SMB Workshop with LaunchAI - Scarborough | 2026-11-06 | Toronto, CA | [↗](https://lu.ma/ikad4yuv) |
-| LUMINOUS 2026 | 2026-11-06 | Toronto, CA | [↗](https://lu.ma/28irmtcx) |
-| TORONTO FASHION INDUSTRY PRESENTS: WHEN FASHION MEETS TECH & AI FREE NETWORKING MIXER | 2026-11-06 | Toronto, CA | [↗](https://lu.ma/ot89tyia) |
-| WISE & WISER | 2026-11-06 | Toronto, CA | [↗](https://lu.ma/gf8z5bib) |
-| Runway Supper by Venn & Symmetry Commerce | 2026-11-06 | Toronto, CA | [↗](https://lu.ma/giegfwck) |
-| Toronto Café Walk [Co-Working Edition] ☕ | 2026-11-06 | Toronto, CA | [↗](https://lu.ma/mol7tpbw) |
-| Bytes Around the World | 2026-11-06 | Toronto, CA | [↗](https://lu.ma/xz8gddft) |
-| Ecstatic Dance Toronto \| A Weekly Wellness Dance for Modern Life | 2026-11-06 | Toronto, CA | [↗](https://lu.ma/4hilsst0) |
-| Wattpad Presents: Writing Club @ HQ | 2026-11-06 | Toronto, CA | [↗](https://lu.ma/pcyhyu7d) |
-| kickoff!!! · reverie · fall ’26 | 2026-11-06 | Toronto, CA | [↗](https://lu.ma/031awjfw) |
-| Biotech Start Up Night | 2026-11-06 | Toronto, CA | [↗](https://lu.ma/bwjghbhx) |
-| Backgammon Club | 2026-11-06 | Toronto, CA | [↗](https://lu.ma/7fw3dtkq) |
-| Toronto VibeStation | 2026-11-06 | Toronto, CA | [↗](https://lu.ma/axcqt5r3) |
-| Pitching Products That Don’t Make Sense | 2026-11-06 | Toronto, CA | [↗](https://lu.ma/i3pp7tqq) |
 | DevFest Waterloo: Who Gets to Build, Own, and Define the Future? | 2026-11-07 | Waterloo, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-waterloo-presents-devfest-waterloo-who-gets-to-build-own-and-define-the-future/) |
 | Sheridan Datathon 2026 | 2026-11-07 | Oakville, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sheridan-college-trafalgar-road-campus-oakville-canada-presents-sheridan-datathon-2026/) |
 | Get Into Gear: Sheridan Datathon 2026 | 2026-11-07 | Oakville, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sheridan-college-trafalgar-road-campus-oakville-canada-presents-get-into-gear-sheridan-datathon-2026/) |
@@ -75,6 +55,8 @@
 | "the arrival" Drink Extension: hosted by Yan Qing & Rooms Coffee (Toronto) | 2026-11-08 | Toronto, CA | [↗](https://lu.ma/viwyqwu2) |
 | Shut Up & Code - NORTH YORK (Finch and Yonge) | 2026-11-08 | Toronto, CA | [↗](https://lu.ma/cxur2wd1) |
 | Coffee + Hike \| Meet New Friends in Toronto | 2026-11-08 | Toronto, CA | [↗](https://lu.ma/qcs42q2c) |
+| Braiding Sweetgrass bookclub part 1 of 4 | 2026-11-08 | Toronto, CA | [↗](https://lu.ma/a5x73t0d) |
+| Medicine Song Circle \| Pluto Toronto | 2026-11-08 | Toronto, CA | [↗](https://lu.ma/9ito9o9d) |
 | Clinical Trial Design in Drug Development: A Regulatory Perspective | 2026-11-09 | Toronto, CA | [↗](https://lu.ma/3n253xc1) |
 | AI Tacos x Microsoft | 2026-11-09 | Toronto, CA | [↗](https://lu.ma/063q2znn) |
 | The Hard Half with Ameet Shah - 5 to 9 Society | 2026-11-09 | Toronto, CA | [↗](https://lu.ma/u0n78z0v) |
@@ -82,6 +64,7 @@
 | Meal Assembly Social #2 | 2026-11-09 | Toronto, CA | [↗](https://lu.ma/s4leen21) |
 | Toronto Event Generator In-Person Meetup | 2026-11-09 | Toronto, CA | [↗](https://lu.ma/9mw2s2i8) |
 | AI Safety Week \| Day 1: Women Shaping the Future of AI Safety | 2026-11-09 | Toronto, CA | [↗](https://lu.ma/theai-dftf) |
+| Tech Pizza Monday: 2600 Meeting Edition | 2026-11-09 | Toronto, CA | [↗](https://lu.ma/dzxnzmdb) |
 | AI & Tech Networking Event in Toronto by Ascent Valley | 2026-11-10 | Toronto | [↗](https://dev.events/conferences/ai-and-tech-networking-event-in-toronto-by-ascent-valley-j3zvxkx7) |
 | MUG Toronto NOV 2026 - Voyage AI with MongoDB | 2026-11-10 | Toronto, CA | [↗](https://lu.ma/sn68vy7c) |
 | Mindstone Toronto November AI Meetup | 2026-11-10 | Toronto, CA | [↗](https://lu.ma/1lieulbs) |
@@ -100,6 +83,7 @@
 | AI Safety Week \| Day 2 \| Forecasting: Jobs and the Economy | 2026-11-10 | Toronto, CA | [↗](https://lu.ma/d36bmwwi) |
 | AI Safety Week \| Day 2: Post-AGI Civilization \| What's the Destination? | 2026-11-10 | Toronto, CA | [↗](https://lu.ma/l98tckd4) |
 | AI Safety Week \| Day 2: Research & Ideas Gallery | 2026-11-10 | Toronto, CA | [↗](https://lu.ma/2swjplgd) |
+| MahPoints mahjong league game night Nov 10 | 2026-11-10 | Toronto, CA | [↗](https://lu.ma/h7k05w3k) |
 | Product-Led Summit Toronto | 2026-11-11 to 2026-11-12 | Toronto | [↗](https://dev.events/conferences/product-led-summit-toronto-l-8eedxh) |
 | Hackathon \| Le navigateur à l’ère de l’intelligence artificielle | 2026-11-11 | Montreal, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-polytechnique-montreal-montreal-canada-presents-hackathon-le-navigateur-a-lere-de-lintelligence-artificielle/) |
 | Reading Rhythms Toronto: Nuts & Shells Bookshop Reading Party | 2026-11-11 | Toronto, CA | [↗](https://lu.ma/reading-58b6) |
@@ -145,6 +129,7 @@
 | MACEL Open house | 2026-11-12 | Toronto, CA | [↗](https://lu.ma/kuniaiq7) |
 | Github Basics and Git Commands | 2026-11-12 | Hamilton, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-mcmaster-university-hamilton-canada-presents-github-basics-and-git-commands/) |
 | Get Into GEAR: Build AI Agents with Google Cloud \| Google Developer Group - York University | 2026-11-12 | Toronto, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-york-university-keele-campus-toronto-canada-presents-get-into-gear-build-ai-agents-with-google-cloud-google-developer-group-york-university/) |
+| ALIGN to the WISDOM of your SOUL | 2026-11-12 | Toronto, CA | [↗](https://lu.ma/p1ljz0bg) |
 | AI Community Conference Toronto 2026 | 2026-11-13 | Toronto | [↗](https://dev.events/conferences/ai-community-conference-toronto-2026-cguxz0rv) |
 | Hyper Specific Coffee by RSG: Alum Edition | 2026-11-13 | Toronto, CA | [↗](https://lu.ma/1yj2blu2) |
 | ARTMargins University of Toronto Workshop: The Loose Threads of Liberation | 2026-11-13 | Toronto, CA | [↗](https://lu.ma/x2rp7g47) |
@@ -156,6 +141,8 @@
 | ChaiTech Innovators Breakfast | 2026-11-13 | Toronto, CA | [↗](https://lu.ma/dwmltbhm) |
 | CPG & Brand Builder Toronto Co-Working | 2026-11-13 | Toronto, CA | [↗](https://lu.ma/0g5fuyz8) |
 | Co-Hack Night / Double Down Hacker House × Builders Collective | 2026-11-13 | Toronto, CA | [↗](https://lu.ma/b36lmsha) |
+| CSHub Builder Friday [Season 2, Ep 2] | 2026-11-13 | Toronto, CA | [↗](https://lu.ma/ct1tss53) |
+| Beyond the Prompt X RCIG | 2026-11-13 | Toronto, CA | [↗](https://lu.ma/0b6k5tp9) |
 | NASA Space Apps Challenge Toronto 2026 | 2026-11-14 | Toronto, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-toronto-presents-nasa-space-apps-challenge-toronto-2026/) |
 | DevFest Sherbrooke 2026 | 2026-11-14 | Sherbrooke, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-sherbrooke-presents-devfest-sherbrooke-2026-1/) |
 | DevFest Kenora: Shaping the Future Together | 2026-11-14 | Kenora, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-kenora-presents-devfest-kenora-shaping-the-future-together/) |
@@ -179,6 +166,7 @@
 | Patch & Chat: A DIY Patch Bar Social | 2026-11-14 | Toronto, CA | [↗](https://lu.ma/2madef1o) |
 | Devin Game Jam - Kick005 | 2026-11-14 | Toronto, CA | [↗](https://lu.ma/devkick-nk2y) |
 | Yoga Sculpt with Melt Studios | 2026-11-14 | Toronto, CA | [↗](https://lu.ma/jyb0xij9) |
+| 444 Club x Mola Cafe | 2026-11-14 | Toronto, CA | [↗](https://lu.ma/tbqf7qjd) |
 | DevFest Toronto: Build, Secure, Scale: Developers and Builders in the Agentic Era | 2026-11-15 | Toronto, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-toronto-presents-devfest-toronto-build-secure-scale-developers-and-builders-in-the-agentic-era-1/) |
 | CFPC Convocation Dinner | 2026-11-15 | Toronto, CA | [↗](https://lu.ma/7x5ycnv9) |
 | Humber 2 Humber: A Trail of Two Campuses | 2026-11-15 | Toronto, CA | [↗](https://lu.ma/oteop87s) |
@@ -209,6 +197,7 @@
 | MEIE Open Lecture - Financing a Tech Startup | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/m9s83ps0) |
 | Founders After Five \| Elite Entrepreneurs | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/eetoronto-85oa) |
 | Get Your Hours Back: A Hands-On AI Workshop for Business Owners | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/ac3xfble) |
+| Reactor | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/yg7dcqlv) |
 | God is Your Improv Partner | 2026-11-18 | Toronto, CA | [↗](https://lu.ma/ca9t8zco) |
 | Soju Tasting Night with Korean Literature | 2026-11-18 | Toronto, CA | [↗](https://lu.ma/2ffluv3x) |
 | What Wakes Us: An Embodiment Evening for Women | 2026-11-18 | Toronto, CA | [↗](https://lu.ma/vanl0io5) |
@@ -233,10 +222,19 @@
 | Design Leadership Summit 2026 Evening Social | 2026-11-18 | Toronto, CA | [↗](https://lu.ma/dls2026-social) |
 | Don't Quit Your Day Job #9 (A Silly Goofy Writing Series) | 2026-11-18 | Toronto, CA | [↗](https://lu.ma/kv8glgsn) |
 | Launchpad: Accenture Information Session | 2026-11-18 | Toronto, CA | [↗](https://lu.ma/wkjsf8vn) |
+| STARTUP HUDDLE TORONTO | 2026-11-18 | Toronto, CA | [↗](https://lu.ma/ucy6vbkr) |
 | Marketing Without a Team: Build an AI Video Engine for Your Startup | 2026-11-19 | Toronto, Canada | [↗](https://www.startupgrind.com/events/details/startup-grind-toronto-presents-marketing-without-a-team-build-an-ai-video-engine-for-your-startup/) |
 | MongoDB.local Toronto | 2026-11-19 | Toronto | [↗](https://dev.events/conferences/mongo-db-local-toronto-u1tahzn0) |
 | Founders Breakfast Series: Early Stage Edition | 2026-11-19 | Toronto, CA | [↗](https://lu.ma/1n1rx6df) |
 | Started with a prompt | 2026-11-19 | Victoria, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-victoria-presents-started-with-a-prompt/) |
+| NEN Challenge — Schulich School of Business | 2026-11-19 | Toronto, CA | [↗](https://lu.ma/amkplqgo) |
+| Builders & Bubble Tea 🇨🇦 | 2026-11-19 | Toronto, CA | [↗](https://lu.ma/8c72hx1q) |
+| Demo Day: Fundraising, Investing & Building Community | 2026-11-19 | Toronto, CA | [↗](https://lu.ma/ko4ppwbz) |
+| Drug Development Regulatory Pathways Across the Globe | 2026-11-19 | Toronto, CA | [↗](https://lu.ma/co8jynti) |
+| Flourish Fundraising Gala | 2026-11-19 | Toronto, CA | [↗](https://lu.ma/flourishgala) |
+| Tokenize North — Toronto Edition | 2026-11-19 | Toronto, CA | [↗](https://lu.ma/k4ofil9o) |
+| GTM North x WITS Vol. 3: Creating Your Brand | 2026-11-19 | Toronto, CA | [↗](https://lu.ma/yiaepxd6) |
+| Humans in the Loop: Building and hiring for AI at Questrade | 2026-11-19 | Toronto, CA | [↗](https://lu.ma/humans-in-the-loop-nov-19-2026) |
 | DevFest Vancouver 2026 | 2026-11-20 | Vancouver, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-vancouver-presents-devfest-vancouver-2026/) |
 | GDG Windsor-Essex DevFest 2026 | 2026-11-21 | Windsor, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/) |
 | DevFest Surrey 2026 (LOCATION - TBD) | 2026-11-21 | Surrey, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-surrey-presents-devfest-surrey-2026-location-tbd/) |

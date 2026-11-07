@@ -1,15 +1,9 @@
 # Developer Events in Nigeria
 
-49 upcoming events. [Back to the full directory](../README.md)
+44 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| DevFest Ilorin 2026 | 2026-11-06 | Ilorin, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-ilorin-presents-devfest-ilorin-2026/) |
-| Club Site with Next.js and TypeScript | 2026-11-06 | Iyin, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-federal-university-of-technology-and-environmental-sciences-iyin-ekiti-nigeria-presents-club-site-with-nextjs-and-typescript/) |
-| Understanding the Boring stuff in Flutter: Build your first MVVM Project in Flutter | 2026-11-06 | Iyin, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-federal-university-of-technology-and-environmental-sciences-iyin-ekiti-nigeria-presents-understanding-the-boring-stuff-in-flutter-build-your-first-mvvm-project-in-flutter/) |
-| Poster Studio: AI that writes and designs club posts | 2026-11-06 | Iyin, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-federal-university-of-technology-and-environmental-sciences-iyin-ekiti-nigeria-presents-poster-studio-ai-that-writes-and-designs-club-posts/) |
-| Mastering the Art of Prompt Engineering | 2026-11-06 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-mastering-the-art-of-prompt-engineering/) |
-| Join us in our next event: Weekly Community Meetup | 2026-11-06 | Ota, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-covenant-university-ota-nigeria-presents-join-us-in-our-next-event-weekly-community-meetup/) |
 | DevFest Umuahia 2026 | 2026-11-07 | Umuahia, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-umuahia-presents-devfest-umuahia-2026/) |
 | DevFest Makurdi 2026 | 2026-11-07 | Makurdi, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-makurdi-presents-devfest-makurdi-2026/) |
 | DevFest Onitsha 2026 | 2026-11-07 | Onitsha, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-onitsha-presents-devfest-onitsha-2026/) |
@@ -23,6 +17,7 @@
 | On Campus Startup Sandbox Episode 003 | 2026-11-07 | Kano, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-bayero-university-kano-kano-nigeria-presents-on-campus-startup-sandbox-episode-003/) |
 | Agent Skills for Web Development | 2026-11-07 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-agent-skills-for-web-development/) |
 | Unlocking Google AI Plus: Student Activation & Onboarding Session | 2026-11-07 | Alasia, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-lagos-state-university-ojo-nigeria-presents-unlocking-google-ai-plus-student-activation-amp-onboarding-session/) |
+| GDGoC FUNAAB & PIPress Collaborative Webinar | 2026-11-07 | Abeokuta, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-federal-university-of-agriculture-abeokuta-nigeria-presents-gdgoc-funaab-amp-pipress-collaborative-webinar/) |
 | Breaking into Tech: What Nobody Tells You | 2026-11-08 | Ogbomosho, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ladoke-akintola-university-of-technology-ogbomosho-nigeria-presents-breaking-into-tech-what-nobody-tells-you/) |
 | Building with AI at the W3W Creative Hub | 2026-11-14 | Warri, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-warri-presents-building-with-ai-at-the-w3w-creative-hub/) |
 | Road to DevFest Yola: Hands-On Workshop 2 | 2026-11-14 | Jimeta, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-yola-presents-road-to-devfest-yola-hands-on-workshop-2/) |

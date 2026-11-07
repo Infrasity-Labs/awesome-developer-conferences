@@ -1,13 +1,10 @@
 # Developer Events in Spain
 
-79 upcoming events. [Back to the full directory](../README.md)
+77 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Nerdearla Madrid | 2026-11-04 to 2026-11-06 | Madrid (Spain) | [↗](https://nerdearla.com/en/sp/) |
-| Dev Days Students \| Madrid | 2026-11-06 | Madrid (Spain) | [↗](https://githubcopilotdevdaysmadrid.techriders.es/) |
 | PyConES 2026 | 2026-11-06 to 2026-11-08 | Barcelona | [↗](https://dev.events/conferences/py-con-es-2026-jts3uabv) |
-| Power-up con IA: cómo potenciar el desarrollo de videojuegos sin perder la creatividad humana | 2026-11-06 | Córdoba, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-cordoba-presents-power-up-con-ia-como-potenciar-el-desarrollo-de-videojuegos-sin-perder-la-creatividad-humana/) |
 | DevFest 2026 - GDG Ourense | 2026-11-07 | Ourense (Spain) | [↗](https://gdg.community.dev/events/details/google-gdg-ourense-presents-devfest-2026/) |
 | BiznagaFest 2026 | 2026-11-07 | Malaga, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-malaga-presents-biznagafest-2026/) |
 | Córdoba se va a la BiznagaFest: v2.0, ahora con más rodaje (esta vez sabemos aparcar) | 2026-11-07 | Córdoba, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-cordoba-presents-cordoba-se-va-a-la-biznagafest-v20-ahora-con-mas-rodaje-esta-vez-sabemos-aparcar/) |
@@ -33,6 +30,7 @@
 | X-Ops Conference Madrid 2026 | 2026-11-19 to 2026-11-21 | Móstoles (Spain) | [↗](https://xopsconference.com/) |
 | X-Ops Conference Madrid | 2026-11-19 to 2026-11-21 | Madrid (Spain) | [↗](https://madrid.xopsconference.com/) |
 | 🤖 From PoC to Production: ¡Lleva tus agentes de IA a producción con Responsible AI! 🚀 | 2026-11-19 | Barcelona, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-uoc-barcelona-spain-presents-from-poc-to-production-lleva-tus-agentes-de-ia-a-produccion-con-responsible-ai/) |
+| Mi día con ManuClaw - una degustación de IA | 2026-11-19 | Toledo, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-toledo-presents-mi-dia-con-manuclaw-una-degustacion-de-ia/) |
 | DevFest Zaragoza 2026 | 2026-11-20 | Zaragoza, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-zaragoza-presents-devfest-zaragoza-2026/) |
 | DevFest Valencia 2026 | 2026-11-20 | Valencia, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-valencia-presents-devfest-valencia-2026/) |
 | Que faras l'estiu que vé, anar a posar beures a un bar o fer que Google et pagui 5.000 € per programar? | 2026-11-20 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-que-faras-lestiu-que-ve-anar-a-posar-beures-a-un-bar-o-fer-que-google-et-pagui-5000-eur-per-programar/) |

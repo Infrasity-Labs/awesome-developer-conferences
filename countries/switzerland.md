@@ -1,10 +1,9 @@
 # Developer Events in Switzerland
 
-18 upcoming events. [Back to the full directory](../README.md)
+17 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Startup Nights 2026 | 2026-11-05 to 2026-11-06 | Winterthur, Switzerland | [↗](https://www.startup-nights.ch/) |
 | Lead27 | 2026-11-19 | Zurich | [↗](https://dev.events/conferences/lead27-udwomo5l) |
 | Helvetic Ruby 2026 | 2026-11-19 to 2026-11-20 | Zurich | [↗](https://dev.events/conferences/helvetic-ruby-2026-qgyfurwa) |
 | Agentic Engineering Day Zurich | 2026-11-20 | Zurich (Switzerland) | [↗](https://www.agenticdays.com/) |

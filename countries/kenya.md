@@ -1,21 +1,21 @@
 # Developer Events in Kenya
 
-31 upcoming events. [Back to the full directory](../README.md)
+32 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Droidcon & Fluttercon Kenya 2026 | 2026-11-05 to 2026-11-06 | Nairobi | [↗](https://dev.events/conferences/droidcon-and-fluttercon-kenya-2026-nchprgoc) |
-| GDG THARAKA UNIVERSITY x Founding Dev Hackathon | 2026-11-06 | Marimanti, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-tharaka-university-marimanti-kenya-presents-gdg-tharaka-university-x-founding-dev-hackathon/) |
-| INCIDENT 2:14, Chapter 2: The Breach | 2026-11-06 | Thika, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-mount-kenya-university-thika-kenya-presents-incident-214-chapter-2-the-breach/) |
-| Mpesa Daraja Integration Masterclass | 2026-11-06 | Nakuru, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kabarak-university-nakuru-kenya-presents-mpesa-daraja-integration-masterclass/) |
 | From Localhost to Production: Deploying Backend Applications | 2026-11-07 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-from-localhost-to-production-deploying-backend-applications/) |
 | Intro to System Design: A Beginner's Workshop | 2026-11-07 | Embu, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-embu-embu-kenya-presents-intro-to-system-design-a-beginners-workshop/) |
 | Kickstart Your API Journey: Concepts and Practical Development | 2026-11-07 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-kickstart-your-api-journey-concepts-and-practical-development/) |
 | Introduction to Web Development: Build a Student Hub using Google AI Studio | 2026-11-07 | Eldoret, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-eldoret-eldoret-kenya-presents-introduction-to-web-development-build-a-student-hub-using-google-ai-studio/) |
 | DevOps Without the Jargon 🚀 | 2026-11-07 | Thika, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-mount-kenya-university-thika-kenya-presents-devops-without-the-jargon/) |
 | Data Science Workshop: Hands-On Session | 2026-11-08 | Baraton, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-eastern-africa-baraton-eldoret-kenya-presents-data-science-workshop-hands-on-session/) |
+| Introduction to Web Hacking with Burp Suite | 2026-11-08 | Baraton, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-eastern-africa-baraton-eldoret-kenya-presents-introduction-to-web-hacking-with-burp-suite/) |
 | Launch your web-based video game with AI | 2026-11-09 | Eldoret, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-eldoret-eldoret-kenya-presents-launch-your-web-based-video-game-with-ai/) |
+| Web Development Hands-on-Session: HTML & CSS Mastery | 2026-11-09 | Nyeri, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-dedan-kimathi-university-of-technology-nyeri-kenya-presents-web-development-hands-on-session-html-amp-css-mastery/) |
 | Unlock the Secrets of Your Data: EDA Workshop | 2026-11-10 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-unlock-the-secrets-of-your-data-eda-workshop/) |
+| Building a web application on intelligent analytics and Multi-Modal data | 2026-11-10 | Juja, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-building-a-web-application-on-intelligent-analytics-and-multi-modal-data/) |
+| Launch Your First Android App with AI Studio | 2026-11-12 | Juja, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-launch-your-first-android-app-with-ai-studio/) |
 | AIoT_Pro_Series | 2026-11-13 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-multimedia-university-of-kenya-nairobi-kenya-presents-aiot_pro_series-2026-11-13/) |
 | AI in Action: Building Intelligent Applications with Gemini | 2026-11-13 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-ai-in-action-building-intelligent-applications-with-gemini/) |
 | Python Basics Wrap-Up Session | 2026-11-15 | Baraton, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-eastern-africa-baraton-eldoret-kenya-presents-python-basics-wrap-up-session-2026-11-15/) |
@@ -24,6 +24,7 @@
 | Build Night: From Code to Cloud — Building, Testing & Deploying Applications | 2026-11-20 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-build-night-from-code-to-cloud-building-testing-amp-deploying-applications/) |
 | Devfest Kisumu 2026 | 2026-11-21 | Kisumu, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-kisumu-presents-devfest-kisumu-2026/) |
 | WIT Wrap : Celebrate, Connect, Conquer! | 2026-11-21 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-wit-wrap-celebrate-connect-conquer/) |
+| Launch Your Portfolio Website with AI, Live Reviews \| Builders Jam Track 01 | 2026-11-21 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-nairobi-nairobi-kenya-presents-launch-your-portfolio-website-with-ai-live-reviews-builders-jam-track-01/) |
 | STARTUP GRIND NAIROBI TECH WEEK - DAY 1: "DEV(SEC)OPS & INFRASTRUCTURE" | 2026-11-23 | Nairobi, Kenya | [↗](https://www.startupgrind.com/events/details/startup-grind-nairobi-presents-startup-grind-nairobi-tech-week-day-1-devsecops-amp-infrastructure/) |
 | STARTUP GRIND NAIROBI WEEK - DEEP TECH FRONTIER | 2026-11-23 | Nairobi, Kenya | [↗](https://www.startupgrind.com/events/details/startup-grind-nairobi-presents-startup-grind-nairobi-week-deep-tech-frontier/) |
 | STARTUP GRIND NAIROBI TECH WEEK DAY 2:  "DECENTRALIZED NAIROBI" | 2026-11-24 | Nairobi, Kenya | [↗](https://www.startupgrind.com/events/details/startup-grind-nairobi-presents-startup-grind-nairobi-tech-week-day-2-decentralized-nairobi/) |

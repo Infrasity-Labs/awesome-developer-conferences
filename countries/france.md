@@ -1,19 +1,9 @@
 # Developer Events in France
 
-274 upcoming events. [Back to the full directory](../README.md)
+277 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Linkua Launch Party | 2026-11-06 | Paris, FR | [↗](https://lu.ma/mxchaeh8) |
-| ASUS × NVIDIA Enterprise AI – From Data Center to Edge | 2026-11-06 | Paris, FR | [↗](https://lu.ma/5svkg5g3) |
-| Gwabi au Comptoir Avalon | 2026-11-06 | Paris, FR | [↗](https://lu.ma/avalon-comedy-club-novembre) |
-| Galerie Paradis — Opening | 2026-11-06 | Paris, FR | [↗](https://lu.ma/dafvl51m) |
-| Soirée :  Donnez vie à vos rêves : restez dans la course à l'ère de l'IA | 2026-11-06 | Aix-en-Provence, France | [↗](https://gdg.community.dev/events/details/google-gdg-aix-en-provence-presents-soiree-donnez-vie-a-vos-reves-restez-dans-la-course-a-lere-de-lia/) |
-| ☕️🌎 Open Café des Gaïas (Femmes et Climat) | 2026-11-06 | Paris, FR | [↗](https://lu.ma/entzrz94) |
-| Game of Phones : le hackathon cold call de swanbase et GROF | 2026-11-06 | Paris, FR | [↗](https://lu.ma/opg95615) |
-| Between Unknowns x The Analog Club \| Collection Anonyme - Droit de Regard(s) | 2026-11-06 | Paris, FR | [↗](https://lu.ma/nyqv65yo) |
-| Crochet for Newbies | 2026-11-06 | Paris, FR | [↗](https://lu.ma/qy9lagmb) |
-| content & coffee - paris | 2026-11-06 | Paris, FR | [↗](https://lu.ma/dk486szb) |
 | Uxtie Day : Donnez vie à votre site Internet en quelques mots ! | 2026-11-07 | Paris, FR | [↗](https://lu.ma/h31pxkkc) |
 | Paris K-Beauty Experience | 2026-11-07 | Paris, FR | [↗](https://lu.ma/apj0v8vp) |
 | Ghost Editing: fanzine workshop | 2026-11-07 | Paris, FR | [↗](https://lu.ma/iotrdg0k) |
@@ -32,6 +22,7 @@
 | Lecture Jeunesse pour les 3-6 ans | 2026-11-07 | Paris, FR | [↗](https://lu.ma/53539ucq) |
 | Stretching Class | 2026-11-07 | Paris, FR | [↗](https://lu.ma/y1lbmpgn) |
 | Builder Coffee ☕ | 2026-11-07 | Paris, FR | [↗](https://lu.ma/hax3imc9) |
+| Pilates with Charles @Galerie Louis Barrand • Signature (FR/ENG) | 2026-11-07 | Paris, FR | [↗](https://lu.ma/biexsxbo) |
 | RUN CLUB 08/11 @La Montgolfière 18ème | 2026-11-08 | Paris, FR | [↗](https://lu.ma/t8n3d1ig) |
 | New Moon, Hot Mood. La première expérience astrologie & sauna. | 2026-11-08 | Paris, FR | [↗](https://lu.ma/as940ioa) |
 | 🍂 Offline Reading Party COSY x live piano 🎹 \| TOC x Verso \| Kawaa Lumière ☕ \| Paris 12th arr. | 2026-11-08 | Paris, FR | [↗](https://lu.ma/the-5oe5) |
@@ -41,6 +32,8 @@
 | Lancement d’OKAVOL à Paris — 8 novembre 2026 | 2026-11-08 | Paris, FR | [↗](https://lu.ma/ofzlsnjn) |
 | Side Project Club - Paris☕️ #2 | 2026-11-08 | Paris, FR | [↗](https://lu.ma/jq51tbqn) |
 | Third side: Around us | 2026-11-08 | Paris, FR | [↗](https://lu.ma/h8bbwqlw) |
+| Sensoma Sessions | 2026-11-08 | Paris, FR | [↗](https://lu.ma/zgo60xy1) |
+| 🥥 ConUt -Paris (France): Faut-il avoir peur de l'IA ? | 2026-11-08 | Paris, FR | [↗](https://lu.ma/yy8g9g7q) |
 | Afterwork EDC avec Daniel Baal - Président du Crédit Mutuel et du CIC (EDC 1979) | 2026-11-09 | Paris, FR | [↗](https://lu.ma/4fxycdfk) |
 | Altruisme rationnel \| Lancement du livre | 2026-11-09 | Paris, FR | [↗](https://lu.ma/k9o70hk5) |
 | Cocktail Crowdfunding immobilier | 2026-11-09 | Paris, FR | [↗](https://lu.ma/nbselbtw) |
@@ -96,6 +89,8 @@
 | Visite privée de l'exposition de Fiona FORTE | 2026-11-13 | Paris, FR | [↗](https://lu.ma/sfq5pi22) |
 | INSULA | 2026-11-13 | Paris, FR | [↗](https://lu.ma/1fr508lh) |
 | Girls After Hours | 2026-11-13 | Paris, FR | [↗](https://lu.ma/wpa7mljc) |
+| Lancement OZI midi | 2026-11-13 | Paris, FR | [↗](https://lu.ma/ud4lw5u9) |
+| Ciel Créateur : méditation guidée sous un dessin énergétique en direct | 2026-11-13 | Paris, FR | [↗](https://lu.ma/ljzmpjyd) |
 | Capitole du Libre | 2026-11-14 to 2026-11-15 | Toulouse (France) | [↗](https://capitoledulibre.org) |
 | Aaron’s World | 2026-11-14 | Paris, FR | [↗](https://lu.ma/zbswvas8) |
 | VIBENIGHT #2 : Hackathon AI Safety (FINAL) | 2026-11-14 | Paris, FR | [↗](https://lu.ma/gkqbmy2j) |
@@ -108,6 +103,8 @@
 | COOL GIRLS RUN TOGETHER - 7km | 2026-11-14 | Paris, FR | [↗](https://lu.ma/x1q5eltq) |
 | Initiation au remaillage | 2026-11-14 | Paris, FR | [↗](https://lu.ma/yeknqep3) |
 | CAPSLOCK Book Release: The Creative Compass 02 France | 2026-11-14 | Paris, FR | [↗](https://lu.ma/mr326g74) |
+| Culture Run, Jeux & Comptoirs x HOKA | 2026-11-14 | Paris, FR | [↗](https://lu.ma/d0l71ook) |
+| The First Freeze - Creative Pop-Up | 2026-11-14 | Paris, FR | [↗](https://lu.ma/plxh71zv) |
 | iGEM Innovation - Bio & Brews | 2026-11-15 | Paris, FR | [↗](https://lu.ma/qkozd2w7) |
 | ☕ Special: Offline Hangout x Slow Chocolate Drinking \| My Little Paris Bistrot \| Paris 9th | 2026-11-15 | Paris, FR | [↗](https://lu.ma/3mjcfm7p) |
 | Caleb Stein, Down by the Hudson Exhibition | 2026-11-15 | Paris, FR | [↗](https://lu.ma/klykj5yd) |
@@ -144,6 +141,7 @@
 | CORE - Club Of Retail & Ecommerce | 2026-11-17 | Paris, FR | [↗](https://lu.ma/6bq74xei) |
 | Conférence : stratégies growth & process avancés pour les startups de 300 k€ à 10 M€ de CA | 2026-11-17 | Paris, FR | [↗](https://lu.ma/kmecykgp) |
 | Créatifs IA Afterwork | 2026-11-17 | Paris, FR | [↗](https://lu.ma/uua9iqe0) |
+| AI in Production #1 — Human out of the loop? | 2026-11-17 | Paris, FR | [↗](https://lu.ma/olxfkqp3) |
 | Data & AI Leaders Summit 2026 | 2026-11-18 to 2026-11-19 | Paris, France | [↗](https://www.techshowparis.fr/en/data-ai-leaders-summit) |
 | Team Building Campus PA7-PA13x-BX1 - Paris | 2026-11-18 | Paris, FR | [↗](https://lu.ma/fl60z0gx) |
 | Beyond Capital 2026 | 2026-11-18 | Paris, FR | [↗](https://lu.ma/bc2026) |
@@ -163,6 +161,9 @@
 | Agent Stack Series #00 x Holo AI Night | 2026-11-18 | Paris, FR | [↗](https://lu.ma/vercel-ndvn) |
 | After de l’Hacienda // Novembre 2026 | 2026-11-18 | Paris, FR | [↗](https://lu.ma/cxu1ayuj) |
 | Blind VC Lunch | 2026-11-18 | Paris, FR | [↗](https://lu.ma/rh3bakei) |
+| Comment L'Oréal, Zadig & Voltaire et Air France-KLM utilisent l'IA pour mieux comprendre leurs consommateurs. | 2026-11-18 | Paris, FR | [↗](https://lu.ma/mvsaayr9) |
+| ElevenCreative Sessions: {take 3} Watching AI Music. | 2026-11-18 | Paris, FR | [↗](https://lu.ma/s9dgdz25) |
+| Tech Apéro | 2026-11-18 | Paris, FR | [↗](https://lu.ma/n8zoiqcb) |
 | DevFest Toulouse 2026 | 2026-11-19 | Toulouse (France) | [↗](https://devfesttoulouse.fr/) |
 | Agile Laval 2026 | 2026-11-19 | Laval (France) | [↗](http://www.agilelaval.org/) |
 | OVHcloud Summit | 2026-11-19 | Paris (France) | [↗](https://summit.ovhcloud.com/en/) |
@@ -211,6 +212,7 @@
 | Atelier : 1h pour reprendre la main sur son smartphone ! | 2026-11-21 | Paris, FR | [↗](https://lu.ma/vft9pg4x) |
 | Dance & Connect Paris \| embrace your femininity & meet like-minded women | 2026-11-21 | Paris, FR | [↗](https://lu.ma/a4c2tvff) |
 | Networking colombiano - París | 2026-11-21 | Paris, FR | [↗](https://lu.ma/ydfur5v7) |
+| OWN YOUR COLORS - Color workshop with Melinda, color specialist and makeup artist | 2026-11-21 | Paris, FR | [↗](https://lu.ma/2l673xet) |
 | RUN CLUB SPECIAL BAINS CHAUDS/ FROIDS - 22/11 @La Montgolfière 18ème | 2026-11-22 | Paris, FR | [↗](https://lu.ma/xkhaqsy7) |
 | Build your side hustle Hackathon | 2026-11-22 | Paris, FR | [↗](https://lu.ma/dc3ynvnx) |
 | 📚 Offline Reading Party \| La Dame aux plantes \| TOC x Verso \| 🍃 La Maison du Jardinage et du Compostage \| Paris 12e arr. | 2026-11-22 | Paris, FR | [↗](https://lu.ma/n6plshk0) |
@@ -274,6 +276,7 @@
 | Devoxx France 2027 | 2027-04-07 to 2027-04-09 | Paris (France) | [↗](https://www.devoxx.fr/) |
 | MODERN ENDPOINT MANAGEMENT EMEA SUMMIT 2027 | 2027-04-14 to 2027-04-16 | Paris (France) | [↗](https://www.endpointsummit.com) |
 | Mobile Makers 2027 | 2027-04-30 | Paris | [↗](https://dev.events/conferences/mobile-makers-2027-ymqomp-u) |
+| OW2con'27 | 2027-05-25 to 2027-05-26 | Paris | [↗](https://dev.events/conferences/ow-2con-27-meltkfz0) |
 | SSTIC | 2027-06-02 | Rennes (France) | [↗](https://www.sstic.org) |
 | Cloud Native Days France 2027 | 2027-06-03 | Paris (France) | [↗](https://www.cloudnativedays.fr/) |
 | Normandie.ai 2026 | 2027-07-02 | Rouen (France) | [↗](https://normandie.ai) |

@@ -1,10 +1,9 @@
 # Developer Events in Brazil
 
-41 upcoming events. [Back to the full directory](../README.md)
+40 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| The Developer's Life Weekend - Edição Campo Mourão | 2026-11-06 | Campo Mourão, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-campo-mourao-presents-the-developers-life-weekend-edicao-campo-mourao/) |
 | DevFest Pelotas 2026 | 2026-11-07 | Pelotas, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-pelotas-presents-devfest-pelotas-2026/) |
 | PlatformCon Live Day São Paulo | 2026-11-07 | São Paulo (Brazil) | [↗](https://saopaulo.platformcon.com/) |
 | DevFest Lauro de Freitas 2026: The Agentic Era | 2026-11-07 | Lauro de Freitas, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-lauro-de-freitas-presents-devfest-lauro-de-freitas-2026-the-agentic-era/) |

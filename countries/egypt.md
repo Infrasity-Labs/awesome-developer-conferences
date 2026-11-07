@@ -1,13 +1,14 @@
 # Developer Events in Egypt
 
-21 upcoming events. [Back to the full directory](../README.md)
+22 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| OOP & Data Modeling | 2026-11-06 | Giza, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-october-6-university-giza-egypt-presents-oop-amp-data-modeling/) |
-| Backend Session 2: Kickstart PHP: Mastering the Basics | 2026-11-06 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-backend-session-2-kickstart-php-mastering-the-basics/) |
-| AI Automation Session 2: Dive into Data Structures: Loops & Collections | 2026-11-06 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-ai-automation-session-2-dive-into-data-structures-loops-amp-collections-2026-11-06/) |
-| Modern Pragmatic Go: Building Lightweight, Type-Safe Backends | 2026-11-06 | 6Th Of October, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-6-october-presents-modern-pragmatic-go-building-lightweight-type-safe-backends/) |
+| Prompt Less. Engineer More. | 2026-11-07 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-cairo-presents-prompt-less-engineer-more/) |
+| Build Your AI Agent | 2026-11-07 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-cairo-presents-build-your-ai-agent/) |
+| From Zero to Siri: Building a Native iOS App | 2026-11-07 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-cairo-presents-from-zero-to-siri-building-a-native-ios-app/) |
+| Building a Full Android App: The Decisions That Shape Everything | 2026-11-07 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-cairo-presents-building-a-full-android-app-the-decisions-that-shape-everything/) |
+| Git Started: An Introduction to Git/GitHub & Open Source | 2026-11-07 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-cairo-presents-git-started-an-introduction-to-gitgithub-amp-open-source/) |
 | DevFest'26 - GDG Helwan | 2026-11-10 | Helwan, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-helwan-presents-devfest26-gdg-helwan/) |
 | Networking & REST APIs | 2026-11-13 | Giza, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-october-6-university-giza-egypt-presents-networking-amp-rest-apis/) |
 | DevFest 2026: Ignite Your Tech Journey! | 2026-11-14 | Ismailia, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-ismailia-presents-devfest-2026-ignite-your-tech-journey/) |

@@ -1,20 +1,22 @@
 # Developer Events in Indonesia
 
-19 upcoming events. [Back to the full directory](../README.md)
+21 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| AI: Hello Automation | 2026-11-06 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-widyatama-university-bandung-indonesia-presents-ai-hello-automation/) |
-| UI/UX: Ta'aruf dengan Figma, UI/UX & Design Thinking | 2026-11-06 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-widyatama-university-bandung-indonesia-presents-uiux-taaruf-dengan-figma-uiux-amp-design-thinking/) |
 | Unlock the Ecosystem: Meet the Community, Teach the Machine | 2026-11-07 | Makassar, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-negeri-makassar-makassar-indonesia-presents-unlock-the-ecosystem-meet-the-community-teach-the-machine/) |
 | Road to DevFest: One Day Trip Mapay Bandoeng | 2026-11-07 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-bandung-presents-road-to-devfest-one-day-trip-mapay-bandoeng/) |
+| Mobile Dev: Say Hello Android | 2026-11-07 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-widyatama-university-bandung-indonesia-presents-mobile-dev-say-hello-android/) |
+| Data Analyst: Introduction to Data Analysis & Python Basics | 2026-11-07 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-widyatama-university-bandung-indonesia-presents-data-analyst-introduction-to-data-analysis-amp-python-basics/) |
 | DevFest Jogjakarta 2026 | 2026-11-08 | Yogyakarta, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-jogjakarta-presents-devfest-jogjakarta-2026/) |
 | Weekly Class #1 Introduction to UI/UX, Team Formation & Empathy Map | 2026-11-08 | Makassar, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-negeri-makassar-makassar-indonesia-presents-weekly-class-1-introduction-to-uiux-team-formation-amp-empathy-map/) |
 | Road to DevFest Cloud Surabaya '26 #2 | 2026-11-14 | Surabaya, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-surabaya-presents-road-to-devfest-cloud-surabaya-26-2/) |
+| Info Session 2026 Navigating Industry Realities: Empowering Students Beyond Campus Hype | 2026-11-14 | Depok, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-gunadarma-depok-indonesia-presents-info-session-2026-navigating-industry-realities-empowering-students-beyond-campus-hype/) |
 | Global Security Symposium | 2026-11-18 | Jakarta | [↗](https://dev.events/conferences/global-security-symposium-xnnyf-yi) |
 | IDSW 2026 | 2026-11-21 to 2026-11-22 | Jakarta | [↗](https://dev.events/conferences/idsw-2026-xkdqgw7y) |
 | Cloud DevFest Surabaya '26: Building Safe, Secure & Scalable Solutions with AI and Cloud | 2026-11-21 | Surabaya, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-surabaya-presents-cloud-devfest-surabaya-26-building-safe-secure-amp-scalable-solutions-with-ai-and-cloud/) |
 | DevFest Cloud Surabaya '26: Building Safe, Secure & Scalable Solutions with AI and Cloud | 2026-11-21 | Surabaya, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-surabaya-presents-devfest-cloud-surabaya-26-building-safe-secure-amp-scalable-solutions-with-ai-and-cloud/) |
+| Beginner Class HTML, CSS, & Javascript (1st Meet) | 2026-11-21 | Denpasar Selatan, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-primakara-university-denpasar-indonesia-presents-beginner-class-html-css-amp-javascript-1st-meet-1/) |
 | DevFest Medan 2026: Build, Secure, and Scale | 2026-11-28 | Medan, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-medan-presents-devfest-medan-2026-build-secure-and-scale/) |
 | DevFest Bogor 2026 | 2026-11-28 | Bogor, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-bogor-presents-devfest-bogor-2026/) |
 | Cloud DevFest Bandung 2026 | 2026-11-28 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-bandung-presents-cloud-devfest-bandung-2026-1/) |

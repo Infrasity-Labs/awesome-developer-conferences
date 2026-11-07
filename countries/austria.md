@@ -1,10 +1,9 @@
 # Developer Events in Austria
 
-13 upcoming events. [Back to the full directory](../README.md)
+12 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Global Day of Coderetreat @ FH Salzburg | 2026-11-06 | Salzburgo, Austria | [↗](https://gdg.community.dev/events/details/google-gdg-salzburg-presents-global-day-of-coderetreat-fh-salzburg-1/) |
 | DevFest Vienna 2026 - CfPs are open! | 2026-11-07 | Vienna, Austria | [↗](https://gdg.community.dev/events/details/google-gdg-vienna-presents-devfest-vienna-2026-cfps-are-open/) |
 | DevFest Vienna 2026 | 2026-11-07 | Vienna | [↗](https://dev.events/conferences/dev-fest-vienna-2026-owikzckm) |
 | DevFest Vienna 2026 - CfPs are closed! | 2026-11-07 | Vienna, Austria | [↗](https://gdg.community.dev/events/details/google-gdg-vienna-presents-devfest-vienna-2026-cfps-are-closed/) |

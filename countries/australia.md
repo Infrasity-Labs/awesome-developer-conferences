@@ -1,13 +1,13 @@
 # Developer Events in Australia
 
-106 upcoming events. [Back to the full directory](../README.md)
+110 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| AFES & NSWCLS present “Wise Beginnings for Law Students” followed by a “Meet the Profession” dinner | 2026-11-06 | Sydney, AU | [↗](https://lu.ma/wise26) |
 | Private AI Sydney Workshop: Run AI on Your Own Laptop | 2026-11-07 | Sydney, NS, AU | [↗](https://allevents.in/sydney/private-ai-sydney-workshop-run-ai-on-your-own-laptop/80003710658583) |
 | 8/11 - She Walk Royal Botanic Gardens loop end at Parami for matcha | 2026-11-07 | Sydney, AU | [↗](https://lu.ma/sheruns-7bwl) |
 | BSides Sydney 2026 | 2026-11-07 | Sydney, AU | [↗](https://infosec-conferences.com/event/20261107-bsides-sydney-2026/) |
+| Aloha Saturdays - International Social + Latin Party | 2026-11-07 | Sydney, AU | [↗](https://lu.ma/bslfpdxe) |
 | CloudCon SYD 2026 | 2026-11-09 to 2026-11-10 | Sydney (Australia) | [↗](https://cloudcon.au) |
 | The Dynamics of the Private AI Segment, with Expo Partners | 2026-11-09 | Sydney, AU | [↗](https://lu.ma/a0wx0bnl) |
 | OSCAR II - Sydney Agent Event - 9th November | 2026-11-09 | Sydney, AU | [↗](https://lu.ma/ui7rejbp) |
@@ -47,10 +47,12 @@
 | Hands-on workshop: Build, trace, and eval | 2026-11-19 | North Sydney, AU | [↗](https://lu.ma/arizeai-workshop-customer-support-agent-sydney) |
 | WoCS Sydney X Monday.com: End of Year AI Show and Tell | 2026-11-19 | Sydney, AU | [↗](https://lu.ma/womenofcs-aldj) |
 | fireyfemmes & Linkedin End of Year Spritz | 2026-11-19 | Sydney, AU | [↗](https://lu.ma/ydbwu69m) |
+| Genevieve Smart - Beyond the Runway: Fashion, Vision & Legacy | 2026-11-19 | Sydney, AU | [↗](https://lu.ma/66e355fp) |
 | Startup Diwali Sydney | 2026-11-20 | Sydney, AU | [↗](https://lu.ma/bgnxtdi4) |
 | ALO RUNNERS CLUB with Kath Evans | 2026-11-20 | Sydney, AU | [↗](https://lu.ma/fopsudcr) |
 | Real estate private credit: big headlines, telling only part of the story. | 2026-11-20 | Sydney, AU | [↗](https://lu.ma/d3ieojct) |
 | EDGE by Ampere | 2026-11-23 | Sydney, AU | [↗](https://lu.ma/yp81nenc) |
+| Meet Your Future Co-Founder 🤝 | 2026-11-23 | Sydney, AU | [↗](https://lu.ma/glo4io2z) |
 | The Reinventor's Mindset Live | 2026-11-24 | Sydney, AU | [↗](https://lu.ma/sk74tfi3) |
 | Ellect Women Hybrid: Celebrating Three Years | 2026-11-24 | Sydney, AU | [↗](https://lu.ma/3j88ketk) |
 | One of the World's Largest Battery Fleets Is Parked in Our Garages, Waiting to Power Our Homes w/ Tyson R. CEO & Co-founder @ Merge Energy | 2026-11-25 | Sydney, AU | [↗](https://lu.ma/310nuokk) |
@@ -85,6 +87,7 @@
 | [Sydney] Build AI x NeurIPS: Physical AI & Koalas After Dark | 2026-12-08 | Sydney, AU | [↗](https://lu.ma/hxduf68y) |
 | Community Breakfast ☕️✨ AI Week edition | 2026-12-09 | Sydney, AU | [↗](https://lu.ma/vm0dlqjl) |
 | NeurIPS x Appen: Happy Hour on the Harbour | 2026-12-09 | Sydney, AU | [↗](https://lu.ma/8wu2z11b) |
+| Arch Capital Christmas Party | 2026-12-09 | Sydney, AU | [↗](https://lu.ma/mv93p04x) |
 | Difinity Conference - Melbourne - 2026 | 2026-12-10 to 2026-12-11 | Melbourne (Australia) | [↗](https://difinitymelbourne.com/) |
 | End of Year Celebration! | 2026-12-10 | Melbourne, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-melbourne-presents-end-of-year-celebration/) |
 | AI Safety Networking Night - Sydney Conference Week | 2026-12-10 | Sydney, AU | [↗](https://lu.ma/qw32xqfa) |
@@ -103,6 +106,7 @@
 | Data Saturday #93 Brisbane 2027 | 2027-04-03 | Brisbane (Australia) | [↗](https://sessionize.com/data-saturday-93-brisbane-2027/) |
 | Apac Microsoft Fabric + Microsoft SQL Community Conference | 2027-04-06 to 2027-04-09 | Sydney | [↗](https://dev.events/conferences/apac-microsoft-fabric-microsoft-sql-community-conference-i1yjsg-3) |
 | Melbourne Data Saturday 2027 | 2027-04-10 | Melbourne | [↗](https://dev.events/conferences/melbourne-data-saturday-2027-jghwk5bk) |
+| AGNTSummit Sydney | 2027-06-16 to 2027-06-17 | Sydney | [↗](https://dev.events/conferences/agnt-summit-sydney-1tzele3z) |
 | BFSI Innovation & Technology Summit Australia 2027 | 2027-08-17 | Sydney | [↗](https://dev.events/conferences/bfsi-innovation-and-technology-summit-australia-2027-43s0e2wf) |
 | Futurebuild Australia | 2027-09-22 to 2027-09-23 | Sydney | [↗](https://dev.events/conferences/futurebuild-australia-bbtrjoem) |
 | PlatformCon Live Day - Sydney | 2027-10-26 | Sydney, AU | [↗](https://lu.ma/pc27-sydney) |

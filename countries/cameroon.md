@@ -4,7 +4,7 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| 237HackFest | 2026-11-05 to 2026-11-06 | Douala (Cameroon) | [↗](https://www.237hackfest.com) |
+| Lost in Tech? Start Here: Explore the Tech World + Set Up Your Dev Machine. | 2026-11-11 | Yaoundé, Cameroon | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ict-university-yaounde-cameroon-presents-lost-in-tech-start-here-explore-the-tech-world-set-up-your-dev-machine/) |
 | DEVFEST BAMENDA 2026 | 2026-11-20 | Bamenda, Cameroon | [↗](https://gdg.community.dev/events/details/google-gdg-bamenda-presents-devfest-bamenda-2026/) |
 | DevFest Yaoundé 2026 | 2026-11-21 | Yaounde, Cameroon | [↗](https://gdg.community.dev/events/details/google-gdg-yaounde-presents-devfest-yaounde-2026/) |
 | DevFest Douala 2026 - Créer, sécuriser, faire évoluer : les développeurs et les créateurs à l'ère agentique. | 2026-11-28 | Douala, Cameroon | [↗](https://gdg.community.dev/events/details/google-gdg-douala-presents-devfest-douala-2026-creer-securiser-faire-evoluer-les-developpeurs-et-les-createurs-a-lere-agentique/) |
