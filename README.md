@@ -206,7 +206,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | DevFest Garoua 2026: Innovate with AI | 2026-11-28 | Garoua, Cameroon | [↗](https://gdg.community.dev/events/details/google-gdg-garoua-presents-devfest-garoua-2026-innovate-with-ai/) |
 | DevFest Maroua 2026 - Créer, sécuriser, faire évoluer : les développeurs et les créateurs à l'ère agentique | 2026-11-28 | Maroua, Cameroon | [↗](https://gdg.community.dev/events/details/google-gdg-maroua-presents-devfest-maroua-2026-creer-securiser-faire-evoluer-les-developpeurs-et-les-createurs-a-lere-agentique/) |
 | Devfest Port Harcourt 2026 | 2026-11-28 | Port Harcourt, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-port-harcourt-presents-devfest-port-harcourt-2026/) |
-| DevFest Bugiri 2026 | 2026-11-28 | Bugiri, Uganda | [↗](https://gdg.community.dev/events/details/google-gdg-bugiri-presents-devfest-bugiri-2026/) |
 | DevFest Pwani 2026 | 2026-11-28 | Mombasa, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-pwani-presents-devfest-pwani-2026/) |
 | QUANTUM AFRICA SUMMIT | 2026-11-28 | Lagos | [↗](https://dev.events/conferences/quantum-africa-summit-ja7x2kgp) |
 | DevFest Yaoundé 2026: Workshops & Deep Dives | 2026-11-28 | Yaounde, Cameroon | [↗](https://gdg.community.dev/events/details/google-gdg-yaounde-presents-devfest-yaounde-2026-workshops-amp-deep-dives/) |
@@ -358,7 +357,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Brand Marketing 101 for Founders | 2026-11-07 | Bengaluru, IN | [↗](https://lu.ma/caanyypu) |
 | 10 years of Bhāvanā | 2026-11-07 | Bengaluru, IN | [↗](https://lu.ma/ofyahdhg) |
 | RAN. RANK. DRANK. | 2026-11-07 | Singapore, SG | [↗](https://lu.ma/p2h1xuzz) |
 | Run for Spines | 2026-11-07 | Singapore, SG | [↗](https://lu.ma/to9v2rxt) |
@@ -2058,7 +2056,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Update Conference | 2026-11-12 | Prague, Czechia | [↗](https://prague.updateconference.net/) |
 | Odoo Mini Hackathon #2 - Luxembourg | 2026-11-12 | Koerich (Luxembourg) | [↗](https://www.odoo.com/r/TRV) |
 | BSides Berlin 2026 | 2026-11-12 to 2026-11-13 | Berlin | [↗](https://dev.events/conferences/b-sides-berlin-2026-gai5lq0u) |
-| DevFest Marbella 2026 🌴💻  Aprende, conecta y crea comunidad con GDG Marbella | 2026-11-12 | Marbella, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-marbella-presents-devfest-marbella-2026-aprende-conecta-y-crea-comunidad-con-gdg-marbella/) |
 | Cloud & Code Oost 2026 | 2026-11-12 | Doetinchem (Netherlands) | [↗](https://cloudcodeoost.nl) |
 | Rémunérations 2027 : préparer l'année de la transparence • Paris | 2026-11-12 | Paris, FR | [↗](https://lu.ma/9zuy691u) |
 | AI × Voices #2 | 2026-11-12 | Krakow | [↗](https://dev.events/conferences/ai-voices-2-semwmdjw) |
@@ -2567,7 +2564,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | DevFest Kosova 2026 | 2026-12-04 | Pristina, Kosovo | [↗](https://gdg.community.dev/events/details/google-gdg-prishtina-presents-devfest-kosova-2026/) |
 | Agile Rennes | 2026-12-04 | Rennes (France) | [↗](https://www.billetweb.fr/open-forum-agile-rennes-2026) |
 | DevFest Aix 2026 : Une nouvelle édition provençale ! | 2026-12-05 | Aix-en-Provence, France | [↗](https://gdg.community.dev/events/details/google-gdg-aix-en-provence-presents-devfest-aix-2026-une-nouvelle-edition-provencale/) |
-| DevFest @ Bletchley Park 2026: Explore the Future of Tech Where It All Began | 2026-12-05 | Bletchley, United Kingdom | [↗](https://gdg.community.dev/events/details/google-gdg-bletchley-presents-devfest-bletchley-park-2026-explore-the-future-of-tech-where-it-all-began/) |
 | TPU Learning Club: High-Performance AI — Build, Optimize & Scale | 2026-12-05 | Romford, United Kingdom | [↗](https://gdg.community.dev/events/details/google-gdg-essex-presents-tpu-learning-club-high-performance-ai-build-optimize-amp-scale/) |
 | Oxford DevFest 2026 | 2026-12-05 | Oxford, United Kingdom | [↗](https://gdg.community.dev/events/details/google-gdg-oxford-presents-oxford-devfest-2026/) |
 | BSides Dresden 2026 | 2026-12-05 | Dresden (Germany) | [↗](https://pretalx.com/bsidesdresden2026/) |
@@ -3926,19 +3922,16 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Women + AI NYC: The First Dinner | 2026-11-09 | New York, US | [↗](https://lu.ma/vn5a6mm4) |
 | Writing Cleanse November Event | 2026-11-09 | New York, US | [↗](https://lu.ma/jt6zolna) |
 | Tech Pizza Monday: 2600 Meeting Edition | 2026-11-09 | Toronto, CA | [↗](https://lu.ma/dzxnzmdb) |
-| For Business Owners: Business Operations Automation with AppSheet | 2026-11-10 | Pittsburgh, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-pittsburgh-presents-for-business-owners-business-operations-automation-with-appsheet/) |
 | SF Ruby Startup Conference | 2026-11-10 to 2026-11-12 | San Francisco | [↗](https://dev.events/conferences/sf-ruby-startup-conference-6dokxddp) |
 | AIE CODE Summit SF 2026 | 2026-11-10 to 2026-11-12 | San Francisco, CA (USA) | [↗](https://ai.engineer/code) |
 | DevFest:Extended Boston | 2026-11-10 | Boston, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-boston-presents-devfestextended-boston/) |
 | After Tokens | 2026-11-10 | San Francisco | [↗](https://dev.events/conferences/after-tokens-zgdds-7b) |
 | AI Builders Night | 2026-11-10 | San Francisco, US | [↗](https://www.meetup.com/clickhouse-silicon-valley-meetup-group/events/316760347/) |
-| Android/iOS - In Person / Online Monthly Meetup. | 2026-11-10 | Omaha, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-omaha-presents-androidios-in-person-online-monthly-meetup-2026-11-10-3/) |
 | AI & Tech Networking Event in Toronto by Ascent Valley | 2026-11-10 | Toronto | [↗](https://dev.events/conferences/ai-and-tech-networking-event-in-toronto-by-ascent-valley-j3zvxkx7) |
 | Why AI Apps Fail + Building High-Precision Durable Timers + Confidence Is a Lie | 2026-11-10 | Chicago, us | [↗](https://www.meetup.com/js-chi/events/314509837/) |
 | AI & Tech Start-Ups, Professionals, Investors Networking NYC | 2026-11-10 | New York, NY, US | [↗](https://allevents.in/new-york/ai-and-tech-start-ups-professionals-investors-networking-nyc/100002002797106058) |
 | Hands on Workshop: Claude Code on Bedrock  | 2026-11-10 | Chicago, us | [↗](https://www.meetup.com/aws-chicago/events/317064101/) |
 | Data+AI meetup with Databricks | 2026-11-10 | Chicago, us | [↗](https://www.meetup.com/aittg-chicago/events/316901080/) |
-| Data, AI & What It Takes to Make Them Work: A Hands-On Workshop | 2026-11-10 | Chicago, us | [↗](https://www.meetup.com/austin-cloud-encounter-with-striim-and-google-cloud/events/317106491/) |
 | MUG Toronto NOV 2026 - Voyage AI with MongoDB | 2026-11-10 | Toronto, CA | [↗](https://lu.ma/sn68vy7c) |
 | NYC AI, ML, DeepTech Startups, Investors, Professionals Networking Mixer | 2026-11-10 | New York, NY, US | [↗](https://allevents.in/new-york/nyc-ai-ml-deeptech-startups-investors-professionals-networking-mixer/100002002633919964) |
 | Mindstone Toronto November AI Meetup | 2026-11-10 | Toronto, CA | [↗](https://lu.ma/1lieulbs) |
@@ -4094,7 +4087,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Investors & Mentors Speed Matching | 2026-11-11 | San Francisco, US | [↗](https://lu.ma/vfgcnotb) |
 | SpiceWorld | 2026-11-12 | Austin, TX, U.S.A. | [↗](https://www.spiceworks.com/spiceworld) |
 | 26th NextGen Payments & RegTech Forum | 2026-11-12 | Austin | [↗](https://dev.events/conferences/26th-next-gen-payments-and-reg-tech-forum-vnsnr-hb) |
-| Seattle Day of Data 2026 | 2026-11-12 | Seattle, WA (USA) | [↗](https://dayofdata.org/2026-11-12-dayofdata1155/) |
 | ExMex 2026 | 2026-11-12 to 2026-11-13 | Austin | [↗](https://dev.events/conferences/ex-mex-2026-eve8e8q1) |
 | Pacific Northwest Software Symposium | 2026-11-12 to 2026-11-13 | Seattle | [↗](https://dev.events/conferences/pacific-northwest-software-symposium-wkkv7voy) |
 | Get Into GEAR – Cohorte Google Cloud Career Launchpad \| Séance 3 | 2026-11-12 | Montreal, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-polytechnique-montreal-montreal-canada-presents-get-into-gear-cohorte-google-cloud-career-launchpad-seance-3/) |
@@ -7655,7 +7647,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Kyiv AI Day 2026 | 2026-10-31 | Kyiv, Ukraine | [↗](https://aiconf.com.ua/kyiv) |
 | AWS Student Community Day Dehradun 2026 | 2026-10-31 | Dehra Dun | [↗](https://dev.events/conferences/aws-student-community-day-dehradun-2026-ss8jjnlo) |
 | Tech Talk: How to Get Started in Tech in the New AI Era | 2026-10-31 | Bamako, Mali | [↗](https://gdg.community.dev/events/details/google-gdg-bamako-presents-tech-talk-how-to-get-started-in-tech-in-the-new-ai-era/) |
-| SANS Miami 2026 | 2026-10-31 | Unknown | [↗](https://www.sans.org/cyber-security-training-events/miami-2026) |
 | DevFest Brunei 2026 Series #4: HER CYBERVERSE | 2026-10-31 | Bandar Seri Begawan, Brunei | [↗](https://gdg.community.dev/events/details/google-gdg-brunei-darussalam-presents-devfest-brunei-2026-series-4-her-cyberverse/) |
 | 6hours Workshop: Cricut For Business by Jomstart.com | 2026-10-31 | Iskandar Puteri, MY | [↗](https://lu.ma/wrb5bogu) |
 | Fellowship Launch Party | 2026-10-31 | Complex, SG | [↗](https://lu.ma/hacygih0) |
