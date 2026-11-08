@@ -1,11 +1,9 @@
 # Developer Events in South Korea
 
-33 upcoming events. [Back to the full directory](../README.md)
+31 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| K-Connect AI (umbrella of 5 linked shows) | 2026-10-13 to 2026-11-07 | Seoul / Goyang, South Korea | [↗](https://biz.heraldcorp.com/article/10901325) |
-| Robot World 2026 | 2026-11-04 to 2026-11-07 | Goyang, South Korea | [↗](https://tradefest.io/en/event/robotworld) |
 | 2026 Console Game Developers Conference (K-Console, 2nd edition) | 2026-11-09 | Seoul, South Korea | [↗](https://sports.khan.co.kr/en/article/202610191016017) |
 | NVIDIA AI Day Seoul 2026 | 2026-11-09 to 2026-11-10 | Seoul, South Korea | [↗](https://view.asiae.co.kr/en/article/2026093008531640088) |
 | World Digital Asset Forum (WDAF) 2026 | 2026-11-09 | Seoul, South Korea | [↗](https://wdaf.heraldcorp.com/2026/en/) |

@@ -1,10 +1,9 @@
 # Developer Events in Japan
 
-35 upcoming events. [Back to the full directory](../README.md)
+34 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| BT Mission Run | 2026-11-07 | Tokyo | [↗](https://lu.ma/7kd2370u) |
 | DevFest Nagoya 2026 - エージェント時代の開発者とビルダー | 2026-11-08 | Nagoya, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-nagoya-presents-devfest-nagoya-2026-ezientoshi-dai-nokai-fa-zhe-tobiruda/) |
 | Oedo RubyKaigi 11 | 2026-11-08 | Tokyo | [↗](https://dev.events/conferences/oedo-ruby-kaigi-11-p7fsvmqa) |
 | NexTech Week Tokyo \| RX Japan Ltd. | 2026-11-11 to 2026-11-13 | Tokyo | [↗](https://dev.events/conferences/nex-tech-week-tokyo-rx-japan-ltd-dmxvpnbr) |

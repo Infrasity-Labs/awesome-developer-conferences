@@ -1,12 +1,9 @@
 # Developer Events in Pakistan
 
-14 upcoming events. [Back to the full directory](../README.md)
+11 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Road to DevFest: Buildathon - Women Only | 2026-11-07 | Peshawar, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-peshawar-presents-road-to-devfest-buildathon-women-only/) |
-| Road to DevFest Karachi 2026 - Buildathon 01 | 2026-11-07 | Karachi, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-kolachi-presents-road-to-devfest-karachi-2026-buildathon-01/) |
-| From Pakistan to Global Tech: Your Gateway to the International Tech Industry | 2026-11-07 | Lahore, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-engineering-and-technology-lahore-lahore-pakistan-presents-from-pakistan-to-global-tech-your-gateway-to-the-international-tech-industry/) |
 | Turkey Startup and Investor Delegation by 'Delegate House' - Nov 26 | 2026-11-08 | Karachi, Pakistan | [↗](https://www.startupgrind.com/events/details/startup-grind-karachi-presents-turkey-startup-and-investor-delegation-by-delegate-house-nov-26/) |
 | Prompt Wars: AI Challenge | 2026-11-12 | Karachi, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-mohammad-ali-jinnah-university-karachi-pakistan-presents-prompt-wars-ai-challenge/) |
 | Rapid Fire | 2026-11-12 | Karachi, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-mohammad-ali-jinnah-university-karachi-pakistan-presents-rapid-fire/) |
