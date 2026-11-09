@@ -1,30 +1,10 @@
 # Developer Events in United Kingdom
 
-331 upcoming events. [Back to the full directory](../README.md)
+330 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | Solana Hacker House | 2026-11-01 to 2026-11-13 | London | [↗](https://dev.events/conferences/solana-hacker-house-guokpxup) |
-| Attio x Point Nine Builders Café \| London | 2026-11-08 | London, GB | [↗](https://lu.ma/07pk17pg) |
-| GTM Sprint: Shipping is not enough | 2026-11-08 | London, GB | [↗](https://lu.ma/6056xrdf) |
-| Cafe crawl x Photowalk | 2026-11-08 | London, GB | [↗](https://lu.ma/xdfvpd31) |
-| Entr Tech Community Mixer | 2026-11-08 | London, GB | [↗](https://lu.ma/4nzcic9k) |
-| Lights, Builds & Desi : A Diwali Social for London's Asian Community | 2026-11-08 | London, GB | [↗](https://lu.ma/xv2i10gz) |
-| HackWimbledon November #1 | 2026-11-08 | London, GB | [↗](https://lu.ma/ax56z5lr) |
-| Readinroom | 2026-11-08 | London, GB | [↗](https://lu.ma/ydryzhmv) |
-| Yes Atlas: Scavenger Hunt- UK 🇬🇧 | 2026-11-08 | London, GB | [↗](https://lu.ma/bfgjvco9) |
-| Ideas Exchange: Session 2 \| Why We Build | 2026-11-08 | London, GB | [↗](https://lu.ma/s5yukuse) |
-| SEA C&S : Padel social | 2026-11-08 | London, GB | [↗](https://lu.ma/tl1if01d) |
-| The RESET. | 2026-11-08 | London, GB | [↗](https://lu.ma/u30oqe3n) |
-| Crafternoon | 2026-11-08 | London, GB | [↗](https://lu.ma/rrad6rnq) |
-| Your First Mahjong: A Curious Room Event | 2026-11-08 | London, GB | [↗](https://lu.ma/zs7v4mt0) |
-| CAIA: Fine Is Not a Feeling · A Sunday at Shai Space | 2026-11-08 | London, GB | [↗](https://lu.ma/5ix7nes3) |
-| Susitikimas su LT URM viceministru K. Vaitiekūnu | 2026-11-08 | London, GB | [↗](https://lu.ma/ggv65ace) |
-| Backgammon Social x GT Club | 2026-11-08 | London, GB | [↗](https://lu.ma/backga-0txj) |
-| Dahomey Screening | 2026-11-08 | London, GB | [↗](https://lu.ma/h3yiw9wr) |
-| Rising Founders Club x Lume: London | 2026-11-08 | London, GB | [↗](https://lu.ma/ef2zbq9l) |
-| Back To Notting Hill 🍂 | 2026-11-08 | London, GB | [↗](https://lu.ma/iuh6cduz) |
-| Faith. Lates - Session 12 | 2026-11-08 | London, GB | [↗](https://lu.ma/hafdthaj) |
 | The Audio Developer Conference | 2026-11-09 | Bristol, United Kingdom | [↗](https://audio.dev/) |
 | FTT Fintech Festival 2026 | 2026-11-09 to 2026-11-10 | London, United Kingdom | [↗](https://www.fintechtalents.com/events/europe/festival-london/) |
 | Brazen (Bristol Technology Festival) 2026 | 2026-11-09 to 2026-11-13 | Bristol, United Kingdom | [↗](https://techspark.co/tech-festival/) |
@@ -60,6 +40,10 @@
 | ITSM Conference and Awards 2026 | 2026-11-09 | Milton Keynes, GB | [↗](https://infosec-conferences.com/event/20261109-itsm-conference-and-awards-2026/) |
 | Cyber Secure Forum 2026 | 2026-11-09 | London, GB | [↗](https://infosec-conferences.com/event/20261109-cyber-secure-forum-2026/) |
 | ChannelCon EMEA 2026 | 2026-11-09 | London, GB | [↗](https://infosec-conferences.com/event/20261109-channelcon-emea-2026/) |
+| 100 Years on London’s Streets | 2026-11-09 | London, GB | [↗](https://lu.ma/umjss2cw) |
+| Institutional Networking Night with Gracy, CEO of Bitget | 2026-11-09 | London, GB | [↗](https://lu.ma/e68ltf35) |
+| Women in Business Networking \| Directors & Entrepreneurs | 2026-11-09 | London, GB | [↗](https://lu.ma/08qg9zj3) |
+| Tainà e i o u Listening Session & Conversation | 2026-11-09 | London, GB | [↗](https://lu.ma/tqep9stq) |
 | The MarTech Summit London 2026 | 2026-11-10 to 2026-11-11 | London | [↗](https://dev.events/conferences/the-mar-tech-summit-london-2026-3weqporu) |
 | Startup Pitch & Networking London | 2026-11-10 | London, EN, GB | [↗](https://allevents.in/london/startup-pitch-and-networking-london/100002000173041410) |
 | DAS London Run Club with Lucius and Cybrid | 2026-11-10 | London, GB | [↗](https://lu.ma/gaiz74d9) |
@@ -237,6 +221,8 @@
 | ⚽ Startup Athletic 008 ⚽ | 2026-11-11 | London, GB | [↗](https://lu.ma/ej1nlh7h) |
 | Tayyabs with rysk, Tplus and Keyrock | 2026-11-11 | London, GB | [↗](https://lu.ma/xd672w2j) |
 | 🤖 Should the AI Press the Button? 🔴 GDG Workshop | 2026-11-11 | Manchester, United Kingdom | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-the-university-of-manchester-manchester-united-kingdom-presents-should-the-ai-press-the-button-gdg-workshop/) |
+| Pitch Night | 2026-11-11 | London, GB | [↗](https://lu.ma/hzefvuj3) |
+| Union House presents : JEDSOUL | 2026-11-11 | London, GB | [↗](https://lu.ma/1nvk35km) |
 | SF Ben Con ’26 | 2026-11-12 | London | [↗](https://dev.events/conferences/sf-ben-con-26-okxhym6w) |
 | The Go & Cloud Circuit: Second Stop, Bishopsgate | 2026-11-12 | London, United Kingdom | [↗](https://gdg.community.dev/events/details/google-gdg-london-presents-the-go-amp-cloud-circuit-second-stop-bishopsgate/) |
 | King's AI Summit: Agents of Science | 2026-11-12 | London, EN, GB | [↗](https://allevents.in/london/kings-ai-summit-agents-of-science/100002002116846383) |
@@ -253,6 +239,19 @@
 | The Sensologists London Breakfast Meetup / November | 2026-11-12 | London, GB | [↗](https://lu.ma/7g0jdzxg) |
 | Ecosystem Builders Meetup: QMB Innovation Centre | 2026-11-12 | London, GB | [↗](https://lu.ma/c49j5iaz) |
 | EWMD UK \| AI in Leadership: Leading People, Decisions & Change in the Age of AI | 2026-11-12 | London, GB | [↗](https://lu.ma/6pknqdfp) |
+| AI & Social Salon | 2026-11-12 | London, GB | [↗](https://lu.ma/k57eshp6) |
+| Solana Demo Day \| London 2026 | 2026-11-12 | London, GB | [↗](https://lu.ma/sol-demo-day) |
+| SpaceTech Startup Roadshow | 2026-11-12 | London, GB | [↗](https://lu.ma/wprol9za) |
+| Developing Margins to Meet the Market: SME Developer Workshop & Private Chef Lunch | 2026-11-12 | London, GB | [↗](https://lu.ma/h9cg037e) |
+| The Focus Edit | 2026-11-12 | London, GB | [↗](https://lu.ma/olrx8crq) |
+| House of Sol Workshops: The Yield Ceiling: Why Onchain Vaults Need Real World Assets: SRI x R3 | 2026-11-12 | London, GB | [↗](https://lu.ma/HoS-Workshops-R3) |
+| The Growing Economies Forum: Brazil edition by MARSH | 2026-11-12 | London, GB | [↗](https://lu.ma/33xlcnxm) |
+| Pollinate Youth Climate Courage: Songwriting Workshop | 2026-11-12 | London, GB | [↗](https://lu.ma/zppq8ouz) |
+| WORKSHOP: German Battery Market Outlook (London) | 2026-11-12 | London, GB | [↗](https://lu.ma/ng01t4ap) |
+| Beyond AI: Building Intelligent Operations | 2026-11-12 | London, GB | [↗](https://lu.ma/0fqjq6zl) |
+| Builders Club #06 | 2026-11-12 | London, GB | [↗](https://lu.ma/builders-club-6) |
+| AI for Growth Networking Drinks or AI for Growth × London Business Show: Networking Drinks | 2026-11-12 | London, GB | [↗](https://lu.ma/peg19mn1) |
+| London ETA Drinks | 2026-11-12 | London, GB | [↗](https://lu.ma/8e0hxdem) |
 | ffconf | 2026-11-13 | Brighton (UK) | [↗](https://2026.ffconf.org) |
 | Tech, AI, FinTech & Start-ups Business Networking Event London | 2026-11-13 | London, EN, GB | [↗](https://allevents.in/london/tech-ai-fintech-and-start-ups-business-networking-event-london/100002003294576004) |
 | AI, SaaS, Software, Cybersecurity & Tech Founders Networking Event London | 2026-11-13 | London, EN, GB | [↗](https://allevents.in/london/ai-saas-software-cybersecurity-and-tech-founders-networking-event-london/100002003295648211) |

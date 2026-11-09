@@ -1,6 +1,6 @@
 # Developer Events in Belgium
 
-17 upcoming events. [Back to the full directory](../README.md)
+18 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -17,6 +17,7 @@
 | EU Open Source Week | 2027-01-25 to 2027-02-01 | Brussels | [↗](https://dev.events/conferences/eu-open-source-week-yzwrxni4) |
 | MySQL Belgian Days 2027 | 2027-01-28 to 2027-01-29 | Brussels | [↗](https://dev.events/conferences/my-sql-belgian-days-2027-beusug25) |
 | Drupal 4 Gov 2027 | 2027-01-28 | Brussels | [↗](https://dev.events/conferences/drupal-4-gov-2027-tfnxu30n) |
+| Code & Compliance 2027 | 2027-01-28 | Brussels | [↗](https://dev.events/conferences/code-and-compliance-2027-v0ndz59k) |
 | FOSSapalooza | 2027-01-29 | Brussels | [↗](https://dev.events/conferences/fos-sapalooza-ceyxnhw3) |
 | FOSDEM 2027 | 2027-01-30 to 2027-01-31 | Brussels (Belgium) | [↗](https://fosdem.org/2027/) |
 | OCX | 2027-04-13 | Brussels, Belgium | [↗](https://www.ocxconf.org/event/778b82cc-6834-48a4-a58e-f883c5a7b8c9/home) |
