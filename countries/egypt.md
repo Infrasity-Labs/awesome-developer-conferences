@@ -1,10 +1,11 @@
 # Developer Events in Egypt
 
-20 upcoming events. [Back to the full directory](../README.md)
+21 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | DevFest'26 - GDG Helwan | 2026-11-10 | Helwan, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-helwan-presents-devfest26-gdg-helwan/) |
+| GDG AAST Abu Qir Orientation Day: Exploring AI & Automation | 2026-11-11 | Abu Qir, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-arab-academy-for-science-technology-and-maritime-transport-abu-qir-egypt-presents-gdg-aast-abu-qir-orientation-day-exploring-ai-amp-automation/) |
 | Networking & REST APIs | 2026-11-13 | Giza, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-october-6-university-giza-egypt-presents-networking-amp-rest-apis/) |
 | DevFest 2026: Ignite Your Tech Journey! | 2026-11-14 | Ismailia, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-ismailia-presents-devfest-2026-ignite-your-tech-journey/) |
 | State Management (Provider / Bloc) | 2026-11-20 | Giza, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-october-6-university-giza-egypt-presents-state-management-provider-bloc/) |

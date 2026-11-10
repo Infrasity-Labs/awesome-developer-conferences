@@ -1,19 +1,9 @@
 # Developer Events in France
 
-267 upcoming events. [Back to the full directory](../README.md)
+268 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Afterwork EDC avec Daniel Baal - Président du Crédit Mutuel et du CIC (EDC 1979) | 2026-11-09 | Paris, FR | [↗](https://lu.ma/4fxycdfk) |
-| Altruisme rationnel \| Lancement du livre | 2026-11-09 | Paris, FR | [↗](https://lu.ma/k9o70hk5) |
-| Cocktail Crowdfunding immobilier | 2026-11-09 | Paris, FR | [↗](https://lu.ma/nbselbtw) |
-| Run & Connect: Women's Health Edition | 2026-11-09 | Paris, FR | [↗](https://lu.ma/femalex-1rkm) |
-| FlexUp Startup Networking Workshop #44, Station F (Boardroom Open AI), Paris • Monday 9th November 2026, 6pm (CET) | 2026-11-09 | Paris, FR | [↗](https://lu.ma/1yg0mi41) |
-| CryptoMondays: Self-Custody in the Age of MiCA | 2026-11-09 | Paris, FR | [↗](https://lu.ma/w3exw2ki) |
-| Comment concilier impact et développement commercial ? - Afterwork Alan x Edumapper | 2026-11-09 | Paris, FR | [↗](https://lu.ma/1fi0k6y7) |
-| Dîner Machine, #7: Surveiller l'IA (AI Safety) | 2026-11-09 | Paris, FR | [↗](https://lu.ma/gwww6roi) |
-| VISITE : Césure Plateau Urbain - Racine (75) | 2026-11-09 | Paris, FR | [↗](https://lu.ma/uymqbq6o) |
-| Update x Alice Lhabouz | 2026-11-09 | Paris, FR | [↗](https://lu.ma/3r9ynz74) |
 | Déjeuner Indéparents - Paris - 10 novembre | 2026-11-10 | Paris, FR | [↗](https://lu.ma/f46fzib1) |
 | A Tribute to Yan Morvan \| Paris Potos | 2026-11-10 | Paris, FR | [↗](https://lu.ma/4oblhoj9) |
 | Atelier Epop& - Les Capitalistes Anonymes #6 | 2026-11-10 | Paris, FR | [↗](https://lu.ma/abge9t9p) |
@@ -141,6 +131,8 @@
 | Comment L'Oréal, Zadig & Voltaire et Air France-KLM utilisent l'IA pour mieux comprendre leurs consommateurs. | 2026-11-18 | Paris, FR | [↗](https://lu.ma/mvsaayr9) |
 | ElevenCreative Sessions: {take 3} Watching AI Music. | 2026-11-18 | Paris, FR | [↗](https://lu.ma/s9dgdz25) |
 | Tech Apéro | 2026-11-18 | Paris, FR | [↗](https://lu.ma/n8zoiqcb) |
+| Co-sensing Lab #4: Presencing | 2026-11-18 | Paris, FR | [↗](https://lu.ma/9zrrndkx) |
+| Comment faire adopter Notion à votre équipe (sans l’imposer) ? | 2026-11-18 | Paris, FR | [↗](https://lu.ma/0f1ax6y1) |
 | DevFest Toulouse 2026 | 2026-11-19 | Toulouse (France) | [↗](https://devfesttoulouse.fr/) |
 | Agile Laval 2026 | 2026-11-19 | Laval (France) | [↗](http://www.agilelaval.org/) |
 | OVHcloud Summit | 2026-11-19 | Paris (France) | [↗](https://summit.ovhcloud.com/en/) |
@@ -190,6 +182,7 @@
 | Dance & Connect Paris \| embrace your femininity & meet like-minded women | 2026-11-21 | Paris, FR | [↗](https://lu.ma/a4c2tvff) |
 | Networking colombiano - París | 2026-11-21 | Paris, FR | [↗](https://lu.ma/ydfur5v7) |
 | OWN YOUR COLORS - Color workshop with Melinda, color specialist and makeup artist | 2026-11-21 | Paris, FR | [↗](https://lu.ma/2l673xet) |
+| RUN x HOT PILATES x RECOVER | 2026-11-21 | Paris, FR | [↗](https://lu.ma/7uxu3rd5) |
 | RUN CLUB SPECIAL BAINS CHAUDS/ FROIDS - 22/11 @La Montgolfière 18ème | 2026-11-22 | Paris, FR | [↗](https://lu.ma/xkhaqsy7) |
 | Build your side hustle Hackathon | 2026-11-22 | Paris, FR | [↗](https://lu.ma/dc3ynvnx) |
 | 📚 Offline Reading Party \| La Dame aux plantes \| TOC x Verso \| 🍃 La Maison du Jardinage et du Compostage \| Paris 12e arr. | 2026-11-22 | Paris, FR | [↗](https://lu.ma/n6plshk0) |
@@ -210,6 +203,8 @@
 | Conférence (Paris) : Et si la CONSCIENCE devenait une ressource pour transformer nos métiers et nos organisations ? | 2026-11-24 | Paris, FR | [↗](https://lu.ma/x0x0dq8r) |
 | Dev With AI Meetup #22 @ Google [Paris] | 2026-11-24 | Paris, FR | [↗](https://lu.ma/dm22) |
 | Venez créer votre 1er agent IA - Soirée d'initiation pour dirigeants et décideurs | 2026-11-24 | Paris, FR | [↗](https://lu.ma/kal9uumc) |
+| Visite d'entreprise CAMBON PARTNERS | 2026-11-24 | Paris, FR | [↗](https://lu.ma/uws6nptg) |
+| Protest: What Makes Us Take to the Streets? \| W&W #1 with Sarah Durieux | 2026-11-24 | Paris, FR | [↗](https://lu.ma/eckzo762) |
 | Compute! Paris 2026 | 2026-11-25 to 2026-11-26 | Paris | [↗](https://dev.events/conferences/compute-paris-2026-kym7lhlv) |
 | Tenir La Distance — Matinée Fondateurs avec Nicolas d'Hueppe | 2026-11-25 | Paris, FR | [↗](https://lu.ma/foundersmorning-nicolasdhueppe) |
 | Le financement de l’Élimination du carbone : matinée AFEN & Bpifrance | 2026-11-25 | Paris, FR | [↗](https://lu.ma/eexu2jz6) |
@@ -227,6 +222,12 @@
 | Boards de la Tech française : de la promesse à la réalité - ETUDE BOARD PROJECT - EREVENA | 2026-11-26 | Paris, FR | [↗](https://lu.ma/cnomioyy) |
 | Formation - Convaincre, motiver, (se) vendre par une prise de parole présentielle impactante | 2026-11-26 | Paris, FR | [↗](https://lu.ma/m1ypxsso) |
 | Masterclass IA & Contrôle de Gestion "Transformer le pilotage financier avec la Data et l'IA" [26 nov. 2026, Paris 14e - Prime Analytics] | 2026-11-26 | Paris, FR | [↗](https://lu.ma/c7jrf5s8) |
+| INSKIP Sales Bootcamp - Demo Day (pour CEO ou Sales only) | 2026-11-26 | Paris, FR | [↗](https://lu.ma/zzwyfube) |
+| Petit déjeuner Life After Exit x François Gemenne | 2026-11-26 | Paris, FR | [↗](https://lu.ma/9r2wsa9l) |
+| Branding : construire une marque qui fait la différence quand les produits se ressemblent | 2026-11-26 | Paris, FR | [↗](https://lu.ma/84xvjj8i) |
+| SU \| SporTech x UESC : Rencontres Startups et Scaleups / Marques et distributeurs | 2026-11-26 | Paris, FR | [↗](https://lu.ma/xcyu9ogk) |
+| Workshop #5 - 4 heures pour transformer ta création de contenu vidéo en audience rentable | 2026-11-26 | Paris, FR | [↗](https://lu.ma/opluo-zvdz) |
+| Open Show Saison 2 - Comédie Bastille (par CoopCoNuT) | 2026-11-26 | Paris, FR | [↗](https://lu.ma/12u1mhwv) |
 | DevFest Paris 2026 | 2026-11-27 | Paris (France) | [↗](https://devfest.gdgparis.fr/) |
 | Tech.Rocks Summit | 2026-11-30 to 2026-12-01 | Paris | [↗](https://dev.events/conferences/tech-rocks-summit-aaxn2xuq) |
 | apidays Paris | 2026-11-30 to 2026-12-03 | Paris | [↗](https://dev.events/conferences/apidays-paris-7xk3zi-c) |

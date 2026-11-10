@@ -1,10 +1,9 @@
 # Developer Events in Italy
 
-42 upcoming events. [Back to the full directory](../README.md)
+44 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Networking Night: Tech Talks & Beer | 2026-11-09 | Gela, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-gela-presents-networking-night-tech-talks-amp-beer/) |
 | October2Shell: Fra PHP e dadi a quattro facce | 2026-11-10 | Genoa, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-genova-presents-october2shell-fra-php-e-dadi-a-quattro-facce/) |
 | Salotto MIX | 2026-11-11 to 2026-11-12 | Milan | [↗](https://dev.events/conferences/salotto-mix-bit-7our) |
 | WTM Ambassador | 2026-11-11 | Saint-Vincent, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-valle-daosta-presents-wtm-ambassador/) |
@@ -12,6 +11,7 @@
 | Second brain per persone e agenti: la conoscenza come codice | 2026-11-12 | Brescia, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-brescia-presents-second-brain-per-persone-e-agenti-la-conoscenza-come-codice/) |
 | Cambiamenti Climatici GooWorld - Mappe Interattive e Geofencing con Google Maps API | 2026-11-12 | Agrigento, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-agrigento-presents-cambiamenti-climatici-gooworld-mappe-interattive-e-geofencing-con-google-maps-api/) |
 | DevFest Catania 2026 | 2026-11-14 | Catania, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-catania-presents-devfest-catania-2026/) |
+| Facciamo un Piano per Niscemi \| Il GDG Gela all'event di co-progettazione civica | 2026-11-14 | Gela, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-gela-presents-facciamo-un-piano-per-niscemi-il-gdg-gela-allevento-di-co-progettazione-civica/) |
 | Cloud Day 2026 | 2026-11-18 | Milan (Italy) | [↗](https://www.cloudday.it) |
 | Hackathon #ValleyAI | 2026-11-18 | Saint-Vincent, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-valle-daosta-presents-hackathon-valleyai/) |
 | .NET Conference Italia 2026 | 2026-11-18 | Milan | [↗](https://dev.events/conferences/net-conference-italia-2026-pxjvzphe) |
@@ -23,7 +23,9 @@
 | Investor Days 2026 | 2026-11-25 to 2026-11-26 | Milan, Italy | [↗](https://www.b2match.com/e/investor-days-2026) |
 | Road To DevFest Alps 2026 | 2026-11-25 | Saint-Vincent, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-valle-daosta-presents-road-to-devfest-alps-2026/) |
 | GDG Onboarding Aperitivo 🎉 | 2026-11-25 | Rome, Italy, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-luiss-guido-carli-rome-italy-presents-gdg-onboarding-aperitivo/) |
+| Cybersecurity e Google Gemini: dalla genesi di un attacco informatico all'analisi dei log e alle strategie di difesa | 2026-11-26 | Treviso, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-treviso-presents-cybersecurity-e-google-gemini-dalla-genesi-di-un-attacco-informatico-allanalisi-dei-log-e-alle-strategie-di-difesa/) |
 | Aspettando Devfest Alps 2026 - Aperitech Party | 2026-11-27 | Torino, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-torino-presents-aspettando-devfest-alps-2026-aperitech-party/) |
+| ⚡️ Oltre il login: anatomia del phishing moderno ⚡️ | 2026-11-27 | Pisa, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-pisa-presents-oltre-il-login-anatomia-del-phishing-moderno/) |
 | Devfest Alps 2026 | 2026-11-28 | Torino, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-torino-presents-devfest-alps-2026/) |
 | .NET Conference 2026 | 2026-12-04 | Milan | [↗](https://dev.events/conferences/net-conference-2026-efypsved) |
 | XmasDev 2026 | 2026-12-11 | Rome | [↗](https://dev.events/conferences/xmas-dev-2026-2ykpzzfq) |

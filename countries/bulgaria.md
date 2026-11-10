@@ -1,10 +1,9 @@
 # Developer Events in Bulgaria
 
-6 upcoming events. [Back to the full directory](../README.md)
+5 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| AI for Beginners: Kickstart Your Journey | 2026-11-09 | Plovdiv, Bulgaria | [↗](https://gdg.community.dev/events/details/google-gdg-plovdiv-presents-ai-for-beginners-kickstart-your-journey/) |
 | Plovdiv TechHack #1 | 2026-11-24 | Plovdiv, Bulgaria | [↗](https://gdg.community.dev/events/details/google-gdg-plovdiv-presents-plovdiv-techhack-1/) |
 | .NET Conf 2026 Bulgaria | 2026-12-10 | Sofia | [↗](https://dev.events/conferences/net-conf-2026-bulgaria-1gnguv0l) |
 | Global AI Nights Sofia | 2026-12-15 | Sofia | [↗](https://globalai.community/e/3bpbrt9d) |

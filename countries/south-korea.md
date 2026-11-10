@@ -1,14 +1,12 @@
 # Developer Events in South Korea
 
-32 upcoming events. [Back to the full directory](../README.md)
+30 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| 2026 Console Game Developers Conference (K-Console, 2nd edition) | 2026-11-09 | Seoul, South Korea | [↗](https://sports.khan.co.kr/en/article/202610191016017) |
 | NVIDIA AI Day Seoul 2026 | 2026-11-09 to 2026-11-10 | Seoul, South Korea | [↗](https://view.asiae.co.kr/en/article/2026093008531640088) |
-| World Digital Asset Forum (WDAF) 2026 | 2026-11-09 | Seoul, South Korea | [↗](https://wdaf.heraldcorp.com/2026/en/) |
-| GDG on Campus SKHU Design Study Session - 06 프로토타입 (2) | 2026-11-09 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkonghoe-university-seoul-south-korea-presents-gdg-on-campus-skhu-design-study-session-06-peurototaib-2/) |
 | GDG on Campus SKHU Frontend Study Session - 06 전역 상태 관리와 브라우저 저장소 | 2026-11-10 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkonghoe-university-seoul-south-korea-presents-gdg-on-campus-skhu-frontend-study-session-06-jeonyeog-sangtae-gwanriwa-beuraujeo-jeojangso/) |
+| GDG on Campus SKHU Backend Study Session - 06 Spring Security & JWT | 2026-11-10 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkonghoe-university-seoul-south-korea-presents-gdg-on-campus-skhu-backend-study-session-06-spring-security-amp-jwt/) |
 | GDGoC Soongsil University 3rd SSUmall Seminar | 2026-11-11 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-soongsil-university-seoul-south-korea-presents-gdgoc-soongsil-university-3rd-ssumall-seminar-1/) |
 | GDG on Kookmin X 창공: 연합 세션 | 2026-11-11 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kookmin-university-seoul-south-korea-presents-gdg-on-kookmin-x-canggong-yeonhab-sesyeon/) |
 | AI 세션: 함께하는 인공지능의 세계 | 2026-11-13 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sangmyung-university-seoul-south-korea-presents-ai-sesyeon-hamggehaneun-ingongjineungyi-segye/) |

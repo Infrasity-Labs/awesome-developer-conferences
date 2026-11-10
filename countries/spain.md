@@ -1,6 +1,6 @@
 # Developer Events in Spain
 
-70 upcoming events. [Back to the full directory](../README.md)
+71 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -17,6 +17,7 @@
 | Devopsdays Barcelona | 2026-11-13 to 2026-11-14 | Barcelona (Spain) | [↗](https://devopsdays.org/events/2026-barcelona) |
 | VallaTech Summit 2026 (DevFest Valladolid) | 2026-11-13 | Valladolid, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-valladolid-presents-vallatech-summit-2026-devfest-valladolid/) |
 | Tenerife tech community | 2026-11-13 | Santa Cruz de Tenerife, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-tenerife-presents-tenerife-tech-community/) |
+| Presente y futuro de la IA | 2026-11-13 | Santa Cruz de Tenerife, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-tenerife-presents-presente-y-futuro-de-la-ia/) |
 | BC Waves Barcelona 2026 | 2026-11-14 | Barcelona (Spain) | [↗](https://sessionize.com/bc-waves-barcelona-2026) |
 | Aprende a Hackear (de verdad) | 2026-11-18 | UCAM Catholic University of Murcia, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ucam-murcia-spain-presents-aprende-a-hackear-de-verdad/) |
 | X-Ops Conference Madrid 2026 | 2026-11-19 to 2026-11-21 | Móstoles (Spain) | [↗](https://xopsconference.com/) |

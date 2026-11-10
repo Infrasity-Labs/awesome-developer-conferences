@@ -4,8 +4,8 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Deep Learning Made Practical with Keras | 2026-11-09 | Sfax, Tunisia | [↗](https://gdg.community.dev/events/details/google-gdg-sfax-presents-deep-learning-made-practical-with-keras/) |
 | Unlock Your Path: Tech Roadmap Workshop | 2026-11-11 | Ben Arous, Tunisia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-higher-institute-of-technological-studies-of-rades-ben-arous-tunisia-presents-unlock-your-path-tech-roadmap-workshop/) |
+| Accelerating AI with Google TPUs | 2026-11-11 | Sfax, Tunisia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-faculty-of-sciences-of-sfax-sfax-tunisia-presents-accelerating-ai-with-google-tpus/) |
 | GDG on Campus: Kickoff & Info Session | 2026-11-12 | Ben Arous, Tunisia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-higher-institute-of-technological-studies-of-rades-ben-arous-tunisia-presents-gdg-on-campus-kickoff-amp-info-session/) |
 | DevFest Gabes | 2026-11-21 | Gabes, Tunisia | [↗](https://gdg.community.dev/events/details/google-gdg-gabes-presents-devfest-gabes/) |
 | DevFest Sfax 2026 | 2026-11-22 | Sfax, Tunisia | [↗](https://gdg.community.dev/events/details/google-gdg-sfax-presents-devfest-sfax-2026/) |

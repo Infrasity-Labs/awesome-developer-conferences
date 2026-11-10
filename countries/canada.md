@@ -1,17 +1,9 @@
 # Developer Events in Canada
 
-262 upcoming events. [Back to the full directory](../README.md)
+271 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Clinical Trial Design in Drug Development: A Regulatory Perspective | 2026-11-09 | Toronto, CA | [↗](https://lu.ma/3n253xc1) |
-| AI Tacos x Microsoft | 2026-11-09 | Toronto, CA | [↗](https://lu.ma/063q2znn) |
-| The Hard Half with Ameet Shah - 5 to 9 Society | 2026-11-09 | Toronto, CA | [↗](https://lu.ma/u0n78z0v) |
-| The Hinton Lectures™ 2026 | 2026-11-09 | Toronto, CA | [↗](https://lu.ma/hintonlectures2026) |
-| Meal Assembly Social #2 | 2026-11-09 | Toronto, CA | [↗](https://lu.ma/s4leen21) |
-| Toronto Event Generator In-Person Meetup | 2026-11-09 | Toronto, CA | [↗](https://lu.ma/9mw2s2i8) |
-| AI Safety Week \| Day 1: Women Shaping the Future of AI Safety | 2026-11-09 | Toronto, CA | [↗](https://lu.ma/theai-dftf) |
-| Tech Pizza Monday: 2600 Meeting Edition | 2026-11-09 | Toronto, CA | [↗](https://lu.ma/dzxnzmdb) |
 | AI & Tech Networking Event in Toronto by Ascent Valley | 2026-11-10 | Toronto | [↗](https://dev.events/conferences/ai-and-tech-networking-event-in-toronto-by-ascent-valley-j3zvxkx7) |
 | MUG Toronto NOV 2026 - Voyage AI with MongoDB | 2026-11-10 | Toronto, CA | [↗](https://lu.ma/sn68vy7c) |
 | Mindstone Toronto November AI Meetup | 2026-11-10 | Toronto, CA | [↗](https://lu.ma/1lieulbs) |
@@ -31,6 +23,8 @@
 | AI Safety Week \| Day 2: Post-AGI Civilization \| What's the Destination? | 2026-11-10 | Toronto, CA | [↗](https://lu.ma/l98tckd4) |
 | AI Safety Week \| Day 2: Research & Ideas Gallery | 2026-11-10 | Toronto, CA | [↗](https://lu.ma/2swjplgd) |
 | MahPoints mahjong league game night Nov 10 | 2026-11-10 | Toronto, CA | [↗](https://lu.ma/h7k05w3k) |
+| MEIE Open Lecture - Introduction to Intellectual Property | 2026-11-10 | Toronto, CA | [↗](https://lu.ma/h3xl4c9h) |
+| Cybersecurity Defense Ecosystem Summit (CDES) Canada 2026 | 2026-11-10 | Toronto, CA | [↗](https://infosec-conferences.com/event/20261110-cybersecurity-defense-ecosystem-summit-cdes-canada-2026/) |
 | Product-Led Summit Toronto | 2026-11-11 to 2026-11-12 | Toronto | [↗](https://dev.events/conferences/product-led-summit-toronto-l-8eedxh) |
 | Hackathon \| Le navigateur à l’ère de l’intelligence artificielle | 2026-11-11 | Montreal, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-polytechnique-montreal-montreal-canada-presents-hackathon-le-navigateur-a-lere-de-lintelligence-artificielle/) |
 | Reading Rhythms Toronto: Nuts & Shells Bookshop Reading Party | 2026-11-11 | Toronto, CA | [↗](https://lu.ma/reading-58b6) |
@@ -44,6 +38,8 @@
 | AI Safety Week \| Day 3: AI Safety as a Global Security Imperative: The Role of Middle Powers and Others in Addressing Global AI Risks | 2026-11-11 | Toronto, CA | [↗](https://lu.ma/234qbygy) |
 | Cohere @ UofT: Getting Hired in AI and Tech | 2026-11-11 | Toronto, CA | [↗](https://lu.ma/0f3s6m56) |
 | AI Safety Week \| Day 3: The Newsroom | 2026-11-11 | Toronto, CA | [↗](https://lu.ma/theai-dpe1) |
+| Toronto Studio Tour: Leo Burnett | 2026-11-11 | Toronto, CA | [↗](https://lu.ma/6wjzak61) |
+| Changemaker Drinks | 2026-11-11 | Toronto, CA | [↗](https://lu.ma/z86imqtc) |
 | Get Into GEAR – Cohorte Google Cloud Career Launchpad \| Séance 3 | 2026-11-12 | Montreal, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-polytechnique-montreal-montreal-canada-presents-get-into-gear-cohorte-google-cloud-career-launchpad-seance-3/) |
 | Generative AI Summit Toronto | 2026-11-12 | Toronto | [↗](https://dev.events/conferences/generative-ai-summit-toronto-xewr2ad5) |
 | KVM Forum 2026 | 2026-11-12 to 2026-11-13 | Vancouver | [↗](https://dev.events/conferences/kvm-forum-2026-cwvy22xz) |
@@ -77,6 +73,7 @@
 | Github Basics and Git Commands | 2026-11-12 | Hamilton, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-mcmaster-university-hamilton-canada-presents-github-basics-and-git-commands/) |
 | Get Into GEAR: Build AI Agents with Google Cloud \| Google Developer Group - York University | 2026-11-12 | Toronto, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-york-university-keele-campus-toronto-canada-presents-get-into-gear-build-ai-agents-with-google-cloud-google-developer-group-york-university/) |
 | ALIGN to the WISDOM of your SOUL | 2026-11-12 | Toronto, CA | [↗](https://lu.ma/p1ljz0bg) |
+| Figma Toronto: Craft and Clay Night | 2026-11-12 | Toronto, CA | [↗](https://lu.ma/fu1mkrit) |
 | AI Community Conference Toronto 2026 | 2026-11-13 | Toronto | [↗](https://dev.events/conferences/ai-community-conference-toronto-2026-cguxz0rv) |
 | Hyper Specific Coffee by RSG: Alum Edition | 2026-11-13 | Toronto, CA | [↗](https://lu.ma/1yj2blu2) |
 | ARTMargins University of Toronto Workshop: The Loose Threads of Liberation | 2026-11-13 | Toronto, CA | [↗](https://lu.ma/x2rp7g47) |
@@ -128,6 +125,8 @@
 | Mr Fanboy Finale Screening | 2026-11-15 | Toronto, CA | [↗](https://lu.ma/575vr571) |
 | What Meets Beyond | 2026-11-15 | Toronto, CA | [↗](https://lu.ma/7oxvoa04) |
 | 🎳 Bowling Night for AI Enthusiasts \| Toronto Founders Club | 2026-11-15 | Toronto, CA | [↗](https://lu.ma/tc3dgd4e) |
+| Yes Atlas: Scavenger Hunt- Canada 🇨🇦 | 2026-11-15 | Toronto, CA | [↗](https://lu.ma/psrmktm4) |
+| Soul Movement Recordings presents a LIVE Recording Lounge "Live At Poetry" w/ game.set.trap | 2026-11-15 | Toronto, CA | [↗](https://lu.ma/vwocs5ez) |
 | Asian Cinephile Night: Farewell My Concubine | 2026-11-16 | Toronto, CA | [↗](https://lu.ma/6k2gp2is) |
 | Drink & Draw Toronto #109: Holiday Greeting Cards (Part 2)🎄 | 2026-11-16 | Toronto, CA | [↗](https://lu.ma/p1dbeoju) |
 | Grief Circle | 2026-11-16 | Toronto, CA | [↗](https://lu.ma/6x6825ag) |
@@ -149,6 +148,9 @@
 | Get Your Hours Back: A Hands-On AI Workshop for Business Owners | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/ac3xfble) |
 | Reactor | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/yg7dcqlv) |
 | Tech Basketball Run 53 | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/1cc9klco) |
+| Social Reading Night #35 | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/qean2apw) |
+| TechTO’s 12th Anniversary & Rocketships Soirée | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/toronto-12th-anniversary-rocketships-nov-17-2026) |
+| Woven Black in AI Dinner | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/t1a9nzg6) |
 | God is Your Improv Partner | 2026-11-18 | Toronto, CA | [↗](https://lu.ma/ca9t8zco) |
 | Soju Tasting Night with Korean Literature | 2026-11-18 | Toronto, CA | [↗](https://lu.ma/2ffluv3x) |
 | What Wakes Us: An Embodiment Evening for Women | 2026-11-18 | Toronto, CA | [↗](https://lu.ma/vanl0io5) |
@@ -176,6 +178,8 @@
 | STARTUP HUDDLE TORONTO | 2026-11-18 | Toronto, CA | [↗](https://lu.ma/ucy6vbkr) |
 | Pretzels and Politics: Ontario wants to change its Environmental Bill of Rights | 2026-11-18 | Toronto, CA | [↗](https://lu.ma/z4tdsmnq) |
 | Private Equity Deal Lifecycle | 2026-11-18 | Toronto, CA | [↗](https://lu.ma/zckmoa5p) |
+| Toronto Coffee Club \| Early-Stage B2B Founders & Funders | 2026-11-18 | Toronto, CA | [↗](https://lu.ma/yc9ow5nm) |
+| Toronto Contractors Lunch & Learn with Lumber | 2026-11-18 | Toronto, CA | [↗](https://lu.ma/vrgjsix6) |
 | Marketing Without a Team: Build an AI Video Engine for Your Startup | 2026-11-19 | Toronto, Canada | [↗](https://www.startupgrind.com/events/details/startup-grind-toronto-presents-marketing-without-a-team-build-an-ai-video-engine-for-your-startup/) |
 | MongoDB.local Toronto | 2026-11-19 | Toronto | [↗](https://dev.events/conferences/mongo-db-local-toronto-u1tahzn0) |
 | Founders Breakfast Series: Early Stage Edition | 2026-11-19 | Toronto, CA | [↗](https://lu.ma/1n1rx6df) |
@@ -195,6 +199,7 @@
 | Toronto Ruby November 2026 Meet-Up | 2026-11-19 | Toronto, CA | [↗](https://lu.ma/xaycno0n) |
 | Canvas & Culture | 2026-11-19 | Toronto, CA | [↗](https://lu.ma/0e2quskz) |
 | Spielberg’s Disclosure Day: Movie Night at Pluto 🛸 | 2026-11-19 | Toronto, CA | [↗](https://lu.ma/6r8jz94b) |
+| Small Planet Kitchen: Dinner & A Movie 🥣🎥🍿👽 | 2026-11-19 | Toronto, CA | [↗](https://lu.ma/5admzgjp) |
 | DevFest Vancouver 2026 | 2026-11-20 | Vancouver, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-vancouver-presents-devfest-vancouver-2026/) |
 | New Release x Romantasy Club: A Court of Splintered Harmony (ACOTAR 6) by SJM | 2026-11-20 | Toronto, CA | [↗](https://lu.ma/2edw0y7s) |
 | Startup Pitch & Networking in Toronto | 2026-11-20 | Toronto, CA | [↗](https://lu.ma/iji15yjb) |
@@ -228,18 +233,22 @@
 | Pumping & Bottle Feeding 101: Confident Feeding for Your Newborn Free Prenatal Class in Toronto | 2026-11-21 | Toronto, CA | [↗](https://lu.ma/dtig3i12) |
 | Between Suns: Concept Launch | 2026-11-21 | Toronto, CA | [↗](https://lu.ma/38exyc64) |
 | SESSION ONE: UKG | 2026-11-21 | Toronto, CA | [↗](https://lu.ma/tst609pk) |
+| Sewing Workshop #1: Fundamentals | 2026-11-21 | Toronto, CA | [↗](https://lu.ma/wuuu1gy9) |
 | Into the Ecstasy with Arkaya & Darren Austin Hall | 2026-11-22 | Toronto, CA | [↗](https://lu.ma/9oqstzhw) |
 | Book Swap! | 2026-11-22 | Toronto, CA | [↗](https://lu.ma/2mm7uc5r) |
 | Gathered & Bound: Introduction to Handheld Brooms | 2026-11-22 | Toronto, CA | [↗](https://lu.ma/7ai7u0od) |
 | ❦ Civic Space Sunday | 2026-11-22 | Toronto | [↗](https://lu.ma/civic-space-november-2026) |
+| GDG Coding Jam @ Seneca: Build with AI, Together! | 2026-11-23 | Toronto, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-seneca-polytechnic-toronto-canada-presents-gdg-coding-jam-seneca-build-with-ai-together/) |
 | DevFest Winnipeg 2026 | 2026-11-24 | Winnipeg, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-winnipeg-presents-devfest-winnipeg-2026/) |
 | The Product Owner’s AI Playbook: Turning Ideas into Outcomes | 2026-11-25 | Ajax, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-ajax-presents-the-product-owners-ai-playbook-turning-ideas-into-outcomes/) |
 | Dev day - and then it was a SKILL | 2026-11-26 | Victoria, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-victoria-presents-dev-day-and-then-it-was-a-skill/) |
 | GDG Halifax Virtual Show & Tell: Lightning Demos | 2026-11-26 | Halifax, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-halifax-presents-gdg-halifax-virtual-show-amp-tell-lightning-demos-2026-11-26/) |
 | Conférence /dev/mtl 2026 | 2026-11-27 | Montreal | [↗](https://dev.events/conferences/conference-dev-mtl-2026-98nfur1e) |
+| Virtual Workshop: Leading Innovations with Google Technology | 2026-11-27 | Saskatoon, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-saskatoon-presents-virtual-workshop-leading-innovations-with-google-technology/) |
 | DevFest Sudbury 2026: Build, Secure, Scale – Developers and Builders in the Agentic Era | 2026-11-28 | Sudbury, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-sudbury-presents-devfest-sudbury-2026-build-secure-scale-developers-and-builders-in-the-agentic-era/) |
 | DevFest St. John's 2026 | 2026-11-28 | St. John's, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-st-johns-presents-devfest-st-johns-2026/) |
 | Gen AI and Agentic AI - Full day Hands on Workshop with Certificate | 2026-11-28 | Toronto, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-toronto-presents-gen-ai-and-agentic-ai-full-day-hands-on-workshop-with-certificate/) |
+| Beyond the Application: Inside the Recruiter's Playbook | 2026-12-03 | Burnaby, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-burnaby-presents-beyond-the-application-inside-the-recruiters-playbook/) |
 | DevFest 2026: Nova Scotia | 2026-12-05 | Sydney, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-sydney-presents-devfest-2026-nova-scotia/) |
 | DevFest 2026: Nova Scotia Edition | 2026-12-05 | Halifax, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-halifax-presents-devfest-2026-nova-scotia-edition/) |
 | DevFest Ottawa 2026: Build, Secure & Scale in the Agentic Era | 2026-12-05 | Ottawa, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-ottawa-presents-devfest-ottawa-2026-build-secure-amp-scale-in-the-agentic-era/) |

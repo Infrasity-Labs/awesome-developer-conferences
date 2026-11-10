@@ -1,6 +1,6 @@
 # Developer Events in Philippines
 
-15 upcoming events. [Back to the full directory](../README.md)
+16 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -17,5 +17,6 @@
 | DevFest Bacolod 2026: Professional Network Day | 2026-11-28 | Bacolod, Philippines | [↗](https://gdg.community.dev/events/details/google-gdg-bacolod-presents-devfest-bacolod-2026-professional-network-day/) |
 | DevFest Cebu 2026 | 2026-11-29 | Cebu, Philippines | [↗](https://gdg.community.dev/events/details/google-gdg-cebu-presents-devfest-cebu-2026/) |
 | The Oracle's Awakening: Training Intelligence with AI & ML | 2026-11-29 | Manila, Philippines | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-pamantasan-ng-lungsod-ng-maynila-manila-philippines-presents-the-oracles-awakening-training-intelligence-with-ai-amp-ml/) |
+| Kadevs Pathway Expo: Tech Careers Unveiled | 2026-11-30 | Calgary, Philippines | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-science-and-technology-of-southern-philippines-cagayan-de-oro-city-philippines-presents-kadevs-pathway-expo-tech-careers-unveiled/) |
 | DevFest ZamPen 2026 : Build, secure, scale: Developers and builders in the agentic era | 2026-12-05 | Zamboanga, Philippines | [↗](https://gdg.community.dev/events/details/google-gdg-zamboanga-presents-devfest-zampen-2026-build-secure-scale-developers-and-builders-in-the-agentic-era/) |
 | Cyber Security Summit Philippines 2027 | 2027-02-17 | Manila | [↗](https://dev.events/conferences/cyber-security-summit-philippines-2027-bq7rm7n) |

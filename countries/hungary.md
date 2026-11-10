@@ -1,9 +1,10 @@
 # Developer Events in Hungary
 
-9 upcoming events. [Back to the full directory](../README.md)
+10 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
+| Portfolio Banking Technology 2026 | 2026-11-10 | Budapest, HU | [↗](https://infosec-conferences.com/event/20261110-portfolio-banking-technology-2026/) |
 | Budapest BI & Analytics Forum 2026 | 2026-11-16 to 2026-11-18 | Budapest (Hungary) | [↗](https://budapestbi.hu) |
 | GDG Debrecen Agentic AI Hackathon: Innovate & Build | 2026-11-21 | Debrecen, Hungary | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-debrecen-debrecen-hungary-presents-gdg-debrecen-agentic-ai-hackathon-innovate-amp-build/) |
 | Agentic AI Hackathon: Innovate & Build | 2026-11-21 | Debrecen, Hungary | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-debrecen-debrecen-hungary-presents-agentic-ai-hackathon-innovate-amp-build/) |

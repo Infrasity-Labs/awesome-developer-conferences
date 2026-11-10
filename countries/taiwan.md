@@ -1,12 +1,13 @@
 # Developer Events in Taiwan
 
-17 upcoming events. [Back to the full directory](../README.md)
+18 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| 給 AI 一雙手：MCP × Antigravity 實戰 | 2026-11-09 | Kaohsiung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-kaohsiung-normal-university-kaohsiung-city-taiwan-presents-gei-ai-yi-shuang-shou-mcp-x-antigravity-shi-zhan/) |
 | 期中聚會 Midterm Meetup | 2026-11-10 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-taiwan-normal-university-taipei-taiwan-presents-qi-zhong-ju-hui-midterm-meetup/) |
 | 【社課 #4 預告｜理解 Vibe Coding：AI 如何學會寫程式】 | 2026-11-10 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-chengchi-university-taipei-taiwan-presents-she-ke-4-yu-gao-li-jie-vibe-codingai-ru-he-xue-hui-xie-cheng-shi/) |
+| 告別重複勞動： 零基礎的 AI 自動化辦公室實戰 | 2026-11-10 | Taichung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-feng-chia-university-taichung-city-taiwan-presents-gao-bie-zhong-fu-lao-dong-ling-ji-chu-de-ai-zi-dong-hua-ban-gong-shi-shi-zhan/) |
+| 基礎 Python - 3 | 2026-11-10 | Kaohsiung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-sun-yat-sen-university-kaohsiung-city-taiwan-presents-ji-chu-python-3/) |
 | 關聯式資料庫入門 | 2026-11-11 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-taiwan-university-of-science-and-technology-taipei-taiwan-presents-guan-lian-shi-zi-liao-ku-ru-men/) |
 | 讓 Claude Code 替你部署：ADK Agent 從地端到 GCP | 2026-11-12 | Taichung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-taichung-university-of-science-and-technology-taichung-city-taiwan-presents-rang-claude-code-ti-ni-bu-shu-adk-agent-cong-di-duan-dao-gcp/) |
 | DevFest Kaohsiung 2026 | 2026-11-14 | Kaohsiung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-kaohsiung-presents-devfest-kaohsiung-2026/) |
