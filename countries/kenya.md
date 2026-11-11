@@ -4,12 +4,12 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Unlock the Secrets of Your Data: EDA Workshop | 2026-11-10 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-unlock-the-secrets-of-your-data-eda-workshop/) |
-| Building a web application on intelligent analytics and Multi-Modal data | 2026-11-10 | Juja, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-building-a-web-application-on-intelligent-analytics-and-multi-modal-data/) |
-| What even Makes a good UI?: The Art and Science | 2026-11-10 | Embu, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-embu-embu-kenya-presents-what-even-makes-a-good-ui-the-art-and-science/) |
 | Discover UX Design: Research to Wireframes | 2026-11-11 | Nakuru, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kabarak-university-nakuru-kenya-presents-discover-ux-design-research-to-wireframes/) |
+| Supervised vs. unsupervised learning | 2026-11-11 | Nyeri, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-dedan-kimathi-university-of-technology-nyeri-kenya-presents-supervised-vs-unsupervised-learning/) |
+| Pandas 103: The Final Run | 2026-11-11 | Juja, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-pandas-103-the-final-run/) |
 | Launch Your First Android App with AI Studio | 2026-11-12 | Juja, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-launch-your-first-android-app-with-ai-studio/) |
 | Game Dev with AI: Launch Your Web-Based Video Game | 2026-11-12 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-kenya-nairobi-kenya-presents-game-dev-with-ai-launch-your-web-based-video-game/) |
+| GDG on Campus: Level Up Your Digital Game! | 2026-11-12 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-the-catholic-university-of-eastern-africa-nairobi-kenya-presents-gdg-on-campus-level-up-your-digital-game/) |
 | AIoT_Pro_Series | 2026-11-13 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-multimedia-university-of-kenya-nairobi-kenya-presents-aiot_pro_series-2026-11-13/) |
 | AI in Action: Building Intelligent Applications with Gemini | 2026-11-13 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-ai-in-action-building-intelligent-applications-with-gemini/) |
 | DevFest Nairobi 2026 | 2026-11-13 to 2026-11-14 | Nairobi (Kenya) | [↗](https://gdg.community.dev/events/details/google-gdg-nairobi-presents-devfest-nairobi-day-two/) |

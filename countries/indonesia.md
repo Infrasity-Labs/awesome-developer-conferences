@@ -1,12 +1,13 @@
 # Developer Events in Indonesia
 
-16 upcoming events. [Back to the full directory](../README.md)
+17 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | Road to DevFest Cloud Surabaya '26 #2 | 2026-11-14 | Surabaya, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-surabaya-presents-road-to-devfest-cloud-surabaya-26-2/) |
 | Info Session 2026 Navigating Industry Realities: Empowering Students Beyond Campus Hype | 2026-11-14 | Depok, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-gunadarma-depok-indonesia-presents-info-session-2026-navigating-industry-realities-empowering-students-beyond-campus-hype/) |
 | Bandung Innovation Week 2026: Innovate – Collaborate – Elevate | 2026-11-14 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-bandung-presents-bandung-innovation-week-2026-innovate-collaborate-elevate/) |
+| Weekly Class #2 Problem Statement & Figma Project Setup | 2026-11-14 | Makassar, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-negeri-makassar-makassar-indonesia-presents-weekly-class-2-problem-statement-amp-figma-project-setup/) |
 | Global Security Symposium | 2026-11-18 | Jakarta | [↗](https://dev.events/conferences/global-security-symposium-xnnyf-yi) |
 | IDSW 2026 | 2026-11-21 to 2026-11-22 | Jakarta | [↗](https://dev.events/conferences/idsw-2026-xkdqgw7y) |
 | Cloud DevFest Surabaya '26: Building Safe, Secure & Scalable Solutions with AI and Cloud | 2026-11-21 | Surabaya, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-surabaya-presents-cloud-devfest-surabaya-26-building-safe-secure-amp-scalable-solutions-with-ai-and-cloud/) |

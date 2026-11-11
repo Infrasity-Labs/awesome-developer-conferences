@@ -1,16 +1,17 @@
 # Developer Events in Egypt
 
-21 upcoming events. [Back to the full directory](../README.md)
+22 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| DevFest'26 - GDG Helwan | 2026-11-10 | Helwan, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-helwan-presents-devfest26-gdg-helwan/) |
 | GDG AAST Abu Qir Orientation Day: Exploring AI & Automation | 2026-11-11 | Abu Qir, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-arab-academy-for-science-technology-and-maritime-transport-abu-qir-egypt-presents-gdg-aast-abu-qir-orientation-day-exploring-ai-amp-automation/) |
+| Kickoff Workshop: Building with AI | 2026-11-11 | El Mansoura, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-delta-university-presents-kickoff-workshop-building-with-ai/) |
 | Networking & REST APIs | 2026-11-13 | Giza, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-october-6-university-giza-egypt-presents-networking-amp-rest-apis/) |
 | DevFest 2026: Ignite Your Tech Journey! | 2026-11-14 | Ismailia, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-ismailia-presents-devfest-2026-ignite-your-tech-journey/) |
 | State Management (Provider / Bloc) | 2026-11-20 | Giza, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-october-6-university-giza-egypt-presents-state-management-provider-bloc/) |
 | DevFest Online Evening: Multimodal RAG with Gemini API | 2026-11-20 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-egypt-presents-devfest-online-evening-multimodal-rag-with-gemini-api/) |
 | Damanhour DevFest 2026 | 2026-11-21 | Damanhour, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-damanhour-presents-damanhour-devfest-2026/) |
+| Launch into Embedded Systems | 2026-11-24 | Charlottesville, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-arab-academy-for-science-technology-and-maritime-transport-cairo-egypt-presents-launch-into-embedded-systems-2026-11-24/) |
 | Local Storage & Firebase Intro | 2026-11-27 | Giza, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-october-6-university-giza-egypt-presents-local-storage-amp-firebase-intro/) |
 | GDG Benha DevFest 2026 | 2026-11-28 | Banha, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-benha-presents-gdg-benha-devfest-2026/) |
 | Architecture, Publishing & Demo | 2026-12-04 | Giza, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-october-6-university-giza-egypt-presents-architecture-publishing-amp-demo/) |

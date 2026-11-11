@@ -1,10 +1,9 @@
 # Developer Events in Brazil
 
-36 upcoming events. [Back to the full directory](../README.md)
+35 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Nasa Space Apps Uberlândia | 2026-11-10 | Uberlandia, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-uberlandia-presents-nasa-space-apps-uberlandia/) |
 | Oficina do NERD: Mãos à Obra com GDG - DSE - RFEC | 2026-11-11 | Recife, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-recife-presents-oficina-do-nerd-maos-a-obra-com-gdg-dse-rfec/) |
 | Revolucione sua Aplicação: Workshop Angular Signals | 2026-11-13 | Caxias do Sul, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-caxias-do-sul-presents-revolucione-sua-aplicacao-workshop-angular-signals/) |
 | DevFest Rio de Janeiro 2026: Inovação e Tecnologia | 2026-11-14 | Rio de Janeiro, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-rio-de-janeiro-presents-devfest-rio-de-janeiro-2026-inovacao-e-tecnologia/) |

@@ -1,14 +1,12 @@
 # Developer Events in South Korea
 
-30 upcoming events. [Back to the full directory](../README.md)
+28 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| NVIDIA AI Day Seoul 2026 | 2026-11-09 to 2026-11-10 | Seoul, South Korea | [↗](https://view.asiae.co.kr/en/article/2026093008531640088) |
-| GDG on Campus SKHU Frontend Study Session - 06 전역 상태 관리와 브라우저 저장소 | 2026-11-10 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkonghoe-university-seoul-south-korea-presents-gdg-on-campus-skhu-frontend-study-session-06-jeonyeog-sangtae-gwanriwa-beuraujeo-jeojangso/) |
-| GDG on Campus SKHU Backend Study Session - 06 Spring Security & JWT | 2026-11-10 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkonghoe-university-seoul-south-korea-presents-gdg-on-campus-skhu-backend-study-session-06-spring-security-amp-jwt/) |
 | GDGoC Soongsil University 3rd SSUmall Seminar | 2026-11-11 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-soongsil-university-seoul-south-korea-presents-gdgoc-soongsil-university-3rd-ssumall-seminar-1/) |
 | GDG on Kookmin X 창공: 연합 세션 | 2026-11-11 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kookmin-university-seoul-south-korea-presents-gdg-on-kookmin-x-canggong-yeonhab-sesyeon/) |
+| 26-2 Onboarding | 2026-11-12 | Incheon, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-incheon-national-university-incheon-south-korea-presents-26-2-onboarding/) |
 | AI 세션: 함께하는 인공지능의 세계 | 2026-11-13 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sangmyung-university-seoul-south-korea-presents-ai-sesyeon-hamggehaneun-ingongjineungyi-segye/) |
 | GDG on Campus SKHU AIOS: Growthon - Ideation Day | 2026-11-13 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkonghoe-university-seoul-south-korea-presents-gdg-on-campus-skhu-aios-growthon-ideation-day/) |
 | ISES Solar World Congress 2026 | 2026-11-15 to 2026-11-20 | Daejeon, South Korea | [↗](https://view.asiae.co.kr/en/article/2026020309283926902) |

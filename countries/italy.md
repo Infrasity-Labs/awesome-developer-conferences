@@ -4,7 +4,6 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| October2Shell: Fra PHP e dadi a quattro facce | 2026-11-10 | Genoa, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-genova-presents-october2shell-fra-php-e-dadi-a-quattro-facce/) |
 | Salotto MIX | 2026-11-11 to 2026-11-12 | Milan | [↗](https://dev.events/conferences/salotto-mix-bit-7our) |
 | WTM Ambassador | 2026-11-11 | Saint-Vincent, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-valle-daosta-presents-wtm-ambassador/) |
 | Costruire Mappe Interattive e Geofencing con Google Maps API | 2026-11-11 | Agrigento, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-agrigento-presents-costruire-mappe-interattive-e-geofencing-con-google-maps-api/) |
@@ -20,6 +19,7 @@
 | angularday 2026 | 2026-11-20 | Verona (Italy) | [↗](https://www.angularday.it) |
 | AI Real Talk & Beer: come usiamo l'AI per davvero | 2026-11-20 | Potenza, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-basilicata-presents-ai-real-talk-amp-beer-come-usiamo-lai-per-davvero/) |
 | AGENTHON: Waiting for DevFest Alps | 2026-11-21 | Torino, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-torino-presents-agenthon-waiting-for-devfest-alps/) |
+| Last commit of the year | 2026-11-23 | Palermo, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-palermo-presents-last-commit-of-the-year/) |
 | Investor Days 2026 | 2026-11-25 to 2026-11-26 | Milan, Italy | [↗](https://www.b2match.com/e/investor-days-2026) |
 | Road To DevFest Alps 2026 | 2026-11-25 | Saint-Vincent, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-valle-daosta-presents-road-to-devfest-alps-2026/) |
 | GDG Onboarding Aperitivo 🎉 | 2026-11-25 | Rome, Italy, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-luiss-guido-carli-rome-italy-presents-gdg-onboarding-aperitivo/) |

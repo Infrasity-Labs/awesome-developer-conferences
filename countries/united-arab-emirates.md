@@ -1,11 +1,10 @@
 # Developer Events in United Arab Emirates
 
-17 upcoming events. [Back to the full directory](../README.md)
+16 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | GESS Dubai 2026 | 2026-11-10 to 2026-11-12 | Dubai | [↗](https://dev.events/conferences/gess-dubai-2026-lpm24cgm) |
-| Beyond the Prompt: Making AI Work for You | 2026-11-10 | Dubai, United Arab Emirates | [↗](https://www.startupgrind.com/events/details/startup-grind-dubai-presents-beyond-the-prompt-making-ai-work-for-you/) |
 | Experts Live Emirates 2026 | 2026-11-11 to 2026-11-12 | Dubai (United Arab Emirates) | [↗](http://expertslive.ae/) |
 | Terminal Tips and Tricks for Agentic Development | 2026-11-18 | Ras Al-Khaimah, United Arab Emirates | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-bath-spa-university-ras-al-khaimah-united-arab-emirates-presents-terminal-tips-and-tricks-for-agentic-development/) |
 | DevFest 2026 by GDG Abu Dhabi | 2026-11-21 | Abu Dhabi, United Arab Emirates | [↗](https://gdg.community.dev/events/details/google-gdg-abu-dhabi-presents-devfest-2026-by-gdg-abu-dhabi/) |

@@ -1,6 +1,6 @@
 # Developer Events in Portugal
 
-27 upcoming events. [Back to the full directory](../README.md)
+26 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -8,7 +8,6 @@
 | Web Summit Lisbon | 2026-11-09 to 2026-11-12 | Lisbon (Portugal) | [↗](https://websummit.com) |
 | InnoComp 2026 | 2026-11-09 to 2026-11-11 | Lisbon | [↗](https://dev.events/conferences/inno-comp-2026-j2sz8udi) |
 | Web Summit 2026 | 2026-11-09 to 2026-11-12 | Lisbon, Portugal | [↗](https://websummit.com/) |
-| Porto Tech Hub Conference 2026 | 2026-11-10 | Porto (Portugal) | [↗](https://portotechhub.com/conference-2026/) |
 | GDG Lisbon x CNL x DevOps Lisbon \| KCD Warmup & Web Summit Side Event  #29 | 2026-11-11 | Lisbon, Portugal | [↗](https://gdg.community.dev/events/details/google-gdg-lisbon-presents-gdg-lisbon-x-cnl-x-devops-lisbon-kcd-warmup-amp-web-summit-side-event-29/) |
 | Product Circle - Leaders Lisbon | 2026-11-13 | Lisbon | [↗](https://dev.events/conferences/product-circle-leaders-lisbon-omqrvfqu) |
 | From Demo to Production: AI Agent Automations That Don't Break | 2026-11-13 | Funchal, Portugal | [↗](https://gdg.community.dev/events/details/google-gdg-madeira-presents-from-demo-to-production-ai-agent-automations-that-dont-break/) |

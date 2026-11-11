@@ -1,6 +1,6 @@
 # Developer Events in Vietnam
 
-7 upcoming events. [Back to the full directory](../README.md)
+8 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -10,4 +10,5 @@
 | Road to DevFest Ho Chi Minh City 2026: Zero to Agent | 2026-11-21 | Ho Chi Minh City, Vietnam | [↗](https://gdg.community.dev/events/details/google-gdg-ho-chi-minh-city-presents-road-to-devfest-ho-chi-minh-city-2026-zero-to-agent/) |
 | GDG Live Vietnam - DevFest 2026 - Prompt to Production | 2026-11-28 | Ho Chi Minh City, Vietnam | [↗](https://gdg.community.dev/events/details/google-gdg-live-vietnam-presents-gdg-live-vietnam-devfest-2026-prompt-to-production/) |
 | DevFest Cloud Da Nang 2026 | 2026-12-13 | Da Nang, Vietnam | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-da-nang-presents-devfest-cloud-da-nang-2026/) |
+| DevFest Ho Chi Minh 2026: Unlock the Agentic Era | 2026-12-13 | Ho Chi Minh City, Vietnam | [↗](https://gdg.community.dev/events/details/google-gdg-ho-chi-minh-city-presents-devfest-ho-chi-minh-2026-unlock-the-agentic-era/) |
 | Cyber Security Summit Vietnam 2027 | 2027-07-22 | Ho Chi Minh | [↗](https://dev.events/conferences/cyber-security-summit-vietnam-2027-cpl2oup7) |

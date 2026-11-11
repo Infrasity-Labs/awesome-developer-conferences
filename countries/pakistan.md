@@ -1,11 +1,12 @@
 # Developer Events in Pakistan
 
-10 upcoming events. [Back to the full directory](../README.md)
+11 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | Prompt Wars: AI Challenge | 2026-11-12 | Karachi, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-mohammad-ali-jinnah-university-karachi-pakistan-presents-prompt-wars-ai-challenge/) |
 | Rapid Fire | 2026-11-12 | Karachi, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-mohammad-ali-jinnah-university-karachi-pakistan-presents-rapid-fire/) |
+| Information & Communication Technology (ICT): Powered by Anti-gravity | 2026-11-13 | Peshawar, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-engineering-and-technology-peshawar-pakistan-presents-information-amp-communication-technology-ict-powered-by-anti-gravity/) |
 | Road to Devfest: Build wth AI Workshop at Tech Fusion'26 | 2026-11-14 | Islamabad, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-islamabad-presents-road-to-devfest-build-wth-ai-workshop-at-tech-fusion26/) |
 | DevFest Pakistan 2026 - Online Conference | 2026-11-21 | Peshawar, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-live-pakistan-presents-devfest-pakistan-2026-online-conference/) |
 | Bhai, Banana Kya Hai? Building with Agents - Road to DevFest | 2026-11-23 | Islamabad, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-islamabad-presents-bhai-banana-kya-hai-building-with-agents-road-to-devfest/) |

@@ -1,11 +1,10 @@
 # Developer Events in Norway
 
-10 upcoming events. [Back to the full directory](../README.md)
+9 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | NDC AI 2026 | 2026-11-10 to 2026-11-12 | Oslo | [↗](https://dev.events/conferences/ndc-ai-2026-bjho-f82) |
-| Anatomy of an Agent | 2026-11-10 | Oslo, Norway | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-oslo-norway-presents-anatomy-of-an-agent/) |
 | More time for your mission: practical AI | 2026-11-20 | Oslo | [↗](https://dev.events/conferences/more-time-for-your-mission-practical-ai-3wsrn-uz) |
 | Fabric February 2027 | 2027-02-02 to 2027-02-04 | Oslo (Norway) | [↗](https://www.fabricfebruary.com/) |
 | NDC Security 2027 | 2027-02-15 to 2027-02-18 | Oslo | [↗](https://dev.events/conferences/ndc-security-2027-t3zcfb2u) |
