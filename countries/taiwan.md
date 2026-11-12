@@ -1,11 +1,9 @@
 # Developer Events in Taiwan
 
-17 upcoming events. [Back to the full directory](../README.md)
+16 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| 關聯式資料庫入門 | 2026-11-11 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-taiwan-university-of-science-and-technology-taipei-taiwan-presents-guan-lian-shi-zi-liao-ku-ru-men/) |
-| 網路資料取得：API與爬蟲工具應用與數據分析 | 2026-11-11 | Taichung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-chung-shan-medical-university-taichung-taiwan-presents-wang-lu-zi-liao-qu-de-apiyu-pa-chong-gong-ju-ying-yong-yu-shu-ju-fen-xi/) |
 | 讓 Claude Code 替你部署：ADK Agent 從地端到 GCP | 2026-11-12 | Taichung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-taichung-university-of-science-and-technology-taichung-city-taiwan-presents-rang-claude-code-ti-ni-bu-shu-adk-agent-cong-di-duan-dao-gcp/) |
 | DevFest Kaohsiung 2026 | 2026-11-14 | Kaohsiung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-kaohsiung-presents-devfest-kaohsiung-2026/) |
 | DevFest Kaohsiung 2026 After Buffet | 2026-11-14 | Kaohsiung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-kaohsiung-presents-devfest-kaohsiung-2026-after-buffet/) |
@@ -14,6 +12,7 @@
 | 11 月社課｜讓程式碼飛一會兒，從 localhost 到 Google Cloud | 2026-11-18 | Tainan, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-cheng-kung-university-tainan-city-taiwan-presents-11-yue-she-ke-rang-cheng-shi-ma-fei-yi-hui-er-cong-localhost-dao-google-cloud/) |
 | LINE 企業參訪 | 2026-11-19 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-taiwan-university-of-science-and-technology-taipei-taiwan-presents-line-qi-ye-can-fang-1/) |
 | DevFest Taichung 2026 | 2026-11-22 | Taichung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-taichung-presents-devfest-taichung-2026/) |
+| Flutter Meetup #40 | 2026-11-24 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-taipei-presents-flutter-meetup-40/) |
 | GDG on Campus NCKU × Codpy｜聯合社課 | 2026-11-29 | Tainan, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-cheng-kung-university-tainan-city-taiwan-presents-gdg-on-campus-ncku-x-codpylian-he-she-ke/) |
 | DevFest Taoyuan 2026 | 2026-12-05 | Taoyuan, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-taoyuan-presents-devfest-taoyuan-2026/) |
 | DevFest Changhua 2026 | 2026-12-06 | Changhua City, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-changhua-presents-devfest-changhua-2026/) |

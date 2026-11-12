@@ -1,9 +1,10 @@
 # Developer Events in Colombia
 
-8 upcoming events. [Back to the full directory](../README.md)
+9 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
+| Road to DevFest: Del crash al fix: depura tu app móvil con Gemini y Firebase | 2026-11-12 | Bogotá, Colombia | [↗](https://gdg.community.dev/events/details/google-gdg-bogota-presents-road-to-devfest-del-crash-al-fix-depura-tu-app-movil-con-gemini-y-firebase/) |
 | Dev Fest Pereira: Tech for Good | 2026-11-14 | Pereira, Colombia | [↗](https://gdg.community.dev/events/details/google-gdg-pereira-presents-dev-fest-pereira-tech-for-good/) |
 | DevFest Pereira \| Ladrillos por Pereira 🧱 | 2026-11-14 | Pereira, Colombia | [↗](https://gdg.community.dev/events/details/google-gdg-pereira-presents-devfest-pereira-ladrillos-por-pereira/) |
 | BoyaConf 2026 | 2026-11-21 | Tunja (Colombia) | [↗](https://boyaca-dev.org/conf/2026) |

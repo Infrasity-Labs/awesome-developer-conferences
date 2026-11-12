@@ -1,15 +1,18 @@
 # Developer Events in Nigeria
 
-36 upcoming events. [Back to the full directory](../README.md)
+39 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | Different Minds, One Community: Launch Meetup | 2026-11-13 | Jos, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-jos-jos-nigeria-presents-different-minds-one-community-launch-meetup/) |
 | From Idea to Playable: Build a web based video game | 2026-11-13 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-from-idea-to-playable-build-a-web-based-video-game/) |
+| Build a Web Browser Game with AI | 2026-11-13 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-build-a-web-browser-game-with-ai/) |
 | Building with AI at the W3W Creative Hub | 2026-11-14 | Warri, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-warri-presents-building-with-ai-at-the-w3w-creative-hub/) |
 | Road to DevFest Yola: Hands-On Workshop 2 | 2026-11-14 | Jimeta, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-yola-presents-road-to-devfest-yola-hands-on-workshop-2/) |
 | Create Your First 3D Game: Gem Grove Workshop | 2026-11-14 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-create-your-first-3d-game-gem-grove-workshop/) |
 | Welcome to GDG on Campus: Community Exploration Night | 2026-11-14 | Ibadan, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-abiola-ajimobi-technical-university-ibadan-nigeria-presents-welcome-to-gdg-on-campus-community-exploration-night/) |
+| From Prompt To Play: Al-powered Game Development | 2026-11-14 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-from-prompt-to-play-al-powered-game-development/) |
+| Survey to Insights Pipeline using Google Data Studio | 2026-11-15 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-survey-to-insights-pipeline-using-google-data-studio/) |
 | TECH IGNITE '26 | 2026-11-19 | Uyo, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-uyo-uyo-nigeria-presents-tech-ignite-26/) |
 | DevFest Uyo 2026 | 2026-11-21 | Uyo, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-uyo-presents-devfest-uyo-2026/) |
 | DevFest Lafia 2026 | 2026-11-21 | Lafia, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-lafia-presents-devfest-lafia-2026/) |

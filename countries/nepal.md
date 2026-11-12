@@ -1,9 +1,10 @@
 # Developer Events in Nepal
 
-6 upcoming events. [Back to the full directory](../README.md)
+7 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
+| NASA Space Apps Challenge 2026 – Bhaktapur Local Event | 2026-11-14 | Kathmandu, Nepal | [↗](https://gdg.community.dev/events/details/google-gdg-kathmandu-presents-nasa-space-apps-challenge-2026-bhaktapur-local-event/) |
 | Road to DevFest Nepal 2026: Online Workshop Series #1 | 2026-11-21 | Kathmandu, Nepal | [↗](https://gdg.community.dev/events/details/google-gdg-kathmandu-presents-road-to-devfest-nepal-2026-online-workshop-series-1/) |
 | Road to DevFest Nepal 2026: Online Workshop Series #2 | 2026-11-28 | Kathmandu, Nepal | [↗](https://gdg.community.dev/events/details/google-gdg-kathmandu-presents-road-to-devfest-nepal-2026-online-workshop-series-2/) |
 | Agents of Change: Buildathon | 2026-12-05 | Kathmandu, Nepal | [↗](https://gdg.community.dev/events/details/google-gdg-kathmandu-presents-agents-of-change-buildathon/) |

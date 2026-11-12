@@ -1,14 +1,9 @@
 # Developer Events in France
 
-273 upcoming events. [Back to the full directory](../README.md)
+280 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| 💛 Members Only Wednesdays \| #2 Connection Party \| Froufrou \| Paris 17th arr. | 2026-11-11 | Paris, FR | [↗](https://lu.ma/yhaieuu1) |
-| Breaking Fast - Finissage | 2026-11-11 | Paris, FR | [↗](https://lu.ma/ygyiy8sh) |
-| Minizz & Chill | 2026-11-11 | Paris, FR | [↗](https://lu.ma/kge77uou) |
-| Update x Yohan Benalouan | 2026-11-11 | Paris, FR | [↗](https://lu.ma/n66m1zwv) |
-| Dîner SKareers - Nina LEBECQ | 2026-11-11 | Paris, FR | [↗](https://lu.ma/je45ekdf) |
 | DevFest Marseille 2026 : Night Edition | 2026-11-12 | Marseille, France | [↗](https://gdg.community.dev/events/details/google-gdg-marseille-presents-devfest-marseille-2026-night-edition/) |
 | Soirée des EnR 2026 - Connect & Give | 2026-11-12 | Paris, FR | [↗](https://lu.ma/wkujuu8f) |
 | DevFest Marseille 2026 - Dual Edition ⚡ (Workshop, Talk & Networking) | 2026-11-12 | Marseille, France | [↗](https://gdg.community.dev/events/details/google-gdg-marseille-presents-devfest-marseille-2026-dual-edition-workshop-talk-amp-networking/) |
@@ -124,6 +119,7 @@
 | Tech Apéro | 2026-11-18 | Paris, FR | [↗](https://lu.ma/n8zoiqcb) |
 | Co-sensing Lab #4: Presencing | 2026-11-18 | Paris, FR | [↗](https://lu.ma/9zrrndkx) |
 | Comment faire adopter Notion à votre équipe (sans l’imposer) ? | 2026-11-18 | Paris, FR | [↗](https://lu.ma/0f1ax6y1) |
+| Update x Vincent Gufflet | 2026-11-18 | Paris, FR | [↗](https://lu.ma/u2c2jzpl) |
 | DevFest Toulouse 2026 | 2026-11-19 | Toulouse (France) | [↗](https://devfesttoulouse.fr/) |
 | Agile Laval 2026 | 2026-11-19 | Laval (France) | [↗](http://www.agilelaval.org/) |
 | OVHcloud Summit | 2026-11-19 | Paris (France) | [↗](https://summit.ovhcloud.com/en/) |
@@ -156,6 +152,7 @@
 | Soirée reveal \| Rebranding Groupe Haiku (Haiku - Hooq - septieme sphere) | 2026-11-19 | Paris, FR | [↗](https://lu.ma/kft414n9) |
 | 🛞 GTA VI - Soirée Lancement | 2026-11-19 | Paris, FR | [↗](https://lu.ma/avalon-60ks) |
 | The AI Confessions Dinner \| Paris | 2026-11-19 | Paris, FR | [↗](https://lu.ma/mvm0rcda) |
+| Welcome to Wondera Club - Autumn Afterwork 🍸 | 2026-11-19 | Paris, FR | [↗](https://lu.ma/5zuz60kx) |
 | Cession, acquisition et reprise d'entreprise : anticiper et réussir | 2026-11-20 | Paris, FR | [↗](https://lu.ma/CAT2026) |
 | Après midi découverte @Climate House | 2026-11-20 | Paris, FR | [↗](https://lu.ma/hjkuv2ca) |
 | ATELIER : Chocapitalisme, chaîne de valeur et développement durable - Charles Peguy (75) | 2026-11-20 | Paris, FR | [↗](https://lu.ma/h89hmmni) |
@@ -179,6 +176,7 @@
 | OWN YOUR COLORS - Color workshop with Melinda, color specialist and makeup artist | 2026-11-21 | Paris, FR | [↗](https://lu.ma/2l673xet) |
 | RUN x HOT PILATES x RECOVER | 2026-11-21 | Paris, FR | [↗](https://lu.ma/7uxu3rd5) |
 | Cloth, Water, Touch // Mémoires de Hammam | 2026-11-21 | Paris, FR | [↗](https://lu.ma/54vkq55d) |
+| Atelier d'initiation à la danse avec La Saomera | 2026-11-21 | Paris, FR | [↗](https://lu.ma/1bdtyhyb) |
 | RUN CLUB SPECIAL BAINS CHAUDS/ FROIDS - 22/11 @La Montgolfière 18ème | 2026-11-22 | Paris, FR | [↗](https://lu.ma/xkhaqsy7) |
 | Build your side hustle Hackathon | 2026-11-22 | Paris, FR | [↗](https://lu.ma/dc3ynvnx) |
 | 📚 Offline Reading Party \| La Dame aux plantes \| TOC x Verso \| 🍃 La Maison du Jardinage et du Compostage \| Paris 12e arr. | 2026-11-22 | Paris, FR | [↗](https://lu.ma/n6plshk0) |
@@ -233,12 +231,21 @@
 | SU \| SporTech x UESC : Rencontres Startups et Scaleups / Marques et distributeurs | 2026-11-26 | Paris, FR | [↗](https://lu.ma/xcyu9ogk) |
 | Workshop #5 - 4 heures pour transformer ta création de contenu vidéo en audience rentable | 2026-11-26 | Paris, FR | [↗](https://lu.ma/opluo-zvdz) |
 | Open Show Saison 2 - Comédie Bastille (par CoopCoNuT) | 2026-11-26 | Paris, FR | [↗](https://lu.ma/12u1mhwv) |
+| Building sustainable digital infrastructure : stakes, challenges & solutions | 2026-11-26 | Paris, FR | [↗](https://lu.ma/5zi781ed) |
+| OKX in Paris | 2026-11-26 | Paris, FR | [↗](https://lu.ma/l27el96p) |
+| Afterwork AlumnEye #72 | 2026-11-26 | Paris, FR | [↗](https://lu.ma/2nk6wdy7) |
+| Book Launch: Corpodivinidades | 2026-11-26 | Paris, FR | [↗](https://lu.ma/wtlb536q) |
+| Meetup Agents IA — Choix d'architecture et retours de prod entre pairs | 2026-11-26 | Paris, FR | [↗](https://lu.ma/meetup-agents-ia-choix-d-architecture-et-retours-d) |
+| Table ronde et concours de pitchs : Levée de fonds , ce que les investisseurs vont vraiment regarder | 2026-11-26 | Paris, FR | [↗](https://lu.ma/bold-a49h) |
+| Workshop AI-Native SDLC : Le playbook Anthropic from the trenches | 2026-11-26 | Paris, FR | [↗](https://lu.ma/augmented-aflo) |
+| MIT - Very Belated Back-to-School Drinks | 2026-11-26 | Paris, FR | [↗](https://lu.ma/0fg5r8es) |
 | DevFest Paris 2026 | 2026-11-27 | Paris (France) | [↗](https://devfest.gdgparis.fr/) |
 | Tech.Rocks Summit | 2026-11-30 to 2026-12-01 | Paris | [↗](https://dev.events/conferences/tech-rocks-summit-aaxn2xuq) |
 | apidays Paris | 2026-11-30 to 2026-12-03 | Paris | [↗](https://dev.events/conferences/apidays-paris-7xk3zi-c) |
 | Tech For Retail 2026 | 2026-11-30 | Paris, France | [↗](https://www.techforretail.com/) |
 | Cloud Native AI Summit – EUROPE 2026 | 2026-12-01 to 2026-12-02 | Paris | [↗](https://www.cloudnative.ai) |
 | Build It Summit | 2026-12-01 to 2026-12-03 | Paris | [↗](https://dev.events/conferences/build-it-summit-k66lx1xj) |
+| Du Dev au Super Dev: Retour d'Expérience | 2026-12-01 | Lannion, France | [↗](https://gdg.community.dev/events/details/google-gdg-code-darmor-presents-du-dev-au-super-dev-retour-dexperience/) |
 | Cloud Native AI Summit Europe | 2026-12-02 to 2026-12-03 | Paris (France) | [↗](https://www.cloudnative.ai/events/paris) |
 | DevFest Lyon 2026 | 2026-12-04 | Lyon (France) | [↗](https://devfest.gdglyon.com/) |
 | DevFest Dijon 2026 | 2026-12-04 | Dijon (France) | [↗](https://devfest.developers-group-dijon.fr/) |

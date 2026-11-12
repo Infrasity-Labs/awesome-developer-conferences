@@ -1,10 +1,9 @@
 # Developer Events in Philippines
 
-16 upcoming events. [Back to the full directory](../README.md)
+15 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| TechEverywhere '26: InnovAItion | 2026-11-11 | Quezon City, Philippines | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ateneo-de-manila-university-quezon-city-philippines-presents-techeverywhere-26-innovaition/) |
 | DevFest Bacolod 2026: Student Dev Day | 2026-11-14 | Bacolod, Philippines | [↗](https://gdg.community.dev/events/details/google-gdg-bacolod-presents-devfest-bacolod-2026-student-dev-day/) |
 | DevFest 2026 Buildathon: Iligan Stop | 2026-11-14 | Cagayan de Oro, Philippines | [↗](https://gdg.community.dev/events/details/google-gdg-cagayan-de-oro-presents-devfest-2026-buildathon-iligan-stop/) |
 | GATHER 2026: General Assembly | 2026-11-14 | Baliwag, Philippines | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-university-baliwag-campus-baliwag-philippines-presents-gather-2026-general-assembly/) |
