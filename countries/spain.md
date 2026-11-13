@@ -1,20 +1,18 @@
 # Developer Events in Spain
 
-70 upcoming events. [Back to the full directory](../README.md)
+72 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | 59th IAPC World Conference | 2026-11-11 to 2026-11-14 | Sevilla (Spain) | [↗](https://iapc.org) |
 | SAP Inside Track Barcelona | 2026-11-12 to 2026-11-13 | Barcelona | [↗](https://dev.events/conferences/sap-inside-track-barcelona-82rwfkw6) |
-| Nuevos paradigmas en el flujo del desarrollo con la IA | 2026-11-12 | Alicante, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-alicante-presents-nuevos-paradigmas-en-el-flujo-del-desarrollo-con-la-ia/) |
-| Road to DevFest Menorca: ¡Bienvenidos Builders! | 2026-11-12 | Mahon, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-menorca-presents-road-to-devfest-menorca-bienvenidos-builders/) |
-| Taller: Crea tu producto con Antigravity y Gemini | 2026-11-12 | Marbella, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-marbella-presents-taller-crea-tu-producto-con-antigravity-y-gemini/) |
 | Devopsdays Barcelona | 2026-11-13 to 2026-11-14 | Barcelona (Spain) | [↗](https://devopsdays.org/events/2026-barcelona) |
 | VallaTech Summit 2026 (DevFest Valladolid) | 2026-11-13 | Valladolid, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-valladolid-presents-vallatech-summit-2026-devfest-valladolid/) |
 | Tenerife tech community | 2026-11-13 | Santa Cruz de Tenerife, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-tenerife-presents-tenerife-tech-community/) |
 | Presente y futuro de la IA | 2026-11-13 | Santa Cruz de Tenerife, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-tenerife-presents-presente-y-futuro-de-la-ia/) |
 | BC Waves Barcelona 2026 | 2026-11-14 | Barcelona (Spain) | [↗](https://sessionize.com/bc-waves-barcelona-2026) |
 | Liquid Galaxy Agentic AI  skill contest | 2026-11-17 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-liquid-galaxy-agentic-ai-skill-contest/) |
+| Cómo comprar un PC en esta economía | 2026-11-17 | Huelva, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-huelva-university-huelva-spain-presents-como-comprar-un-pc-en-esta-economia/) |
 | Aprende a Hackear (de verdad) | 2026-11-18 | UCAM Catholic University of Murcia, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ucam-murcia-spain-presents-aprende-a-hackear-de-verdad/) |
 | X-Ops Conference Madrid 2026 | 2026-11-19 to 2026-11-21 | Móstoles (Spain) | [↗](https://xopsconference.com/) |
 | X-Ops Conference Madrid | 2026-11-19 to 2026-11-21 | Madrid (Spain) | [↗](https://madrid.xopsconference.com/) |
@@ -30,6 +28,7 @@
 | DevFest Jaén 2026: Introducción a Google Cloud | 2026-11-21 | Jaen, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-jaen-presents-devfest-jaen-2026-introduccion-a-google-cloud/) |
 | Introducción a la Ciberseguridad: Primeros Pasos y Vulnerabilidades Básicas | 2026-11-23 | Jaen, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-jaen-presents-introduccion-a-la-ciberseguridad-primeros-pasos-y-vulnerabilidades-basicas/) |
 | AI-Native SDLC: de señales a prod! | 2026-11-25 | Alicante, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-alicante-presents-ai-native-sdlc-de-senales-a-prod/) |
+| 🎤 ¿Qué aporta la IA a una pequeña empresa de technologyía? (Sin humo) | 2026-11-26 | Barcelona, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-uoc-barcelona-spain-presents-que-aporta-la-ia-a-una-pequena-empresa-de-tecnologia-sin-humo/) |
 | Women in Agile EU Launching New Voices 2026 | 2026-11-27 | Barcelona | [↗](https://dev.events/conferences/women-in-agile-eu-launching-new-voices-2026-pjppegwn) |
 | DevFest Madrid 2026 | 2026-11-27 | Madrid, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-madrid-presents-devfest-madrid-2026/) |
 | DevFest Barcelona 2026 - ¡Únete a la revolución tecnológica! 🚀 | 2026-11-28 | Barcelona, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-barcelona-presents-devfest-barcelona-2026-unete-a-la-revolucion-tecnologica/) |
@@ -38,8 +37,11 @@
 | EnsaïmadaConf · DevFest Mallorca 2026 | 2026-11-28 | Nord de Palma District, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-mallorca-presents-ensaimadaconf-devfest-mallorca-2026/) |
 | DataSaturday Madrid 2026 | 2026-11-29 | Madrid | [↗](https://dev.events/conferences/data-saturday-madrid-2026-rwsk2lrs) |
 | Explorando Vulnerability Research: Del Descubrimiento a la Explotación | 2026-11-30 | Jaen, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-jaen-presents-explorando-vulnerability-research-del-descubrimiento-a-la-explotacion/) |
+| DescubreXR Zaragoza 2026 | 2026-12-02 | Zaragoza, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-zaragoza-presents-descubrexr-zaragoza-2026/) |
 | NetCoreConf Barcelona 2026 | 2026-12-12 | Barcelona | [↗](https://dev.events/conferences/net-core-conf-madrid-2026-4cknjny) |
+| 🎉 DevFest GDG on Campus UOC 2026 | 2026-12-12 | Barcelona, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-uoc-barcelona-spain-presents-devfest-gdg-on-campus-uoc-2026/) |
 | Devfest Lleida 2026, Intel.ligència Artesanal, 13a edición | 2026-12-18 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-devfest-lleida-2026-intelligencia-artesanal-13a-edicion/) |
+| DevFest Menorca 2026 | 2026-12-18 | Mahon, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-menorca-presents-devfest-menorca-2026/) |
 | ICE Barcelona 2027 | 2027-01-18 to 2027-01-20 | Barcelona | [↗](https://dev.events/conferences/ice-barcelona-2027-unbobjmz) |
 | Devopsdays Vitoria | 2027-01-23 | Vitoria (Spain) | [↗](https://devopsdays.org/events/2027-vitoria) |
 | Integrated Systems Europe (ISE) 2027 | 2027-02-02 to 2027-02-05 | Barcelona, Spain | [↗](https://www.iseurope.org) |

@@ -1,10 +1,9 @@
 # Developer Events in Mexico
 
-18 upcoming events. [Back to the full directory](../README.md)
+17 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| DevFest 2026: Sureste de México Virtual | 2026-11-12 | Villahermosa, Mexico | [↗](https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2026-sureste-de-mexico-virtual/) |
 | pgDay México 2026 | 2026-11-13 | Mexico City | [↗](https://dev.events/conferences/pg-day-mexico-2026-wal4kqq) |
 | DevFest Tijuana 2026 | 2026-11-13 | Tijuana, Mexico | [↗](https://gdg.community.dev/events/details/google-gdg-tijuana-presents-devfest-tijuana-2026/) |
 | DevFest 2026: Innovación en Inteligencia Artificial | 2026-11-13 | México City, Mexico | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-mexico-city-presents-devfest-2026-innovacion-en-inteligencia-artificial/) |

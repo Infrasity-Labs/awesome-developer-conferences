@@ -1,10 +1,9 @@
 # Developer Events in China
 
-22 upcoming events. [Back to the full directory](../README.md)
+21 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Baidu World | 2026-11-12 | Beijing | [↗](https://dev.events/conferences/baidu-world-uqiizhg) |
 | openEuler Summit 2026 - 技术沙龙 | 2026-11-13 to 2026-11-14 | Beijing | [↗](https://dev.events/conferences/open-euler-summit-2026-d24nq0m8) |
 | DevFest CN 2026 Zhangjiakou | 2026-11-14 | Zhangjiakou, China | [↗](https://gdg.community.dev/events/details/google-gdg-zhangjiakou-presents-devfest-cn-2026-zhangjiakou/) |
 | DevFest 2026 Nanyang | 2026-11-14 | Nanyang, China | [↗](https://gdg.community.dev/events/details/google-gdg-nanyang-presents-devfest-2026-nanyang/) |

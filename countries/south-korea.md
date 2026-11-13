@@ -1,10 +1,9 @@
 # Developer Events in South Korea
 
-27 upcoming events. [Back to the full directory](../README.md)
+26 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| 26-2 Onboarding | 2026-11-12 | Incheon, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-incheon-national-university-incheon-south-korea-presents-26-2-onboarding/) |
 | AI 세션: 함께하는 인공지능의 세계 | 2026-11-13 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sangmyung-university-seoul-south-korea-presents-ai-sesyeon-hamggehaneun-ingongjineungyi-segye/) |
 | GDG on Campus SKHU AIOS: Growthon - Ideation Day | 2026-11-13 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkonghoe-university-seoul-south-korea-presents-gdg-on-campus-skhu-aios-growthon-ideation-day/) |
 | ISES Solar World Congress 2026 | 2026-11-15 to 2026-11-20 | Daejeon, South Korea | [↗](https://view.asiae.co.kr/en/article/2026020309283926902) |

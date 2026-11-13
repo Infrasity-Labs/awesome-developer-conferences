@@ -4,9 +4,6 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Salotto MIX | 2026-11-11 to 2026-11-12 | Milan | [↗](https://dev.events/conferences/salotto-mix-bit-7our) |
-| Second brain per persone e agenti: la conoscenza come codice | 2026-11-12 | Brescia, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-brescia-presents-second-brain-per-persone-e-agenti-la-conoscenza-come-codice/) |
-| Cambiamenti Climatici GooWorld - Mappe Interattive e Geofencing con Google Maps API | 2026-11-12 | Agrigento, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-agrigento-presents-cambiamenti-climatici-gooworld-mappe-interattive-e-geofencing-con-google-maps-api/) |
 | DevFest Catania 2026 | 2026-11-14 | Catania, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-catania-presents-devfest-catania-2026/) |
 | Facciamo un Piano per Niscemi \| Il GDG Gela all'event di co-progettazione civica | 2026-11-14 | Gela, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-gela-presents-facciamo-un-piano-per-niscemi-il-gdg-gela-allevento-di-co-progettazione-civica/) |
 | Cloud Day 2026 | 2026-11-18 | Milan (Italy) | [↗](https://www.cloudday.it) |
@@ -22,9 +19,12 @@
 | Road To DevFest Alps 2026 | 2026-11-25 | Saint-Vincent, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-valle-daosta-presents-road-to-devfest-alps-2026/) |
 | GDG Onboarding Aperitivo 🎉 | 2026-11-25 | Rome, Italy, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-luiss-guido-carli-rome-italy-presents-gdg-onboarding-aperitivo/) |
 | Cybersecurity e Google Gemini: dalla genesi di un attacco informatico all'analisi dei log e alle strategie di difesa | 2026-11-26 | Treviso, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-treviso-presents-cybersecurity-e-google-gemini-dalla-genesi-di-un-attacco-informatico-allanalisi-dei-log-e-alle-strategie-di-difesa/) |
+| Da sviluppatore a orchestratore: esperimenti con una software house multiagente multiprovider | 2026-11-26 | Rome, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-roma-citta-presents-da-sviluppatore-a-orchestratore-esperimenti-con-una-software-house-multiagente-multiprovider/) |
 | Aspettando Devfest Alps 2026 - Aperitech Party | 2026-11-27 | Torino, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-torino-presents-aspettando-devfest-alps-2026-aperitech-party/) |
 | ⚡️ Oltre il login: anatomia del phishing moderno ⚡️ | 2026-11-27 | Pisa, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-pisa-presents-oltre-il-login-anatomia-del-phishing-moderno/) |
 | Devfest Alps 2026 | 2026-11-28 | Torino, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-torino-presents-devfest-alps-2026/) |
+| Il commercialista è diventato digitale. Da studio di famiglia a startup: la storia di Fido Commercialista | 2026-11-30 | Vicenza, Italy | [↗](https://www.startupgrind.com/events/details/startup-grind-vicenza-presents-il-commercialista-e-diventato-digitale-da-studio-di-famiglia-a-startup-la-storia-di-fido-commercialista/) |
+| Una sola strada per la produzione: vibecoding sì, ma senza scappare dalle regole aziendali | 2026-12-01 | Milano, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-milano-presents-una-sola-strada-per-la-produzione-vibecoding-si-ma-senza-scappare-dalle-regole-aziendali/) |
 | .NET Conference 2026 | 2026-12-04 | Milan | [↗](https://dev.events/conferences/net-conference-2026-efypsved) |
 | XmasDev 2026 | 2026-12-11 | Rome | [↗](https://dev.events/conferences/xmas-dev-2026-2ykpzzfq) |
 | DevFest Bari 2026 | 2026-12-12 | Bari, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-bari-presents-devfest-bari-2026/) |

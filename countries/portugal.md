@@ -1,12 +1,10 @@
 # Developer Events in Portugal
 
-24 upcoming events. [Back to the full directory](../README.md)
+22 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | Portugal Tech Week 2026 | 2026-11-06 to 2026-11-15 | Lisbon, Portugal | [↗](https://portugaltechweek.com/) |
-| Web Summit Lisbon | 2026-11-09 to 2026-11-12 | Lisbon (Portugal) | [↗](https://websummit.com) |
-| Web Summit 2026 | 2026-11-09 to 2026-11-12 | Lisbon, Portugal | [↗](https://websummit.com/) |
 | Product Circle - Leaders Lisbon | 2026-11-13 | Lisbon | [↗](https://dev.events/conferences/product-circle-leaders-lisbon-omqrvfqu) |
 | From Demo to Production: AI Agent Automations That Don't Break | 2026-11-13 | Funchal, Portugal | [↗](https://gdg.community.dev/events/details/google-gdg-madeira-presents-from-demo-to-production-ai-agent-automations-that-dont-break/) |
 | DevFest  Évora-Alentejo 2026 | 2026-11-14 | Evora, Portugal | [↗](https://gdg.community.dev/events/details/google-gdg-evora-presents-devfest-evora-alentejo-2026/) |

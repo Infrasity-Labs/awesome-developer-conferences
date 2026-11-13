@@ -1,11 +1,10 @@
 # Developer Events in Czechia
 
-13 upcoming events. [Back to the full directory](../README.md)
+12 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | Update Conference Prague 2026 | 2026-11-12 to 2026-11-13 | Prague (Czechia) | [↗](https://prague.updateconf.net) |
-| Update Conference | 2026-11-12 | Prague, Czechia | [↗](https://prague.updateconference.net/) |
 | AI Festival Prague 2026 | 2026-11-21 to 2026-11-23 | Prague, Czechia | [↗](https://ai-festival.cz/en/) |
 | JavaDays Prague | 2026-11-25 to 2026-11-26 | Prague | [↗](https://dev.events/conferences/java-days-prague-utjc9dqr) |
 | Power Conference 2026 | 2026-12-02 to 2026-12-03 | Prague (Czechia) | [↗](https://www.powerconference.cz/) |

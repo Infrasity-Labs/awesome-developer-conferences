@@ -1,12 +1,13 @@
 # Developer Events in Nigeria
 
-39 upcoming events. [Back to the full directory](../README.md)
+42 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | Different Minds, One Community: Launch Meetup | 2026-11-13 | Jos, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-jos-jos-nigeria-presents-different-minds-one-community-launch-meetup/) |
 | From Idea to Playable: Build a web based video game | 2026-11-13 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-from-idea-to-playable-build-a-web-based-video-game/) |
 | Build a Web Browser Game with AI | 2026-11-13 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-build-a-web-browser-game-with-ai/) |
+| Hack4HOD: Build for Anambra | 2026-11-13 | Anambra, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-chukwuemeka-odumegwu-ojukwu-university-anambra-nigeria-presents-hack4hod-build-for-anambra/) |
 | Building with AI at the W3W Creative Hub | 2026-11-14 | Warri, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-warri-presents-building-with-ai-at-the-w3w-creative-hub/) |
 | Road to DevFest Yola: Hands-On Workshop 2 | 2026-11-14 | Jimeta, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-yola-presents-road-to-devfest-yola-hands-on-workshop-2/) |
 | Create Your First 3D Game: Gem Grove Workshop | 2026-11-14 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-create-your-first-3d-game-gem-grove-workshop/) |
@@ -21,6 +22,7 @@
 | DevFest Ibadan 2026 | 2026-11-21 | Ibadan, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-ibadan-presents-devfest-ibadan-2026/) |
 | Infosession: Orbit- Launching your Tech Odyssey | 2026-11-21 | Iwo, Nigeria, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-bowen-university-iwo-nigeria-presents-infosession-orbit-launching-your-tech-odyssey/) |
 | GDGoC Unilorin Info session | 2026-11-22 | Ilorin, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-ilorin-ilorin-nigeria-presents-gdgoc-unilorin-info-session/) |
+| From Code to Cloud: Deploying applications with Google Cloud Run | 2026-11-22 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-from-code-to-cloud-deploying-applications-with-google-cloud-run/) |
 | Hands-On AI Workshop: Building Careers with Google AI & Cloud | 2026-11-24 | Kaduna, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-hands-on-ai-workshop-building-careers-with-google-ai-amp-cloud-2026-11-24/) |
 | Mentorship Session | 2026-11-25 | Abeokuta, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-federal-university-of-agriculture-abeokuta-nigeria-presents-mentorship-session-2026-11-25/) |
 | Decode Tech:Exploring the Tech Ecosystem | 2026-11-26 | Okitipupa, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-olusegun-agagu-university-of-science-technology-okitipupa-nigeria-presents-decode-techexploring-the-tech-ecosystem/) |
@@ -35,6 +37,7 @@
 | Devfest Gusau 2026 | 2026-12-05 | Gusau, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-gusau-presents-devfest-gusau-2026/) |
 | DevFest Asaba 2026 | 2026-12-05 | Asaba, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-asaba-presents-devfest-asaba-2026/) |
 | Devfest Kano 2026 | 2026-12-05 | Kano, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-kano-presents-devfest-kano-2026/) |
+| 404: Screen Not Found, Let's Touch Grass | 2026-12-05 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-404-screen-not-found-lets-touch-grass/) |
 | DevFest Benin 2026: Connect, Learn, Innovate | 2026-12-12 | Benin, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-benin-presents-devfest-benin-2026-connect-learn-innovate/) |
 | DevFest Meetup Ikot Ekpene 2026 | 2026-12-12 | Ikot Ekpene, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-ikot-ekpene-presents-devfest-meetup-ikot-ekpene-2026/) |
 | Devfest 2026: Building Safe, Secure & Scalable Solutions with AI and Cloud for Local Impact | 2026-12-12 | Osogbo, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-osogbo-presents-devfest-2026-building-safe-secure-amp-scalable-solutions-with-ai-and-cloud-for-local-impact/) |

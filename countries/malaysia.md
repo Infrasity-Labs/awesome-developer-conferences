@@ -1,6 +1,6 @@
 # Developer Events in Malaysia
 
-12 upcoming events. [Back to the full directory](../README.md)
+13 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -9,6 +9,7 @@
 | DevFest Kuala Lumpur 2026 | 2026-11-14 | Kuala Lumpur, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-kuala-lumpur-presents-devfest-kuala-lumpur-2026/) |
 | PHISH & CHIPS: CTS AND DINO GAME WORKSHOP | 2026-11-14 | Selangor, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-international-islamic-university-malaysia-selangor-malaysia-presents-phish-amp-chips-cts-and-dino-game-workshop/) |
 | Gamefest: Tetrio Showdown | 2026-11-16 | Penang, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universiti-sains-malaysia-penang-malaysia-presents-gamefest-tetrio-showdown/) |
+| Study Trip to SHENZHEN & HONG KONG | 2026-11-22 | Selangor, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-monash-university-malaysia-selangor-malaysia-presents-study-trip-to-shenzhen-amp-hong-kong/) |
 | DevFest Cloud KL 2026 | 2026-11-28 | Kuala Lumpur, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kl-presents-devfest-cloud-kl-2026/) |
 | Road-To-DevFest: Buildathon | 2026-11-29 | Georgetown, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-george-town-presents-road-to-devfest-buildathon/) |
 | DevFest George Town 2026 | 2026-12-12 | Georgetown, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-george-town-presents-devfest-george-town-2026/) |
