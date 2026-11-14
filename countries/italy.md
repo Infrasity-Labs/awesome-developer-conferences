@@ -1,6 +1,6 @@
 # Developer Events in Italy
 
-42 upcoming events. [Back to the full directory](../README.md)
+43 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -29,6 +29,7 @@
 | XmasDev 2026 | 2026-12-11 | Rome | [↗](https://dev.events/conferences/xmas-dev-2026-2ykpzzfq) |
 | DevFest Bari 2026 | 2026-12-12 | Bari, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-bari-presents-devfest-bari-2026/) |
 | Workshop Stampa 3D | 2026-12-16 | Saint-Vincent, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-valle-daosta-presents-workshop-stampa-3d-1/) |
+| Yohooo! – L'arte di essere meno developer e più pirata (anche se con meno rum e più caffè) | 2026-12-17 | Brescia, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-brescia-presents-yohooo-larte-di-essere-meno-developer-e-piu-pirata-anche-se-con-meno-rum-e-piu-caffe/) |
 | 🎉🎉 Christmas dinner with Startup Grind Rome near Piazza Navona 🎉🎉 | 2026-12-19 | Rome, Italy | [↗](https://www.startupgrind.com/events/details/startup-grind-rome-presents-christmas-dinner-with-startup-grind-rome-near-piazza-navona/) |
 | Christmas Party - Secret Santa | 2026-12-23 | Saint-Vincent, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-valle-daosta-presents-christmas-party-secret-santa/) |
 | AI Festival 2027 | 2027-02-11 to 2027-02-12 | Milan, Italy | [↗](https://www.aifestival.it/) |

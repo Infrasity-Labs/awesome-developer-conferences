@@ -1,10 +1,9 @@
 # Developer Events in Pakistan
 
-11 upcoming events. [Back to the full directory](../README.md)
+10 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Information & Communication Technology (ICT): Powered by Anti-gravity | 2026-11-13 | Peshawar, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-engineering-and-technology-peshawar-pakistan-presents-information-amp-communication-technology-ict-powered-by-anti-gravity/) |
 | Road to Devfest: Build wth AI Workshop at Tech Fusion'26 | 2026-11-14 | Islamabad, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-islamabad-presents-road-to-devfest-build-wth-ai-workshop-at-tech-fusion26/) |
 | Road to DevFest: Buildathon - Episode: 03 | 2026-11-15 | Peshawar, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-peshawar-presents-road-to-devfest-buildathon-episode-03/) |
 | Dev Build 1.0! 🚀💻 | 2026-11-17 | Karachi, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sir-syed-university-of-engineering-technology-karachi-pakistan-presents-dev-build-10/) |

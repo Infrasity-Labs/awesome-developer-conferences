@@ -1,11 +1,11 @@
 # Developer Events in Egypt
 
-22 upcoming events. [Back to the full directory](../README.md)
+23 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Networking & REST APIs | 2026-11-13 | Giza, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-october-6-university-giza-egypt-presents-networking-amp-rest-apis/) |
 | DevFest 2026: Ignite Your Tech Journey! | 2026-11-14 | Ismailia, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-ismailia-presents-devfest-2026-ignite-your-tech-journey/) |
+| StackDev & GDG On Campus Orientation Session | 2026-11-14 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-stackdev-amp-gdg-on-campus-orientation-session/) |
 | Classroom to Career: Your Next Chapter \| GDG AASTMT | 2026-11-18 | Charlottesville, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-arab-academy-for-science-technology-and-maritime-transport-cairo-egypt-presents-classroom-to-career-your-next-chapter-gdg-aastmt/) |
 | State Management (Provider / Bloc) | 2026-11-20 | Giza, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-october-6-university-giza-egypt-presents-state-management-provider-bloc/) |
 | DevFest Online Evening: Multimodal RAG with Gemini API | 2026-11-20 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-egypt-presents-devfest-online-evening-multimodal-rag-with-gemini-api/) |
@@ -15,6 +15,7 @@
 | GDG Benha DevFest 2026 | 2026-11-28 | Banha, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-benha-presents-gdg-benha-devfest-2026/) |
 | Architecture, Publishing & Demo | 2026-12-04 | Giza, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-october-6-university-giza-egypt-presents-architecture-publishing-amp-demo/) |
 | DevFest New Cairo '26 | 2026-12-05 | New Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-new-cairo-presents-devfest-new-cairo-26/) |
+| Devfest Giza 2026 - Think Bigger, Build Further. | 2026-12-05 | Giza, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-giza-presents-devfest-giza-2026-think-bigger-build-further/) |
 | Alexandria DevFest 2026 Kickoff | 2026-12-12 | Alexandria, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-alexandria-presents-alexandria-devfest-2026-kickoff/) |
 | DevFest Assiut 2026 | 2026-12-12 | Asyut, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-assiut-presents-devfest-assiut-2026/) |
 | DevFest Aswan'26 | 2026-12-12 | Aswan, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-aswan-presents-devfest-aswan26/) |

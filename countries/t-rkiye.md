@@ -1,9 +1,10 @@
 # Developer Events in Türkiye
 
-7 upcoming events. [Back to the full directory](../README.md)
+8 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
+| Cyber Detective - Cyber Security Workshop and Capture The Flag | 2026-11-19 | Istanbul, Türkiye | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-istinye-university-istanbul-turkiye-presents-cyber-detective-cyber-security-workshop-and-capture-the-flag/) |
 | DevFest Hatay 2026 | 2026-11-28 | İskenderun (Turkey) | [↗](https://gdg.community.dev/events/details/google-gdg-hatay-presents-devfest-hatay-2026/) |
 | Devfest Kütahya 2926 | 2026-12-05 | Kütahya Merkez (Turkey) | [↗](https://gdg.community.dev/events/details/google-gdg-kutahya-presents-devfest-kutahya/) |
 | DevFest Izmir 2026 | 2026-12-05 | Bayraklı (Turkey) | [↗](https://gdg.community.dev/events/details/google-gdg-izmir-presents-devfest-izmir-2026/) |

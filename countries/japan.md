@@ -1,10 +1,9 @@
 # Developer Events in Japan
 
-37 upcoming events. [Back to the full directory](../README.md)
+36 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| NexTech Week Tokyo \| RX Japan Ltd. | 2026-11-11 to 2026-11-13 | Tokyo | [↗](https://dev.events/conferences/nex-tech-week-tokyo-rx-japan-ltd-dmxvpnbr) |
 | CODE BLUE 2026 | 2026-11-13 to 2026-11-15 | Tokyo (Japan) | [↗](https://codeblue.jp/) |
 | データ利活用やってみよう！ハッカソン2026 中間発表会 #DevFest | 2026-11-14 | Osaka, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-osaka-presents-detali-huo-yong-yatsutemiyouhatsukason2026-zhong-jian-fa-biao-hui-devfest/) |
 | 【OSAKA】AIワークショップ | 2026-11-14 | Tokyo, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-international-professional-university-of-technology-tokyo-japan-presents-osaka-aiwakushiyotsupu-4/) |
