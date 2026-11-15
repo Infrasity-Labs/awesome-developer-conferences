@@ -345,7 +345,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | FRGMNTD Sessions | 2026-11-14 | Singapore, SG | [↗](https://lu.ma/mwzg71ya) |
 | 【OSAKA】AIワークショップ | 2026-11-14 | Tokyo, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-international-professional-university-of-technology-tokyo-japan-presents-osaka-aiwakushiyotsupu-4/) |
 | The Founder Room ( Hyderabad's private founder problem-solving forum ) | 2026-11-14 | Hyderabad, TS, IN | [↗](https://allevents.in/hyderabad/the-founder-room-hyderabads-private-founder-problem-solving-forum-tickets/80001331729765) |
-| CoreVoice Sundowner #1 | 2026-11-14 | Bengaluru, IN | [↗](https://lu.ma/qfgty0ek) |
 | Pastel Nagomi Art: A Mindful Art Workshop | 2026-11-14 | Singapore, SG | [↗](https://lu.ma/og4mb5pq) |
 | Seed Award 2026 Ceremony & Fieldwork | 2026-11-14 | Singapore, SG | [↗](https://lu.ma/jjv9ip5c) |
 | DevFest Mangaluru 2026 | 2026-11-14 | Mangaluru, India | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-mangalore-presents-devfest-mangaluru-2026/) |
@@ -382,7 +381,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Info Session 2026 Navigating Industry Realities: Empowering Students Beyond Campus Hype | 2026-11-14 | Depok, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-gunadarma-depok-indonesia-presents-info-session-2026-navigating-industry-realities-empowering-students-beyond-campus-hype/) |
 | COWTOPIA VI : A New Cowtopia | 2026-11-14 | Singapore, SG | [↗](https://lu.ma/new-cowtopia) |
 | FREE AI DIGITAL MARKETING WORKSHOP | 2026-11-14 | Hyderabad, TS, IN | [↗](https://allevents.in/hyderabad/free-ai-digital-marketing-workshop-tickets/80002440172809) |
-| Ganga Manthan : Pre Devfest Kolkata (Any Body can Code) 2026 | 2026-11-14 | Kolkata, India | [↗](https://gdg.community.dev/events/details/google-gdg-kolkata-presents-ganga-manthan-pre-devfest-kolkata-any-body-can-code-2026/) |
 | EPC Partner Program | 2026-11-14 | Bengaluru, IN | [↗](https://lu.ma/epc_partnerprogram) |
 | Builders and Backers : Panel Conversation and Startup Showcase | 2026-11-14 | Bengaluru, IN | [↗](https://lu.ma/jf2sl1x7) |
 | Bengaluru Offline Mixer | 2026-11-14 | Bengaluru, IN | [↗](https://lu.ma/zijiqyvz) |
@@ -967,7 +965,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | DevFest Taoyuan 2026 | 2026-12-05 | Taoyuan, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-taoyuan-presents-devfest-taoyuan-2026/) |
 | DevFest Lahore 2026 : AGENTS OF CHANGE | 2026-12-05 | Lahore, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-lahore-presents-devfest-lahore-2026-agents-of-change/) |
 | GDG Ahmedabad DevFest 2026 | 2026-12-05 | Ahmedabad | [↗](https://dev.events/conferences/gdg-ahmedabad-dev-fest-2026-g64t0-9l) |
-| DevFest ZamPen 2026 : Build, secure, scale: Developers and builders in the agentic era | 2026-12-05 | Zamboanga, Philippines | [↗](https://gdg.community.dev/events/details/google-gdg-zamboanga-presents-devfest-zampen-2026-build-secure-scale-developers-and-builders-in-the-agentic-era/) |
 | Bangalore Product Mixer #4 \| Product Reactor | 2026-12-05 | Bengaluru, IN | [↗](https://lu.ma/232qy3xn) |
 | Agents of Change: Buildathon | 2026-12-05 | Kathmandu, Nepal | [↗](https://gdg.community.dev/events/details/google-gdg-kathmandu-presents-agents-of-change-buildathon/) |
 | Startup Networking Open House | 2026-12-05 | Bengaluru, IN | [↗](https://lu.ma/5w030u0g) |
@@ -6000,7 +5997,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | Harnessing carbon data to accelerate carbon finance in Japan | 2026-11-16 | Shibuya, JP | [↗](https://lu.ma/3c25lc2f) |
 | 🤖✨ Get Feedback from Founders, Tech Experts, & Investors \| Gopal, Aron, & Sunny | 2026-11-16 | Virtual/Online | [↗](https://www.meetup.com/daretoshift/events/316164347/) |
 | Founders Run Tokyo | 2026-11-16 | Shibuya, JP | [↗](https://lu.ma/8y806r0m) |
-| Hands-On AI Coding Workshop: Part 2 | 2026-11-16 | İzmir, Türkiye | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-izmir-institute-of-technology-izmir-turkiye-presents-hands-on-ai-coding-workshop-part-2/) |
 | Startup Grind Baku: Info Session | 2026-11-16 | Baku, Azerbaijan | [↗](https://www.startupgrind.com/events/details/startup-grind-baku-presents-startup-grind-baku-info-session/) |
 | Love's Pathway Community Meeting | 2026-11-16 | Oakland, US | [↗](https://lu.ma/y5d62tlq) |
 | Fall Centerpiece Workshop \| Maison Rose x The Redwood | 2026-11-16 | Palo Alto, US | [↗](https://lu.ma/bvyq6jd1) |
@@ -7721,8 +7717,6 @@ Jump straight to upcoming events in a country. Pages refresh daily with the main
 | DevFest Dar Es Salaam 2026 | 2026-11-07 | Dar es Salaam | [↗](https://dev.events/conferences/dev-fest-dar-es-salaam-2026-tstfj2wq) |
 | AWS Community Day Bandung 2026 | 2026-11-07 | Bandung | [↗](https://dev.events/conferences/aws-community-day-bandung-2026-gdxs38c3) |
 | PlatformCon Live Day São Paulo | 2026-11-07 | Sao Paulo | [↗](https://dev.events/conferences/platform-con-live-day-sao-paulo-py-llcmk) |
-| SANS San Francisco 2026 | 2026-11-07 | Unknown | [↗](https://www.sans.org/cyber-security-training-events/san-francisco-2026) |
-| SANS Raleigh 2026 | 2026-11-07 | Unknown | [↗](https://www.sans.org/cyber-security-training-events/raleigh-2026) |
 | Demo Day | 2026-11-07 | Millers Point, AU | [↗](https://lu.ma/1o6grq3k) |
 | Récital Carnatique - Sangeetha Arangetram - Virginie Arulthas | 2026-11-07 | Louvres, FR | [↗](https://lu.ma/pz7yr7oz) |
 | DevFest Keffi 2026 | 2026-11-07 | Keffi | [↗](https://dev.events/conferences/dev-fest-keffi-2026-aawui8a6) |
