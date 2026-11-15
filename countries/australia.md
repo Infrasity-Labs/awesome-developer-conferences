@@ -1,12 +1,10 @@
 # Developer Events in Australia
 
-120 upcoming events. [Back to the full directory](../README.md)
+119 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | AI Entrepreneurship Bootcamp & Hackathon: Build Your Successful AI Startup | 2026-11-10 to 2027-10-28 | Sydney, NS, AU | [↗](https://allevents.in/sydney/ai-entrepreneurship-bootcamp-and-hackathon-build-your-successful-ai-startup/100002004514419589) |
-| THIRTYSOMETHING SYDNEY \| Babylon Rooftop Bar | 2026-11-14 | Sydney, AU | [↗](https://lu.ma/czn0cyo8) |
-| ALO WESTFIELD SYDNEY: ALO RECOVERY WALK | 2026-11-14 | Sydney, AU | [↗](https://lu.ma/pf1qoh6p) |
 | Gartner HR Symposium/Xpo | 2026-11-16 to 2026-11-17 | Sydney | [↗](https://dev.events/conferences/gartner-hr-symposium-xpo-6e-ujera) |
 | Global AI Conference | 2026-11-16 | North Sydney, AU | [↗](https://lu.ma/o6lepwwc) |
 | Global AI Conference Sydney | 2026-11-16 | Sydney | [↗](https://globalai.community/e/dmfnoel3) |
@@ -99,6 +97,7 @@
 | AI Safety Networking Night - Sydney Conference Week | 2026-12-10 | Sydney, AU | [↗](https://lu.ma/qw32xqfa) |
 | Prolific NeurIPS: Waterfront Night Party | 2026-12-10 | Sydney, AU | [↗](https://lu.ma/1dyw5lkx) |
 | Happy Hour: AWS Trainium Frontier results on a fixed compute budget, by the teams who built them | 2026-12-10 | Sydney, AU | [↗](https://lu.ma/b0hw5q8y) |
+| Google x Reactor NeurIPS Cocktail Hour | 2026-12-10 | Sydney, AU | [↗](https://lu.ma/rgwx0dnh) |
 | Fabric Friday Melbourne | 2026-12-11 | Melbourne | [↗](https://dev.events/conferences/fabric-friday-melbourne-5wbxivr6) |
 | Christmas Networking Drinks | 2026-12-16 | Sydney, AU | [↗](https://lu.ma/9judywon) |
 | Everything Open 2027 | 2027-01-20 to 2027-01-22 | Brisbane | [↗](https://dev.events/conferences/everything-open-2027-fqdbc0md) |

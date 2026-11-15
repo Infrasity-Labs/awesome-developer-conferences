@@ -1,13 +1,10 @@
 # Developer Events in Portugal
 
-20 upcoming events. [Back to the full directory](../README.md)
+17 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | Portugal Tech Week 2026 | 2026-11-06 to 2026-11-15 | Lisbon, Portugal | [↗](https://portugaltechweek.com/) |
-| DevFest  Évora-Alentejo 2026 | 2026-11-14 | Evora, Portugal | [↗](https://gdg.community.dev/events/details/google-gdg-evora-presents-devfest-evora-alentejo-2026/) |
-| DevFest  Alentejo 2026 | 2026-11-14 | Beja, Portugal | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-polytechnic-institute-of-beja-beja-portugal-presents-devfest-alentejo-2026/) |
-| Dynamics 365 Summit 2026 | 2026-11-14 | Lisbon (Portugal) | [↗](https://dynamics365summit.com) |
 | SuriCon2026 | 2026-11-18 to 2026-11-20 | Lisbon | [↗](https://dev.events/conferences/suri-con2026-kcru6jsw) |
 | Go in Practice: Human-Centered Software Engineering | 2026-11-18 | Porto, Portugal | [↗](https://gdg.community.dev/events/details/google-gdg-porto-presents-go-in-practice-human-centered-software-engineering/) |
 | Simple language, complex code: The cost of Go's simplicity | 2026-11-18 | Porto, Portugal | [↗](https://gdg.community.dev/events/details/google-gdg-porto-presents-simple-language-complex-code-the-cost-of-gos-simplicity/) |

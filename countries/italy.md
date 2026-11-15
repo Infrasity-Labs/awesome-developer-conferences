@@ -1,11 +1,9 @@
 # Developer Events in Italy
 
-43 upcoming events. [Back to the full directory](../README.md)
+41 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| DevFest Catania 2026 | 2026-11-14 | Catania, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-catania-presents-devfest-catania-2026/) |
-| Facciamo un Piano per Niscemi \| Il GDG Gela all'event di co-progettazione civica | 2026-11-14 | Gela, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-gela-presents-facciamo-un-piano-per-niscemi-il-gdg-gela-allevento-di-co-progettazione-civica/) |
 | Cloud Day 2026 | 2026-11-18 | Milan (Italy) | [↗](https://www.cloudday.it) |
 | Hackathon #ValleyAI | 2026-11-18 | Saint-Vincent, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-valle-daosta-presents-hackathon-valleyai/) |
 | .NET Conference Italia 2026 | 2026-11-18 | Milan | [↗](https://dev.events/conferences/net-conference-italia-2026-pxjvzphe) |

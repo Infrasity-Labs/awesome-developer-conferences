@@ -1,20 +1,14 @@
 # Developer Events in Indonesia
 
-24 upcoming events. [Back to the full directory](../README.md)
+18 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Road to DevFest Cloud Surabaya '26 #2 | 2026-11-14 | Surabaya, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-surabaya-presents-road-to-devfest-cloud-surabaya-26-2/) |
-| Info Session 2026 Navigating Industry Realities: Empowering Students Beyond Campus Hype | 2026-11-14 | Depok, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-gunadarma-depok-indonesia-presents-info-session-2026-navigating-industry-realities-empowering-students-beyond-campus-hype/) |
-| Bandung Innovation Week 2026: Innovate – Collaborate – Elevate | 2026-11-14 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-bandung-presents-bandung-innovation-week-2026-innovate-collaborate-elevate/) |
-| Weekly Class #2 Problem Statement & Figma Project Setup | 2026-11-14 | Makassar, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-negeri-makassar-makassar-indonesia-presents-weekly-class-2-problem-statement-amp-figma-project-setup/) |
-| Study Jam Mobile Dev: From Scratch to Real Apps | 2026-11-14 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-widyatama-university-bandung-indonesia-presents-study-jam-mobile-dev-from-scratch-to-real-apps/) |
-| Study Jam Data Analyst: Data Wrangling with Pandas | 2026-11-14 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-widyatama-university-bandung-indonesia-presents-study-jam-data-analyst-data-wrangling-with-pandas/) |
-| Info Session for Open Recruitment Core Team GDGoC UIN Jakarta 2026/2027 | 2026-11-14 | South Tangerang, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-uin-syarif-hidayatullah-jakarta-south-tangerang-indonesia-presents-info-session-for-open-recruitment-core-team-gdgoc-uin-jakarta-20262027/) |
 | Build Your UI/UX Foundation | 2026-11-15 | Makassar, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-uin-alauddin-makassar-makassar-indonesia-presents-build-your-uiux-foundation/) |
 | Weekly Class #1 Introduction to Front End, Developer Tools, and Learning | 2026-11-15 | Makassar, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-negeri-makassar-makassar-indonesia-presents-weekly-class-1-introduction-to-front-end-developer-tools-and-learning/) |
 | Study Jam Cybersecurity: Recon, “VIbe coded mindset” & Env Leak | 2026-11-15 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-widyatama-university-bandung-indonesia-presents-study-jam-cybersecurity-recon-vibe-coded-mindset-amp-env-leak/) |
 | Study Jam Full-Stack Web: Fundamental & Praktik Dasar MySQL dan PHP | 2026-11-15 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-widyatama-university-bandung-indonesia-presents-study-jam-full-stack-web-fundamental-amp-praktik-dasar-mysql-dan-php/) |
+| Study Banding DevGirls x GDGOC Maliki | 2026-11-15 | Malang, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-uin-maulana-malik-ibrahim-malang-malang-indonesia-presents-study-banding-devgirls-x-gdgoc-maliki/) |
 | Global Security Symposium | 2026-11-18 | Jakarta | [↗](https://dev.events/conferences/global-security-symposium-xnnyf-yi) |
 | IDSW 2026 | 2026-11-21 to 2026-11-22 | Jakarta | [↗](https://dev.events/conferences/idsw-2026-xkdqgw7y) |
 | Cloud DevFest Surabaya '26: Building Safe, Secure & Scalable Solutions with AI and Cloud | 2026-11-21 | Surabaya, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-surabaya-presents-cloud-devfest-surabaya-26-building-safe-secure-amp-scalable-solutions-with-ai-and-cloud/) |

@@ -1,12 +1,9 @@
 # Developer Events in Taiwan
 
-16 upcoming events. [Back to the full directory](../README.md)
+13 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| DevFest Kaohsiung 2026 | 2026-11-14 | Kaohsiung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-kaohsiung-presents-devfest-kaohsiung-2026/) |
-| DevFest Kaohsiung 2026 After Buffet | 2026-11-14 | Kaohsiung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-kaohsiung-presents-devfest-kaohsiung-2026-after-buffet/) |
-| GDGoC NCU X OpenTPI 期中專案分享會 | 2026-11-14 | Taoyuan, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-central-university-taoyuan-city-taiwan-presents-gdgoc-ncu-x-opentpi-qi-zhong-zhuan-an-fen-xiang-hui/) |
 | 【社課 #5 預告｜用 AI 打造預測模型：從資料到 Kaggle 實戰】 | 2026-11-17 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-chengchi-university-taipei-taiwan-presents-she-ke-5-yu-gao-yong-ai-da-zao-yu-ce-mo-xing-cong-zi-liao-dao-kaggle-shi-zhan/) |
 | 11 月社課｜讓程式碼飛一會兒，從 localhost 到 Google Cloud | 2026-11-18 | Tainan, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-cheng-kung-university-tainan-city-taiwan-presents-11-yue-she-ke-rang-cheng-shi-ma-fei-yi-hui-er-cong-localhost-dao-google-cloud/) |
 | LINE 企業參訪 | 2026-11-19 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-taiwan-university-of-science-and-technology-taipei-taiwan-presents-line-qi-ye-can-fang-1/) |

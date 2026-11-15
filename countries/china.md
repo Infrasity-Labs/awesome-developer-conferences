@@ -1,14 +1,9 @@
 # Developer Events in China
 
-21 upcoming events. [Back to the full directory](../README.md)
+16 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| openEuler Summit 2026 - 技术沙龙 | 2026-11-13 to 2026-11-14 | Beijing | [↗](https://dev.events/conferences/open-euler-summit-2026-d24nq0m8) |
-| DevFest CN 2026 Zhangjiakou | 2026-11-14 | Zhangjiakou, China | [↗](https://gdg.community.dev/events/details/google-gdg-zhangjiakou-presents-devfest-cn-2026-zhangjiakou/) |
-| DevFest 2026 Nanyang | 2026-11-14 | Nanyang, China | [↗](https://gdg.community.dev/events/details/google-gdg-nanyang-presents-devfest-2026-nanyang/) |
-| DevFest 2026 Dongguan | 2026-11-14 | Dongguan, China | [↗](https://gdg.community.dev/events/details/google-gdg-dongguan-presents-devfest-2026-dongguan/) |
-| Restructuring Gen-Z Entrepreneurship with the OPC Model \| Startup Fest Macao 2026 x Startup Grind Guangzhou | 2026-11-14 | Guangzhou, China | [↗](https://www.startupgrind.com/events/details/startup-grind-guangzhou-presents-restructuring-gen-z-entrepreneurship-with-the-opc-model-startup-fest-macao-2026-x-startup-grind-guangzhou/) |
 | Devfest 2026: Exploring the Future of Google Technologies | 2026-11-15 | Zhengzhou, China | [↗](https://gdg.community.dev/events/details/google-gdg-zhengzhou-presents-devfest-2026-exploring-the-future-of-google-technologies/) |
 | C++ and System Software Summit 2026 | 2026-11-20 to 2026-11-21 | Shanghai | [↗](https://dev.events/conferences/c-and-system-software-summit-2026-fv2gzs9s) |
 | 2026 Google DevFest Guangzhou AI Carnival | 2026-11-21 | Guangzhou, China | [↗](https://gdg.community.dev/events/details/google-gdg-guangzhou-presents-2026-google-devfest-guangzhou-ai-carnival/) |

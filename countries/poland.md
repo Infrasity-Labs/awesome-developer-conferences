@@ -1,10 +1,9 @@
 # Developer Events in Poland
 
-32 upcoming events. [Back to the full directory](../README.md)
+31 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| CMS Conf 2026 | 2026-11-12 to 2026-11-14 | Gdynia (Poland) | [↗](https://cmsconf.com) |
 | AI Poland | 2026-11-17 to 2026-11-19 | Warsaw (Poland) | [↗](https://ai-poland.pl) |
 | JS Poland | 2026-11-17 to 2026-11-19 | Warsaw (Poland) | [↗](https://js-poland.pl) |
 | NG Poland | 2026-11-17 to 2026-11-19 | Warsaw (Poland) | [↗](https://ng-poland.pl) |

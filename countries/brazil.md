@@ -1,16 +1,11 @@
 # Developer Events in Brazil
 
-36 upcoming events. [Back to the full directory](../README.md)
+33 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| DevFest Rio de Janeiro 2026: Inovação e Tecnologia | 2026-11-14 | Rio de Janeiro, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-rio-de-janeiro-presents-devfest-rio-de-janeiro-2026-inovacao-e-tecnologia/) |
-| Devopsdays Brasília | 2026-11-14 | Brasília (Brazil) | [↗](https://devopsdays.org/events/2026-brasilia) |
-| DevFest Fortaleza 2026: ampliando horizonte, conhecimentos, inovação e tecnologia. | 2026-11-14 | Fortaleza, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-fortaleza-presents-devfest-fortaleza-2026-ampliando-horizonte-conhecimentos-inovacao-e-tecnologia/) |
-| Devopsdays Belém | 2026-11-14 | Belem (Brazil) | [↗](https://devopsdays.org/events/2026-belem) |
-| DevFest Sul 2026 | 2026-11-14 | Florianópolis, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-floripa-presents-devfest-sul-2026/) |
-| DevFest Floripa 2026 | 2026-11-14 | Florianópolis, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-floripa-presents-devfest-floripa-2026/) |
 | Cloud Native Night Rio! Uma noite no cluster! | 2026-11-18 | Rio de Janeiro, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-rio-de-janeiro-presents-cloud-native-night-rio-uma-noite-no-cluster/) |
+| Bate papo sobre Carreira Tech | 2026-11-18 | Caraguatatuba, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-caraguatatuba-presents-bate-papo-sobre-carreira-tech/) |
 | DevFest Maringá 2026 | 2026-11-19 | Maringá, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-maringa-presents-devfest-maringa-2026/) |
 | O último GDGolo do ano! | 2026-11-19 | Belo Horizonte, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-belo-horizonte-presents-o-ultimo-gdgolo-do-ano/) |
 | DevFest João Pessoa 2026 | 2026-11-20 | João Pessoa, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-joao-pessoa-presents-devfest-joao-pessoa-2026-2/) |
@@ -19,6 +14,7 @@
 | DevFest Ctba 2026 | 2026-11-22 | Curitiba, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-curitiba-presents-devfest-ctba-2026/) |
 | Explorando HTTPs e a Revolução da IA Agêntica | 2026-11-24 | Barueri, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-barueri-presents-explorando-https-e-a-revolucao-da-ia-agentica/) |
 | DevFest Marília 2026 | 2026-11-26 | Marília, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-marilia-presents-devfest-marilia-2026/) |
+| DevFest Caraguatatuba 2026 | 2026-11-26 | Caraguatatuba, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-caraguatatuba-presents-devfest-caraguatatuba-2026/) |
 | GambiConf 2026 | 2026-11-28 to 2026-11-29 | São Paulo (Brazil) | [↗](https://gambiconf.dev/) |
 | DevFest Cerrado 2026 | 2026-11-28 | Goiania, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-goiania-presents-devfest-cerrado-2026/) |
 | ☁️ DevFest ☁️ | 2026-11-28 | São Paulo, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-sao-paulo-presents-devfest/) |
@@ -37,6 +33,7 @@
 | Devopsdays Recife | 2026-12-12 | Recife (Brazil) | [↗](https://devopsdays.org/events/2026-recife) |
 | DevFest Nova Lima 2026: Da ideia à aplicação com IA | 2026-12-12 | Nova Lima, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-nova-lima-presents-devfest-nova-lima-2026-da-ideia-a-aplicacao-com-ia/) |
 | Devfest Salvador 2026 | 2026-12-12 | Salvador, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-salvador-presents-devfest-salvador-2026/) |
+| HackerX - São Paulo (AI) - Employer Ticket - 1/28 | 2027-01-28 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/hackerx-são-paulo-ai-employer-ticket-1-28/100002004498693552) |
 | GITEX AI LATAM | 2027-03-16 | São Paulo, Brazil | [↗](https://www.gitexlatam.com) |
 | Devopsdays Belo Horizonte | 2027-05-15 | Belo Horizonte (Brazil) | [↗](https://devopsdays.org/events/2027-belo-horizonte) |
 | Devopsdays Curitiba | 2027-08-21 | Curitiba (Brazil) | [↗](https://devopsdays.org/events/2027-curitiba) |

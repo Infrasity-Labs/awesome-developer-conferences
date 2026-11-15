@@ -1,42 +1,10 @@
 # Developer Events in India
 
-264 upcoming events. [Back to the full directory](../README.md)
+246 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | UbuCon India 2026 | 2026-11-14 to 2026-11-15 | Bengaluru | [↗](https://dev.events/conferences/ubu-con-india-2026-i-ybnt7o) |
-| Google Cloud Community Day Kochi - 2026 | 2026-11-14 | Kochi, India | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kochi-presents-google-cloud-community-day-kochi-2026/) |
-| DevFest Nagpur 2026 | 2026-11-14 | Nagpur, India | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-nagpur-presents-devfest-nagpur-2026/) |
-| CoreVoice Sundowner #1 | 2026-11-14 | Bengaluru, IN | [↗](https://lu.ma/qfgty0ek) |
-| DevFest Mangaluru 2026 | 2026-11-14 | Mangaluru, India | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-mangalore-presents-devfest-mangaluru-2026/) |
-| DevFest Lucknow 2026: Where Builders Meet | 2026-11-14 | Lucknow, India | [↗](https://gdg.community.dev/events/details/google-gdg-lucknow-presents-devfest-lucknow-2026-where-builders-meet/) |
-| [Pre-DevFest] A Day With the Kids | 2026-11-14 | Mumbai, India | [↗](https://gdg.community.dev/events/details/google-gdg-mad-presents-pre-devfest-a-day-with-the-kids/) |
-| DevFest Siliguri 2026 | 2026-11-14 | Siliguri, India | [↗](https://gdg.community.dev/events/details/google-gdg-siliguri-presents-devfest-siliguri-2026/) |
-| Founders & Investors Xplore (FIX) by CEDAT | 2026-11-14 | Bengaluru, IN | [↗](https://lu.ma/msyd0o1g) |
-| Multi-AI with OpenRouter \| Tech Talk | 2026-11-14 | Madurai, India | [↗](https://gdg.community.dev/events/details/google-gdg-madurai-presents-multi-ai-with-openrouter-tech-talk/) |
-| Her Space: Create | 2026-11-14 | Bengaluru, IN | [↗](https://lu.ma/51ys86l2) |
-| Masti ki Pathshala (For Women,By Invitation) | 2026-11-14 | Bengaluru, IN | [↗](https://lu.ma/i7kl7zbs) |
-| Design School S2: AI took my brief, not my job | 2026-11-14 | Bengaluru, IN | [↗](https://lu.ma/nl4uicnj) |
-| Polaris Family Day | 2026-11-14 | Bengaluru, IN | [↗](https://lu.ma/jf4u3cdz) |
-| FoundIN Curated Meetup - 14th November | 2026-11-14 | Bengaluru, IN | [↗](https://lu.ma/odd74ra3) |
-| Ganga Manthan : Pre Devfest Kolkata (Any Body can Code) 2026 | 2026-11-14 | Kolkata, India | [↗](https://gdg.community.dev/events/details/google-gdg-kolkata-presents-ganga-manthan-pre-devfest-kolkata-any-body-can-code-2026/) |
-| EPC Partner Program | 2026-11-14 | Bengaluru, IN | [↗](https://lu.ma/epc_partnerprogram) |
-| Builders and Backers : Panel Conversation and Startup Showcase | 2026-11-14 | Bengaluru, IN | [↗](https://lu.ma/jf2sl1x7) |
-| Bengaluru Offline Mixer | 2026-11-14 | Bengaluru, IN | [↗](https://lu.ma/zijiqyvz) |
-| TSOP turns 1! | 2026-11-14 | Bengaluru, IN | [↗](https://lu.ma/ifoujno7) |
-| From Hypothesis to Funded Science: a hands-on workshop with Bio × Lossfunk | 2026-11-14 | Bengaluru, IN | [↗](https://lu.ma/bio-a64x) |
-| SALT #3 - Theory-focused ML paper reading group | 2026-11-14 | Bengaluru, IN | [↗](https://lu.ma/95zsjtqa) |
-| P&L on a Napkin \| Bangalore Edition | 2026-11-14 | Bengaluru, IN | [↗](https://lu.ma/3gbgt1pz) |
-| Big AI, Small Machines: 5 Ways to Shrink an LLM | 2026-11-14 | Madurai, India | [↗](https://gdg.community.dev/events/details/google-gdg-madurai-presents-big-ai-small-machines-5-ways-to-shrink-an-llm/) |
-| The Model Shift : Software Factory Edition | 2026-11-14 | Bengaluru, IN | [↗](https://lu.ma/6tgm6d8u) |
-| Video Creation for Builders using Claude Code - Bengaluru Edition | 2026-11-14 | Bengaluru, IN | [↗](https://lu.ma/5bqlck9f) |
-| OMC Community Drive: Children’s Day Celebration 🎈 | 2026-11-14 | Bengaluru, IN | [↗](https://lu.ma/s2kr3os0) |
-| The Wine Soiree | 2026-11-14 | Bengaluru, IN | [↗](https://lu.ma/mclu7qed) |
-| Shots by Taskies | 2026-11-14 | Bengaluru, IN | [↗](https://lu.ma/tf5nslif) |
-| Crossbow Hiring Drive | 2026-11-14 | Bengaluru, IN | [↗](https://lu.ma/8jazzjlf) |
-| Cosmic Karaoke - A Contemporary Bhajan Singalong \| Free Entry | 2026-11-14 | Bengaluru, IN | [↗](https://lu.ma/b1bfegj2) |
-| Web Development Circle \| Class 2: Git & GitHub Essentials | 2026-11-14 | Delhi, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-indira-gandhi-delhi-technical-university-for-women-delhi-india-presents-web-development-circle-class-2-git-amp-github-essentials/) |
-| GDG Community Kickoff & Google Study Jams Intro | 2026-11-14 | Vidisha, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-samrat-ashok-technological-institute-vidisha-india-presents-gdg-community-kickoff-amp-google-study-jams-intro/) |
 | Cloud Community Days 2026 Mumbai | 2026-11-15 | Mumbai, India | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-mumbai-presents-cloud-community-days-2026-mumbai/) |
 | CyberSwaraj: Digital Privacy for Beginners | 2026-11-15 | Bengaluru, IN | [↗](https://lu.ma/guz9u3ic) |
 | Build With AI Workshop :  Pre DevFest Gwalior 2026 | 2026-11-15 | Gwalior, India | [↗](https://gdg.community.dev/events/details/google-gdg-gwalior-presents-build-with-ai-workshop-pre-devfest-gwalior-2026/) |
@@ -57,6 +25,7 @@
 | AI Safety for Builders: Speaker Session with Ankur Pandey \| Bengaluru \| AI Safety India | 2026-11-15 | Bengaluru, IN | [↗](https://lu.ma/435kadaq) |
 | Discover AI: Unveiling Opportunities | 2026-11-15 | Madagadipet, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sri-manakula-vinayagar-engineering-college-madagadipet-india-presents-discover-ai-unveiling-opportunities/) |
 | Cloud Learn with Communities: Unlocked | 2026-11-15 | Chandigarh, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-chandigarh-university-chandigarh-india-presents-cloud-learn-with-communities-unlocked/) |
+| An Introduction To Google Cloud & Hands-On Learning | 2026-11-15 | Puttur, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-vivekananda-college-of-artsscience-and-commerce-puttur-india-presents-an-introduction-to-google-cloud-amp-hands-on-learning/) |
 | Qiskit Fall Fest 2026: Hands-On Quantum Programming with Qiskit | 2026-11-16 | Bengaluru, IN | [↗](https://lu.ma/79i0vamg) |
 | GRO8 Inner Circle: Demo Night \| An invite-only investor evening with the next GRO8 cohort, before Bengaluru Tech Summit | 2026-11-16 | Bengaluru, IN | [↗](https://lu.ma/g9x3vb3d) |
 | AIBoomi Demo Room \| BLR | 2026-11-16 | Bengaluru, IN | [↗](https://lu.ma/demoroomnov26) |
@@ -64,11 +33,14 @@
 | Spill the Zo Tea | 2026-11-16 | Bengaluru, IN | [↗](https://lu.ma/9kqztd2f) |
 | Storytelling-Led Growth: A Workshop with Siddharth Ram | 2026-11-16 | Bengaluru, IN | [↗](https://lu.ma/aiboomi-dv37) |
 | Verse Engine by Ctruh: Launch Night, Bengaluru | 2026-11-16 | Bengaluru, IN | [↗](https://lu.ma/f3f9xwo1) |
+| GDG Orientation Day 2026 \| Meet. Connect. Explore | 2026-11-16 | Kolkata, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-rcc-institute-of-information-technology-kolkata-india-presents-gdg-orientation-day-2026-meet-connect-explore/) |
 | Games for Change India Festival | 2026-11-17 | Bengaluru, IN | [↗](https://lu.ma/mvi9nq09) |
 | Amplitude Bangalore Meetup with CEO & Cofounder Spenser Skates | 2026-11-17 | Bengaluru, IN | [↗](https://lu.ma/y47b6mgh) |
 | Claude Builder Day Bengaluru: Maximizing Margins | 2026-11-17 | Bengaluru, IN | [↗](https://lu.ma/claudebuilderday) |
 | Beyond Borders: Japan and India Innovation Bridge | 2026-11-17 | Bengaluru, IN | [↗](https://lu.ma/start2-9cwk) |
 | GDG Orientation Program | 2026-11-17 | Kolkata, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-dr-sudhir-chandra-sur-institute-of-technology-sports-complex-kolkata-india-presents-gdg-orientation-program/) |
+| Coffee & Cowork \| HSR | 2026-11-17 | Bengaluru, IN | [↗](https://lu.ma/w163oilq) |
+| 3 Day challenge | 2026-11-17 | Bengaluru, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-bangalore-institute-of-technology-bengaluru-india-presents-3-day-challenge/) |
 | gRPConf India | 2026-11-18 | Bengaluru | [↗](https://dev.events/conferences/g-rp-conf-india-tuenu4xh) |
 | GCC Circle Presents Perspectives By Table Space | 2026-11-18 | Bengaluru, IN | [↗](https://lu.ma/sqa8jgaa) |
 | Make Your First Game! | 2026-11-18 | Bengaluru, IN | [↗](https://lu.ma/8mj6hnft) |
@@ -83,6 +55,7 @@
 | EDGE Chambers with Valerie Pecresse \| Bengaluru | 2026-11-18 | Bengaluru, IN | [↗](https://lu.ma/uegbii94) |
 | Seed to Scale: What We Wish We Knew at Seed | 2026-11-18 | Bengaluru, IN | [↗](https://lu.ma/w6gmrqv5) |
 | Main Hoon Yuvaa: Open Heart Mic | 2026-11-18 | Bengaluru, IN | [↗](https://lu.ma/f4udygjs) |
+| UI/UX Class 2: Basic Design Principles I | 2026-11-18 | Delhi, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-indira-gandhi-delhi-technical-university-for-women-delhi-india-presents-uiux-class-2-basic-design-principles-i/) |
 | Swift Bharat | 2026-11-19 to 2026-11-20 | Mumbai, India | [↗](https://swiftbharat.org) |
 | StackConnect World Tour: Hyderabad | 2026-11-19 | Hyderabad | [↗](https://dev.events/conferences/stack-connect-world-tour-hyderabad-qlohbj-a) |
 | The Zero-Repetition Experience: Making AI, Humans and Channels Work as One | 2026-11-19 | Bengaluru, IN | [↗](https://lu.ma/sdtuy4wb) |
@@ -109,6 +82,8 @@
 | FLEXORA '26\|AGENTIC AI WORKSHOP | 2026-11-20 | Hyderabad, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-gokaraju-lailavathi-engineering-college-hyderabad-india-presents-flexora-26agentic-ai-workshop/) |
 | FLEXORA '26 \|IDEATHON | 2026-11-20 | Hyderabad, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-gokaraju-lailavathi-engineering-college-hyderabad-india-presents-flexora-26-ideathon/) |
 | Build Agents with Omega | 2026-11-20 | Bengaluru, IN | [↗](https://lu.ma/future-bzpc) |
+| Groundwater Under Pressure: A Research Exchange Session | 2026-11-20 | Bengaluru, IN | [↗](https://lu.ma/135xo9d2) |
+| The State of India's Semiconductor Ecosystem | 2026-11-20 | Bengaluru, IN | [↗](https://lu.ma/qvloijpk) |
 | flutterCon India | 2026-11-21 | Bangalore, India | [↗](https://india.fluttercon.dev) |
 | RubyConf India 2026 | 2026-11-21 | Hyderabad | [↗](https://dev.events/conferences/ruby-conf-india-2026-i7l5j4f7) |
 | flutterCon India 2026 | 2026-11-21 | Bengaluru (India) | [↗](https://www.india.fluttercon.dev) |
@@ -134,6 +109,7 @@
 | Identity Security (IAM) Practitioner Meetup #4 | 2026-11-21 | Bengaluru, IN | [↗](https://lu.ma/80zdwr34) |
 | Demo Nights: AI, SaaS & Deeptech Only | 2026-11-21 | Bengaluru, IN | [↗](https://lu.ma/92nnn8kb) |
 | [Pre-DevFest] Behind the Code | 2026-11-21 | Mumbai, India | [↗](https://gdg.community.dev/events/details/google-gdg-mad-presents-pre-devfest-behind-the-code/) |
+| Bengaluru Startup Meetup : Koramangala Edition | 2026-11-21 | Bengaluru, IN | [↗](https://lu.ma/3mip6j9u) |
 | Devfest Kolkata 2026 | 2026-11-22 | Kolkata, India | [↗](https://gdg.community.dev/events/details/google-gdg-kolkata-presents-devfest-kolkata-2026/) |
 | Devfest Bhopal 2026 | 2026-11-22 | Bhopal, India | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-bhopal-presents-devfest-bhopal-2026-1/) |
 | GopherCon India | 2026-11-22 | Hyderabad, India | [↗](https://gopherconindia.org/) |
@@ -151,6 +127,7 @@
 | Genetic Testing: What Happens After Your Results Are In? | 2026-11-22 | Bengaluru, IN | [↗](https://lu.ma/manotsava-4y3z) |
 | Founders' Pickleball | 2026-11-22 | Bengaluru, IN | [↗](https://lu.ma/w95a1x0v) |
 | Spine Bookclub #18: Sherlock Holmes | 2026-11-22 | Bengaluru, IN | [↗](https://lu.ma/eo65dgz5) |
+| Kadamruns Run - 1 | 2026-11-22 | Bengaluru, IN | [↗](https://lu.ma/n0929uxg) |
 | IndiaAnalytics & AIConference 2026 | 2026-11-23 | Bengaluru, IN | [↗](https://lu.ma/n9kntr1j) |
 | Civo Navigate India 2026 | 2026-11-24 | Bengaluru (India) | [↗](https://www.civo.com/navigate/india/2026) |
 | WeAreDevelopers Conference 2026 – India | 2026-11-24 to 2026-11-25 | Bengaluru, Karnataka | [↗](https://www.wearedevelopers.com/world-congress) |
@@ -170,6 +147,8 @@
 | RT & Networking Mixer\|The AI Trust Equation: Fighting Financial Fraud in an Intelligent, Connected World | 2026-11-27 | Bengaluru, IN | [↗](https://lu.ma/xtj448ys) |
 | Startup Ecosystem Meetup by CEDAT | 2026-11-27 | Bengaluru, IN | [↗](https://lu.ma/dfapfg40) |
 | GINCELERATOR 3.0 \| Demo Day | 2026-11-27 | Bengaluru, IN | [↗](https://lu.ma/1jwzib82) |
+| Engineering at the Frontier: Leadership Dinner | 2026-11-27 | Bengaluru, IN | [↗](https://lu.ma/g98q41wp) |
+| Introduction to Gemini Argon: Ignite Your Innovation | 2026-11-27 | Chengannur, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-st-thomas-college-of-engineering-technology-chengannur-india-presents-introduction-to-gemini-argon-ignite-your-innovation/) |
 | Zero-Churn Utopia: Is It Possible to Engineer the Customer Journey to Eliminate Unwanted Downgrades and Cancellations? | 2026-11-28 | Bengaluru, IN | [↗](https://lu.ma/i3hwgqoa) |
 | The Messy UX Conference 2026 | 2026-11-28 | Bengaluru | [↗](https://dev.events/conferences/the-messy-ux-conference-2026-hgpouzgq) |
 | Qiskit Fall Fest: QuantumX Summit | 2026-11-28 | Bengaluru, IN | [↗](https://lu.ma/rzpptnuq) |
@@ -199,7 +178,9 @@
 | Caffeine Code 2026 \| 24-Hour Hackathon | 2026-11-28 | Sonipat, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-rishihood-university-sonipat-india-presents-caffeine-code-2026-24-hour-hackathon/) |
 | GTM Rewind 2026: What Worked. What Flopped. What’s Next. | 2026-11-28 | Bengaluru, IN | [↗](https://lu.ma/aic-gtm-rewind) |
 | [Pre-DevFest] Beyond the Code | 2026-11-28 | Mumbai, India | [↗](https://gdg.community.dev/events/details/google-gdg-mad-presents-pre-devfest-beyond-the-code/) |
+| DevFest Jalandhar 2026: Second Edition | 2026-11-28 | Jalandhar, India | [↗](https://gdg.community.dev/events/details/google-gdg-jalandhar-presents-devfest-jalandhar-2026-second-edition/) |
 | staaake Founders Pic Nic (Second Edition) — Reverse Network Meet | 2026-11-29 | Bengaluru, IN | [↗](https://lu.ma/staaake-9oez) |
+| Ink·Presso - Bengaluru Edition | 2026-11-29 | Bengaluru, IN | [↗](https://lu.ma/9mz0qfjr) |
 | FoundIN Curated Meetup - 30th November | 2026-11-30 | Bengaluru, IN | [↗](https://lu.ma/pf147d11) |
 | after hours \| vc mixer | 2026-11-30 | Bengaluru, IN | [↗](https://lu.ma/cfcm1puu) |
 | Computer Conversations Buildathon | 2026-12-01 | Bengaluru, IN | [↗](https://lu.ma/devrev-uuot) |
@@ -226,6 +207,7 @@
 | MeghManthan | 2026-12-05 | Delhi, India | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-new-delhi-presents-meghmanthan/) |
 | The Next Beat: Music in the Age of AI [A Futures Thinking workshop] | 2026-12-05 | Bengaluru, IN | [↗](https://lu.ma/kx3rf7y6) |
 | A Women in Automation Meet: Learn, Delegate, Lead [Bengaluru] | 2026-12-05 | Bengaluru, IN | [↗](https://lu.ma/v67ydf7w) |
+| SALT #3 - Theory-focused ML paper reading group | 2026-12-05 | Bengaluru, IN | [↗](https://lu.ma/95zsjtqa) |
 | Google Cloud Community Days Udaipur 2026 | 2026-12-06 | Udaipur, India | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-udaipur-presents-google-cloud-community-days-udaipur-2026/) |
 | Book Launch - Kaustubha | 2026-12-06 | Bengaluru, IN | [↗](https://lu.ma/fkynreqq) |
 | Cloud Community Day Pune 2026 | 2026-12-06 | Pune, India | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-pune-presents-cloud-community-day-pune-2026/) |

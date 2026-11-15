@@ -1,14 +1,16 @@
 # Developer Events in South Korea
 
-24 upcoming events. [Back to the full directory](../README.md)
+26 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | ISES Solar World Congress 2026 | 2026-11-15 to 2026-11-20 | Daejeon, South Korea | [↗](https://view.asiae.co.kr/en/article/2026020309283926902) |
 | 2026 GDG AI for Science in FuriosaAI | 2026-11-15 | Seúl, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-ai-for-science-korea-presents-2026-gdg-ai-for-science-in-furiosaai/) |
 | 2026 GDG AI for Science at FuriosaAI | 2026-11-15 | Seúl, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-ai-for-science-korea-presents-2026-gdg-ai-for-science-at-furiosaai/) |
+| GDG on Campus HUFS Tuesday Live (GTL) - Monthly (November 2026) | 2026-11-17 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-hankuk-university-of-foreign-studies-seoul-south-korea-presents-gdg-on-campus-hufs-tuesday-live-gtl-monthly-november-2026/) |
 | SMATEC 2026 International Conference | 2026-11-18 | Suwon, South Korea | [↗](https://onoffmix.com/event/351050) |
 | G-STAR 2026 | 2026-11-19 to 2026-11-22 | Busan, South Korea | [↗](https://www.digitaltoday.co.kr/en/view/15066/g-star-2026-early-applications-open-for-exhibitors) |
+| GDG on Campus SKHU Design Study Session - 07 PM&Design session (1) | 2026-11-19 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkonghoe-university-seoul-south-korea-presents-gdg-on-campus-skhu-design-study-session-07-pmampdesign-session-1/) |
 | 2026 GDGoC PKNU Senior 특강(시간수정/김명준) | 2026-11-20 | Busan, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-pukyong-national-university-busan-south-korea-presents-2026-gdgoc-pknu-senior-teuggangsigansujeonggimmyeongjun/) |
 | 🚀 GDGoC Dev Hackathon 2026 | 2026-11-20 | Siheung, South Korea, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-tech-university-of-korea-siheung-south-korea-presents-gdgoc-dev-hackathon-2026/) |
 | GDGoC SMU 1st Project Demo Day | 2026-11-20 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sangmyung-university-seoul-south-korea-presents-gdgoc-smu-1st-project-demo-day/) |

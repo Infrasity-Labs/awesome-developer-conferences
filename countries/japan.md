@@ -1,14 +1,10 @@
 # Developer Events in Japan
 
-36 upcoming events. [Back to the full directory](../README.md)
+33 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | CODE BLUE 2026 | 2026-11-13 to 2026-11-15 | Tokyo (Japan) | [↗](https://codeblue.jp/) |
-| データ利活用やってみよう！ハッカソン2026 中間発表会 #DevFest | 2026-11-14 | Osaka, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-osaka-presents-detali-huo-yong-yatsutemiyouhatsukason2026-zhong-jian-fa-biao-hui-devfest/) |
-| 【OSAKA】AIワークショップ | 2026-11-14 | Tokyo, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-international-professional-university-of-technology-tokyo-japan-presents-osaka-aiwakushiyotsupu-4/) |
-| 東北Tech道場 第23期 石巻道場 #11 | 2026-11-14 | Ishinomaki, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-ishinomaki-presents-dong-bei-techdao-chang-di-23qi-shi-juan-dao-chang-11/) |
-| DevFest GDGoC Japan Hackathon 2026 - Regional Day | 2026-11-14 | Osaka, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-osaka-osaka-japan-presents-devfest-gdgoc-japan-hackathon-2026-regional-day/) |
 | Flutterを学んで、AIと一緒にアプリを作ってみよう！ | 2026-11-21 | Kobe, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-greater-kwansai-presents-flutterwoxue-nde-aitoyi-xu-niapuriwozuo-tsutemiyou/) |
 | 【Gopherスレイヤー】「Go」を書いてゲームを攻略！with Biwako.go | 2026-11-21 | Ishikawa, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kanazawa-institute-of-technology-ishikawa-japan-presents-gophersureiya-go-woshu-itegemuwogong-lue-with-biwakogo/) |
 | Tech Talk @ 京大11月祭 ― 学生クリエータによるプロジェクト発表 | 2026-11-22 | Kioto, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kyoto-university-kyoto-japan-presents-tech-talk-jing-da-11yue-ji-xue-sheng-kurietaniyorupuroziekutofa-biao/) |
@@ -23,6 +19,7 @@
 | DevFest in Tokushima | 2026-12-05 | Takamatsu, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-shikoku-presents-devfest-in-tokushima/) |
 | データ利活用やってみよう！ハッカソン2026 成果発表会 #DevFest | 2026-12-05 | Osaka, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-osaka-presents-detali-huo-yong-yatsutemiyouhatsukason2026-cheng-guo-fa-biao-hui-devfest/) |
 | GDG DevFest 2026 山形 (Tohoku Tech Dojo) | 2026-12-05 | Yamagata, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-tohoku-tech-dojo-yamagata-presents-gdg-devfest-2026-shan-xing-tohoku-tech-dojo/) |
+| 【OSAKA】AIワークショップ | 2026-12-05 | Tokyo, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-international-professional-university-of-technology-tokyo-japan-presents-osaka-aiwakushiyotsupu-5/) |
 | Open Source Summit Japan 2026 | 2026-12-07 to 2026-12-09 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/open-source-summit-japan/) |
 | Automotive Linux Summit | 2026-12-07 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/automotive-linux-summit/) |
 | Embedded Linux Conference Asia | 2026-12-07 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/embedded-linux-conference-asia/) |

@@ -4,23 +4,7 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| GreHack | 2026-11-13 to 2026-11-14 | Grenoble (France) | [↗](https://grehack.fr/) |
 | Capitole du Libre | 2026-11-14 to 2026-11-15 | Toulouse (France) | [↗](https://capitoledulibre.org) |
-| Aaron’s World | 2026-11-14 | Paris, FR | [↗](https://lu.ma/zbswvas8) |
-| VIBENIGHT #2 : Hackathon AI Safety (FINAL) | 2026-11-14 | Paris, FR | [↗](https://lu.ma/gkqbmy2j) |
-| 📚 XL Offline Reading Party \| Manhattan Rivals 📖 Marie Reppelin \| TOC x PKJ \| Titi Palacio | 2026-11-14 | Paris, FR | [↗](https://lu.ma/the-2vt3) |
-| Hackathon Open Data 🏛️ | 2026-11-14 | Paris, FR | [↗](https://lu.ma/ardao19g) |
-| SANG-NEUF AU SYNDICAT | 2026-11-14 | Paris, FR | [↗](https://lu.ma/c1glr8td) |
-| Constellations familiales & systémiques | 2026-11-14 | Paris, FR | [↗](https://lu.ma/92ojyeah) |
-| Marche pour un traité en IA | 2026-11-14 | Paris, FR | [↗](https://lu.ma/stop-pjeb) |
-| Micronutrition & Longevity: What Does the Science Say? | 2026-11-14 | Paris, FR | [↗](https://lu.ma/age-28r2) |
-| COOL GIRLS RUN TOGETHER - 7km | 2026-11-14 | Paris, FR | [↗](https://lu.ma/x1q5eltq) |
-| Initiation au remaillage | 2026-11-14 | Paris, FR | [↗](https://lu.ma/yeknqep3) |
-| CAPSLOCK Book Release: The Creative Compass 02 France | 2026-11-14 | Paris, FR | [↗](https://lu.ma/mr326g74) |
-| Culture Run, Jeux & Comptoirs x HOKA | 2026-11-14 | Paris, FR | [↗](https://lu.ma/d0l71ook) |
-| The First Freeze - Creative Pop-Up | 2026-11-14 | Paris, FR | [↗](https://lu.ma/plxh71zv) |
-| ✨ Paris \| Private Solo Exhibition Tour, Wine & Discussion \| Amoako Boafo: The Home I’ve Never Had | 2026-11-14 | Paris, FR | [↗](https://lu.ma/j1uicb8l) |
-| Atelier « Mon protège-carnet sur-mesure » | 2026-11-14 | Paris, FR | [↗](https://lu.ma/w3n5otmx) |
 | iGEM Innovation - Bio & Brews | 2026-11-15 | Paris, FR | [↗](https://lu.ma/qkozd2w7) |
 | ☕ Special: Offline Hangout x Slow Chocolate Drinking \| My Little Paris Bistrot \| Paris 9th | 2026-11-15 | Paris, FR | [↗](https://lu.ma/3mjcfm7p) |
 | Caleb Stein, Down by the Hudson Exhibition | 2026-11-15 | Paris, FR | [↗](https://lu.ma/klykj5yd) |
@@ -66,6 +50,7 @@
 | Panel Discussion - VC Nurturing and Term Sheet Breakdown | 2026-11-17 | Paris, FR | [↗](https://lu.ma/5n1jlcz4) |
 | Book Launch: Alfredo Aceto | 2026-11-17 | Paris, FR | [↗](https://lu.ma/bvfmk7ua) |
 | Unkillable Leaders • Private diner #2 | 2026-11-17 | Paris, FR | [↗](https://lu.ma/9udao158) |
+| Pilates with Leila @Galerie Joseph - Signature (FR/ENG) | 2026-11-17 | Paris, FR | [↗](https://lu.ma/y81dcdo0) |
 | Data & AI Leaders Summit 2026 | 2026-11-18 to 2026-11-19 | Paris, France | [↗](https://www.techshowparis.fr/en/data-ai-leaders-summit) |
 | Team Building Campus PA7-PA13x-BX1 - Paris | 2026-11-18 | Paris, FR | [↗](https://lu.ma/fl60z0gx) |
 | Beyond Capital 2026 | 2026-11-18 | Paris, FR | [↗](https://lu.ma/bc2026) |
@@ -94,6 +79,7 @@
 | AI Design Night #6 | 2026-11-18 | Paris, FR | [↗](https://lu.ma/dustdesign-6) |
 | Update x Louis Dumas | 2026-11-18 | Paris, FR | [↗](https://lu.ma/a7p5ve70) |
 | Wine Wednesdays with WISE: November 2026 | 2026-11-18 | Paris, FR | [↗](https://lu.ma/6zijnrb5) |
+| The No Mad Edition \| Fashion × Creatives Featuring Lune Paris × Krippit | 2026-11-18 | Paris, FR | [↗](https://lu.ma/yuniphhq) |
 | DevFest Toulouse 2026 | 2026-11-19 | Toulouse (France) | [↗](https://devfesttoulouse.fr/) |
 | Agile Laval 2026 | 2026-11-19 | Laval (France) | [↗](http://www.agilelaval.org/) |
 | OVHcloud Summit | 2026-11-19 | Paris (France) | [↗](https://summit.ovhcloud.com/en/) |
@@ -133,6 +119,7 @@
 | AI Afterwork Climb and Talk | 2026-11-19 | Paris, FR | [↗](https://lu.ma/5yvayvl5) |
 | « Quel Avenir Pour La Jeunesse, Quel Avenir Pour La Gauche? » Panel Discussion | 2026-11-19 | Paris, FR | [↗](https://lu.ma/pj6rrf2l) |
 | Talk & Coach - How we built it #1 Maxime Blondel | 2026-11-19 | Paris, FR | [↗](https://lu.ma/gihgj931) |
+| Apéro Live Music Sessions : Chanson française & Pop rock par Fiz Machine (Maggy & Marion) | 2026-11-19 | Paris, FR | [↗](https://lu.ma/12uvx7sj) |
 | Cession, acquisition et reprise d'entreprise : anticiper et réussir | 2026-11-20 | Paris, FR | [↗](https://lu.ma/CAT2026) |
 | Après midi découverte @Climate House | 2026-11-20 | Paris, FR | [↗](https://lu.ma/hjkuv2ca) |
 | ATELIER : Chocapitalisme, chaîne de valeur et développement durable - Charles Peguy (75) | 2026-11-20 | Paris, FR | [↗](https://lu.ma/h89hmmni) |
@@ -145,6 +132,7 @@
 | Bossa Nova Groove: A Brazilian Soirée🪇 | 2026-11-20 | Paris, FR | [↗](https://lu.ma/zokuparis-4iwo) |
 | Off hours | 2026-11-20 | Paris, FR | [↗](https://lu.ma/nwzbkg49) |
 | Tech for Good Hackathon | 2026-11-20 | Bordeaux, France | [↗](https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-tech-for-good-hackathon/) |
+| GDG Aix - Soirée :  Donnez vie à vos rêves : restez dans la course à l'ère de l'IA | 2026-11-20 | Aix-en-Provence, France | [↗](https://gdg.community.dev/events/details/google-gdg-aix-en-provence-presents-gdg-aix-soiree-donnez-vie-a-vos-reves-restez-dans-la-course-a-lere-de-lia/) |
 | Banc d'Essai #2 — build club sécurité de l'IA | 2026-11-21 | Paris, FR | [↗](https://lu.ma/xyiow6bw) |
 | Bain sonore aux bols de cristal & Massage du visage | 2026-11-21 | Paris, FR | [↗](https://lu.ma/viphhqan) |
 | LE GALA MASQUÉ — Ambition & Networking (H/F) | 2026-11-21 | Paris, FR | [↗](https://lu.ma/o26i58qx) |
@@ -202,6 +190,7 @@
 | Investir dans l'impact | 2026-11-25 | Paris, FR | [↗](https://lu.ma/fnrrh2v9) |
 | RockFi & Taylor Wessing | 2026-11-25 | Paris, FR | [↗](https://lu.ma/y1e8hzqj) |
 | La Manifestation 🍻 - Apéro pour Freelances Généralistes | 2026-11-25 | Paris, FR | [↗](https://lu.ma/7a7o4zmj) |
+| Notion Paris Summit | 2026-11-25 | Paris, FR | [↗](https://lu.ma/notion-h9qo) |
 | EACD WORKSHOP #1 - STRATÉGIES D'INFLUENCE, CRISES ET MENACES ACTIVISTES. | 2026-11-26 | Paris, FR | [↗](https://lu.ma/tfla4ohf) |
 | Future Talk : Planifier son budget marketing et communication à l’ère de l’IA | 2026-11-26 | Paris, FR | [↗](https://lu.ma/035d2mhr) |
 | RH freelance à l'ère de l'IA : gagner du temps sans perdre sa valeur | 2026-11-26 | Paris, FR | [↗](https://lu.ma/m6exfysj) |
@@ -232,10 +221,21 @@
 | Lune Paris Jewellery \| Vernissage Nov 26th | 2026-11-26 | Paris, FR | [↗](https://lu.ma/6rnkazss) |
 | Pitch Roast 2nd Edition 🔥 | 2026-11-26 | Paris, FR | [↗](https://lu.ma/3vkpsf70) |
 | Good Latinas in Paris | 2026-11-26 | Paris, FR | [↗](https://lu.ma/dwrp4590) |
+| 🚶Curious Walking Club - Paris 🇫🇷 · Friends of Screate Labs | 2026-11-26 | Paris, FR | [↗](https://lu.ma/fq8xod9v) |
 | DevFest Paris 2026 | 2026-11-27 | Paris (France) | [↗](https://devfest.gdgparis.fr/) |
 | Networking de Noviembre | 2026-11-27 | Paris, FR | [↗](https://lu.ma/2rbio4nm) |
 | Founders Table #1 · Vendre en santé : ce qui marche, ce qui coince | 2026-11-27 | Paris, FR | [↗](https://lu.ma/7u7a5aig) |
 | Women's Health, What's Next? | 2026-11-27 | Paris, FR | [↗](https://lu.ma/jy1c0o93) |
+| Reload After Dark - Édition 02 | 2026-11-27 | Paris, FR | [↗](https://lu.ma/reload-after-dark2) |
+| Soleadher supper club #2 | 2026-11-27 | Paris, FR | [↗](https://lu.ma/c5kj98x9) |
+| Les Fondamentaux du Théâtre de Présence Sociale (SPT) | 2026-11-28 | Paris, FR | [↗](https://lu.ma/7gcstcq9) |
+| Launch Day Hackathon | 2026-11-28 | Paris, FR | [↗](https://lu.ma/fg1lny5k) |
+| Book Club | 2026-11-28 | Paris, FR | [↗](https://lu.ma/z3y23in1) |
+| 🎄 Spécial XMAS \| Offline Crafts Club : Advent Calendar ✂️ | 2026-11-28 | Paris, FR | [↗](https://lu.ma/behe06i7) |
+| 🎂 1 an d'Avalon | 2026-11-28 | Paris, FR | [↗](https://lu.ma/avalon-65sm) |
+| RUN CLUB 29/11 @La Montgolfière 10ème | 2026-11-29 | Paris, FR | [↗](https://lu.ma/enccfurq) |
+| Longevity Café #08 ⏰ Le Sommeil: À la recherche du temps rendu | 2026-11-29 | Paris, FR | [↗](https://lu.ma/adz17xzf) |
+| La Magicienne D'Ose est de retour @La Climate House Silent Disco expérience | 2026-11-29 | Paris, FR | [↗](https://lu.ma/frhp7le2) |
 | Tech.Rocks Summit | 2026-11-30 to 2026-12-01 | Paris | [↗](https://dev.events/conferences/tech-rocks-summit-aaxn2xuq) |
 | apidays Paris | 2026-11-30 to 2026-12-03 | Paris | [↗](https://dev.events/conferences/apidays-paris-7xk3zi-c) |
 | Tech For Retail 2026 | 2026-11-30 | Paris, France | [↗](https://www.techforretail.com/) |

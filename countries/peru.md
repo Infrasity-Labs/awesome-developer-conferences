@@ -1,13 +1,9 @@
 # Developer Events in Peru
 
-14 upcoming events. [Back to the full directory](../README.md)
+10 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Black Alpaca 2026 | 2026-11-14 | Lima (Peru) | [↗](https://www.blackalpaca.org/) |
-| DevFest Lima 2026 - II | 2026-11-14 | Lima, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-lima-presents-devfest-lima-2026-ii/) |
-| DevFest Lima 2026 - Día II | 2026-11-14 | Lima, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-lima-presents-devfest-lima-2026-dia-ii/) |
-| DevFest Callao 2026 - Segunda Edición 🦖 | 2026-11-14 | Callao, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-callao-presents-devfest-callao-2026-segunda-edicion/) |
 | DevFest Tacna 2026 | 2026-11-20 | Tacna, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-tacna-presents-devfest-tacna-2026/) |
 | TALLER DE HACKATON DE IA - DEVFEST AYACUCHO 2026 | 2026-11-20 | Ayacucho, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-ayacucho-presents-taller-de-hackaton-de-ia-devfest-ayacucho-2026/) |
 | Devfest Ayacucho | 2026-11-21 | Ayacucho, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-ayacucho-presents-devfest-ayacucho/) |

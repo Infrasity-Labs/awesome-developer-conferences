@@ -1,10 +1,9 @@
 # Developer Events in Sweden
 
-10 upcoming events. [Back to the full directory](../README.md)
+9 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| SecureAI.se 2026 | 2026-11-12 to 2026-11-14 | Stockholm | [↗](https://dev.events/conferences/secure-ai-se-2026-vl3-14ao) |
 | Architecting and Integrating Task-Specific AI Agents | 2026-12-03 | Stockholm | [↗](https://dev.events/conferences/architecting-and-integrating-task-specific-ai-agents-evyscfbk) |
 | Swetugg Stockholm 2027 | 2027-02-02 to 2027-02-03 | Stockholm | [↗](https://dev.events/conferences/swetugg-stockholm-2027-xqdlszxe) |
 | Techarena 2027 | 2027-02-03 to 2027-02-04 | Stockholm, Sweden | [↗](https://techarena.se/) |

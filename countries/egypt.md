@@ -1,14 +1,20 @@
 # Developer Events in Egypt
 
-23 upcoming events. [Back to the full directory](../README.md)
+29 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| DevFest 2026: Ignite Your Tech Journey! | 2026-11-14 | Ismailia, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-ismailia-presents-devfest-2026-ignite-your-tech-journey/) |
-| StackDev & GDG On Campus Orientation Session | 2026-11-14 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-stackdev-amp-gdg-on-campus-orientation-session/) |
+| Backend Session 3 : Conditional Statements, Loops & Arrays | 2026-11-15 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-backend-session-3-conditional-statements-loops-amp-arrays-2026-11-15/) |
+| PCB Design Workshop:Robotics Track | 2026-11-15 | Obour City, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-benha-national-university-obour-egypt-presents-pcb-design-workshoprobotics-track/) |
+| Cyber Security Session 2 : Exploring the CIA Triad | 2026-11-16 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-cyber-security-session-2-exploring-the-cia-triad-2026-11-16/) |
+| AI Session 3 : Unlocking Data with NumPy and Pandas | 2026-11-17 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-ai-session-3-unlocking-data-with-numpy-and-pandas-2026-11-17/) |
+| Automation Workshop:AI Track | 2026-11-17 | Obour City, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-benha-national-university-obour-egypt-presents-automation-workshopai-track/) |
 | Classroom to Career: Your Next Chapter \| GDG AASTMT | 2026-11-18 | Charlottesville, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-arab-academy-for-science-technology-and-maritime-transport-cairo-egypt-presents-classroom-to-career-your-next-chapter-gdg-aastmt/) |
+| Data Analysis Session 3 : Unleash the Power of Python: Data Analysis Deep Dive | 2026-11-18 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-data-analysis-session-3-unleash-the-power-of-python-data-analysis-deep-dive-2026-11-18/) |
+| Frontend Session 3 : CSS Essentials: Unleashing the Power of Design | 2026-11-19 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-frontend-session-3-css-essentials-unleashing-the-power-of-design-2026-11-19/) |
 | State Management (Provider / Bloc) | 2026-11-20 | Giza, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-october-6-university-giza-egypt-presents-state-management-provider-bloc/) |
 | DevFest Online Evening: Multimodal RAG with Gemini API | 2026-11-20 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-egypt-presents-devfest-online-evening-multimodal-rag-with-gemini-api/) |
+| AI Automation Session 3 : Unplugged: Master Functions & Files | 2026-11-20 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-ai-automation-session-3-unplugged-master-functions-amp-files/) |
 | Damanhour DevFest 2026 | 2026-11-21 | Damanhour, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-damanhour-presents-damanhour-devfest-2026/) |
 | Launch into Embedded Systems | 2026-11-24 | Charlottesville, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-arab-academy-for-science-technology-and-maritime-transport-cairo-egypt-presents-launch-into-embedded-systems-2026-11-24/) |
 | Local Storage & Firebase Intro | 2026-11-27 | Giza, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-october-6-university-giza-egypt-presents-local-storage-amp-firebase-intro/) |
