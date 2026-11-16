@@ -63,6 +63,11 @@ keywords = [
     "virtual conference", "hybrid conference", "in-person conference",
     "developer week", "developer day", "devday", "devfest", "devcon",
     
+    # CONTENT & DEVELOPER-CONTENT ROLES
+    "staff content developer", "content developer", "customer content",
+    "technical content", "technical writer", "content engineering",
+    "developer content", "content strategist",
+
     # OLDER FALLBACKS JUST IN CASE
     "tech lead", "software", "programming", "backend", "frontend", "fullstack", 
     "architecture", "java", "javascript", "python", "ruby", "golang", "rust", 
