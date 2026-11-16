@@ -1,62 +1,9 @@
 # Developer Events in United Kingdom
 
-316 upcoming events. [Back to the full directory](../README.md)
+317 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Solana Breakpoint 2026 | 2026-11-15 | London | [↗](https://dev.events/conferences/solana-breakpoint-2026-prup4prd) |
-| Tilt Pay Morning Coffee \| Breakpoint '26 | 2026-11-15 | London, GB | [↗](https://lu.ma/kk8dr4ty) |
-| "Surprise Me" Ideas Coffee \| Zee Prime Capital @ Breakpoint | 2026-11-15 | London, GB | [↗](https://lu.ma/6tmorkog) |
-| BlockZero 2026 | 2026-11-15 | London, GB | [↗](https://lu.ma/dmxdc394) |
-| 🏀 Solana Breakpoint Basketball & Breakfast \| London 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 2026-11-15 | London, GB | [↗](https://lu.ma/5yhvfaky) |
-| Sunday Morning Soundbath with Sammie | 2026-11-15 | London, GB | [↗](https://lu.ma/5jrawzzn) |
-| South Indian Brews | 2026-11-15 | London, GB | [↗](https://lu.ma/m01t5osm) |
-| Bonjour Girls in UK - AI Networking Coffee Chat | 2026-11-15 | London, GB | [↗](https://lu.ma/bonjour-nsjd) |
-| Foil Frame Embossing Workshop | 2026-11-15 | London, GB | [↗](https://lu.ma/6uzncqb3) |
-| SOUL RESTORE: Sound, Breath + Reiki with Jessii Rose | 2026-11-15 | London, GB | [↗](https://lu.ma/n3bvjg7m) |
-| Chess with Chord Express \| Breakpoint | 2026-11-15 | London, GB | [↗](https://lu.ma/f5s5psnj) |
-| GTM Sprint Demo Day x Tide x Encord | 2026-11-15 | London, GB | [↗](https://lu.ma/ce8gicbm) |
-| Not Your Keys, Not Your Cheese: Wallet and Security for Solana 🍕 | 2026-11-15 | London, GB | [↗](https://lu.ma/blockaid-ztbw) |
-| Pilates & Matcha | 2026-11-15 | London, GB | [↗](https://lu.ma/np2934yc) |
-| Reformer & Recovery ✨ November Series | 2026-11-15 | London, GB | [↗](https://lu.ma/23u2e0ut) |
-| World Champions Match and Private Lunch at the Home of Tennis | 2026-11-15 | London, GB | [↗](https://lu.ma/ow7dmicy) |
-| Mishit & Glory November Doubles Tournament | 2026-11-15 | London, GB | [↗](https://lu.ma/mpx84tzh) |
-| November Sunday Roast club | 2026-11-15 | London, GB | [↗](https://lu.ma/mdaepxq7) |
-| Yoga & Pumpkin Matcha: A Cosy Sunday with Juno | 2026-11-15 | London, GB | [↗](https://lu.ma/s666bwi0) |
-| An Introduction to Nature Journaling (with tea!) | 2026-11-15 | London, GB | [↗](https://lu.ma/48cp129k) |
-| Sunday Roast & Toast | 2026-11-15 | London, GB | [↗](https://lu.ma/udhl08kn) |
-| Sunny’s Sunday Lunch (ft. Brave & Flipcash) | 2026-11-15 | London, GB | [↗](https://lu.ma/cfld2bu7) |
-| Open Talk｜AI Agents in Action | 2026-11-15 | London, GB | [↗](https://lu.ma/uwsqfy67) |
-| Powering Asia: Badminton @ Whitechapel | 2026-11-15 | London, GB | [↗](https://lu.ma/rlkf062n) |
-| Afternoon Provisions \| Breakpoint 2026 | 2026-11-15 | London, GB | [↗](https://lu.ma/vca7q67q) |
-| Chronic Illness Coffee Club - London | 2026-11-15 | London, GB | [↗](https://lu.ma/sx0l30zj) |
-| Collage & Memories Gathering | 2026-11-15 | London, GB | [↗](https://lu.ma/0cqnptf3) |
-| The House of Monke | 2026-11-15 | London, GB | [↗](https://lu.ma/monkedao-nwio) |
-| DETOX X KARVE | 2026-11-15 | London, GB | [↗](https://lu.ma/jwwyl2re) |
-| Lost&Found Lab Speaker Session | 2026-11-15 | London, GB | [↗](https://lu.ma/jve6ubdd) |
-| RWAs: From Tokenized to Traded | 2026-11-15 | London, GB | [↗](https://lu.ma/rtgpxj6h) |
-| AlgoRest | 2026-11-15 | London, GB | [↗](https://lu.ma/1w1grgjl) |
-| BD&L Peers - Jefferies get Together | 2026-11-15 | London, GB | [↗](https://lu.ma/805shuqa) |
-| Bouldering and Beers @ London Life Sciences Week | 2026-11-15 | London, GB | [↗](https://lu.ma/txg336kn) |
-| Fish & Ships: A Jupiter Community Afternoon | 2026-11-15 | London, GB | [↗](https://lu.ma/ir45fvzj) |
-| Our Lady of The Nile Screening | 2026-11-15 | London, GB | [↗](https://lu.ma/3wyqc4zv) |
-| CAMMM ON INGERLANDDD 🍻 | 2026-11-15 | London, GB | [↗](https://lu.ma/3xcgettl) |
-| Draper Dragon After Hours \| Breakpoint Day 1 | 2026-11-15 | London, GB | [↗](https://lu.ma/3n5hl4c7) |
-| Velvet Traders House at Solana Breakpoint | 2026-11-15 | London, GB | [↗](https://lu.ma/8w0zaj7z) |
-| Capital & Liquidity Dinner by Yield Network, Bexlen, ZIG Finance, and Particula | 2026-11-15 | London, GB | [↗](https://lu.ma/yn-dinner-london) |
-| Co-working with Founders | 2026-11-15 | London, GB | [↗](https://lu.ma/mmehbw7w) |
-| Last Orders? Independent Validator Meetup · Breakpoint 2026 | 2026-11-15 | London, GB | [↗](https://lu.ma/8mt2wliq) |
-| Meteora Supercycle | 2026-11-15 | London, GB | [↗](https://lu.ma/meteorasupercycle) |
-| At the Table with Stripe Crypto, Visa, & Open Standard | 2026-11-15 | London, GB | [↗](https://lu.ma/bxvz2tvf) |
-| Proof & Pour · London \| A Private Cocktail Evening | 2026-11-15 | London, GB | [↗](https://lu.ma/zkpwmk83) |
-| Squid Dinner · London | 2026-11-15 | London, GB | [↗](https://lu.ma/14g91az1) |
-| Token Supercycle with Spring (by Streamflow) | 2026-11-15 | London, GB | [↗](https://lu.ma/nasoclem) |
-| Event Girlies - London Breakpoint Edition | 2026-11-15 | London, GB | [↗](https://lu.ma/xpm9on1c) |
-| Members Only | 2026-11-15 | London, GB | [↗](https://lu.ma/zcf6jo28) |
-| Liquidity After Dark - London | 2026-11-15 | London, GB | [↗](https://lu.ma/LiquidityAfterDark) |
-| OnlyLifts | 2026-11-15 | London, GB | [↗](https://lu.ma/wfv16uli) |
-| newonce newspaper comes to London! | 2026-11-15 | London, GB | [↗](https://lu.ma/luziwpro) |
-| FINANCE LEADERS CLUB \| VIP Dinner & Cocktail Evening for Founders, Investors and Finance Leaders | 2026-11-15 | London, GB | [↗](https://lu.ma/6lo0x0u1) |
 | NextGen Intelligence Conference: Data, Cloud & AI | 2026-11-16 to 2026-11-17 | London (UK) | [↗](https://techaiconf.com) |
 | Gartner IT Infrastructure, Operations & Cloud Strategies | 2026-11-16 to 2026-11-17 | London | [↗](https://dev.events/conferences/gartner-it-infrastructure-operations-and-cloud-strategies-arnsh3u6) |
 | EdTech Conference | 2026-11-16 to 2026-11-17 | London | [↗](https://dev.events/conferences/ed-tech-conference-dhq480b3) |
@@ -115,6 +62,8 @@
 | BING BONG AFTER DARK BREAKPOINT powered by PHANTOM | 2026-11-16 | London, GB | [↗](https://lu.ma/ketcj6z6) |
 | IRL x CADD Presents: Maple Fizz Happy Hour at Breakpoint | 2026-11-16 | London, GB | [↗](https://lu.ma/9muwnvia) |
 | 100 FREE TICKETS \| London AI Networking Event \| Fintech, Digital & Tech Innovation Meetup | 2026-11-16 | London, GB | [↗](https://lu.ma/vztkf248) |
+| Proof of Coffee: Accuracy, Auditing & Accounting | 2026-11-16 | London, GB | [↗](https://lu.ma/89bsaskb) |
+| The Maps Pub Quiz with Rhoni Cash | 2026-11-16 | London, GB | [↗](https://lu.ma/tgauxqnl) |
 | Reinventing HR Summit | 2026-11-17 to 2026-11-19 | London | [↗](https://dev.events/conferences/reinventing-hr-summit-aktmev1v) |
 | Head Down 5K × Solana \| 445 CREW | 2026-11-17 | London, GB | [↗](https://lu.ma/3bwtn4jz) |
 | Decision Confidence in Financial Services - Private Breakfast & Discussion - Mayfair, London | 2026-11-17 | London, GB | [↗](https://lu.ma/kifz5by5) |
@@ -211,6 +160,9 @@
 | Blockchain.com: TYB Party | 2026-11-17 | London, GB | [↗](https://lu.ma/blockc-eg04) |
 | fomoworld with franky rizardo | 2026-11-17 | London, GB | [↗](https://lu.ma/av4pz4r6) |
 | The Pour by BAXUS | 2026-11-17 | London, GB | [↗](https://lu.ma/n6fp4hi2) |
+| Dev3pack Brunch - The Bridge Accelerator 🇬🇧 | 2026-11-17 | London, GB | [↗](https://lu.ma/th9m3zor) |
+| Pudgy Penguins London Meetup | 2026-11-17 | London, GB | [↗](https://lu.ma/i45v3hcq) |
+| Union Debate: "This House would restore the death penalty" | 2026-11-17 | London, GB | [↗](https://lu.ma/018bzbnu) |
 | FutuHRistIC 2026: Festival of People and Engagement | 2026-11-18 to 2026-11-20 | London | [↗](https://dev.events/conferences/futu-h-rist-ic-2026-festival-of-people-and-engagement-tbgwme39) |
 | 15 Years of Kotlin Celebration | 2026-11-18 | Leeds, United Kingdom | [↗](https://gdg.community.dev/events/details/google-gdg-leeds-presents-15-years-of-kotlin-celebration/) |
 | AI in practice: Ops Leader's Breakfast | 2026-11-18 | London, GB | [↗](https://lu.ma/djcnqglj) |
@@ -241,6 +193,55 @@
 | How to achieve Carbon Neutrality, the right way | 2026-11-18 | London, GB | [↗](https://lu.ma/bewp3cxe) |
 | Good Enough - London | 2026-11-18 | London, GB | [↗](https://lu.ma/conveo-noj2) |
 | What does an AI startup look like now? | 2026-11-18 | London, GB | [↗](https://lu.ma/hw1guz78) |
+| How and why restoring nature is good for business | 2026-11-18 | London, GB | [↗](https://lu.ma/pb8ggt6m) |
+| NCTRNL Creative Cafe | 2026-11-18 | London, GB | [↗](https://lu.ma/069y6qas) |
+| Demystifying the New Weather Models: What They Are and How Industry Uses Them to be More Resilient | 2026-11-18 | London, GB | [↗](https://lu.ma/fc7lgo7o) |
+| AdTech Connect: The Bigger Picture | 2026-11-18 | London, GB | [↗](https://lu.ma/t2gre5li) |
+| AI for Privacy and Compliance: What's Actually Working? | 2026-11-18 | London, GB | [↗](https://lu.ma/9jcm35ff) |
+| Careers in Sustainability | 2026-11-18 | London, GB | [↗](https://lu.ma/m7ukzem1) |
+| London GRC Drinks | 2026-11-18 | London, GB | [↗](https://lu.ma/nrdz2mp1) |
+| Rayls Community Meetup: London | 2026-11-18 | London, GB | [↗](https://lu.ma/yp556lph) |
+| Breaking the Rules, Building the News: A Conversation & Happy Hour on Independent Journalism | 2026-11-18 | London, GB | [↗](https://lu.ma/fnr5ynzn) |
+| Health2Tech London November 18, 2026 | 2026-11-18 | London, GB | [↗](https://lu.ma/d4b2dvph) |
+| People's Emergency Briefing Screening | 2026-11-18 | London, GB | [↗](https://lu.ma/hp13gmz6) |
+| STIQ ROBOTICS evening networking event (#12) | 2026-11-18 | London, GB | [↗](https://lu.ma/rmyy6bgl) |
+| UK–Switzerland Leadership Forum: Building the Future of AI-Driven Scientific Discovery | 2026-11-18 | London, GB | [↗](https://lu.ma/e4p9hyyl) |
+| Visionaries Film Club Special Preview and Q&A: NUISANCE BEAR | 2026-11-18 | London, GB | [↗](https://lu.ma/aw3baikc) |
+| After Hours at Techspace | 2026-11-18 | London, GB | [↗](https://lu.ma/o5l7z4jn) |
+| AI and Biotech Happy Hour @ London Life Sciences Week | 2026-11-18 | London, GB | [↗](https://lu.ma/504n8w32) |
+| AI + Biology Drinks Reception by Sentinal4D | 2026-11-18 | London, GB | [↗](https://lu.ma/089cvlb2) |
+| AI Leaders - Networking Drinks & Nibble - London, November 2026 | 2026-11-18 | London, GB | [↗](https://lu.ma/ai-leaders-london) |
+| AI Project Delivery: London | 2026-11-18 | London, GB | [↗](https://lu.ma/26ymcmv9) |
+| Angel Knit Club | 2026-11-18 | London, GB | [↗](https://lu.ma/ycdrf6c8) |
+| Building AI Products on the Right Foundations | 2026-11-18 | London, GB | [↗](https://lu.ma/bph0ayzk) |
+| Capital & Castling: Chess Night for the Startup Community (November edition) | 2026-11-18 | London, GB | [↗](https://lu.ma/6mec8rsz) |
+| Does creativity mean what it used to? Agentic design systems and the role humans play | 2026-11-18 | London, GB | [↗](https://lu.ma/vwkakd0d) |
+| Entrepreneurs Startup School: Consider Joining Startups? | 2026-11-18 | London, GB | [↗](https://lu.ma/c4dga0ti) |
+| Festive Tipples | 2026-11-18 | London, GB | [↗](https://lu.ma/2x7hk4la) |
+| Founders Playbook: Build your first team | 2026-11-18 | London, GB | [↗](https://lu.ma/vt28beda) |
+| From Corporate to Startup: Building Quiddy | 2026-11-18 | London, GB | [↗](https://lu.ma/3u9xgc02) |
+| Gaingels London Dinner with Paul Grossinger | 2026-11-18 | London, GB | [↗](https://lu.ma/uitie95w) |
+| Genomics x AI: Reading Biology at Scale | 2026-11-18 | London, GB | [↗](https://lu.ma/nun4mhvt) |
+| Jev Mini Hackathon | 2026-11-18 | London, GB | [↗](https://lu.ma/8s3s7o73) |
+| KULSA X SK Biopharmaceuticals Networking Dinner | 2026-11-18 | London, GB | [↗](https://lu.ma/zn6xnwyc) |
+| LIaiSE Community social | 2026-11-18 | London, GB | [↗](https://lu.ma/aoislkva) |
+| Mad Money Club - The Power of Passive Income | 2026-11-18 | London, GB | [↗](https://lu.ma/madmoney-lean) |
+| Mobile App Hackathon Night by Bilt.me | 2026-11-18 | London, GB | [↗](https://lu.ma/shurirhv) |
+| Omarchy London Meetup 002 | 2026-11-18 | London, GB | [↗](https://lu.ma/fyb1dq1k) |
+| PauseAI London: Pre-March Meet | 2026-11-18 | London, GB | [↗](https://lu.ma/t5fwnnwy) |
+| RUN4D: Evening Run & Drinks @ London Life Sciences Week. | 2026-11-18 | London, GB | [↗](https://lu.ma/ste13uju) |
+| SBN Gathering London \| Exploring Longevity in Health | 2026-11-18 | London, GB | [↗](https://lu.ma/he8jwbsb) |
+| She Bytes Back x Snyk: What Breaks When Agents Start Shipping Your Code? | 2026-11-18 | London, GB | [↗](https://lu.ma/q3uykk0n) |
+| The Investigations Game - How to tackle the toughest stories | 2026-11-18 | London, GB | [↗](https://lu.ma/null0e1v) |
+| Your agents have a spending problem (and your platform can't stop for a rebuild) | 2026-11-18 | London, GB | [↗](https://lu.ma/ztgaumty) |
+| Weekly football 7-aside by Granola! | 2026-11-18 | London, GB | [↗](https://lu.ma/bfx4xfep) |
+| AI x Design: Make It Showcase | 2026-11-18 | London, GB | [↗](https://lu.ma/6zpt7zvi) |
+| Beyond Excel & Copilot: How Accountants Win with AI | 2026-11-18 | London, GB | [↗](https://lu.ma/encode-j9zc) |
+| Product Marketing pub therapy (a low-stakes whinge 🧚) | 2026-11-18 | London, GB | [↗](https://lu.ma/1a5sycw7) |
+| The No Stupid Questions Supper | 2026-11-18 | London, GB | [↗](https://lu.ma/5qy56nwn) |
+| Unfiltered: A Curated Dinner for AI Transformation Leaders | 2026-11-18 | London, GB | [↗](https://lu.ma/ga3016zl) |
+| What to Build, What to Trust: Shipping in the Age of AI | 2026-11-18 | London, GB | [↗](https://lu.ma/5ie1odh0) |
+| Zapier x Gamma: The AI-Native GTM Stack | 2026-11-18 | London, GB | [↗](https://lu.ma/gamma-zapier-nov2026) |
 | SaaSiest London | 2026-11-19 | London | [↗](https://dev.events/conferences/saa-siest-london-ibefwpug) |
 | DIGIT Expo 2026 | 2026-11-19 | Edinburgh, United Kingdom | [↗](https://digit-expo.com/) |
 | Startup Grind London Founder Dinner | 2026-11-19 | London, United Kingdom | [↗](https://www.startupgrind.com/events/details/startup-grind-london-presents-startup-grind-london-founder-dinner-1/) |

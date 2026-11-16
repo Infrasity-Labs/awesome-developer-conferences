@@ -1,6 +1,6 @@
 # Developer Events in Italy
 
-41 upcoming events. [Back to the full directory](../README.md)
+42 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -32,6 +32,7 @@
 | Christmas Party - Secret Santa | 2026-12-23 | Saint-Vincent, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-valle-daosta-presents-christmas-party-secret-santa/) |
 | AI Festival 2027 | 2027-02-11 to 2027-02-12 | Milan, Italy | [↗](https://www.aifestival.it/) |
 | The Data Science and AI Summit | 2027-02-22 to 2027-02-23 | Rome | [↗](https://dev.events/conferences/the-data-science-and-ai-summit-arhok-vo) |
+| PyData Venice Day 2027 | 2027-02-27 | Mestre (Italy) | [↗](https://venice.pydata.org/pydata-venice-day-27/) |
 | Incontro DevOps Italia (IDI) 2027 | 2027-03-09 | Bologna (Italy) | [↗](https://incontrodevops.it/) |
 | RE-FRAME 2027 · Didacthaton 🧩 l'AI generativa si fa in classe | 2027-03-14 | Potenza, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-basilicata-presents-re-frame-2027-didacthaton-lai-generativa-si-fa-in-classe/) |
 | Web Day 2027 | 2027-03-25 | Milan | [↗](https://dev.events/conferences/web-day-2027-p-gvpgqh) |

@@ -1,13 +1,13 @@
 # Developer Events in South Korea
 
-26 upcoming events. [Back to the full directory](../README.md)
+27 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | ISES Solar World Congress 2026 | 2026-11-15 to 2026-11-20 | Daejeon, South Korea | [↗](https://view.asiae.co.kr/en/article/2026020309283926902) |
-| 2026 GDG AI for Science in FuriosaAI | 2026-11-15 | Seúl, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-ai-for-science-korea-presents-2026-gdg-ai-for-science-in-furiosaai/) |
-| 2026 GDG AI for Science at FuriosaAI | 2026-11-15 | Seúl, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-ai-for-science-korea-presents-2026-gdg-ai-for-science-at-furiosaai/) |
+| API 연결 세션 | 2026-11-16 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-hongik-university-seoul-south-korea-presents-api-yeongyeol-sesyeon/) |
 | GDG on Campus HUFS Tuesday Live (GTL) - Monthly (November 2026) | 2026-11-17 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-hankuk-university-of-foreign-studies-seoul-south-korea-presents-gdg-on-campus-hufs-tuesday-live-gtl-monthly-november-2026/) |
+| GDGoC 26-2 ninth T19 | 2026-11-17 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-yonsei-university-sinchon-campus-seoul-south-korea-presents-gdgoc-26-2-ninth-t19/) |
 | SMATEC 2026 International Conference | 2026-11-18 | Suwon, South Korea | [↗](https://onoffmix.com/event/351050) |
 | G-STAR 2026 | 2026-11-19 to 2026-11-22 | Busan, South Korea | [↗](https://www.digitaltoday.co.kr/en/view/15066/g-star-2026-early-applications-open-for-exhibitors) |
 | GDG on Campus SKHU Design Study Session - 07 PM&Design session (1) | 2026-11-19 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkonghoe-university-seoul-south-korea-presents-gdg-on-campus-skhu-design-study-session-07-pmampdesign-session-1/) |
@@ -21,6 +21,7 @@
 | KISA Blockchain Promotion Week 2026 | 2026-11-25 | Seoul, South Korea | [↗](https://onoffmix.com/event/351014) |
 | Korea Fintech Week 2026 (8th) | 2026-11-25 to 2026-11-27 | Seoul, South Korea | [↗](https://fsc.go.kr/eng/pr010101/87427) |
 | Smart Construction, Safety & AI Expo 2026 | 2026-11-25 to 2026-11-27 | Goyang, South Korea | [↗](https://smartconexpo.com/) |
+| [85회] 글로벌 IT 전문가와 킹고인의 만남 시즌 2 여든다섯 번째 만남 | 2026-11-25 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkyunkwan-university-seoul-south-korea-presents-85hoe-geulrobeol-it-jeonmungawa-kinggoinyi-mannam-sijeun-2-yeodeundaseos-beonjjae-mannam/) |
 | 2026 GDGoC PKNU 최종발표 | 2026-11-26 | Busan, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-pukyong-national-university-busan-south-korea-presents-2026-gdgoc-pknu-coejongbalpyo/) |
 | FOSS for All Conference 2026 | 2026-11-28 | Seoul | [↗](https://dev.events/conferences/foss-for-all-conference-2026-ujqr94pp) |
 | OWASP Korea Day 2026 | 2026-11-28 | Seoul | [↗](https://dev.events/conferences/owasp-korea-day-2026-csmt7hwk) |

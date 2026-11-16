@@ -1,6 +1,6 @@
 # Developer Events in Switzerland
 
-17 upcoming events. [Back to the full directory](../README.md)
+18 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -16,6 +16,7 @@
 | NextGen Payments & RegTech Forum Zurich | 2027-03-04 | Zurich | [↗](https://dev.events/conferences/next-gen-payments-and-reg-tech-forum-zurich-rms-4ny) |
 | Voxxed Days CERN | 2027-03-05 | Geneva (Switzerland) | [↗](https://cern.voxxeddays.ch/) |
 | Voxxed Days CERN Geneva | 2027-03-05 | Geneva | [↗](https://dev.events/conferences/voxxed-days-cern-geneva-pz5a5zef) |
+| Winterkongress 2027 | 2027-03-05 to 2027-03-06 | Zurich (Switzerland) | [↗](https://www.winterkongress.ch/) |
 | Voxxed Days Zürich | 2027-03-09 | Zurich | [↗](https://dev.events/conferences/voxxed-days-zuerich-gnjtwlsl) |
 | Voxxed Days Zurich | 2027-03-09 | Zurich (Switzerland) | [↗](https://zurich.voxxeddays.ch/) |
 | Applied Machine Learning Days 2027 | 2027-03-09 to 2027-03-11 | Lausanne, Switzerland | [↗](https://www.appliedmldays.org/) |

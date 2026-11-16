@@ -1,6 +1,6 @@
 # Developer Events in Australia
 
-119 upcoming events. [Back to the full directory](../README.md)
+122 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -22,6 +22,7 @@
 | Women in Business Circle: Breakfast at Vogue Café | 2026-11-18 | Sydney, AU | [↗](https://lu.ma/konnec-tb11) |
 | CPL Sydney presented by Independent Reserve Week 3 | 2026-11-18 | Sydney, AU | [↗](https://lu.ma/w27jgegr) |
 | SYD: Clinic Open Night \| Monash IVF Sydney CBD | 2026-11-18 | Sydney, AU | [↗](https://lu.ma/jvtda0uf) |
+| Sydney \| Claude For Developers Meetup | 2026-11-18 | Sydney, AU | [↗](https://lu.ma/claude-w21b) |
 | Analysis, Design & Architecture Conference 2026 | 2026-11-19 to 2026-11-20 | Melbourne (Australia) | [↗](https://adaconf.org) |
 | GDG Canberra DevFest 2026 | 2026-11-19 | Canberra, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-canberra-presents-gdg-canberra-devfest-2026/) |
 | DevFest 2026: Explore AI Powered Development & Digital Analytics | 2026-11-19 | Hobart, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-hobart-presents-devfest-2026-explore-ai-powered-development-amp-digital-analytics/) |
@@ -40,6 +41,7 @@
 | The Reinventor's Mindset Live | 2026-11-24 | Sydney, AU | [↗](https://lu.ma/sk74tfi3) |
 | Ellect Women Hybrid: Celebrating Three Years | 2026-11-24 | Sydney, AU | [↗](https://lu.ma/3j88ketk) |
 | Growing Brokerage Profits in a Low-Fee Market -Executive Breakfast | 2026-11-24 | Sydney, AU | [↗](https://lu.ma/xd4udbi5) |
+| Chooks in Session: 01 | 2026-11-24 | Sydney, AU | [↗](https://lu.ma/gcp1r1lw) |
 | One of the World's Largest Battery Fleets Is Parked in Our Garages, Waiting to Power Our Homes w/ Tyson R. CEO & Co-founder @ Merge Energy | 2026-11-25 | Sydney, AU | [↗](https://lu.ma/310nuokk) |
 | From AI User to AI Builder: Build Your Own AI Assistant | 2026-11-25 | Sydney, AU | [↗](https://lu.ma/8f4duakx) |
 | Robert Ian Bonnick & Andrew Shand - Building the Room | 2026-11-25 | Sydney, AU | [↗](https://lu.ma/9bkt6q7k) |
@@ -98,6 +100,7 @@
 | Prolific NeurIPS: Waterfront Night Party | 2026-12-10 | Sydney, AU | [↗](https://lu.ma/1dyw5lkx) |
 | Happy Hour: AWS Trainium Frontier results on a fixed compute budget, by the teams who built them | 2026-12-10 | Sydney, AU | [↗](https://lu.ma/b0hw5q8y) |
 | Google x Reactor NeurIPS Cocktail Hour | 2026-12-10 | Sydney, AU | [↗](https://lu.ma/rgwx0dnh) |
+| Exploring the Human Genome with AlphaGenome Atlas and AlphaGenome 2 | 2026-12-10 | Sydney, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-ai-for-science-australia-presents-exploring-the-human-genome-with-alphagenome-atlas-and-alphagenome-2/) |
 | Fabric Friday Melbourne | 2026-12-11 | Melbourne | [↗](https://dev.events/conferences/fabric-friday-melbourne-5wbxivr6) |
 | Christmas Networking Drinks | 2026-12-16 | Sydney, AU | [↗](https://lu.ma/9judywon) |
 | Everything Open 2027 | 2027-01-20 to 2027-01-22 | Brisbane | [↗](https://dev.events/conferences/everything-open-2027-fqdbc0md) |

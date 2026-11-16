@@ -4,7 +4,6 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| CODE BLUE 2026 | 2026-11-13 to 2026-11-15 | Tokyo (Japan) | [↗](https://codeblue.jp/) |
 | Flutterを学んで、AIと一緒にアプリを作ってみよう！ | 2026-11-21 | Kobe, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-greater-kwansai-presents-flutterwoxue-nde-aitoyi-xu-niapuriwozuo-tsutemiyou/) |
 | 【Gopherスレイヤー】「Go」を書いてゲームを攻略！with Biwako.go | 2026-11-21 | Ishikawa, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kanazawa-institute-of-technology-ishikawa-japan-presents-gophersureiya-go-woshu-itegemuwogong-lue-with-biwakogo/) |
 | Tech Talk @ 京大11月祭 ― 学生クリエータによるプロジェクト発表 | 2026-11-22 | Kioto, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kyoto-university-kyoto-japan-presents-tech-talk-jing-da-11yue-ji-xue-sheng-kurietaniyorupuroziekutofa-biao/) |
@@ -37,3 +36,4 @@
 | TEAMZ SUMMIT 2027 | 2027-04-05 to 2027-04-07 | Tokyo | [↗](https://dev.events/conferences/teamz-summit-2027-2xbozdvy) |
 | DevOpsDays Tokyo 2027 | 2027-04-13 to 2027-04-14 | Tokyo (Japan) | [↗](https://www.devopsdaystokyo.org/) |
 | AGL All Member Meeting Japan | 2027-05-11 to 2027-05-12 | Tokyo | [↗](https://dev.events/conferences/agl-all-member-meeting-japan-zeuv73uh) |
+| AGNTSummit Tokyo | 2027-11-09 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/agntsummit-tokyo/) |

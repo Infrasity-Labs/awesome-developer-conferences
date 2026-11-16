@@ -1,10 +1,9 @@
 # Developer Events in Philippines
 
-13 upcoming events. [Back to the full directory](../README.md)
+12 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| DevFest 2026 Buildathon: Cagayan de Oro Stop | 2026-11-15 | Cagayan de Oro, Philippines | [↗](https://gdg.community.dev/events/details/google-gdg-cagayan-de-oro-presents-devfest-2026-buildathon-cagayan-de-oro-stop/) |
 | Software Quality Summit Manila 2026 | 2026-11-20 | Manila | [↗](https://dev.events/conferences/software-quality-summit-manila-2026-ghejlmj8) |
 | AI-Driven Security, Governance, Risk and Compliance | 2026-11-20 | Manila | [↗](https://dev.events/conferences/ai-driven-security-governance-risk-and-compliance-cipju50u) |
 | DevFest Cagayan de Oro 2026 | 2026-11-21 | Cagayan de Oro, Philippines | [↗](https://gdg.community.dev/events/details/google-gdg-cagayan-de-oro-presents-devfest-cagayan-de-oro-2026/) |

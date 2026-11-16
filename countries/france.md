@@ -1,19 +1,9 @@
 # Developer Events in France
 
-277 upcoming events. [Back to the full directory](../README.md)
+275 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Capitole du Libre | 2026-11-14 to 2026-11-15 | Toulouse (France) | [↗](https://capitoledulibre.org) |
-| iGEM Innovation - Bio & Brews | 2026-11-15 | Paris, FR | [↗](https://lu.ma/qkozd2w7) |
-| ☕ Special: Offline Hangout x Slow Chocolate Drinking \| My Little Paris Bistrot \| Paris 9th | 2026-11-15 | Paris, FR | [↗](https://lu.ma/3mjcfm7p) |
-| Caleb Stein, Down by the Hudson Exhibition | 2026-11-15 | Paris, FR | [↗](https://lu.ma/klykj5yd) |
-| RUN CLUB 15/11 @La Montgolfière 18ème | 2026-11-15 | Paris, FR | [↗](https://lu.ma/qh8cl6eo) |
-| Sunday Morning Read-In | 2026-11-15 | Paris, FR | [↗](https://lu.ma/xkb9h95q) |
-| Sketch Club - November | 2026-11-15 | Paris, FR | [↗](https://lu.ma/k26glm57) |
-| Paint & Party Paris | 2026-11-15 | Paris, FR | [↗](https://lu.ma/paintparty15nov) |
-| Social GTM Agents Hackathon with Zernio | 2026-11-15 | Paris, FR | [↗](https://lu.ma/wrgyhbwf) |
-| Daret Connect : Creators × Founders | 2026-11-15 | Paris, FR | [↗](https://lu.ma/y8klf3n1) |
 | European Cyber Week 2026 | 2026-11-16 to 2026-11-19 | Rennes, France | [↗](https://www.european-cyber-week.eu/) |
 | Forward Data Conference 2026 | 2026-11-16 | Paris, France | [↗](https://forwarddataconf.com/) |
 | Paris Tech Forum | 2026-11-16 | Paris, FR | [↗](https://lu.ma/actonline-ys4o) |
@@ -80,6 +70,7 @@
 | Update x Louis Dumas | 2026-11-18 | Paris, FR | [↗](https://lu.ma/a7p5ve70) |
 | Wine Wednesdays with WISE: November 2026 | 2026-11-18 | Paris, FR | [↗](https://lu.ma/6zijnrb5) |
 | The No Mad Edition \| Fashion × Creatives Featuring Lune Paris × Krippit | 2026-11-18 | Paris, FR | [↗](https://lu.ma/yuniphhq) |
+| Meet UP Anniversaire | 2026-11-18 | Paris, FR | [↗](https://lu.ma/n8rqgii9) |
 | DevFest Toulouse 2026 | 2026-11-19 | Toulouse (France) | [↗](https://devfesttoulouse.fr/) |
 | Agile Laval 2026 | 2026-11-19 | Laval (France) | [↗](http://www.agilelaval.org/) |
 | OVHcloud Summit | 2026-11-19 | Paris (France) | [↗](https://summit.ovhcloud.com/en/) |
@@ -222,6 +213,7 @@
 | Pitch Roast 2nd Edition 🔥 | 2026-11-26 | Paris, FR | [↗](https://lu.ma/3vkpsf70) |
 | Good Latinas in Paris | 2026-11-26 | Paris, FR | [↗](https://lu.ma/dwrp4590) |
 | 🚶Curious Walking Club - Paris 🇫🇷 · Friends of Screate Labs | 2026-11-26 | Paris, FR | [↗](https://lu.ma/fq8xod9v) |
+| The No Mad Edition \| Holiday Vernissage · 26 November | 2026-11-26 | Paris, FR | [↗](https://lu.ma/ukqoqtn9) |
 | DevFest Paris 2026 | 2026-11-27 | Paris (France) | [↗](https://devfest.gdgparis.fr/) |
 | Networking de Noviembre | 2026-11-27 | Paris, FR | [↗](https://lu.ma/2rbio4nm) |
 | Founders Table #1 · Vendre en santé : ce qui marche, ce qui coince | 2026-11-27 | Paris, FR | [↗](https://lu.ma/7u7a5aig) |
@@ -236,9 +228,13 @@
 | RUN CLUB 29/11 @La Montgolfière 10ème | 2026-11-29 | Paris, FR | [↗](https://lu.ma/enccfurq) |
 | Longevity Café #08 ⏰ Le Sommeil: À la recherche du temps rendu | 2026-11-29 | Paris, FR | [↗](https://lu.ma/adz17xzf) |
 | La Magicienne D'Ose est de retour @La Climate House Silent Disco expérience | 2026-11-29 | Paris, FR | [↗](https://lu.ma/frhp7le2) |
+| CHAPITRE IRL 3 : Meet Up Littéraire & Talk Auteur | 2026-11-29 | Paris, FR | [↗](https://lu.ma/vfw30ml1) |
 | Tech.Rocks Summit | 2026-11-30 to 2026-12-01 | Paris | [↗](https://dev.events/conferences/tech-rocks-summit-aaxn2xuq) |
 | apidays Paris | 2026-11-30 to 2026-12-03 | Paris | [↗](https://dev.events/conferences/apidays-paris-7xk3zi-c) |
 | Tech For Retail 2026 | 2026-11-30 | Paris, France | [↗](https://www.techforretail.com/) |
+| Les femmes et l’argent : une journée pour comprendre et parler librement | 2026-11-30 | Paris, FR | [↗](https://lu.ma/t9v41i4z) |
+| l'apero Rayon | 2026-11-30 | Paris, FR | [↗](https://lu.ma/ddc5qula) |
+| France Digitale x Reframe Venture x ImpactVC - Paris Sustainability Mixer | 2026-11-30 | Paris, FR | [↗](https://lu.ma/2efcfywa) |
 | Cloud Native AI Summit – EUROPE 2026 | 2026-12-01 to 2026-12-02 | Paris | [↗](https://www.cloudnative.ai) |
 | Build It Summit | 2026-12-01 to 2026-12-03 | Paris | [↗](https://dev.events/conferences/build-it-summit-k66lx1xj) |
 | Du Dev au Super Dev: Retour d'Expérience | 2026-12-01 | Lannion, France | [↗](https://gdg.community.dev/events/details/google-gdg-code-darmor-presents-du-dev-au-super-dev-retour-dexperience/) |
@@ -248,6 +244,7 @@
 | DevFest Dijon 2026 | 2026-12-04 | Dijon (France) | [↗](https://devfest.developers-group-dijon.fr/) |
 | Agile Rennes | 2026-12-04 | Rennes (France) | [↗](https://www.billetweb.fr/open-forum-agile-rennes-2026) |
 | DevFest Aix 2026 : Une nouvelle édition provençale ! | 2026-12-05 | Aix-en-Provence, France | [↗](https://gdg.community.dev/events/details/google-gdg-aix-en-provence-presents-devfest-aix-2026-une-nouvelle-edition-provencale/) |
+| GDG Aix DevFest 2026 : Une nouvelle édition provençale ! | 2026-12-08 | Aix-en-Provence, France | [↗](https://gdg.community.dev/events/details/google-gdg-aix-en-provence-presents-gdg-aix-devfest-2026-une-nouvelle-edition-provencale/) |
 | DevOps REX | 2026-12-09 to 2026-12-10 | Paris (France) | [↗](https://www.devopsrex.fr/fr/) |
 | Open Source Experience 2026 | 2026-12-09 to 2026-12-10 | Paris | [↗](https://dev.events/conferences/open-source-experience-2026-p-ntdtj5) |
 | KCD Provence | 2026-12-10 | Aix-en-Provence (France) | [↗](https://cloudnative-provence.fr/) |
@@ -266,6 +263,7 @@
 | JEC Investor Day 2027 | 2027-03-04 | Paris, France | [↗](https://www.jec-world.events/program/jec-investor-day) |
 | ObservabilityCON on the Road: Paris | 2027-03-04 | Paris | [↗](https://dev.events/conferences/observability-con-on-the-road-paris-qhhvalv) |
 | Forum InCyber Europe 2027 | 2027-03-09 to 2027-03-11 | Lille, France | [↗](https://europe.forum-incyber.com/) |
+| JChateau | 2027-03-10 to 2027-03-14 | Loire Valley (France) | [↗](https://www.jchateau.org/) |
 | DevFest Nantes 2027 | 2027-03-11 to 2027-03-12 | Nantes (France) | [↗](https://devfest.gdgnantes.com/) |
 | Entrypoint 2027 | 2027-03-19 to 2027-03-20 | Paris (France) | [↗](https://entrypoint.fr/) |
 | Hacking Health Camp 2027 | 2027-03-20 to 2027-03-22 | Strasbourg, France | [↗](https://hackinghealth.camp/) |

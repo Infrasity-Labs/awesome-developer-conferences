@@ -1,14 +1,10 @@
 # Developer Events in Indonesia
 
-18 upcoming events. [Back to the full directory](../README.md)
+14 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Build Your UI/UX Foundation | 2026-11-15 | Makassar, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-uin-alauddin-makassar-makassar-indonesia-presents-build-your-uiux-foundation/) |
-| Weekly Class #1 Introduction to Front End, Developer Tools, and Learning | 2026-11-15 | Makassar, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-negeri-makassar-makassar-indonesia-presents-weekly-class-1-introduction-to-front-end-developer-tools-and-learning/) |
-| Study Jam Cybersecurity: Recon, “VIbe coded mindset” & Env Leak | 2026-11-15 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-widyatama-university-bandung-indonesia-presents-study-jam-cybersecurity-recon-vibe-coded-mindset-amp-env-leak/) |
-| Study Jam Full-Stack Web: Fundamental & Praktik Dasar MySQL dan PHP | 2026-11-15 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-widyatama-university-bandung-indonesia-presents-study-jam-full-stack-web-fundamental-amp-praktik-dasar-mysql-dan-php/) |
-| Study Banding DevGirls x GDGOC Maliki | 2026-11-15 | Malang, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-uin-maulana-malik-ibrahim-malang-malang-indonesia-presents-study-banding-devgirls-x-gdgoc-maliki/) |
+| Welcome to GDG On Campus Poltekssn | 2026-11-16 | Bogor, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-politeknik-siber-dan-sandi-negara-bogor-indonesia-presents-welcome-to-gdg-on-campus-poltekssn/) |
 | Global Security Symposium | 2026-11-18 | Jakarta | [↗](https://dev.events/conferences/global-security-symposium-xnnyf-yi) |
 | IDSW 2026 | 2026-11-21 to 2026-11-22 | Jakarta | [↗](https://dev.events/conferences/idsw-2026-xkdqgw7y) |
 | Cloud DevFest Surabaya '26: Building Safe, Secure & Scalable Solutions with AI and Cloud | 2026-11-21 | Surabaya, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-surabaya-presents-cloud-devfest-surabaya-26-building-safe-secure-amp-scalable-solutions-with-ai-and-cloud/) |

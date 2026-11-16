@@ -1,6 +1,6 @@
 # Developer Events in Denmark
 
-9 upcoming events. [Back to the full directory](../README.md)
+10 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -9,6 +9,7 @@
 | Data Saturday 2027 | 2027-01-30 | Kongens Lyngby (Denmark) | [↗](https://datasaturdays.com/Event/20260131-datasaturday0074) |
 | DynamicsCon Regional: Europe 2027 | 2027-02-03 | Copenhagen | [↗](https://dev.events/conferences/dynamics-con-regional-europe-2027-gujvinpr) |
 | ELDK27 - Experts Live Denmark | 2027-02-09 to 2027-02-10 | Copenhagen (Denmark) | [↗](https://eldk27.expertslive.dk) |
+| Experience Global Power Platform & Agent Bootcamp 2027 | 2027-02-19 | Kongens Lyngby (Denmark) | [↗](https://www.powerplatformbootcamp.com/2027/location-detail/?id=fe7be890-a9b8-f111-aad2-000d3ae9a84f&city=Copenhagen) |
 | V2 Security Aarhus 2027 | 2027-02-24 to 2027-02-25 | Aarhus, Denmark | [↗](https://v2security.dk/) |
 | EuroSTAR Conference | 2027-05-11 to 2027-05-14 | Copenhagen | [↗](https://dev.events/conferences/euro-star-conference-vshemfx7) |
 | EUCtech 2027 | 2027-05-26 to 2027-05-27 | Billund (Denmark) | [↗](https://conference.euctech.dk) |

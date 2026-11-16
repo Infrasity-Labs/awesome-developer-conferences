@@ -4,7 +4,6 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Portugal Tech Week 2026 | 2026-11-06 to 2026-11-15 | Lisbon, Portugal | [↗](https://portugaltechweek.com/) |
 | SuriCon2026 | 2026-11-18 to 2026-11-20 | Lisbon | [↗](https://dev.events/conferences/suri-con2026-kcru6jsw) |
 | Go in Practice: Human-Centered Software Engineering | 2026-11-18 | Porto, Portugal | [↗](https://gdg.community.dev/events/details/google-gdg-porto-presents-go-in-practice-human-centered-software-engineering/) |
 | Simple language, complex code: The cost of Go's simplicity | 2026-11-18 | Porto, Portugal | [↗](https://gdg.community.dev/events/details/google-gdg-porto-presents-simple-language-complex-code-the-cost-of-gos-simplicity/) |
@@ -17,6 +16,7 @@
 | Lisbon DevFest 2026 | 2026-11-28 | Lisbon, Portugal | [↗](https://gdg.community.dev/events/details/google-gdg-lisbon-presents-lisbon-devfest-2026/) |
 | Strategy Ateliers | 2027-04-21 to 2027-04-22 | Lisbon, Portugal | [↗](https://ateliers.design/strategy) |
 | Design Strategy Ateliers 2027 | 2027-04-22 to 2027-04-23 | Lisbon | [↗](https://dev.events/conferences/design-strategy-ateliers-2027-tl-tp8du) |
+| ElixirConf EU 2027 | 2027-04-22 to 2027-04-23 | Lisbon (Portugal) | [↗](https://www.elixirconf.eu/) |
 | Linux Storage, Filesystem, MM & BPF Summit | 2027-04-27 to 2027-04-29 | Porto | [↗](https://dev.events/conferences/linux-storage-filesystem-mm-and-bpf-summit-xcuu46jj) |
 | UXLx: User Experience Lisbon | 2027-05-11 to 2027-05-14 | Lisbon | [↗](https://dev.events/conferences/ux-lx-user-experience-lisbon-g0ckstgu) |
 | JNation | 2027-05-25 to 2027-05-26 | Coimbra (Portugal) | [↗](https://jnation.pt/) |

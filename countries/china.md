@@ -4,7 +4,6 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Devfest 2026: Exploring the Future of Google Technologies | 2026-11-15 | Zhengzhou, China | [↗](https://gdg.community.dev/events/details/google-gdg-zhengzhou-presents-devfest-2026-exploring-the-future-of-google-technologies/) |
 | C++ and System Software Summit 2026 | 2026-11-20 to 2026-11-21 | Shanghai | [↗](https://dev.events/conferences/c-and-system-software-summit-2026-fv2gzs9s) |
 | 2026 Google DevFest Guangzhou AI Carnival | 2026-11-21 | Guangzhou, China | [↗](https://gdg.community.dev/events/details/google-gdg-guangzhou-presents-2026-google-devfest-guangzhou-ai-carnival/) |
 | DevFest 2026 | 2026-11-21 | Xiamen, China | [↗](https://gdg.community.dev/events/details/google-gdg-xiamen-presents-devfest-2026/) |
@@ -19,4 +18,5 @@
 | Google DevFest 2026 Nanning | 2026-12-12 | Nanning, China | [↗](https://gdg.community.dev/events/details/google-gdg-nanning-presents-google-devfest-2026-nanning/) |
 | Greater Bay Developers, Building What’s Next | 2026-12-13 | Shenzhen, China | [↗](https://gdg.community.dev/events/details/google-gdg-shenzhen-presents-greater-bay-developers-building-whats-next/) |
 | DevFest 2026：Recap of 2026 | 2026-12-19 | Tianjin, China | [↗](https://gdg.community.dev/events/details/google-gdg-tianjin-presents-devfest-2026recap-of-2026/) |
+| Open Nexus China Featuring: AGNTSummit + KubeCon + CloudNativeCon + PyTorch Conference | 2027-05-12 | Shanghai (China) | [↗](https://www.lfopensource.cn/open-nexus-china/) |
 | MWC Shanghai | 2027-06-23 to 2027-06-25 | Shanghai | [↗](https://dev.events/conferences/mwc-shanghai-b9x7jxqi) |

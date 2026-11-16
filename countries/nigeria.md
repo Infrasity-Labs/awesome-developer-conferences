@@ -1,11 +1,9 @@
 # Developer Events in Nigeria
 
-37 upcoming events. [Back to the full directory](../README.md)
+40 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Survey to Insights Pipeline using Google Data Studio | 2026-11-15 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-survey-to-insights-pipeline-using-google-data-studio/) |
-| Get Google Certified: Associate Cloud Engineer | 2026-11-15 | Awka, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-nnamdi-azikiwe-university-awka-nigeria-presents-get-google-certified-associate-cloud-engineer/) |
 | On-Campus Web Series: How the Web Works | 2026-11-16 | Kano, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-bayero-university-kano-kano-nigeria-presents-on-campus-web-series-how-the-web-works/) |
 | Inside GDG on Campus FUTMINNA: Your Seat at the Table | 2026-11-18 | Minna, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-federal-university-of-technology-minna-nigeria-presents-inside-gdg-on-campus-futminna-your-seat-at-the-table/) |
 | TECH IGNITE '26 | 2026-11-19 | Uyo, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-uyo-uyo-nigeria-presents-tech-ignite-26/) |
@@ -15,17 +13,22 @@
 | DevFest Lokoja 2026 | 2026-11-21 | Lokoja, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-lokoja-presents-devfest-lokoja-2026/) |
 | DevFest Ibadan 2026 | 2026-11-21 | Ibadan, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-ibadan-presents-devfest-ibadan-2026/) |
 | Infosession: Orbit- Launching your Tech Odyssey | 2026-11-21 | Iwo, Nigeria, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-bowen-university-iwo-nigeria-presents-infosession-orbit-launching-your-tech-odyssey/) |
+| DevFest Jalingo 2026 | 2026-11-21 | Jalingo, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-jalingo-presents-devfest-jalingo-2026/) |
+| DevFest Umuahia 2026 | 2026-11-21 | Umuahia, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-umuahia-presents-devfest-umuahia-2026/) |
 | GDGoC Unilorin Info session | 2026-11-22 | Ilorin, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-ilorin-ilorin-nigeria-presents-gdgoc-unilorin-info-session/) |
 | From Code to Cloud: Deploying applications with Google Cloud Run | 2026-11-22 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-from-code-to-cloud-deploying-applications-with-google-cloud-run/) |
 | Hands-On AI Workshop: Building Careers with Google AI & Cloud | 2026-11-24 | Kaduna, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-hands-on-ai-workshop-building-careers-with-google-ai-amp-cloud-2026-11-24/) |
 | Mentorship Session | 2026-11-25 | Abeokuta, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-federal-university-of-agriculture-abeokuta-nigeria-presents-mentorship-session-2026-11-25/) |
 | Decode Tech:Exploring the Tech Ecosystem | 2026-11-26 | Okitipupa, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-olusegun-agagu-university-of-science-technology-okitipupa-nigeria-presents-decode-techexploring-the-tech-ecosystem/) |
 | A Beginner's Guide to Google Cloud Data & AI Services | 2026-11-27 | Kaduna, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-a-beginners-guide-to-google-cloud-data-amp-ai-services-2026-11-27/) |
+| Understanding AI Agents and Intelligent Applications | 2026-11-27 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-understanding-ai-agents-and-intelligent-applications/) |
 | Devfest Port Harcourt 2026 | 2026-11-28 | Port Harcourt, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-port-harcourt-presents-devfest-port-harcourt-2026/) |
 | QUANTUM AFRICA SUMMIT | 2026-11-28 | Lagos | [↗](https://dev.events/conferences/quantum-africa-summit-ja7x2kgp) |
 | Business Intelligence Saturday | 2026-11-28 | Kaduna, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-business-intelligence-saturday-2026-11-28-1/) |
+| From data to intelligence  Build an Ai-powered web app that analyses text, images, audio and documents using simple prompts. | 2026-11-28 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-from-data-to-intelligence-build-an-ai-powered-web-app-that-analyses-text-images-audio-and-documents-using-simple-prompts/) |
 | Data Science-AI-Cloud Sundays | 2026-11-29 | Kaduna, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-11-29/) |
 | DevFest Enugu 2026 | 2026-12-04 | Enugu, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-enugu-presents-devfest-enugu-2026-1/) |
+| Launch Your Portfolio Website with AI | 2026-12-04 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-launch-your-portfolio-website-with-ai/) |
 | Devfest Gusau 2026 Kickoff | 2026-12-05 | Gusau, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-gusau-presents-devfest-gusau-2026-kickoff/) |
 | DevFest Aba 2026 | 2026-12-05 | Aba, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-aba-presents-devfest-aba-2026/) |
 | Devfest Gusau 2026 | 2026-12-05 | Gusau, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-gusau-presents-devfest-gusau-2026/) |

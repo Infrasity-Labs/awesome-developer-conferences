@@ -1,6 +1,6 @@
 # Developer Events in Norway
 
-8 upcoming events. [Back to the full directory](../README.md)
+9 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -12,3 +12,4 @@
 | Web Rebels 2027 | 2027-05-24 to 2027-05-25 | Oslo (Norway) | [↗](https://webrebels.org/) |
 | NDC Oslo 2027 | 2027-05-31 to 2027-06-04 | Oslo | [↗](https://dev.events/conferences/ndc-oslo-2027-5m-x8iyo) |
 | EUCTech Oslo 2027 | 2027-06-02 to 2027-06-04 | Oslo (Norway) | [↗](https://euctech.no/) |
+| BSides Kristiansand 2027 | 2027-06-04 | Kristiansand (Norway) | [↗](https://bsideskrs.no/) |

@@ -1,21 +1,9 @@
 # Developer Events in Singapore
 
-293 upcoming events. [Back to the full directory](../README.md)
+289 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Kacheri \| A South Indian Musical Gathering | 2026-11-15 | Singapore, SG | [↗](https://lu.ma/kacheri15nov) |
-| Dreaming in Blue - A Cyanotype Experience for Beginners | 2026-11-15 | Singapore, SG | [↗](https://lu.ma/l5blir4x) |
-| Dine With Joy Charity Lunch Buffet | 2026-11-15 | Singapore, SG | [↗](https://lu.ma/3t18syln) |
-| AI: Tool, Threat, or Collaborator? — Solotogether × XNode Dialogue | 2026-11-15 | Singapore, SG | [↗](https://lu.ma/c4b16rya) |
-| Paint & Mingle: An art jam for the ladies on their side quests (HWH × Sidequest.sg) | 2026-11-15 | Singapore, SG | [↗](https://lu.ma/jnhzefe2) |
-| Unconference: Community Day! \| 2026 | 2026-11-15 | Singapore, SG | [↗](https://lu.ma/4ibqnsto) |
-| Learnathon @ Singapore Blockchain Week | 2026-11-15 | Singapore, SG | [↗](https://lu.ma/SBWlearnathon) |
-| The BFF Pantry Talk 03: BeanGO [Is This the Snack That Makes Beans Cool?] | 2026-11-15 | Singapore, SG | [↗](https://lu.ma/0gv7mp0h) |
-| The BFF Pantry Talk 04: Mycosortia [Is Cocoa-Free Chocolate the Future?] | 2026-11-15 | Singapore, SG | [↗](https://lu.ma/ybzk05s1) |
-| The BFF Pantry Talk 05: Clean And Real Foods [What If Healthy Eating Took 5 Minutes?] | 2026-11-15 | Singapore, SG | [↗](https://lu.ma/1lavvlek) |
-| The BFF Pantry Talk 06: Mireia [Can Vanilla Really Grow in Singapore?] | 2026-11-15 | Singapore, SG | [↗](https://lu.ma/msgvvt1d) |
-| ETH Singapore Co-Working & Community Space | 2026-11-15 | Singapore, SG | [↗](https://lu.ma/SBWcoworkingWithETH) |
 | REIMAGINING PHILANTHROPY 2026 | 2026-11-16 | Singapore, SG | [↗](https://lu.ma/ommy8y2v) |
 | AI for Finance Summit 2026 Singapore | 2026-11-16 | Singapore, SG | [↗](https://lu.ma/4xbo8tqg) |
 | TEAMZ TOUR (Singapore) | 2026-11-16 | Singapore, SG | [↗](https://lu.ma/teamz-u7ri) |
@@ -70,6 +58,7 @@
 | From Pilot to Production \| SFF Lunch & Panel | 2026-11-17 | Singapore, SG | [↗](https://lu.ma/sfflunchandlearn) |
 | Moscow Meets Singapore \| Exclusive Investor Pitch Session | 2026-11-17 | Singapore, SG | [↗](https://lu.ma/newworld-u8iv) |
 | My Agent Will Take It From Here \| Clink x Visa Agentic Commerce Roundtable | 2026-11-17 | Singapore, SG | [↗](https://lu.ma/iu5mun8u) |
+| K-Blockchain Launchpad 2026 | 2026-11-17 | Singapore, SG | [↗](https://lu.ma/kblockchainlaunchpad2026) |
 | Singapore FinTech Festival 2026 | 2026-11-18 to 2026-11-20 | Singapore | [↗](https://dev.events/conferences/singapore-fin-tech-festival-2026-uqb3wnkx) |
 | Hidden Investment Opportunities in Japan | 2026-11-18 | Singapore, SG | [↗](https://lu.ma/5wj4t9g4) |
 | SAS Alumni City Club of Singapore: Career Marketplace 2026 | 2026-11-18 | Singapore, SG | [↗](https://lu.ma/f3rjjuhx) |
@@ -110,6 +99,10 @@
 | Cleanverse Talks - Trust Before Value Moves: Building an Institutional Trust Network | 2026-11-18 | Singapore, SG | [↗](https://lu.ma/4bqsv2l2) |
 | Cleanverse Talks - When AI Agents Shop, Who Can You Trust? | 2026-11-18 | Singapore, SG | [↗](https://lu.ma/e23scuyq) |
 | The EuroAsia Exchange by Raiffeisen Bank, Tapix & OTLRS | 2026-11-18 | Singapore, SG | [↗](https://lu.ma/bzdj2xv3) |
+| Do You Know Where Your Business Stands? | 2026-11-18 | Singapore, SG | [↗](https://lu.ma/jjjtytg4) |
+| The One About Knowing When AI Is Ready | 2026-11-18 | Singapore, SG | [↗](https://lu.ma/6akzfp1p) |
+| Coinbase VIPs Thanksgiving Dinner 🥂 | 2026-11-18 | Singapore, SG | [↗](https://lu.ma/9nyjhcl7) |
+| On Singapore Marathon Training Block | 2026-11-18 | Singapore, SG | [↗](https://lu.ma/tuhjy9k0) |
 | EVENT Uzbekistan: Central Asia’s Emerging Fintech Hub | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/4c873mz8) |
 | RoboNexus Supply Chain Workshop | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/z4kr75p3) |
 | The Maitreya Finance Executive Lunch Roundtable | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/tc72tonp) |
@@ -210,6 +203,7 @@
 | ANALOG PLAY | 2026-11-22 | Singapore, SG | [↗](https://lu.ma/p62zeoav) |
 | The Dating Survival Guide: Flirting, Situationships, Casual S*x (No Judgement Space!) | 2026-11-22 | Singapore, SG | [↗](https://lu.ma/wb9eiz35) |
 | The Unhurried Cup: A Creative & Reflective Coffee Gathering | 2026-11-22 | Singapore, SG | [↗](https://lu.ma/rqwnvtsi) |
+| 📚 BookRave: Singapore Writers Festival Weekend Edition Sunday, 22 November \| 10:00–11:30 AM ☕ Baker & Cook, Asian Civilisations Museum | 2026-11-22 | Singapore, SG | [↗](https://lu.ma/0c93qwnm) |
 | TGB AI CXO Summit 2026 | 2026-11-23 | Singapore | [↗](https://dev.events/conferences/tgb-ai-cxo-summit-2026-auvumstp) |
 | JOIM Singapore Conference | 2026-11-23 | Singapore, SG | [↗](https://lu.ma/l7ijnne0) |
 | Twelve’s Open \| A Golf Social | 2026-11-23 | Singapore, SG | [↗](https://lu.ma/ifna9v20) |
@@ -254,6 +248,8 @@
 | More than Just Small Talks \| 20s-30s (1 Free Drink!) | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/y69d153u) |
 | Every Love Song in the World | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/k7xtn694) |
 | Friendsgiving Dinner | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/enbpl8vp) |
+| Unlocking 3.1M Visitors: AMap Singapore Partner Launch -智领三百万客流：高德新加坡生态启动会 | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/7riswuyc) |
+| Trauma-Informed Somatics | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/trauma-informed-somatics-1126) |
 | Art of Play: An Inner Child Hammock Experience for Ambitious Women | 2026-11-27 | Singapore, SG | [↗](https://lu.ma/1rujsyzj) |
 | Side Quest Night: Show & Tell | 2026-11-27 | Singapore, SG | [↗](https://lu.ma/4hxyf7ln) |
 | Will AI Recommend Your Brand? - GEO/AEO for Product Owners and Marketers | 2026-11-27 | Singapore, SG | [↗](https://lu.ma/u7hq2iaj) |

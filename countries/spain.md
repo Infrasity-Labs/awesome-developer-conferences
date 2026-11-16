@@ -1,6 +1,6 @@
 # Developer Events in Spain
 
-69 upcoming events. [Back to the full directory](../README.md)
+70 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -43,6 +43,7 @@
 | Devopsdays Vitoria | 2027-01-23 | Vitoria (Spain) | [↗](https://devopsdays.org/events/2027-vitoria) |
 | Integrated Systems Europe (ISE) 2027 | 2027-02-02 to 2027-02-05 | Barcelona, Spain | [↗](https://www.iseurope.org) |
 | Global Power Platform Bootcamp Barcelona 2027 | 2027-02-19 to 2027-02-20 | Barcelona (Spain) | [↗](https://powerplatformbcn.cat) |
+| Global AI Bootcamp 2027 | 2027-02-20 | Castelló de la Plana (Spain) | [↗](https://www.globalaicastellon.es/) |
 | DevFest- 2026 [CodeRioja] | 2027-02-27 | La Rioja, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-la-rioja-presents-devfest-2026-coderioja/) |
 | Coderioja-2027 | 2027-02-27 | Logroño (Spain) | [↗](https://www.coderioja.com/) |
 | 4YFN 2027 | 2027-03-01 to 2027-03-04 | Barcelona, Spain | [↗](https://www.4yfn.com/) |
