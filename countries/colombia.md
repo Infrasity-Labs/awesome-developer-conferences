@@ -1,9 +1,10 @@
 # Developer Events in Colombia
 
-7 upcoming events. [Back to the full directory](../README.md)
+8 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
+| Road to DevFest: Getting Started with Google Antigravity | 2026-11-18 | Bogotá, Colombia | [↗](https://gdg.community.dev/events/details/google-gdg-bogota-presents-road-to-devfest-getting-started-with-google-antigravity/) |
 | BoyaConf 2026 | 2026-11-21 | Tunja (Colombia) | [↗](https://boyaca-dev.org/conf/2026) |
 | DevFest - Tech Day Cali 2026 | 2026-11-21 | Cali, Colombia | [↗](https://gdg.community.dev/events/details/google-gdg-cali-presents-devfest-tech-day-cali-2026/) |
 | AI Caravan: From Hype to Impact | 2026-11-21 | Bogotá, Colombia | [↗](https://gdg.community.dev/events/details/google-gdg-bogota-presents-ai-caravan-from-hype-to-impact/) |

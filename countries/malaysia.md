@@ -1,10 +1,9 @@
 # Developer Events in Malaysia
 
-10 upcoming events. [Back to the full directory](../README.md)
+9 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Gamefest: Tetrio Showdown | 2026-11-16 | Penang, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universiti-sains-malaysia-penang-malaysia-presents-gamefest-tetrio-showdown/) |
 | Road to DevFest Cloud KL 2026 #2: Antigravity & Local LLMs | 2026-11-18 | Kuala Lumpur, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kl-presents-road-to-devfest-cloud-kl-2026-2-antigravity-amp-local-llms/) |
 | Study Trip to SHENZHEN & HONG KONG | 2026-11-22 | Selangor, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-monash-university-malaysia-selangor-malaysia-presents-study-trip-to-shenzhen-amp-hong-kong/) |
 | DevFest Cloud KL 2026 | 2026-11-28 | Kuala Lumpur, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kl-presents-devfest-cloud-kl-2026/) |

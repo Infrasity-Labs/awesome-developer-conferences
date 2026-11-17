@@ -4,7 +4,6 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Cyber Security Session 2 : Exploring the CIA Triad | 2026-11-16 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-cyber-security-session-2-exploring-the-cia-triad-2026-11-16/) |
 | AI Session 3 : Unlocking Data with NumPy and Pandas | 2026-11-17 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-ai-session-3-unlocking-data-with-numpy-and-pandas-2026-11-17/) |
 | Automation Workshop:AI Track | 2026-11-17 | Obour City, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-benha-national-university-obour-egypt-presents-automation-workshopai-track/) |
 | Classroom to Career: Your Next Chapter \| GDG AASTMT | 2026-11-18 | Charlottesville, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-arab-academy-for-science-technology-and-maritime-transport-cairo-egypt-presents-classroom-to-career-your-next-chapter-gdg-aastmt/) |
@@ -15,6 +14,7 @@
 | AI Automation Session 3 : Unplugged: Master Functions & Files | 2026-11-20 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-ai-automation-session-3-unplugged-master-functions-amp-files/) |
 | Damanhour DevFest 2026 | 2026-11-21 | Damanhour, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-damanhour-presents-damanhour-devfest-2026/) |
 | AI-Powered Portfolio Workshop | 2026-11-21 | Obour City, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-benha-national-university-obour-egypt-presents-ai-powered-portfolio-workshop/) |
+| DevFest Ismailia 2026 | 2026-11-21 | Ismailia (Egypt) | [↗](https://gdg.community.dev/events/details/google-gdg-ismailia-presents-devfest-2026-digital-embryo-of-ai-agent/) |
 | The First Move | 2026-11-23 | Birkat as SAB, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-faculty-of-computers-and-artificial-intelligence-menoufia-national-university-birkat-as-sab-egypt-presents-the-first-move/) |
 | Launch into Embedded Systems | 2026-11-24 | Charlottesville, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-arab-academy-for-science-technology-and-maritime-transport-cairo-egypt-presents-launch-into-embedded-systems-2026-11-24/) |
 | Local Storage & Firebase Intro | 2026-11-27 | Giza, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-october-6-university-giza-egypt-presents-local-storage-amp-firebase-intro/) |

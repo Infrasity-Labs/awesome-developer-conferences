@@ -4,7 +4,6 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Vibe Coding with Google AI Studio (Fall 2026) | 2026-11-16 | Dubai, United Arab Emirates | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-rochester-institute-of-technology-of-dubai-dubai-united-arab-emirates-presents-vibe-coding-with-google-ai-studio-fall-2026/) |
 | Terminal Tips and Tricks for Agentic Development | 2026-11-18 | Ras Al-Khaimah, United Arab Emirates | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-bath-spa-university-ras-al-khaimah-united-arab-emirates-presents-terminal-tips-and-tricks-for-agentic-development/) |
 | DevFest 2026 by GDG Abu Dhabi | 2026-11-21 | Abu Dhabi, United Arab Emirates | [↗](https://gdg.community.dev/events/details/google-gdg-abu-dhabi-presents-devfest-2026-by-gdg-abu-dhabi/) |
 | GITEX Global | 2026-12-07 to 2026-12-11 | Dubai, UAE | [↗](https://www.gitex.com) |
@@ -17,5 +16,6 @@
 | ICADS 2027 | 2027-02-01 to 2027-02-03 | Dubai | [↗](https://dev.events/conferences/icads-2027-htyyi-yc) |
 | Step Dubai 2027 | 2027-02-03 to 2027-02-04 | Dubai | [↗](https://dev.events/conferences/step-dubai-2027-dw9e-17l) |
 | FinNext Conference Dubai 2027 | 2027-02-06 | Dubai | [↗](https://dev.events/conferences/fin-next-conference-dubai-2027-wr3ihojp) |
+| Enterprise Private AI UAE | 2027-03-17 to 2027-03-18 | Dubai, United Arab Emirates | [↗](https://airswipe-global.com) |
 | DDX Dubai 2027 | 2027-03-19 to 2027-03-21 | Dubai | [↗](https://dev.events/conferences/ddx-dubai-2027-aqkdo9db) |
 | TOKEN2049 Dubai | 2027-04-21 to 2027-04-22 | Dubai | [↗](https://dev.events/conferences/token-2049-dubai-zjdfcnml) |

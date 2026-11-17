@@ -1,16 +1,18 @@
 # Developer Events in South Korea
 
-27 upcoming events. [Back to the full directory](../README.md)
+30 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | ISES Solar World Congress 2026 | 2026-11-15 to 2026-11-20 | Daejeon, South Korea | [↗](https://view.asiae.co.kr/en/article/2026020309283926902) |
-| API 연결 세션 | 2026-11-16 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-hongik-university-seoul-south-korea-presents-api-yeongyeol-sesyeon/) |
 | GDG on Campus HUFS Tuesday Live (GTL) - Monthly (November 2026) | 2026-11-17 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-hankuk-university-of-foreign-studies-seoul-south-korea-presents-gdg-on-campus-hufs-tuesday-live-gtl-monthly-november-2026/) |
 | GDGoC 26-2 ninth T19 | 2026-11-17 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-yonsei-university-sinchon-campus-seoul-south-korea-presents-gdgoc-26-2-ninth-t19/) |
+| GDG on Campus SKHU Backend Study Session - 07 OAuth2.0을 통한 소셜 로그인 | 2026-11-17 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkonghoe-university-seoul-south-korea-presents-gdg-on-campus-skhu-backend-study-session-07-oauth20eul-tonghan-sosyeol-rogeuin/) |
+| GDG on Campus SKHU Frontend Study Session - 07 API 연동과 비동기 처리 | 2026-11-17 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkonghoe-university-seoul-south-korea-presents-gdg-on-campus-skhu-frontend-study-session-07-api-yeondonggwa-bidonggi-ceori/) |
 | SMATEC 2026 International Conference | 2026-11-18 | Suwon, South Korea | [↗](https://onoffmix.com/event/351050) |
 | G-STAR 2026 | 2026-11-19 to 2026-11-22 | Busan, South Korea | [↗](https://www.digitaltoday.co.kr/en/view/15066/g-star-2026-early-applications-open-for-exhibitors) |
 | GDG on Campus SKHU Design Study Session - 07 PM&Design session (1) | 2026-11-19 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkonghoe-university-seoul-south-korea-presents-gdg-on-campus-skhu-design-study-session-07-pmampdesign-session-1/) |
+| Weekly Meetup (11월 3주차) | 2026-11-19 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-chungang-university-seoul-south-korea-presents-weekly-meetup-11weol-3juca/) |
 | 2026 GDGoC PKNU Senior 특강(시간수정/김명준) | 2026-11-20 | Busan, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-pukyong-national-university-busan-south-korea-presents-2026-gdgoc-pknu-senior-teuggangsigansujeonggimmyeongjun/) |
 | 🚀 GDGoC Dev Hackathon 2026 | 2026-11-20 | Siheung, South Korea, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-tech-university-of-korea-siheung-south-korea-presents-gdgoc-dev-hackathon-2026/) |
 | GDGoC SMU 1st Project Demo Day | 2026-11-20 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sangmyung-university-seoul-south-korea-presents-gdgoc-smu-1st-project-demo-day/) |
@@ -30,4 +32,5 @@
 | DevFest Android in Korea 2026 - AI 디톡스 | 2026-12-05 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-korea-android-presents-devfest-android-in-korea-2026-ai-ditogseu/) |
 | HACK Conference 2027 | 2027-03-31 | Seoul (South Korea) | [↗](https://dothack.io/) |
 | ChurConf Seoul | 2027-04-03 | Seoul | [↗](https://dev.events/conferences/chur-conf-seoul-yevygxc0) |
+| ChurConf | 2027-04-03 | Seoul, South Korea | [↗](https://kr.churconf.com) |
 | Open Source Summit Korea | 2027-10-14 to 2027-10-15 | Seoul | [↗](https://dev.events/conferences/open-source-summit-korea-zrlwvkyt) |

@@ -1,6 +1,6 @@
 # Developer Events in Poland
 
-31 upcoming events. [Back to the full directory](../README.md)
+32 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -16,6 +16,7 @@
 | PDUG 2026 | 2026-11-19 to 2026-11-20 | Krakow | [↗](https://dev.events/conferences/pdug-2026-zn5czm1o) |
 | PyCon Wroclaw 2026 | 2026-11-20 to 2026-11-21 | Wroclaw (Poland) | [↗](https://www.pyconwroclaw.com) |
 | GDG DevFest 2026 Warsaw | 2026-11-21 | Warsaw, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-warszawa-presents-gdg-devfest-2026-warsaw/) |
+| SRE dla AI: jak Google dba o niezawodność i wydajność systemów sztucznej inteligencji | 2026-11-25 | Warsaw, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-politechnika-warszawska-warsaw-poland-presents-sre-dla-ai-jak-google-dba-o-niezawodnosc-i-wydajnosc-systemow-sztucznej-inteligencji/) |
 | SymfonyCon | 2026-11-26 | Warsaw, Poland | [↗](https://live.symfony.com/2026-warsaw-con) |
 | SymfonyCon Warsaw 2026 | 2026-11-26 to 2026-11-27 | Warsaw | [↗](https://dev.events/conferences/symfony-con-warsaw-2026-ucaafsud) |
 | WAWTECH 2026 | 2026-11-26 to 2026-11-27 | Warsaw | [↗](https://dev.events/conferences/wawtech-2026-6g-s55vq) |

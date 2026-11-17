@@ -1,6 +1,6 @@
 # Developer Events in Japan
 
-33 upcoming events. [Back to the full directory](../README.md)
+34 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -14,6 +14,7 @@
 | 東北TECH道場 山形 (Tohoku Tech Dojo Yamagata) | 2026-11-28 | Yamagata, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-tohoku-tech-dojo-yamagata-presents-dong-bei-techdao-chang-shan-xing-tohoku-tech-dojo-yamagata-2026-11-28/) |
 | Google Developer Group DevFest Tokyo 2026 | 2026-11-29 | Tokyo, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-tokyo-presents-google-developer-group-devfest-tokyo-2026/) |
 | TokyuRubyKaigi 17 | 2026-11-29 | Tokyo | [↗](https://dev.events/conferences/tokyu-ruby-kaigi-17-byg9ltkg) |
+| Try it! Google Workspace | 2026-11-30 | Sapporo, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-sapporo-presents-try-it-google-workspace/) |
 | Gartner IT Infrastructure, Operations & Cloud Strategies | 2026-12-01 to 2026-12-03 | Tokyo | [↗](https://dev.events/conferences/gartner-it-infrastructure-operations-and-cloud-strategies-qevvlboe) |
 | DevFest in Tokushima | 2026-12-05 | Takamatsu, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-shikoku-presents-devfest-in-tokushima/) |
 | データ利活用やってみよう！ハッカソン2026 成果発表会 #DevFest | 2026-12-05 | Osaka, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-osaka-presents-detali-huo-yong-yatsutemiyouhatsukason2026-cheng-guo-fa-biao-hui-devfest/) |

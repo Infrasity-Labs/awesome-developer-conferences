@@ -1,6 +1,6 @@
 # Developer Events in Spain
 
-70 upcoming events. [Back to the full directory](../README.md)
+71 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -34,6 +34,7 @@
 | Explorando Vulnerability Research: Del Descubrimiento a la Explotación | 2026-11-30 | Jaen, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-jaen-presents-explorando-vulnerability-research-del-descubrimiento-a-la-explotacion/) |
 | De máquinas virtuales a serverless, por Laura Morillo, GDE Cloud — edición vídeo \| Upskilling Week Barcelona | 2026-12-01 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-de-maquinas-virtuales-a-serverless-por-laura-morillo-gde-cloud-edicion-video-upskilling-week-barcelona/) |
 | DescubreXR Zaragoza 2026 | 2026-12-02 | Zaragoza, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-zaragoza-presents-descubrexr-zaragoza-2026/) |
+| 🚀 DevFest Santander 2026 | 2026-12-11 | Santander (Spain) | [↗](https://gdg.community.dev/events/details/google-gdg-santander-presents-devfest-santander-2026-vuelve-el-sobaofest-ii/) |
 | NetCoreConf Barcelona 2026 | 2026-12-12 | Barcelona | [↗](https://dev.events/conferences/net-core-conf-madrid-2026-4cknjny) |
 | 🎉 DevFest GDG on Campus UOC 2026 | 2026-12-12 | Barcelona, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-uoc-barcelona-spain-presents-devfest-gdg-on-campus-uoc-2026/) |
 | Taller: Crea tu producto con Antigravity y Gemini 2/3 | 2026-12-17 | Marbella, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-marbella-presents-taller-crea-tu-producto-con-antigravity-y-gemini-23/) |

@@ -1,10 +1,13 @@
 # Developer Events in Kenya
 
-28 upcoming events. [Back to the full directory](../README.md)
+36 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | Build Your First Database-Backed Web App with Google AI Studio and Cloud SQL | 2026-11-17 | Juja, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-build-your-first-database-backed-web-app-with-google-ai-studio-and-cloud-sql/) |
+| Kickstart: Introduction to UI/UX Design | 2026-11-17 | Baraton, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-eastern-africa-baraton-eldoret-kenya-presents-kickstart-introduction-to-uiux-design/) |
+| Decision Trees Unleashed: Exploring Regression Trees | 2026-11-18 | Chuka, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-chuka-university-chuka-kenya-presents-decision-trees-unleashed-exploring-regression-trees/) |
+| Discover UI design: an introduction into UI design and figma as a design software | 2026-11-18 | Nakuru, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kabarak-university-nakuru-kenya-presents-discover-ui-design-an-introduction-into-ui-design-and-figma-as-a-design-software/) |
 | MCP Dev Summit Nairobi | 2026-11-19 | Nairobi (Kenya) | [↗](https://events.linuxfoundation.org/mcp-dev-summit-nairobi/) |
 | Cloud Unlocked: Foundations of Google Cloud Platform (GCP). | 2026-11-19 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-the-co-operative-university-of-kenya-nairobi-kenya-presents-cloud-unlocked-foundations-of-google-cloud-platform-gcp/) |
 | WIT Professional Photo & Networking Booth | 2026-11-19 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-wit-professional-photo-amp-networking-booth/) |
@@ -12,12 +15,17 @@
 | WIT Sip & Paint Brunch | 2026-11-19 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-wit-sip-amp-paint-brunch/) |
 | WIT WRAP FEST💃 | 2026-11-19 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-wit-wrap-fest/) |
 | Ethical Hacking: Web Brute Forcing | 2026-11-19 | Embu, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-embu-embu-kenya-presents-ethical-hacking-web-brute-forcing/) |
+| Kickstart with Android: Build Your First App | 2026-11-19 | Marimanti, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-tharaka-university-marimanti-kenya-presents-kickstart-with-android-build-your-first-app/) |
+| Mastering Google Workspace: Collaboration & Organization | 2026-11-19 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-the-catholic-university-of-eastern-africa-nairobi-kenya-presents-mastering-google-workspace-collaboration-amp-organization/) |
 | Hands with Odoo:CRM +website | 2026-11-20 | Thika, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-mount-kenya-university-thika-kenya-presents-hands-with-odoocrm-website/) |
 | Build Night: From Code to Cloud — Building, Testing & Deploying Applications | 2026-11-20 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-build-night-from-code-to-cloud-building-testing-amp-deploying-applications/) |
+| Africa DevOps Summit 2026 | 2026-11-20 to 2026-11-21 | Nairobi (Kenya) | [↗](https://nairobidevops.org/) |
+| Launch into Tech: Mastering SDLC & Soft Skills | 2026-11-20 | Nakuru, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kabarak-university-nakuru-kenya-presents-launch-into-tech-mastering-sdlc-amp-soft-skills/) |
 | Devfest Kisumu 2026 | 2026-11-21 | Kisumu, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-kisumu-presents-devfest-kisumu-2026/) |
 | WIT Wrap : Celebrate, Connect, Conquer! | 2026-11-21 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-wit-wrap-celebrate-connect-conquer/) |
 | Launch Your Portfolio Website with AI, Live Reviews \| Builders Jam Track 01 | 2026-11-21 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-nairobi-nairobi-kenya-presents-launch-your-portfolio-website-with-ai-live-reviews-builders-jam-track-01/) |
 | 🔐 Cybersecurity Awareness and Training Workshop | 2026-11-21 | Voi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-taita-taveta-university-voi-kenya-presents-cybersecurity-awareness-and-training-workshop-1/) |
+| Think Like an Attacker: Intro to Penetration Testing in a Safe Lab | 2026-11-21 | Voi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-taita-taveta-university-voi-kenya-presents-think-like-an-attacker-intro-to-penetration-testing-in-a-safe-lab/) |
 | STARTUP GRIND NAIROBI TECH WEEK - DAY 1: "DEV(SEC)OPS & INFRASTRUCTURE" | 2026-11-23 | Nairobi, Kenya | [↗](https://www.startupgrind.com/events/details/startup-grind-nairobi-presents-startup-grind-nairobi-tech-week-day-1-devsecops-amp-infrastructure/) |
 | STARTUP GRIND NAIROBI WEEK - DEEP TECH FRONTIER | 2026-11-23 | Nairobi, Kenya | [↗](https://www.startupgrind.com/events/details/startup-grind-nairobi-presents-startup-grind-nairobi-week-deep-tech-frontier/) |
 | STARTUP GRIND NAIROBI TECH WEEK DAY 2:  "DECENTRALIZED NAIROBI" | 2026-11-24 | Nairobi, Kenya | [↗](https://www.startupgrind.com/events/details/startup-grind-nairobi-presents-startup-grind-nairobi-tech-week-day-2-decentralized-nairobi/) |

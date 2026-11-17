@@ -1,18 +1,10 @@
 # Developer Events in France
 
-275 upcoming events. [Back to the full directory](../README.md)
+277 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | European Cyber Week 2026 | 2026-11-16 to 2026-11-19 | Rennes, France | [↗](https://www.european-cyber-week.eu/) |
-| Forward Data Conference 2026 | 2026-11-16 | Paris, France | [↗](https://forwarddataconf.com/) |
-| Paris Tech Forum | 2026-11-16 | Paris, FR | [↗](https://lu.ma/actonline-ys4o) |
-| Retour d’expérience : Mise en production de pipelines IA | 2026-11-16 | Paris, FR | [↗](https://lu.ma/retour-dexperience-mise-en-production-de-pipelines) |
-| Afterwork privé CMO : Co-créez votre stratégie marketing 2027 entre pairs | 2026-11-16 | Paris, FR | [↗](https://lu.ma/uhieiniz) |
-| Dîner Machine, #8: Invité spécial (AI Safety) | 2026-11-16 | Paris, FR | [↗](https://lu.ma/11lm2440) |
-| Petite Mendigote - Book club | 2026-11-16 | Paris, FR | [↗](https://lu.ma/t2d6yvjm) |
-| FlexUp Startup Networking Workshop #45, Station F (Boardroom OpenAI), Paris • Monday 16th November 2026, 6pm (CET) | 2026-11-16 | Paris, FR | [↗](https://lu.ma/q1yd805m) |
-| Update x Julien Honnart | 2026-11-16 | Paris, FR | [↗](https://lu.ma/7pbd2d2n) |
 | Invitation au lancement de L'Année de la Regtech 2026 | 2026-11-17 | Paris, FR | [↗](https://lu.ma/bk38zufy) |
 | aMP Day Lyon 2026 | 2026-11-17 | Lyon (France) | [↗](https://ampcommunity.online/amp-day-lyon-2026/) |
 | E-Commerce Sessions - 17 novembre 2026 | 2026-11-17 | Paris, FR | [↗](https://lu.ma/kslrm5px) |
@@ -71,6 +63,8 @@
 | Wine Wednesdays with WISE: November 2026 | 2026-11-18 | Paris, FR | [↗](https://lu.ma/6zijnrb5) |
 | The No Mad Edition \| Fashion × Creatives Featuring Lune Paris × Krippit | 2026-11-18 | Paris, FR | [↗](https://lu.ma/yuniphhq) |
 | Meet UP Anniversaire | 2026-11-18 | Paris, FR | [↗](https://lu.ma/n8rqgii9) |
+| Bitcoin Actu à Paris | 2026-11-18 | Paris, FR | [↗](https://lu.ma/4j761747) |
+| Table ronde Cybersécurité : Unaite × Adopt AI | 2026-11-18 | Paris, FR | [↗](https://lu.ma/em75sy4d) |
 | DevFest Toulouse 2026 | 2026-11-19 | Toulouse (France) | [↗](https://devfesttoulouse.fr/) |
 | Agile Laval 2026 | 2026-11-19 | Laval (France) | [↗](http://www.agilelaval.org/) |
 | OVHcloud Summit | 2026-11-19 | Paris (France) | [↗](https://summit.ovhcloud.com/en/) |
@@ -111,6 +105,8 @@
 | « Quel Avenir Pour La Jeunesse, Quel Avenir Pour La Gauche? » Panel Discussion | 2026-11-19 | Paris, FR | [↗](https://lu.ma/pj6rrf2l) |
 | Talk & Coach - How we built it #1 Maxime Blondel | 2026-11-19 | Paris, FR | [↗](https://lu.ma/gihgj931) |
 | Apéro Live Music Sessions : Chanson française & Pop rock par Fiz Machine (Maggy & Marion) | 2026-11-19 | Paris, FR | [↗](https://lu.ma/12uvx7sj) |
+| Déjeuner C-level Paris | 2026-11-19 | Paris, FR | [↗](https://lu.ma/sv42ah3r) |
+| Thursday Game Night 🎲 \| Meet New People in Paris | 2026-11-19 | Paris, FR | [↗](https://lu.ma/hpocre2j) |
 | Cession, acquisition et reprise d'entreprise : anticiper et réussir | 2026-11-20 | Paris, FR | [↗](https://lu.ma/CAT2026) |
 | Après midi découverte @Climate House | 2026-11-20 | Paris, FR | [↗](https://lu.ma/hjkuv2ca) |
 | ATELIER : Chocapitalisme, chaîne de valeur et développement durable - Charles Peguy (75) | 2026-11-20 | Paris, FR | [↗](https://lu.ma/h89hmmni) |
@@ -144,6 +140,7 @@
 | Cours signature R.EVE | 2026-11-22 | Paris, FR | [↗](https://lu.ma/7k577m6i) |
 | Le Café de Kore × Bom Cosmetik : Masterclass skincare coréenne K-뷰티 마스터클래스 | 2026-11-22 | Paris, FR | [↗](https://lu.ma/kore-j67d) |
 | LIFT & SMASH | 2026-11-22 | Paris, FR | [↗](https://lu.ma/y4bz1aoi) |
+| 2/10 Challenge With Anna | 2026-11-22 | Paris, FR | [↗](https://lu.ma/co5rehsj) |
 | Table ronde HEC Alumni · La fidélisation client | 2026-11-23 | Paris, FR | [↗](https://lu.ma/z2tdayn1) |
 | Christmas Day with Miss Dior | 2026-11-23 | Paris, FR | [↗](https://lu.ma/1ox80nwo) |
 | Afterwork innovation publique - FP21 | 2026-11-23 | Paris, FR | [↗](https://lu.ma/l3jppl63) |
@@ -182,6 +179,8 @@
 | RockFi & Taylor Wessing | 2026-11-25 | Paris, FR | [↗](https://lu.ma/y1e8hzqj) |
 | La Manifestation 🍻 - Apéro pour Freelances Généralistes | 2026-11-25 | Paris, FR | [↗](https://lu.ma/7a7o4zmj) |
 | Notion Paris Summit | 2026-11-25 | Paris, FR | [↗](https://lu.ma/notion-h9qo) |
+| Petit Déjeuner ALOF X Saga | 2026-11-25 | Paris, FR | [↗](https://lu.ma/chdmw90p) |
+| Dialogue 2 - IA et voix - Quand les machines se mettent à répondre | 2026-11-25 | Paris, FR | [↗](https://lu.ma/3fpdq1x2) |
 | EACD WORKSHOP #1 - STRATÉGIES D'INFLUENCE, CRISES ET MENACES ACTIVISTES. | 2026-11-26 | Paris, FR | [↗](https://lu.ma/tfla4ohf) |
 | Future Talk : Planifier son budget marketing et communication à l’ère de l’IA | 2026-11-26 | Paris, FR | [↗](https://lu.ma/035d2mhr) |
 | RH freelance à l'ère de l'IA : gagner du temps sans perdre sa valeur | 2026-11-26 | Paris, FR | [↗](https://lu.ma/m6exfysj) |
@@ -214,12 +213,15 @@
 | Good Latinas in Paris | 2026-11-26 | Paris, FR | [↗](https://lu.ma/dwrp4590) |
 | 🚶Curious Walking Club - Paris 🇫🇷 · Friends of Screate Labs | 2026-11-26 | Paris, FR | [↗](https://lu.ma/fq8xod9v) |
 | The No Mad Edition \| Holiday Vernissage · 26 November | 2026-11-26 | Paris, FR | [↗](https://lu.ma/ukqoqtn9) |
+| Databricks × I-Shane : Beyond the Prompt — Control & Context | 2026-11-26 | Paris, FR | [↗](https://lu.ma/y1uanlsj) |
+| Merov Summit · Édition Paris | 2026-11-26 | Paris, FR | [↗](https://lu.ma/xyqqjfgd) |
 | DevFest Paris 2026 | 2026-11-27 | Paris (France) | [↗](https://devfest.gdgparis.fr/) |
 | Networking de Noviembre | 2026-11-27 | Paris, FR | [↗](https://lu.ma/2rbio4nm) |
 | Founders Table #1 · Vendre en santé : ce qui marche, ce qui coince | 2026-11-27 | Paris, FR | [↗](https://lu.ma/7u7a5aig) |
 | Women's Health, What's Next? | 2026-11-27 | Paris, FR | [↗](https://lu.ma/jy1c0o93) |
 | Reload After Dark - Édition 02 | 2026-11-27 | Paris, FR | [↗](https://lu.ma/reload-after-dark2) |
 | Soleadher supper club #2 | 2026-11-27 | Paris, FR | [↗](https://lu.ma/c5kj98x9) |
+| ShiTang X Café Muller | 2026-11-27 | Paris, FR | [↗](https://lu.ma/zgtv3ob7) |
 | Les Fondamentaux du Théâtre de Présence Sociale (SPT) | 2026-11-28 | Paris, FR | [↗](https://lu.ma/7gcstcq9) |
 | Launch Day Hackathon | 2026-11-28 | Paris, FR | [↗](https://lu.ma/fg1lny5k) |
 | Book Club | 2026-11-28 | Paris, FR | [↗](https://lu.ma/z3y23in1) |
