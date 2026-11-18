@@ -304,7 +304,128 @@ flagship_events = [
         "date": "TBA",
         "location": "Virtual/Online",
         "register": "[↗](https://www.ai.engineer/code/2026)"
-    }
+    },
+    # Indian startup/founder events (added from startupbydoc list, Nov 2026)
+    {
+        "name": "ScaleOps by TiE Delhi-NCR",
+        "date": "2026-11-18",
+        "location": "Delhi, India",
+        "register": "[↗](https://delhi.tie.org)"
+    },
+    {
+        "name": "Polar Bear Pitching India",
+        "date": "2026-11-20",
+        "location": "Delhi, India",
+        "register": "[↗](https://www.indiasentinels.com/offbeat/no-stage-no-podium-indian-founders-to-pitch-startups-in-an-ice-cold-pool-in-delhi-7691)"
+    },
+    {
+        "name": "StartupLive Mumbai '26",
+        "date": "2026-11-20 to 2026-11-21",
+        "location": "Mumbai, India",
+        "register": "[↗](https://luma.com/h5ca7fjs)"
+    },
+    {
+        "name": "HackPitch",
+        "date": "2026-11-20",
+        "location": "Kolkata, India",
+        "register": "[↗](https://www.startupgrantsindia.com/events)"
+    },
+    {
+        "name": "Agentversity AI Hackathon",
+        "date": "2026-11-21",
+        "location": "Bengaluru, India",
+        "register": "[↗](https://www.startupgrantsindia.com/events)"
+    },
+    {
+        "name": "Entrepreneur AI Summit 2026",
+        "date": "2026-11-21",
+        "location": "Noida, India",
+        "register": "[↗](https://www.entrepreneurindia.com)"
+    },
+    {
+        "name": "The Next Frontier",
+        "date": "2026-11-21",
+        "location": "Delhi, India",
+        "register": "[↗](https://www.startupgrantsindia.com/events)"
+    },
+    {
+        "name": "The Founders × Investors Pitch",
+        "date": "2026-11-22",
+        "location": "Mumbai, India",
+        "register": "[↗](https://www.startupgrantsindia.com/events/the-founders-x-investors-pitch-22nd-november-mumbai)"
+    },
+    {
+        "name": "IVCA Climate Capital Summit",
+        "date": "2026-11-26",
+        "location": "Mumbai, India",
+        "register": "[↗](https://www.ivca.in)"
+    },
+    {
+        "name": "eChai Startup Demo Day",
+        "date": "2026-11-28",
+        "location": "Pune, India",
+        "register": "[↗](https://echai.ventures/events/echai-startup-demo-day-in-pune-nov-28-2026)"
+    },
+    {
+        "name": "Pre-DevFest Founders' Mixer",
+        "date": "2026-11-28",
+        "location": "Mumbai, India",
+        "register": "[↗](https://www.startupgrantsindia.com/events)"
+    },
+    {
+        "name": "Meet The Founder's by Founders Connect",
+        "date": "2026-11-29",
+        "location": "Delhi, India",
+        "register": "[↗](https://www.startupgrantsindia.com/events)"
+    },
+    {
+        "name": "Computer Conversations Buildathon",
+        "date": "2026-12-01",
+        "location": "Bengaluru, India",
+        "register": "[↗](https://www.startupgrantsindia.com/events)"
+    },
+    {
+        "name": "TiEcon Delhi-NCR 2026",
+        "date": "2026-12-02 to 2026-12-03",
+        "location": "Delhi, India",
+        "register": "[↗](https://delhi.tie.org/tiecon-delhi-2026/)"
+    },
+    {
+        "name": "IVCA DII & Exits Forum 2026",
+        "date": "2026-12-03",
+        "location": "Delhi, India",
+        "register": "[↗](https://www.ivca.in)"
+    },
+    {
+        "name": "Entrepreneur's Mixer",
+        "date": "2026-12-05",
+        "location": "Jaipur, India",
+        "register": "[↗](https://www.startupgrantsindia.com/events)"
+    },
+    {
+        "name": "The Founders × Investors Pitch D2C",
+        "date": "2026-12-06",
+        "location": "Mumbai, India",
+        "register": "[↗](https://www.startupgrantsindia.com/events)"
+    },
+    {
+        "name": "Startup Dangal Season 3.0",
+        "date": "2026-12-08",
+        "location": "Delhi-NCR, India",
+        "register": "[↗](https://startupdangal.com/)"
+    },
+    {
+        "name": "Startup Dangal Delhi Roadshow",
+        "date": "2026-12-09",
+        "location": "Delhi-NCR, India",
+        "register": "[↗](https://startupdangal.com/)"
+    },
+    {
+        "name": "South Bengaluru Startups Meetup",
+        "date": "2026-12-11",
+        "location": "Bengaluru, India",
+        "register": "[↗](https://www.startupgrantsindia.com/events)"
+    },
 ]
 
 def determine_region(location):
