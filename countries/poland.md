@@ -7,7 +7,6 @@
 | AI Poland | 2026-11-17 to 2026-11-19 | Warsaw (Poland) | [↗](https://ai-poland.pl) |
 | JS Poland | 2026-11-17 to 2026-11-19 | Warsaw (Poland) | [↗](https://js-poland.pl) |
 | NG Poland | 2026-11-17 to 2026-11-19 | Warsaw (Poland) | [↗](https://ng-poland.pl) |
-| GDG Warszawa at NG Poland, JS Poland & AI Poland 2026 | 2026-11-17 | Warsaw, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-warszawa-presents-gdg-warszawa-at-ng-poland-js-poland-amp-ai-poland-2026/) |
 | DevFest Poznań 2026 x Sii Poznań x TechWeek PozitiveTech | 2026-11-18 | Poznan, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-poznan-presents-devfest-poznan-2026-x-sii-poznan-x-techweek-pozitivetech/) |
 | Unseen University Doesn’t Write Agents. That’s What agy Is For | 2026-11-18 | Bydgoszcz, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-bydgoszcz-presents-unseen-university-doesnt-write-agents-thats-what-agy-is-for/) |
 | DevFest Poznań 2026 x Merytoryczna Środa Sii Poznań x TechWeek PozitiveTech | 2026-11-18 | Poznan, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-poznan-presents-devfest-poznan-2026-x-merytoryczna-sroda-sii-poznan-x-techweek-pozitivetech/) |
@@ -17,6 +16,7 @@
 | PyCon Wroclaw 2026 | 2026-11-20 to 2026-11-21 | Wroclaw (Poland) | [↗](https://www.pyconwroclaw.com) |
 | GDG DevFest 2026 Warsaw | 2026-11-21 | Warsaw, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-warszawa-presents-gdg-devfest-2026-warsaw/) |
 | SRE dla AI: jak Google dba o niezawodność i wydajność systemów sztucznej inteligencji | 2026-11-25 | Warsaw, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-politechnika-warszawska-warsaw-poland-presents-sre-dla-ai-jak-google-dba-o-niezawodnosc-i-wydajnosc-systemow-sztucznej-inteligencji/) |
+| Intro to SRE, Part 1: Designing for Reliability | 2026-11-25 | Warsaw, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-politechnika-warszawska-warsaw-poland-presents-intro-to-sre-part-1-designing-for-reliability/) |
 | SymfonyCon | 2026-11-26 | Warsaw, Poland | [↗](https://live.symfony.com/2026-warsaw-con) |
 | SymfonyCon Warsaw 2026 | 2026-11-26 to 2026-11-27 | Warsaw | [↗](https://dev.events/conferences/symfony-con-warsaw-2026-ucaafsud) |
 | WAWTECH 2026 | 2026-11-26 to 2026-11-27 | Warsaw | [↗](https://dev.events/conferences/wawtech-2026-6g-s55vq) |

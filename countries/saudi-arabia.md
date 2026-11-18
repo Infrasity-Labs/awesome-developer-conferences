@@ -1,10 +1,9 @@
 # Developer Events in Saudi Arabia
 
-6 upcoming events. [Back to the full directory](../README.md)
+5 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| MongoDB.local Riyadh | 2026-11-17 | Riyadh | [↗](https://dev.events/conferences/mongo-db-local-riyadh-q9cm2tf1) |
 | OPEX FIRST SAUDI 2026 | 2026-11-25 | Riyadh | [↗](https://dev.events/conferences/opex-first-saudi-2026-cnra78d6) |
 | 12th Middle East Banking AI & Analytics Summit 2027 | 2027-01-20 | Riyadh | [↗](https://dev.events/conferences/12th-middle-east-banking-ai-and-analytics-summit-2027-lhtlpf8n) |
 | Enterprise Tech Summit Saudi Arabia 2027 | 2027-02-03 | Riyadh | [↗](https://dev.events/conferences/enterprise-tech-summit-saudi-arabia-2027-pe47vyur) |

@@ -1,6 +1,6 @@
 # Developer Events in Brazil
 
-34 upcoming events. [Back to the full directory](../README.md)
+35 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -22,6 +22,7 @@
 | Devfest Belém 2026: Inovação na Amazônia | 2026-11-28 | Belém, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-belem-presents-devfest-belem-2026-inovacao-na-amazonia/) |
 | DevFest Campinas 2026 | 2026-11-28 | Campinas, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-campinas-presents-devfest-campinas-2026/) |
 | DevFest Macapá | 2026-11-28 | Macapá, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-macapa-presents-devfest-macapa/) |
+| GDGirls talks de fim de ano: olhar para dentro, planejar 2027 | 2026-11-28 | Porto Alegre, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-gdgirls-talks-de-fim-de-ano-olhar-para-dentro-planejar-2027/) |
 | DevFest Nortão 2026 | 2026-12-04 | Sinop, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-sinop-presents-devfest-nortao-2026/) |
 | DevFest São José dos Campos 2026 | 2026-12-05 | São José dos Campos, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-sao-jose-dos-campos-presents-devfest-sao-jose-dos-campos-2026/) |
 | Dev Fest RECIFE 2026 | 2026-12-05 | Recife, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-recife-presents-dev-fest-recife-2026/) |

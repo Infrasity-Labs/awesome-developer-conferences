@@ -1,6 +1,6 @@
 # Developer Events in Sweden
 
-9 upcoming events. [Back to the full directory](../README.md)
+10 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -13,3 +13,4 @@
 | DevSum 2027 | 2027-05-27 to 2027-05-28 | Stockholm | [↗](https://dev.events/conferences/dev-sum-2027-smznzdih) |
 | Security Fest | 2027-05-27 to 2027-05-28 | Göteborg (Sweden) | [↗](https://securityfest.com/) |
 | Nordic Domain Days 2027 | 2027-06-06 to 2027-06-08 | Stockholm | [↗](https://dev.events/conferences/nordic-domain-days-2027-e5hxgyf) |
+| Nordic Tech Week | 2027-08-30 to 2027-09-03 | Stockholm, Sweden | [↗](https://myconnectivity.lu/en/event/nordic-tech-week/) |

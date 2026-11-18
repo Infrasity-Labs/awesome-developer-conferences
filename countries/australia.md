@@ -5,10 +5,6 @@
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | AI Entrepreneurship Bootcamp & Hackathon: Build Your Successful AI Startup | 2026-11-10 to 2027-10-28 | Sydney, NS, AU | [↗](https://allevents.in/sydney/ai-entrepreneurship-bootcamp-and-hackathon-build-your-successful-ai-startup/100002004514419589) |
-| Gartner HR Symposium/Xpo | 2026-11-16 to 2026-11-17 | Sydney | [↗](https://dev.events/conferences/gartner-hr-symposium-xpo-6e-ujera) |
-| WoDECA Sydney Coffee Catch Up | 2026-11-17 | Sydney, AU | [↗](https://lu.ma/8s3cque6) |
-| Sydney Tech Pickleball | 2026-11-17 | Sydney, AU | [↗](https://lu.ma/t6qbwisi) |
-| She Runs Weekly Wednesday City Run | 2026-11-17 | Sydney | [↗](https://lu.ma/hr2x3lpo) |
 | ASF Community Over Code / ChurConf | 2026-11-18 | Sidney, Australia | [↗](https://au.churconf.com) |
 | Go-To-Market & Chief Revenue Officer Summit 2026 | 2026-11-18 | Sydney, AU | [↗](https://lu.ma/o972skme) |
 | Growth Tank Sydney | 2026-11-18 | Sydney, AU | [↗](https://lu.ma/zq5lk758) |
@@ -56,6 +52,7 @@
 | Micro Meet - Sydney | 2026-11-26 | Sydney, AU | [↗](https://lu.ma/ffw4ly8i) |
 | Irish Innovation Day - Digital Irish Awards Night | 2026-11-26 | Sydney, AU | [↗](https://lu.ma/digital-w4vz) |
 | AI & Tech Community Monthly Meet up: (Novotel Darling Harbour) | 2026-11-26 | Sydney, AU | [↗](https://lu.ma/mw2gx0vk) |
+| Female Founders Rise & Radiate | 2026-11-26 | Sydney, AU | [↗](https://lu.ma/8txjumjx) |
 | AusCryptoCon 2026 - Australia's largest crypto event | 2026-11-27 | Sydney, AU | [↗](https://lu.ma/AusCryptoCon26) |
 | APAC AI for Science DevFest - Call for Speakers | 2026-11-27 | Sydney, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-ai-for-science-australia-presents-apac-ai-for-science-devfest-call-for-speakers/) |
 | Debate Club 5th Birthday Celebration at The Pillars \| After-party at the hacker house (invite-only) | 2026-11-27 | Sydney, AU | [↗](https://lu.ma/oxb68ixr) |
@@ -63,6 +60,7 @@
 | Bridging Value: Stablecoins Connecting ANZ to the World | 2026-11-27 | Sydney, AU | [↗](https://lu.ma/bridging-value) |
 | Trustyfy: Redefining the Future of Finance | 2026-11-28 | Sydney, AU | [↗](https://lu.ma/eynimwzr) |
 | The Art of a Great Working Life | 2026-11-28 | Sydney, AU | [↗](https://lu.ma/wsln25g7) |
+| Nexo Private, Sydney | 2026-11-28 | Sydney, AU | [↗](https://lu.ma/t0maa6c4) |
 | Global Security Bootcamp Melbourne 2026 | 2026-11-30 | Melbourne | [↗](https://dev.events/conferences/global-security-bootcamp-melbourne-2026-w3oskhgv) |
 | DevFest Extended: Android for the Agentic Era | 2026-12-01 | Sydney, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-sydney-presents-devfest-extended-android-for-the-agentic-era/) |
 | YOW! Melbourne 2026 | 2026-12-02 to 2026-12-04 | Melbourne | [↗](https://dev.events/conferences/yow-melbourne-2026-l20mbibp) |
@@ -93,6 +91,8 @@
 | Cloud Native Sydney: Holiday Wrap-Up 2026 🎄 | 2026-12-09 | Sydney, AU | [↗](https://lu.ma/bgpeypo9) |
 | Longitude Labs NeurIPS Caviar Lunch | 2026-12-09 | Sydney, AU | [↗](https://lu.ma/2kj5qtvu) |
 | Camp Code-Gen Harbour Cruise at NeurIPS 2026 Sydney | 2026-12-09 | Sydney, AU | [↗](https://lu.ma/revelo-neurips-2026-sydney-harbour-cruise) |
+| Alterra Labs: NeurIPS Dinner | 2026-12-09 | Sydney, AU | [↗](https://lu.ma/fx8xql0n) |
+| DevFest Extended: Building with Carbon in Antigravity | 2026-12-09 | Sydney, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-sydney-presents-devfest-extended-building-with-carbon-in-antigravity/) |
 | Difinity Conference - Melbourne - 2026 | 2026-12-10 to 2026-12-11 | Melbourne (Australia) | [↗](https://difinitymelbourne.com/) |
 | End of Year Celebration! | 2026-12-10 | Melbourne, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-melbourne-presents-end-of-year-celebration/) |
 | AI Safety Networking Night - Sydney Conference Week | 2026-12-10 | Sydney, AU | [↗](https://lu.ma/qw32xqfa) |

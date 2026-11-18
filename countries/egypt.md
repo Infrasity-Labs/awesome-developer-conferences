@@ -1,11 +1,9 @@
 # Developer Events in Egypt
 
-29 upcoming events. [Back to the full directory](../README.md)
+27 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| AI Session 3 : Unlocking Data with NumPy and Pandas | 2026-11-17 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-ai-session-3-unlocking-data-with-numpy-and-pandas-2026-11-17/) |
-| Automation Workshop:AI Track | 2026-11-17 | Obour City, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-benha-national-university-obour-egypt-presents-automation-workshopai-track/) |
 | Classroom to Career: Your Next Chapter \| GDG AASTMT | 2026-11-18 | Charlottesville, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-arab-academy-for-science-technology-and-maritime-transport-cairo-egypt-presents-classroom-to-career-your-next-chapter-gdg-aastmt/) |
 | Data Analysis Session 3 : Unleash the Power of Python: Data Analysis Deep Dive | 2026-11-18 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-data-analysis-session-3-unleash-the-power-of-python-data-analysis-deep-dive-2026-11-18/) |
 | Frontend Session 3 : CSS Essentials: Unleashing the Power of Design | 2026-11-19 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-frontend-session-3-css-essentials-unleashing-the-power-of-design-2026-11-19/) |
