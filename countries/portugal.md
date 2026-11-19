@@ -1,12 +1,10 @@
 # Developer Events in Portugal
 
-17 upcoming events. [Back to the full directory](../README.md)
+15 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | SuriCon2026 | 2026-11-18 to 2026-11-20 | Lisbon | [↗](https://dev.events/conferences/suri-con2026-kcru6jsw) |
-| Go in Practice: Human-Centered Software Engineering | 2026-11-18 | Porto, Portugal | [↗](https://gdg.community.dev/events/details/google-gdg-porto-presents-go-in-practice-human-centered-software-engineering/) |
-| Simple language, complex code: The cost of Go's simplicity | 2026-11-18 | Porto, Portugal | [↗](https://gdg.community.dev/events/details/google-gdg-porto-presents-simple-language-complex-code-the-cost-of-gos-simplicity/) |
 | KCD Porto 2026 - Collab with DevOps Days Portugal | 2026-11-19 to 2026-11-20 | Porto (Portugal) | [↗](https://community.cncf.io/events/details/cncf-kcd-porto-presents-kcd-porto-2026-collab-with-devops-days-portugal/) |
 | KCD Porto x DevOps Days Portugal 2026 | 2026-11-19 to 2026-11-20 | Porto, Porto | [↗](https://community2.cncf.io/events/details/cncf-kcd-porto-presents-kcd-porto-2026-collab-with-devops-days-portugal) |
 | KCD Porto 2026 \| Collab with DevOps Days Portugal | 2026-11-19 | Porto, Portugal | [↗](https://community2.cncf.io/events/details/cncf-kcd-porto-presents-kcd-porto-2026-collab-with-devops-days-portugal/) |

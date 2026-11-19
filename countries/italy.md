@@ -1,12 +1,9 @@
 # Developer Events in Italy
 
-43 upcoming events. [Back to the full directory](../README.md)
+40 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Cloud Day 2026 | 2026-11-18 | Milan (Italy) | [↗](https://www.cloudday.it) |
-| Hackathon #ValleyAI | 2026-11-18 | Saint-Vincent, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-valle-daosta-presents-hackathon-valleyai/) |
-| .NET Conference Italia 2026 | 2026-11-18 | Milan | [↗](https://dev.events/conferences/net-conference-italia-2026-pxjvzphe) |
 | reactjsday 2026 | 2026-11-19 | Verona (Italy) | [↗](https://www.reactjsday.it) |
 | Self-Hosting Open LLMs in Production: What the Tutorials Don't Tell You | 2026-11-19 | Vicenza, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-vicenza-presents-self-hosting-open-llms-in-production-what-the-tutorials-dont-tell-you/) |
 | angularday 2026 | 2026-11-20 | Verona (Italy) | [↗](https://www.angularday.it) |

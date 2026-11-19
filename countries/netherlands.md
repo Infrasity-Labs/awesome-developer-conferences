@@ -1,10 +1,9 @@
 # Developer Events in Netherlands
 
-45 upcoming events. [Back to the full directory](../README.md)
+44 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Cloud Native Amsterdam | 2026-09-17 to 2026-11-18 | Amsterdam | [↗](https://dev.events/conferences/cloud-native-amsterdam-7ll5p-sn) |
 | BSides Amsterdam 2026 | 2026-11-19 | Amsterdam (Netherlands) | [↗](https://www.bsidesams.org) |
 | Tech Talk @inSpace | 2026-11-19 | Eindhoven, Netherlands | [↗](https://gdg.community.dev/events/details/google-gdg-eindhoven-presents-tech-talk-inspace/) |
 | Tech Talk with InSpace | 2026-11-19 | Eindhoven, Netherlands | [↗](https://gdg.community.dev/events/details/google-gdg-eindhoven-presents-tech-talk-with-inspace/) |

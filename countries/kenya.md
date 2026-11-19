@@ -1,13 +1,9 @@
 # Developer Events in Kenya
 
-40 upcoming events. [Back to the full directory](../README.md)
+37 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Decision Trees Unleashed: Exploring Regression Trees | 2026-11-18 | Chuka, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-chuka-university-chuka-kenya-presents-decision-trees-unleashed-exploring-regression-trees/) |
-| Discover UI design: an introduction into UI design and figma as a design software | 2026-11-18 | Nakuru, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kabarak-university-nakuru-kenya-presents-discover-ui-design-an-introduction-into-ui-design-and-figma-as-a-design-software/) |
-| nmap: host-discovery and port-scanning | 2026-11-18 | Chuka, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-chuka-university-chuka-kenya-presents-nmap-host-discovery-and-port-scanning/) |
-| Virtual Recap: Build & Publish Android App with AI Studio | 2026-11-18 | Juja, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-virtual-recap-build-amp-publish-android-app-with-ai-studio/) |
 | MCP Dev Summit Nairobi | 2026-11-19 | Nairobi (Kenya) | [↗](https://events.linuxfoundation.org/mcp-dev-summit-nairobi/) |
 | Cloud Unlocked: Foundations of Google Cloud Platform (GCP). | 2026-11-19 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-the-co-operative-university-of-kenya-nairobi-kenya-presents-cloud-unlocked-foundations-of-google-cloud-platform-gcp/) |
 | WIT Professional Photo & Networking Booth | 2026-11-19 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-wit-professional-photo-amp-networking-booth/) |
@@ -19,6 +15,7 @@
 | Mastering Google Workspace: Collaboration & Organization | 2026-11-19 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-the-catholic-university-of-eastern-africa-nairobi-kenya-presents-mastering-google-workspace-collaboration-amp-organization/) |
 | Canvalicious UI/UX Design Workshop | 2026-11-19 | Nyeri, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-dedan-kimathi-university-of-technology-nyeri-kenya-presents-canvalicious-uiux-design-workshop/) |
 | Kickstart Your Web Development Journey | 2026-11-19 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-kenya-nairobi-kenya-presents-kickstart-your-web-development-journey/) |
+| SQL in Practice: Working with Real-World Datasets | 2026-11-19 | Chuka, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-chuka-university-chuka-kenya-presents-sql-in-practice-working-with-real-world-datasets/) |
 | Hands with Odoo:CRM +website | 2026-11-20 | Thika, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-mount-kenya-university-thika-kenya-presents-hands-with-odoocrm-website/) |
 | Build Night: From Code to Cloud — Building, Testing & Deploying Applications | 2026-11-20 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-build-night-from-code-to-cloud-building-testing-amp-deploying-applications/) |
 | Africa DevOps Summit 2026 | 2026-11-20 to 2026-11-21 | Nairobi (Kenya) | [↗](https://nairobidevops.org/) |

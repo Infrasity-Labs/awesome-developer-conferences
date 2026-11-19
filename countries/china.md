@@ -1,9 +1,10 @@
 # Developer Events in China
 
-16 upcoming events. [Back to the full directory](../README.md)
+17 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
+| Community Tech Talk \| Industrializing with Gemini 4: From Code Delivery to 24/7 Agent Management | 2026-11-19 | Shenzhen, China | [↗](https://gdg.community.dev/events/details/google-gdg-shenzhen-presents-community-tech-talk-industrializing-with-gemini-4-from-code-delivery-to-247-agent-management/) |
 | C++ and System Software Summit 2026 | 2026-11-20 to 2026-11-21 | Shanghai | [↗](https://dev.events/conferences/c-and-system-software-summit-2026-fv2gzs9s) |
 | 2026 Google DevFest Guangzhou AI Carnival | 2026-11-21 | Guangzhou, China | [↗](https://gdg.community.dev/events/details/google-gdg-guangzhou-presents-2026-google-devfest-guangzhou-ai-carnival/) |
 | DevFest 2026 | 2026-11-21 | Xiamen, China | [↗](https://gdg.community.dev/events/details/google-gdg-xiamen-presents-devfest-2026/) |

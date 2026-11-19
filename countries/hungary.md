@@ -1,10 +1,9 @@
 # Developer Events in Hungary
 
-10 upcoming events. [Back to the full directory](../README.md)
+9 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Budapest BI & Analytics Forum 2026 | 2026-11-16 to 2026-11-18 | Budapest (Hungary) | [↗](https://budapestbi.hu) |
 | GDG Debrecen Agentic AI Hackathon: Innovate & Build | 2026-11-21 | Debrecen, Hungary | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-debrecen-debrecen-hungary-presents-gdg-debrecen-agentic-ai-hackathon-innovate-amp-build/) |
 | Agentic AI Hackathon: Innovate & Build | 2026-11-21 | Debrecen, Hungary | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-debrecen-debrecen-hungary-presents-agentic-ai-hackathon-innovate-amp-build/) |
 | MeOut Summit 2026 | 2026-11-25 to 2026-11-26 | Budapest | [↗](https://dev.events/conferences/me-out-summit-2026-f29o6qn8) |

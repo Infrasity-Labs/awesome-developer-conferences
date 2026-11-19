@@ -4,7 +4,6 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Inside GDG on Campus FUTMINNA: Your Seat at the Table | 2026-11-18 | Minna, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-federal-university-of-technology-minna-nigeria-presents-inside-gdg-on-campus-futminna-your-seat-at-the-table/) |
 | TECH IGNITE '26 | 2026-11-19 | Uyo, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-uyo-uyo-nigeria-presents-tech-ignite-26/) |
 | Vibe with Code: Vibe Code a Web Application On Intelligent Analytics and Multi-Modal data | 2026-11-20 | Zaria, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ahmadu-bello-university-zaria-nigeria-presents-vibe-with-code-vibe-code-a-web-application-on-intelligent-analytics-and-multi-modal-data/) |
 | Vibecode a web application on intelligent analytics and multi modal data. | 2026-11-20 | Zaria, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ahmadu-bello-university-zaria-nigeria-presents-vibecode-a-web-application-on-intelligent-analytics-and-multi-modal-data/) |
@@ -23,6 +22,7 @@
 | Hands-On AI Workshop: Building Careers with Google AI & Cloud | 2026-11-24 | Kaduna, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-hands-on-ai-workshop-building-careers-with-google-ai-amp-cloud-2026-11-24/) |
 | Mentorship Session | 2026-11-25 | Abeokuta, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-federal-university-of-agriculture-abeokuta-nigeria-presents-mentorship-session-2026-11-25/) |
 | AI Workshop: Elevating Standards | 2026-11-25 | Wudil, Nigeria, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-aliko-dangote-university-of-science-and-technology-wudil-nigeria-presents-ai-workshop-elevating-standards/) |
+| PIPress x GDGoC LAUTECH: Write Smarter. Research Faster. Publish with Confidence | 2026-11-25 | Ogbomosho, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ladoke-akintola-university-of-technology-ogbomosho-nigeria-presents-pipress-x-gdgoc-lautech-write-smarter-research-faster-publish-with-confidence/) |
 | Decode Tech:Exploring the Tech Ecosystem | 2026-11-26 | Okitipupa, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-olusegun-agagu-university-of-science-technology-okitipupa-nigeria-presents-decode-techexploring-the-tech-ecosystem/) |
 | AI for Standards: Empowering SON Staff | 2026-11-26 | Wudil, Nigeria, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-aliko-dangote-university-of-science-and-technology-wudil-nigeria-presents-ai-for-standards-empowering-son-staff/) |
 | A Beginner's Guide to Google Cloud Data & AI Services | 2026-11-27 | Kaduna, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-a-beginners-guide-to-google-cloud-data-amp-ai-services-2026-11-27/) |

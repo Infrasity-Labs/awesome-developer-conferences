@@ -1,12 +1,10 @@
 # Developer Events in South Korea
 
-28 upcoming events. [Back to the full directory](../README.md)
+26 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | ISES Solar World Congress 2026 | 2026-11-15 to 2026-11-20 | Daejeon, South Korea | [↗](https://view.asiae.co.kr/en/article/2026020309283926902) |
-| SMATEC 2026 International Conference | 2026-11-18 | Suwon, South Korea | [↗](https://onoffmix.com/event/351050) |
-| GDG on Campus Sookmyung 26-27 Speaker Session & Study Week7 | 2026-11-18 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sookmyung-womens-university-seoul-south-korea-presents-gdg-on-campus-sookmyung-26-27-speaker-session-amp-study-week7/) |
 | G-STAR 2026 | 2026-11-19 to 2026-11-22 | Busan, South Korea | [↗](https://www.digitaltoday.co.kr/en/view/15066/g-star-2026-early-applications-open-for-exhibitors) |
 | GDG on Campus SKHU Design Study Session - 07 PM&Design session (1) | 2026-11-19 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkonghoe-university-seoul-south-korea-presents-gdg-on-campus-skhu-design-study-session-07-pmampdesign-session-1/) |
 | Weekly Meetup (11월 3주차) | 2026-11-19 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-chungang-university-seoul-south-korea-presents-weekly-meetup-11weol-3juca/) |

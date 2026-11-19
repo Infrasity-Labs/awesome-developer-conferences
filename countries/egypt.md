@@ -1,11 +1,9 @@
 # Developer Events in Egypt
 
-27 upcoming events. [Back to the full directory](../README.md)
+25 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Classroom to Career: Your Next Chapter \| GDG AASTMT | 2026-11-18 | Charlottesville, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-arab-academy-for-science-technology-and-maritime-transport-cairo-egypt-presents-classroom-to-career-your-next-chapter-gdg-aastmt/) |
-| Data Analysis Session 3 : Unleash the Power of Python: Data Analysis Deep Dive | 2026-11-18 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-data-analysis-session-3-unleash-the-power-of-python-data-analysis-deep-dive-2026-11-18/) |
 | Frontend Session 3 : CSS Essentials: Unleashing the Power of Design | 2026-11-19 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-frontend-session-3-css-essentials-unleashing-the-power-of-design-2026-11-19/) |
 | State Management (Provider / Bloc) | 2026-11-20 | Giza, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-october-6-university-giza-egypt-presents-state-management-provider-bloc/) |
 | DevFest Online Evening: Multimodal RAG with Gemini API | 2026-11-20 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-egypt-presents-devfest-online-evening-multimodal-rag-with-gemini-api/) |

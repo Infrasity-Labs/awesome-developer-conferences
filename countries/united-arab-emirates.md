@@ -1,10 +1,9 @@
 # Developer Events in United Arab Emirates
 
-16 upcoming events. [Back to the full directory](../README.md)
+15 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Terminal Tips and Tricks for Agentic Development | 2026-11-18 | Ras Al-Khaimah, United Arab Emirates | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-bath-spa-university-ras-al-khaimah-united-arab-emirates-presents-terminal-tips-and-tricks-for-agentic-development/) |
 | DevFest 2026 by GDG Abu Dhabi | 2026-11-21 | Abu Dhabi, United Arab Emirates | [↗](https://gdg.community.dev/events/details/google-gdg-abu-dhabi-presents-devfest-2026-by-gdg-abu-dhabi/) |
 | Pitch Ready: Prepare for a Startup Competition or Demo Day - Startup World Cup Abu Dhabi Edition | 2026-11-24 | Dubai, United Arab Emirates | [↗](https://www.startupgrind.com/events/details/startup-grind-dubai-presents-pitch-ready-prepare-for-a-startup-competition-or-demo-day-startup-world-cup-abu-dhabi-edition/) |
 | GITEX Global | 2026-12-07 to 2026-12-11 | Dubai, UAE | [↗](https://www.gitex.com) |

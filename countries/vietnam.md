@@ -1,6 +1,6 @@
 # Developer Events in Vietnam
 
-10 upcoming events. [Back to the full directory](../README.md)
+11 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -10,6 +10,7 @@
 | GDG Live Vietnam - DevFest 2026 - Prompt to Production | 2026-11-28 | Ho Chi Minh City, Vietnam | [↗](https://gdg.community.dev/events/details/google-gdg-live-vietnam-presents-gdg-live-vietnam-devfest-2026-prompt-to-production/) |
 | DevFest GDG Live Vietnam 2026 | 2026-11-28 | Ho Chi Minh City, Vietnam | [↗](https://gdg.community.dev/events/details/google-gdg-live-vietnam-presents-devfest-gdg-live-vietnam-2026/) |
 | DevFest on Campus x GDG HCMC 2026 – FPT University: Building AI Agents with Gemma 2 & Antigravity IDE | 2026-11-28 | Ho Chi Minh City, Vietnam | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-fpt-university-ho-chi-minh-city-vietnam-presents-devfest-on-campus-x-gdg-hcmc-2026-fpt-university-building-ai-agents-with-gemma-2-amp-antigravity-ide/) |
+| DevFest on Campus x GDG HCMC 2026 – FPT University: Building AI Agents with EmbeddingGemma 2 & Antigravity IDE | 2026-11-28 | Ho Chi Minh City, Vietnam | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-fpt-university-ho-chi-minh-city-vietnam-presents-devfest-on-campus-x-gdg-hcmc-2026-fpt-university-building-ai-agents-with-embeddinggemma-2-amp-antigravity-ide/) |
 | DevFest Cloud HCM 2026 | 2026-12-05 | Ho Chi Minh City, Vietnam | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-hcmc-presents-devfest-cloud-hcm-2026/) |
 | DevFest Cloud Da Nang 2026 | 2026-12-13 | Da Nang, Vietnam | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-da-nang-presents-devfest-cloud-da-nang-2026/) |
 | DevFest Ho Chi Minh 2026: Unlock the Agentic Era | 2026-12-13 | Ho Chi Minh City, Vietnam | [↗](https://gdg.community.dev/events/details/google-gdg-ho-chi-minh-city-presents-devfest-ho-chi-minh-2026-unlock-the-agentic-era/) |

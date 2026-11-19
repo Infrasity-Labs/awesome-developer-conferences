@@ -1,13 +1,9 @@
 # Developer Events in Taiwan
 
-22 upcoming events. [Back to the full directory](../README.md)
+19 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| 11 月社課｜讓程式碼飛一會兒，從 localhost 到 Google Cloud | 2026-11-18 | Tainan, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-cheng-kung-university-tainan-city-taiwan-presents-11-yue-she-ke-rang-cheng-shi-ma-fei-yi-hui-er-cong-localhost-dao-google-cloud/) |
-| 逆向工程入門與快速 AI 生成網頁 | 2026-11-18 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-taiwan-university-of-science-and-technology-taipei-taiwan-presents-ni-xiang-gong-cheng-ru-men-yu-kuai-su-ai-sheng-cheng-wang-ye/) |
-| GDG on Campus NTPU - 第六次社課：一個想法怎麼變成一坨 Code 了？ | 2026-11-18 | New Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-taipei-university-new-taipei-taiwan-presents-gdg-on-campus-ntpu-di-liu-ci-she-ke-yi-ge-xiang-fa-zen-mo-bian-cheng-yi-tuo-code-liao/) |
-| Crypto - Advanced | 2026-11-18 | Taichung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-chung-hsing-university-taichung-taiwan-presents-crypto-advanced/) |
 | LINE 企業參訪 | 2026-11-19 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-taiwan-university-of-science-and-technology-taipei-taiwan-presents-line-qi-ye-can-fang-1/) |
 | GDG Cloud Taipei & GDG Taipei 11 月聯合月會 | 2026-11-19 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-taipei-presents-gdg-cloud-taipei-amp-gdg-taipei-11-yue-lian-he-yue-hui/) |
 | Containers from the Ground Up with Docker：容器基礎原理與 Docker 實作 | 2026-11-19 | Taoyuan, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-central-university-taoyuan-city-taiwan-presents-containers-from-the-ground-up-with-dockerrong-qi-ji-chu-yuan-li-yu-docker-shi-zuo/) |
@@ -17,6 +13,7 @@
 | Flutter Meetup #40 | 2026-11-24 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-taipei-presents-flutter-meetup-40/) |
 | 【GDG on Campus NCKU｜定期小聚 #02】 | 2026-11-24 | Tainan, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-cheng-kung-university-tainan-city-taiwan-presents-gdg-on-campus-nckuding-qi-xiao-ju-02/) |
 | 從接案實戰到n8n基礎入門：打造你的Discord資安新聞推播 | 2026-11-25 | Taichung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-chung-shan-medical-university-taichung-taiwan-presents-cong-jie-an-shi-zhan-dao-n8nji-chu-ru-men-da-zao-ni-de-discordzi-an-xin-wen-tui-bo/) |
+| GDG on Campus NTPU - 第七次社課：打造 Gmail 外掛程式！ | 2026-11-25 | New Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-taipei-university-new-taipei-taiwan-presents-gdg-on-campus-ntpu-di-qi-ci-she-ke-da-zao-gmail-wai-gua-cheng-shi/) |
 | GDG on Campus NCKU × Codpy｜聯合社課 | 2026-11-29 | Tainan, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-cheng-kung-university-tainan-city-taiwan-presents-gdg-on-campus-ncku-x-codpylian-he-she-ke/) |
 | 【社課 #5 預告｜用 AI 打造預測模型：從資料到 Kaggle 實戰】 | 2026-12-01 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-chengchi-university-taipei-taiwan-presents-she-ke-5-yu-gao-yong-ai-da-zao-yu-ce-mo-xing-cong-zi-liao-dao-kaggle-shi-zhan/) |
 | DevFest Taoyuan 2026 | 2026-12-05 | Taoyuan, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-taoyuan-presents-devfest-taoyuan-2026/) |
