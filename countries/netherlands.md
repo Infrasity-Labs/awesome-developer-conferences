@@ -1,13 +1,9 @@
 # Developer Events in Netherlands
 
-44 upcoming events. [Back to the full directory](../README.md)
+40 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| BSides Amsterdam 2026 | 2026-11-19 | Amsterdam (Netherlands) | [↗](https://www.bsidesams.org) |
-| Tech Talk @inSpace | 2026-11-19 | Eindhoven, Netherlands | [↗](https://gdg.community.dev/events/details/google-gdg-eindhoven-presents-tech-talk-inspace/) |
-| Tech Talk with InSpace | 2026-11-19 | Eindhoven, Netherlands | [↗](https://gdg.community.dev/events/details/google-gdg-eindhoven-presents-tech-talk-with-inspace/) |
-| Internals of Git & Kotlin multiplatform using AI @ ABN Amro | 2026-11-19 | Utrecht, Netherlands | [↗](https://gdg.community.dev/events/details/google-the-dutch-android-user-group-presents-internals-of-git-amp-kotlin-multiplatform-using-ai-abn-amro/) |
 | Product Circle - Leaders Amsterdam | 2026-11-20 | Amsterdam | [↗](https://dev.events/conferences/product-circle-leaders-amsterdam-xdmhexuf) |
 | Weekly Meeten en Drinken | 2026-11-25 | Amsterdam, Netherlands | [↗](https://gdg.community.dev/events/details/google-gdg-amsterdam-presents-weekly-meeten-en-drinken-2026-11-25/) |
 | AICA | 2026-11-26 | Amsterdam | [↗](https://dev.events/conferences/aica-55ond3w2) |

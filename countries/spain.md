@@ -1,15 +1,11 @@
 # Developer Events in Spain
 
-73 upcoming events. [Back to the full directory](../README.md)
+69 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | X-Ops Conference Madrid 2026 | 2026-11-19 to 2026-11-21 | Móstoles (Spain) | [↗](https://xopsconference.com/) |
 | X-Ops Conference Madrid | 2026-11-19 to 2026-11-21 | Madrid (Spain) | [↗](https://madrid.xopsconference.com/) |
-| 🤖 From PoC to Production: ¡Lleva tus agentes de IA a producción con Responsible AI! 🚀 | 2026-11-19 | Barcelona, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-uoc-barcelona-spain-presents-from-poc-to-production-lleva-tus-agentes-de-ia-a-produccion-con-responsible-ai/) |
-| Mi día con ManuClaw - una degustación de IA | 2026-11-19 | Toledo, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-toledo-presents-mi-dia-con-manuclaw-una-degustacion-de-ia/) |
-| De máquinas virtuales a serverless: despliega tu primera aplicación en Google Cloud | 2026-11-19 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-de-maquinas-virtuales-a-serverless-despliega-tu-primera-aplicacion-en-google-cloud/) |
-| LinkedIn sin postureo | 2026-11-19 | València, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-polytechnic-university-of-valencia-valencia-spain-presents-linkedin-sin-postureo/) |
 | DevFest Zaragoza 2026 | 2026-11-20 | Zaragoza, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-zaragoza-presents-devfest-zaragoza-2026/) |
 | DevFest Valencia 2026 | 2026-11-20 | Valencia, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-valencia-presents-devfest-valencia-2026/) |
 | Que faras l'estiu que vé, anar a posar beures a un bar o fer que Google et pagui 5.000 € per programar? | 2026-11-20 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-que-faras-lestiu-que-ve-anar-a-posar-beures-a-un-bar-o-fer-que-google-et-pagui-5000-eur-per-programar/) |

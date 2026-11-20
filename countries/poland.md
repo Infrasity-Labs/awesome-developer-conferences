@@ -1,12 +1,9 @@
 # Developer Events in Poland
 
-28 upcoming events. [Back to the full directory](../README.md)
+26 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| AI Poland | 2026-11-17 to 2026-11-19 | Warsaw (Poland) | [↗](https://ai-poland.pl) |
-| JS Poland | 2026-11-17 to 2026-11-19 | Warsaw (Poland) | [↗](https://js-poland.pl) |
-| NG Poland | 2026-11-17 to 2026-11-19 | Warsaw (Poland) | [↗](https://ng-poland.pl) |
 | PDUG 2026 | 2026-11-19 to 2026-11-20 | Krakow | [↗](https://dev.events/conferences/pdug-2026-zn5czm1o) |
 | PyCon Wroclaw 2026 | 2026-11-20 to 2026-11-21 | Wroclaw (Poland) | [↗](https://www.pyconwroclaw.com) |
 | GDG DevFest 2026 Warsaw | 2026-11-21 | Warsaw, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-warszawa-presents-gdg-devfest-2026-warsaw/) |
@@ -16,6 +13,7 @@
 | SymfonyCon Warsaw 2026 | 2026-11-26 to 2026-11-27 | Warsaw | [↗](https://dev.events/conferences/symfony-con-warsaw-2026-ucaafsud) |
 | WAWTECH 2026 | 2026-11-26 to 2026-11-27 | Warsaw | [↗](https://dev.events/conferences/wawtech-2026-6g-s55vq) |
 | The Pragmatics 2026 | 2026-11-26 to 2026-11-27 | Warsaw | [↗](https://dev.events/conferences/the-pragmatics-2026-zb55lhfi) |
+| Intro to SRE, Part 2: Operating for Reliability | 2026-11-27 | Warsaw, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-politechnika-warszawska-warsaw-poland-presents-intro-to-sre-part-2-operating-for-reliability/) |
 | Oh My Hack 2026 | 2026-12-02 | Warsaw | [↗](https://dev.events/conferences/oh-my-hack-2026-xigqjzxk) |
 | 🚀 DevFest on Campus 2026: Explore AI, DevOps & Cybersecurity | 2026-12-05 | Poznań, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-collegium-da-vinci-poznan-poland-presents-devfest-on-campus-2026-explore-ai-devops-amp-cybersecurity/) |
 | DevFest Politechnika Warszawska: GDG Days 2026 | 2026-12-05 | Warsaw, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-politechnika-warszawska-warsaw-poland-presents-devfest-politechnika-warszawska-gdg-days-2026/) |

@@ -4,5 +4,5 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Intro to Git and GitHub: Hands-On Workshop | 2026-11-19 | Accra, Ghana | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-central-university-accra-ghana-presents-intro-to-git-and-github-hands-on-workshop/) |
+| Project Updates | 2026-11-20 | Accra, Ghana | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-academic-city-university-college-accra-ghana-presents-project-updates/) |
 | DevFest Kumasi 2026 | 2026-11-21 | Kumasi, Ghana | [↗](https://gdg.community.dev/events/details/google-gdg-kumasi-presents-devfest-kumasi-2026/) |

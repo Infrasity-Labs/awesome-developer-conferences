@@ -1,12 +1,12 @@
 # Developer Events in Nigeria
 
-45 upcoming events. [Back to the full directory](../README.md)
+50 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| TECH IGNITE '26 | 2026-11-19 | Uyo, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-uyo-uyo-nigeria-presents-tech-ignite-26/) |
 | Vibe with Code: Vibe Code a Web Application On Intelligent Analytics and Multi-Modal data | 2026-11-20 | Zaria, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ahmadu-bello-university-zaria-nigeria-presents-vibe-with-code-vibe-code-a-web-application-on-intelligent-analytics-and-multi-modal-data/) |
 | Vibecode a web application on intelligent analytics and multi modal data. | 2026-11-20 | Zaria, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ahmadu-bello-university-zaria-nigeria-presents-vibecode-a-web-application-on-intelligent-analytics-and-multi-modal-data/) |
+| Weekly Community Meetup | 2026-11-20 | Ota, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-covenant-university-ota-nigeria-presents-weekly-community-meetup/) |
 | DevFest Uyo 2026 | 2026-11-21 | Uyo, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-uyo-presents-devfest-uyo-2026/) |
 | DevFest Lafia 2026 | 2026-11-21 | Lafia, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-lafia-presents-devfest-lafia-2026/) |
 | DevFest Calabar 2026 | 2026-11-21 | Calabar, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-calabar-presents-devfest-calabar-2026/) |
@@ -17,8 +17,13 @@
 | DevFest Umuahia 2026 | 2026-11-21 | Umuahia, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-umuahia-presents-devfest-umuahia-2026/) |
 | Your First Commit: A Beginner's Guide to GitHub & Open Source | 2026-11-21 | Benin, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-benin-benin-nigeria-presents-your-first-commit-a-beginners-guide-to-github-amp-open-source/) |
 | Build your first Android app | 2026-11-21 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-build-your-first-android-app/) |
+| Get Google Certified: Associate Cloud Engineer - Week 2 | 2026-11-21 | Awka, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-nnamdi-azikiwe-university-awka-nigeria-presents-get-google-certified-associate-cloud-engineer-week-2/) |
 | GDGoC Unilorin Info session | 2026-11-22 | Ilorin, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-ilorin-ilorin-nigeria-presents-gdgoc-unilorin-info-session/) |
 | From Code to Cloud: Deploying applications with Google Cloud Run | 2026-11-22 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-from-code-to-cloud-deploying-applications-with-google-cloud-run/) |
+| DevOps Magic: Push Code, Watch It Ship | 2026-11-22 | Ilishan-Remo, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-babcock-university-ilishan-remo-nigeria-presents-devops-magic-push-code-watch-it-ship/) |
+| Data Mastery: Clean & Visualize | 2026-11-22 | Ilishan-Remo, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-babcock-university-ilishan-remo-nigeria-presents-data-mastery-clean-amp-visualize/) |
+| Bug Hunt Workshop: Find It Before Your Users Do | 2026-11-22 | Ilishan-Remo, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-babcock-university-ilishan-remo-nigeria-presents-bug-hunt-workshop-find-it-before-your-users-do/) |
+| Cybersecurity Essentials Workshop | 2026-11-22 | Ilishan-Remo, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-babcock-university-ilishan-remo-nigeria-presents-cybersecurity-essentials-workshop/) |
 | Hands-On AI Workshop: Building Careers with Google AI & Cloud | 2026-11-24 | Kaduna, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-hands-on-ai-workshop-building-careers-with-google-ai-amp-cloud-2026-11-24/) |
 | Mentorship Session | 2026-11-25 | Abeokuta, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-federal-university-of-agriculture-abeokuta-nigeria-presents-mentorship-session-2026-11-25/) |
 | AI Workshop: Elevating Standards | 2026-11-25 | Wudil, Nigeria, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-aliko-dangote-university-of-science-and-technology-wudil-nigeria-presents-ai-workshop-elevating-standards/) |

@@ -1,10 +1,9 @@
 # Developer Events in Finland
 
-9 upcoming events. [Back to the full directory](../README.md)
+8 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Slush 2026 | 2026-11-18 to 2026-11-19 | Helsinki, Finland | [↗](https://slush.org/) |
 | Global AI Community Helsinki | 2026-12-09 | Helsinki | [↗](https://dev.events/conferences/global-ai-community-helsinki-azbkydc4) |
 | ARCtic Conference | 2027-02-02 to 2027-02-04 | Oulu, Finland | [↗](https://arcticonference.com) |
 | IglooConf 2027 | 2027-02-04 to 2027-02-05 | Helsinki | [↗](https://dev.events/conferences/igloo-conf-2027-biinybmu) |

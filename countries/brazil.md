@@ -4,14 +4,14 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| DevFest Maringá 2026 | 2026-11-19 | Maringá, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-maringa-presents-devfest-maringa-2026/) |
-| O último GDGolo do ano! | 2026-11-19 | Belo Horizonte, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-belo-horizonte-presents-o-ultimo-gdgolo-do-ano/) |
 | DevFest João Pessoa 2026 | 2026-11-20 | João Pessoa, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-joao-pessoa-presents-devfest-joao-pessoa-2026-2/) |
 | DevFest Parnaíba 2026 | 2026-11-21 | Parnaíba, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-parnaiba-presents-devfest-parnaiba-2026/) |
 | [ MeetUp ] - 2º Tech Day do GDG Blumenau | 2026-11-21 | Blumenau, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-blumenau-presents-meetup-2o-tech-day-do-gdg-blumenau/) |
 | DevFest Ctba 2026 | 2026-11-22 | Curitiba, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-curitiba-presents-devfest-ctba-2026/) |
 | Explorando HTTPs e a Revolução da IA Agêntica | 2026-11-24 | Barueri, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-barueri-presents-explorando-https-e-a-revolucao-da-ia-agentica/) |
 | Cloud Lab BH #1 | 2026-11-24 | Belo Horizonte, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-belo-horizonte-presents-cloud-lab-bh-1/) |
+| Elefantes Projetam, Peixes-Dourados Revisam: Desenvolvimento Agêntico sem Bagunçar o Repositório | 2026-11-24 | Porto Alegre, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-elefantes-projetam-peixes-dourados-revisam-desenvolvimento-agentico-sem-baguncar-o-repositorio/) |
+| Workshop Prático: Construindo Aplicações Web com Event Sourcing | 2026-11-24 | Uberlandia, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-uberlandia-presents-workshop-pratico-construindo-aplicacoes-web-com-event-sourcing/) |
 | DevFest Marília 2026 | 2026-11-26 | Marília, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-marilia-presents-devfest-marilia-2026/) |
 | DevFest Caraguatatuba 2026 | 2026-11-26 | Caraguatatuba, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-caraguatatuba-presents-devfest-caraguatatuba-2026/) |
 | GDG Maceió Reborn - Meetup 26/11/2026 | 2026-11-26 | Maceió, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-maceio-presents-gdg-maceio-reborn-meetup-26112026/) |

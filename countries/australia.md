@@ -1,20 +1,11 @@
 # Developer Events in Australia
 
-120 upcoming events. [Back to the full directory](../README.md)
+116 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | AI Entrepreneurship Bootcamp & Hackathon: Build Your Successful AI Startup | 2026-11-10 to 2027-10-28 | Sydney, NS, AU | [↗](https://allevents.in/sydney/ai-entrepreneurship-bootcamp-and-hackathon-build-your-successful-ai-startup/100002004514419589) |
-| Community Over Code Sydney 2026 | 2026-11-18 to 2026-11-19 | Sydney | [↗](https://dev.events/conferences/community-over-code-sydney-2026-kq1-ys0r) |
 | Analysis, Design & Architecture Conference 2026 | 2026-11-19 to 2026-11-20 | Melbourne (Australia) | [↗](https://adaconf.org) |
-| GDG Canberra DevFest 2026 | 2026-11-19 | Canberra, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-canberra-presents-gdg-canberra-devfest-2026/) |
-| DevFest 2026: Explore AI Powered Development & Digital Analytics | 2026-11-19 | Hobart, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-hobart-presents-devfest-2026-explore-ai-powered-development-amp-digital-analytics/) |
-| Passion Labs Australia Launch: What's Next for Applied AI | 2026-11-19 | Sydney, AU | [↗](https://lu.ma/i6dqanjt) |
-| Hands-on workshop: Build, trace, and eval | 2026-11-19 | North Sydney, AU | [↗](https://lu.ma/arizeai-workshop-customer-support-agent-sydney) |
-| WoCS Sydney X Monday.com: End of Year AI Show and Tell | 2026-11-19 | Sydney, AU | [↗](https://lu.ma/womenofcs-aldj) |
-| fireyfemmes & Linkedin End of Year Spritz | 2026-11-19 | Sydney, AU | [↗](https://lu.ma/ydbwu69m) |
-| Genevieve Smart - Beyond the Runway: Fashion, Vision & Legacy | 2026-11-19 | Sydney, AU | [↗](https://lu.ma/66e355fp) |
-| 🧩 Cowork Day with the Impact Fam (Sydney / Gadigal) | 2026-11-19 | Sydney, AU | [↗](https://lu.ma/gidcprhz) |
 | Startup Diwali Sydney | 2026-11-20 | Sydney, AU | [↗](https://lu.ma/bgnxtdi4) |
 | ALO RUNNERS CLUB with Kath Evans | 2026-11-20 | Sydney, AU | [↗](https://lu.ma/fopsudcr) |
 | Real estate private credit: big headlines, telling only part of the story. | 2026-11-20 | Sydney, AU | [↗](https://lu.ma/d3ieojct) |
@@ -74,6 +65,9 @@
 | Prolific NeurIPS: Rooftop Welcome Party | 2026-12-07 | Sydney, AU | [↗](https://lu.ma/prolific-meub) |
 | NeurIPS Harbourside Happy Hour | 2026-12-07 | Sydney, AU | [↗](https://lu.ma/9zsvgnqs) |
 | Meet the Deccan AI team @ NeurIPS 2026 \| Booth #63 | 2026-12-07 | Sydney, AU | [↗](https://lu.ma/deccanai-6m03) |
+| Abaka AI @ NeurIPS 2026 — Booth #96 | 2026-12-07 | Sydney, AU | [↗](https://lu.ma/neurips-booth) |
+| Mercor NeurIPS Sydney Booth 59 at ICC Sydney | 2026-12-07 | Sydney, AU | [↗](https://lu.ma/2r74lyxy) |
+| NeurIPS 2026 Warm Up at Machine Hall | 2026-12-07 | Sydney, AU | [↗](https://lu.ma/sbcd7naa) |
 | NeurIPS x Appen: Evaluating Long-Horizon Agents | 2026-12-08 | Sydney, AU | [↗](https://lu.ma/whdzlte4) |
 | Dead Reckoning: NeurIPS Happy Hour for Researchers Navigating Without Ground Truth | 2026-12-08 | Sydney, AU | [↗](https://lu.ma/z2yusp2k) |
 | [Sydney] Build AI x NeurIPS: Physical AI & Koalas After Dark | 2026-12-08 | Sydney, AU | [↗](https://lu.ma/hxduf68y) |
@@ -81,6 +75,7 @@
 | Camp Code-Gen Dinner at NeurIPS 2026 Sydney | 2026-12-08 | Sydney, AU | [↗](https://lu.ma/revelo-neurips-2026-sydney-dinner) |
 | OPPO Skyrim Capital 学术微醺 SideParty | 2026-12-08 | Sydney, AU | [↗](https://lu.ma/6e4ocd3x) |
 | Weights & Whiskies: A NeurIPS Night with Gimlet Labs and NVIDIA | 2026-12-08 | Sydney, AU | [↗](https://lu.ma/25lrt7o6) |
+| Codex Build Night with AWS and OpenAI | 2026-12-08 | Sydney, AU | [↗](https://lu.ma/codexbuildnight-dec26) |
 | Community Breakfast ☕️✨ AI Week edition | 2026-12-09 | Sydney, AU | [↗](https://lu.ma/vm0dlqjl) |
 | NeurIPS x Appen: Happy Hour on the Harbour | 2026-12-09 | Sydney, AU | [↗](https://lu.ma/8wu2z11b) |
 | Arch Capital Christmas Party | 2026-12-09 | Sydney, AU | [↗](https://lu.ma/mv93p04x) |
@@ -96,6 +91,7 @@
 | Happy Hour: AWS Trainium Frontier results on a fixed compute budget, by the teams who built them | 2026-12-10 | Sydney, AU | [↗](https://lu.ma/b0hw5q8y) |
 | Google x Reactor NeurIPS Cocktail Hour | 2026-12-10 | Sydney, AU | [↗](https://lu.ma/rgwx0dnh) |
 | Exploring the Human Genome with AlphaGenome Atlas and AlphaGenome 2 | 2026-12-10 | Sydney, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-ai-for-science-australia-presents-exploring-the-human-genome-with-alphagenome-atlas-and-alphagenome-2/) |
+| Celebrate 2026 with EtA Central | 2026-12-10 | Sydney, AU | [↗](https://lu.ma/31gpp8ql) |
 | Fabric Friday Melbourne | 2026-12-11 | Melbourne | [↗](https://dev.events/conferences/fabric-friday-melbourne-5wbxivr6) |
 | Full-Duplex Voice Al Meetup @ NeurIPS 2026 | 2026-12-11 | Sydney, AU | [↗](https://lu.ma/ey5bxuwx) |
 | Devfest 2026: Build It, Guard It, Ship It: Building Secure AI Apps (Workshop) | 2026-12-11 | Darwin, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-darwin-presents-devfest-2026-build-it-guard-it-ship-it-building-secure-ai-apps-workshop/) |

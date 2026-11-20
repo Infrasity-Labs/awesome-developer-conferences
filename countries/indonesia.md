@@ -1,11 +1,12 @@
 # Developer Events in Indonesia
 
-25 upcoming events. [Back to the full directory](../README.md)
+26 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Farewell Fiesta: Celebrating Our Core Team | 2026-11-19 | Jakarta, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-negeri-jakarta-jakarta-indonesia-presents-farewell-fiesta-celebrating-our-core-team/) |
 | Weekly Class #1 Web Development Fundamentals: Understanding the Web from Zero | 2026-11-20 | Depok, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-gunadarma-depok-indonesia-presents-weekly-class-1-web-development-fundamentals-understanding-the-web-from-zero/) |
+| Study Jam AI: Logika Flow Control | 2026-11-20 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-widyatama-university-bandung-indonesia-presents-study-jam-ai-logika-flow-control/) |
+| Study Jam UI/UX: "Merajut Kerangka Solusi: Information Architecture & Wireframing" | 2026-11-20 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-widyatama-university-bandung-indonesia-presents-study-jam-uiux-merajut-kerangka-solusi-information-architecture-amp-wireframing/) |
 | IDSW 2026 | 2026-11-21 to 2026-11-22 | Jakarta | [↗](https://dev.events/conferences/idsw-2026-xkdqgw7y) |
 | Cloud DevFest Surabaya '26: Building Safe, Secure & Scalable Solutions with AI and Cloud | 2026-11-21 | Surabaya, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-surabaya-presents-cloud-devfest-surabaya-26-building-safe-secure-amp-scalable-solutions-with-ai-and-cloud/) |
 | DevFest Cloud Surabaya '26: Building Safe, Secure & Scalable Solutions with AI and Cloud | 2026-11-21 | Surabaya, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-surabaya-presents-devfest-cloud-surabaya-26-building-safe-secure-amp-scalable-solutions-with-ai-and-cloud/) |

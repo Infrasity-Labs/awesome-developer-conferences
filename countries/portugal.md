@@ -1,15 +1,14 @@
 # Developer Events in Portugal
 
-15 upcoming events. [Back to the full directory](../README.md)
+14 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | SuriCon2026 | 2026-11-18 to 2026-11-20 | Lisbon | [↗](https://dev.events/conferences/suri-con2026-kcru6jsw) |
 | KCD Porto 2026 - Collab with DevOps Days Portugal | 2026-11-19 to 2026-11-20 | Porto (Portugal) | [↗](https://community.cncf.io/events/details/cncf-kcd-porto-presents-kcd-porto-2026-collab-with-devops-days-portugal/) |
 | KCD Porto x DevOps Days Portugal 2026 | 2026-11-19 to 2026-11-20 | Porto, Porto | [↗](https://community2.cncf.io/events/details/cncf-kcd-porto-presents-kcd-porto-2026-collab-with-devops-days-portugal) |
-| KCD Porto 2026 \| Collab with DevOps Days Portugal | 2026-11-19 | Porto, Portugal | [↗](https://community2.cncf.io/events/details/cncf-kcd-porto-presents-kcd-porto-2026-collab-with-devops-days-portugal/) |
 | Devopsdays Portugal | 2026-11-19 to 2026-11-20 | Porto | [↗](https://dev.events/conferences/devopsdays-portugal-72tbug4w) |
-| Agents & APIs Lisbon Developer Meetup | 2026-11-19 | Lisbon, Portugal | [↗](https://luma.com/bohhz9x1) |
+| Agents & APIs Lisbon Developer Meetup | 2026-11-24 | Lisboa, Portugal | [↗](https://luma.com/bohhz9x1) |
 | DevFest 2026: Build, Secure & Scale in the Agentic Era | 2026-11-27 | Faro, Portugal | [↗](https://gdg.community.dev/events/details/google-gdg-faro-presents-devfest-2026-build-secure-amp-scale-in-the-agentic-era/) |
 | Lisbon DevFest 2026 | 2026-11-28 | Lisbon, Portugal | [↗](https://gdg.community.dev/events/details/google-gdg-lisbon-presents-lisbon-devfest-2026/) |
 | Strategy Ateliers | 2027-04-21 to 2027-04-22 | Lisbon, Portugal | [↗](https://ateliers.design/strategy) |
