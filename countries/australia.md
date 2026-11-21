@@ -5,11 +5,7 @@
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | AI Entrepreneurship Bootcamp & Hackathon: Build Your Successful AI Startup | 2026-11-10 to 2027-10-28 | Sydney, NS, AU | [↗](https://allevents.in/sydney/ai-entrepreneurship-bootcamp-and-hackathon-build-your-successful-ai-startup/100002004514419589) |
-| Analysis, Design & Architecture Conference 2026 | 2026-11-19 to 2026-11-20 | Melbourne (Australia) | [↗](https://adaconf.org) |
-| Startup Diwali Sydney | 2026-11-20 | Sydney, AU | [↗](https://lu.ma/bgnxtdi4) |
-| ALO RUNNERS CLUB with Kath Evans | 2026-11-20 | Sydney, AU | [↗](https://lu.ma/fopsudcr) |
-| Real estate private credit: big headlines, telling only part of the story. | 2026-11-20 | Sydney, AU | [↗](https://lu.ma/d3ieojct) |
-| Connecting Business, Real Estate & Finance Professionals - Network | 2026-11-20 | Sydney, AU | [↗](https://lu.ma/g0qavzwm) |
+| Aloha Saturdays - International Social + Latin Party | 2026-11-21 | Sydney, AU | [↗](https://lu.ma/7s7yxir0) |
 | EDGE by Ampere | 2026-11-23 | Sydney, AU | [↗](https://lu.ma/yp81nenc) |
 | Meet Your Future Co-Founder 🤝 | 2026-11-23 | Sydney, AU | [↗](https://lu.ma/glo4io2z) |
 | AI and China's Industrial Transformation | 2026-11-23 | Sydney, NS, AU | [↗](https://allevents.in/sydney/ai-and-chinas-industrial-transformation/100002004687460158) |
@@ -76,6 +72,10 @@
 | OPPO Skyrim Capital 学术微醺 SideParty | 2026-12-08 | Sydney, AU | [↗](https://lu.ma/6e4ocd3x) |
 | Weights & Whiskies: A NeurIPS Night with Gimlet Labs and NVIDIA | 2026-12-08 | Sydney, AU | [↗](https://lu.ma/25lrt7o6) |
 | Codex Build Night with AWS and OpenAI | 2026-12-08 | Sydney, AU | [↗](https://lu.ma/codexbuildnight-dec26) |
+| Breakthrough Island: for researchers building the next generation of open source | 2026-12-08 | Sydney, AU | [↗](https://lu.ma/breakthroughisland-neurips) |
+| Ricursive x Lightspeed Happy Hour | 2026-12-08 | Sydney, AU | [↗](https://lu.ma/2gpwhmuy) |
+| Odyssey After Hours: NeurIPS 2026 | 2026-12-08 | Sydney, AU | [↗](https://lu.ma/odyssey-ifi6) |
+| Models & Molecules / NeurIPS Sydney Edition | 2026-12-08 | Sydney, AU | [↗](https://lu.ma/yacvi7ef) |
 | Community Breakfast ☕️✨ AI Week edition | 2026-12-09 | Sydney, AU | [↗](https://lu.ma/vm0dlqjl) |
 | NeurIPS x Appen: Happy Hour on the Harbour | 2026-12-09 | Sydney, AU | [↗](https://lu.ma/8wu2z11b) |
 | Arch Capital Christmas Party | 2026-12-09 | Sydney, AU | [↗](https://lu.ma/mv93p04x) |

@@ -4,40 +4,6 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Singapore FinTech Festival 2026 | 2026-11-18 to 2026-11-20 | Singapore | [↗](https://dev.events/conferences/singapore-fin-tech-festival-2026-uqb3wnkx) |
-| Asia NextGen Payments & RegTech Forum | 2026-11-20 | Singapore | [↗](https://dev.events/conferences/asia-next-gen-payments-and-reg-tech-forum-xkmvz7wz) |
-| AI BOT MEETUP - BUILD YOUR AI TEAM BEFORE 2027 (Grok Bot) #02 | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/kn5br0vf) |
-| Trust Summit \| Singapore Fintech Festival 2026 | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/hpz99yp0) |
-| Designing Trust in the Digital Economy | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/xk2rbumg) |
-| Creating Better Everyday Beauty and Personal Care Products: Consumer Insights, Science and Business | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/8m9edm8x) |
-| Build Clean Finance: Cleanverse Builder Session | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/6bawj52g) |
-| Tech Networking Night: Around the World 🌏 | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/2c96e3is) |
-| TGIF Networking #46 | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/43lj7olp) |
-| 草台 Open Mic \| Agentic Economy · Singapore | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/oksq7re3) |
-| Women In AI Annual Summit 2026 | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/39qtsfpu) |
-| Rezonate AI Innovation Day for Healthcare - supported by Microsoft and Pax8 | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/rezonateaiday) |
-| a tester's guide to llms, tools and agents | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/nfvtfn98) |
-| Codex Community Meetup - Singapore | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/codexsg-nov20) |
-| Quantum Security for Digital Assets | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/e9rl9l0b) |
-| Designing Scalable and Rigorous Evaluations for AI Systems | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/yq9fc5zw) |
-| Official Closing Party of SBW | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/p9e56ew7) |
-| After Hours @ Fintech Week 🚀 | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/01k4xxdf) |
-| Get the EDGE: Digitalize Your Business. Unlock New Growth | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/eyv19t6l) |
-| Friday Moments@BOC-Wealth Beyond Generations | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/hr2iym08) |
-| Data & Drinks: Singapore Edition | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/lvtk5jqi) |
-| SFF Founder Networking: What Founders Overlook When Scaling | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/fpiex9vx) |
-| 🌅“心成”家人的破晓户外能量聚会-11月21日 | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/7cevkvsb) |
-| GenAI Builders Meetup Singapore — AI Founders Lunch (ft. Aspire) | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/30o7038v) |
-| AI Opportunity Clinic | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/ee28dh0l) |
-| Founder & Venture Networking Night @ Fintech Week 🚀 | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/ivpr3wve) |
-| Source Culture: On Vernacular Computing | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/58aev9ig) |
-| Co-work Fridays @ SQCo - The Stage: | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/0eycunv9) |
-| The code is the easy part. | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/53i7qyxz) |
-| Armagnac Behind the Bar: A Masterclass with Exquisite Elixir | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/jpa2evzt) |
-| Nordic Delegation Farewell | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/copenh-blxn) |
-| The Wrap Up - UK & Singapore Expansion Q&A Breakfast | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/a1bgnbbb) |
-| Cigars, Stocks & On-Chain: SFF Week Investor Social | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/1n0fofv4) |
-| Sorcery TCG: Learn to Play 🔥❄️ | 2026-11-20 | Singapore, SG | [↗](https://lu.ma/d0tv95lc) |
 | AInvestment Master Class (WA-201A) | 2026-11-21 | Singapore, SG | [↗](https://lu.ma/welltyai2nov26) |
 | Bake as strangers, break bread as friends | 2026-11-21 | Singapore, SG | [↗](https://lu.ma/o46sdagh) |
 | Soulful x A141: Doodle & Yap: The Museum of Me | 2026-11-21 | Singapore, SG | [↗](https://lu.ma/dchzdbz2) |
@@ -60,6 +26,7 @@
 | India Property Expo- Singapore Edition,Nov'26 | 2026-11-21 | Singapore, SG | [↗](https://lu.ma/rtlsx9je) |
 | On Singapore Marathon Training Block (Long Runs) | 2026-11-21 | Singapore, SG | [↗](https://lu.ma/7ua4ulba) |
 | MacRitchie Trail – WIDTH Special | 2026-11-21 | Singapore, SG | [↗](https://lu.ma/rjvmh9z5) |
+| Fractional and Executive Hiring Q&A: Have a Coffee and Bring your toughest hiring and career questions | 2026-11-21 | Singapore, SG | [↗](https://lu.ma/j485pgvr) |
 | Baithak by The Musafir Collective \| Diwali Special \| 22 Nov, 3pm | 2026-11-22 | Singapore, SG | [↗](https://lu.ma/baithak-22Nov-3pm) |
 | Baithak by The Musafir Collective \| Diwali Special \| 22 Nov, 7pm | 2026-11-22 | Singapore, SG | [↗](https://lu.ma/baithak-22Nov-7pm) |
 | LIFE WITH TODDLERS | 2026-11-22 | Singapore, SG | [↗](https://lu.ma/8wrsa5h1) |
@@ -116,6 +83,7 @@
 | US Market Traders Gathering: Connect, Learn & Trade | 2026-11-25 | Singapore, SG | [↗](https://lu.ma/3cvgld9b) |
 | AI for Business Leaders – AIM ASEAN Certification | 2026-11-25 | Singapore, SG | [↗](https://lu.ma/o858i56u) |
 | pgBouncing: AI Frontier Dinner & Drinks | 2026-11-25 | Singapore, SG | [↗](https://lu.ma/6solygg3) |
+| The One About Forward Deployed Engineering | 2026-11-25 | Singapore, SG | [↗](https://lu.ma/vrtguwjt) |
 | Vibe Coders Jam Session: feat. Base44 | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/base44sgnov) |
 | Cost, context, control: Leading the AI-run enterprise | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/qv96zjkm) |
 | Get Rich Through Human Design | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/4fke3f03) |
@@ -135,6 +103,9 @@
 | Sanli Environmental 1H2027 Results Briefing | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/807p0mot) |
 | Elastic AI Connect: Singapore | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/nojitcre) |
 | Shakeout Run · HYROX SG Race Week | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/u647vpj6) |
+| HFPG ‘27 Learning Journey: EDB | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/czxfp1xu) |
+| Build Your Personal AI Assistant | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/x5b438ad) |
+| Founder's Guide to M&A Prep by Qapita, MissionBridge, Ascentium Singapore | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/equ2zgjy) |
 | Art of Play: An Inner Child Hammock Experience for Ambitious Women | 2026-11-27 | Singapore, SG | [↗](https://lu.ma/1rujsyzj) |
 | Side Quest Night: Show & Tell | 2026-11-27 | Singapore, SG | [↗](https://lu.ma/4hxyf7ln) |
 | Will AI Recommend Your Brand? - GEO/AEO for Product Owners and Marketers | 2026-11-27 | Singapore, SG | [↗](https://lu.ma/u7hq2iaj) |
@@ -146,6 +117,7 @@
 | DevOps Journey - from Architecture to Deployment | 2026-11-27 | Singapore, SG | [↗](https://lu.ma/sy1ah9n7) |
 | La French Tech Singapore - Sustainability Startup Pitch | 2026-11-27 | Singapore | [↗](https://lu.ma/y20us8o7) |
 | Open-Source Founders Run Club: The Butter Edition (Stripe x INTERLUNAR) | 2026-11-27 | Singapore, SG | [↗](https://lu.ma/zu5gixat) |
+| Hast企业 AI 落地圆桌 #1 | 2026-11-27 | Singapore, SG | [↗](https://lu.ma/lspi0v0c) |
 | DevFest Singapore 2026 | 2026-11-28 | Singapore | [↗](https://dev.events/conferences/dev-fest-singapore-2026-zlh9ba2x) |
 | DevFest Singapore 2026: Prototyping from Scratch | 2026-11-28 | Singapore, Singapore | [↗](https://gdg.community.dev/events/details/google-gdg-singapore-presents-devfest-singapore-2026-prototyping-from-scratch/) |
 | DevFest Singapore 2026: Architecting for the Agentic Era | 2026-11-28 | Singapore, Singapore | [↗](https://gdg.community.dev/events/details/google-gdg-singapore-presents-devfest-singapore-2026-architecting-for-the-agentic-era/) |
@@ -164,6 +136,9 @@
 | Move Free: Explore and Play | 2026-11-28 | Singapore, SG | [↗](https://lu.ma/gfd42pjx) |
 | IGDA SG Coffee Convo #2 | 2026-11-28 | Singapore, SG | [↗](https://lu.ma/ioj4mhct) |
 | AI Voice Hackathon | 2026-11-28 | Singapore, SG | [↗](https://lu.ma/cheeg4s2) |
+| Let's Walk, Singapore - East Coast Park 🌳 | 2026-11-28 | Singapore, SG | [↗](https://lu.ma/7bzdls55) |
+| Additive Performance: Layer by Labour | 2026-11-28 | Singapore, SG | [↗](https://lu.ma/rejoyzmf) |
+| 2026 NTU 职场与创业对话会：职场还是创业？AI 时代的选择 | 2026-11-28 | Singapore, SG | [↗](https://lu.ma/3ut92je5) |
 | Pigeon Powerpoint Party! (Women-only) | 2026-11-29 | Singapore, SG | [↗](https://lu.ma/bqi8s0v6) |
 | NHT 9km Hike | 2026-11-29 | Singapore, SG | [↗](https://lu.ma/luekho4x) |
 | Brain, Beats & Fuel | 2026-11-29 | Singapore, SG | [↗](https://lu.ma/2h3akwpi) |
@@ -172,6 +147,7 @@
 | Beyond The Canvas | 2026-11-29 | Singapore, SG | [↗](https://lu.ma/syjz9qhv) |
 | 学汇乐 1 小时 - Primary 1 中文体验课 @ Westgate \| 29 Nov 2026 (Sun) | 2026-11-29 | Singapore, SG | [↗](https://lu.ma/xuehuile-chinese-demo-class-wg-p1-29nov26) |
 | Slow Down: Walking Meditation at the Botanic Gardens | 2026-11-29 | Singapore, SG | [↗](https://lu.ma/weixzjdb) |
+| Surmayee Shaam | 2026-11-29 | Singapore, SG | [↗](https://lu.ma/261ict0p) |
 | Huawei Cloud × Singtel Stack-EZ Executive Roundtable | 2026-11-30 | Singapore, SG | [↗](https://lu.ma/dv1m5r0s) |
 | [SG] European Optionality: The Italian Investor Visa & Family Office Mobility | 2026-11-30 | Singapore, SG | [↗](https://lu.ma/r5khbwx1) |
 | Claude for Enterprise: Scaling AI in Your Organisation | 2026-11-30 | Singapore, SG | [↗](https://lu.ma/ClaudesgXAws) |
@@ -189,6 +165,7 @@
 | Locallista Singapore Launch Event | 2026-12-02 | Singapore, SG | [↗](https://lu.ma/mosjgc1q) |
 | WTR Live Singapore Dinner | 2026-12-02 | Singapore, SG | [↗](https://lu.ma/xw32ujx9) |
 | EMOTION-MAXXING: Your Playbook for Entrepreneurs to Process Emotions, Lead Better & Love Better (& help others do it too) | 2026-12-02 | Singapore, SG | [↗](https://lu.ma/qtqyje49) |
+| Conscious Builder Community #3 — The Design Edition: Principles & Practice | 2026-12-02 | Singapore, SG | [↗](https://lu.ma/4i3zx1pt) |
 | Singapore AI Safety Research Symposium | 2026-12-03 | Singapore, SG | [↗](https://lu.ma/tivp43yk) |
 | Builder Show & Tell with Supabase and Temus | 2026-12-03 | Singapore, SG | [↗](https://lu.ma/lsp2rnhf) |
 | Ads & AI Singapore Meetup # 14: 2027 Predictions | 2026-12-03 | Singapore, SG | [↗](https://lu.ma/4eur90um) |
@@ -201,6 +178,10 @@
 | Winter Wonderland: Reindeer & Revelry ❄️🦌 An Enchanted Terra Goddesses Christmas Cocktail Evening for a Cause | 2026-12-03 | Singapore, SG | [↗](https://lu.ma/nxevoinu) |
 | Wonks and Wine | 2026-12-03 | Singapore, SG | [↗](https://lu.ma/zkobxub6) |
 | Databricks Campus Workshop @NTU 《Get Started with Databricks: End-to-End session》 | 2026-12-03 | Singapore, SG | [↗](https://lu.ma/auaqwsgi) |
+| The Unhurried Cup (Weekday Morning Edition) | 2026-12-03 | Singapore, SG | [↗](https://lu.ma/t8ytdeqe) |
+| HFPG ‘27 Learning Journey: Community Walk @ Jalan Kukoh | 2026-12-03 | Singapore, SG | [↗](https://lu.ma/5jmuljfr) |
+| Data Uncorked: Strategy x ChatAndBuild | 2026-12-03 | Singapore, SG | [↗](https://lu.ma/data-uncorked-strategy-chatandbuild) |
+| Polish the Last 20%: Make Your AI Prototype Feel Finished | 2026-12-03 | Singapore, SG | [↗](https://lu.ma/f5i4bew2) |
 | Got an idea? Let's build it with Lovable @Aspire | 2026-12-04 | Singapore, SG | [↗](https://lu.ma/5e9oxw33) |
 | Minister Dialogue with SMEs: AI-Edition | 2026-12-04 | Singapore, SG | [↗](https://lu.ma/hy9ihyc2) |
 | Data Center and Digital Infra Ecosystem Padel Tournament | 2026-12-04 | Singapore, SG | [↗](https://lu.ma/5sxunfql) |
@@ -208,6 +189,8 @@
 | From models to production | 2026-12-04 | Singapore, SG | [↗](https://lu.ma/arizeai-deepmind-models-to-production-singapore) |
 | Player Versus X – Pickle/Padel Party (hosted by PvX Partners) | 2026-12-04 | Singapore, SG | [↗](https://lu.ma/z0fo9l30) |
 | 📍Singapore - Board Games Night! Generalist World Meetup 🌀 | 2026-12-04 | Singapore, SG | [↗](https://lu.ma/647apj4f) |
+| Co-work Fridays @ SQCo - The Stage: | 2026-12-04 | Singapore, SG | [↗](https://lu.ma/ewesg6m4) |
+| Your Career Post AI (w/ The AI Collective) | 2026-12-04 | Singapore, SG | [↗](https://lu.ma/aic-si-12-4) |
 | Is It You? [Liar Games Edition] | 2026-12-05 | Singapore, SG | [↗](https://lu.ma/q7nvm6pd) |
 | The Munger Circle \| Roundtable #2 | 2026-12-05 | Singapore, SG | [↗](https://lu.ma/9950mkwb) |
 | JustBuildLah with Gemini 4 for Everyone | 2026-12-05 | Singapore, SG | [↗](https://lu.ma/6k3jow8e) |
@@ -235,6 +218,8 @@
 | Future of Finance, Padel Meetup SG [10 DEC 2026] | 2026-12-10 | Singapore, SG | [↗](https://lu.ma/twn0dub4) |
 | Chief of Staff Connect - Singapore Forum | 2026-12-11 | Singapore, SG | [↗](https://lu.ma/utr575f1) |
 | [新加坡江苏会] 新苏经贸文化发展论坛 | 2026-12-11 | Singapore, SG | [↗](https://lu.ma/hyucpfym) |
+| Gateway Year-End BBQ Party 2026 | 2026-12-11 | Singapore, SG | [↗](https://lu.ma/g210oma0) |
+| Fxchange Gala Dinner 2026 | 2026-12-11 | Singapore, SG | [↗](https://lu.ma/mhzfdx65) |
 | Unfurling: A Year-End Forest Bathing Walk | 2026-12-12 | Singapore, SG | [↗](https://lu.ma/vv6n3cfw) |
 | Sentient, Sentimental: Group Artshow by senisini | 2026-12-12 | Singapore, SG | [↗](https://lu.ma/zn4ckap4) |
 | Looking Forward Looking Back: A Creative Year-end Reflection Workshop | 2026-12-12 | Singapore, SG | [↗](https://lu.ma/b2o9fz41) |
@@ -246,10 +231,25 @@
 | Hermes AI Agent Night - OpenBuilder & Amazon Web Services | 2026-12-16 | Singapore, SG | [↗](https://lu.ma/3ytnlt4r) |
 | AI BOT MEETUP - BUILD YOUR AI TEAM BEFORE 2027 (Grok Bot) #03 | 2026-12-18 | Singapore, SG | [↗](https://lu.ma/j0ae45al) |
 | Vibe Coders Christmas Jam: feat. Base44 | 2026-12-18 | Singapore, SG | [↗](https://lu.ma/xmasbase44) |
+| TGIF Networking #47 | 2026-12-18 | Singapore, SG | [↗](https://lu.ma/55qi3i14) |
+| Daytona HackSprint Singapore - End of Year Hack | 2026-12-19 | Singapore, SG | [↗](https://lu.ma/daytonasgdec) |
 | No Decks, No Pitches - Boxing Day BBQ at East Coast | 2026-12-26 | Singapore, SG | [↗](https://lu.ma/kdjndd7c) |
 | Founders Co-working Monday - Call For Interest | 2026-12-31 | Singapore, SG | [↗](https://lu.ma/2vkmpimw) |
 | Creative Building with Meng To Waitlist | 2026-12-31 | Singapore, SG | [↗](https://lu.ma/3iu15nnf) |
 | Waitlist: Get Better Results from AI Agents in One Day (For Non-Technical Professionals) | 2026-12-31 | Singapore, SG | [↗](https://lu.ma/cmm5fg7j) |
+| NEW YEAR LATIN PARTY • DECEMBER 31 • EL CHIDO • SINGAPORE | 2026-12-31 | Singapore, SG | [↗](https://lu.ma/0c9tlobx) |
+| SQ micro-duck farm | 2026-12-31 | Singapore, SG | [↗](https://lu.ma/ai-nfa5) |
+| Singapore AI Builders New Year Count Down Party | 2026-12-31 | Singapore, SG | [↗](https://lu.ma/aibuilders2027) |
+| Qoder Beyond Coding AI Hackathon | 2027-01-12 | Singapore, SG | [↗](https://lu.ma/Qoderhack) |
+| Mamba MVP Program: Open House #3 | 2027-01-14 | Singapore, SG | [↗](https://lu.ma/wbub6asg) |
+| Courage AI Playground: Build your Chief of Staff | 2027-01-14 | Singapore, SG | [↗](https://lu.ma/wksstf8t) |
+| Startup Pitch & Networking in Singapore | 2027-01-14 | Singapore, SG | [↗](https://lu.ma/js4vd2kz) |
+| SAS Alumni City Club of Singapore: Career Marketplace 2026 | 2027-01-16 | Singapore, SG | [↗](https://lu.ma/f3rjjuhx) |
+| RBN New Year's Celebration Dinner 2027: To New Horizons | 2027-01-16 | Singapore, SG | [↗](https://lu.ma/kunsihqq) |
+| Founders Table Singapore | 2027-01-20 | Singapore, SG | [↗](https://lu.ma/9llsdql2) |
+| AI X GPU Pre Summit : AI leaders Connect Singapore | 2027-01-21 | Singapore, SG | [↗](https://lu.ma/ifhrbtn4) |
+| field:work \| Artist Talk & Tour | 2027-01-23 | Singapore, SG | [↗](https://lu.ma/060c5aof) |
+| Terra Goddesses \| Love, Written Down: Estate Planning as an Act of Care | 2027-01-28 | Singapore, SG | [↗](https://lu.ma/flkgbdj6) |
 | Elastic{ON} | 2027-03-23 | Singapore (Singapore) | [↗](https://www.elastic.co/events/elasticon) |
 | apidays Singapore 2027 | 2027-04-13 to 2027-04-14 | Singapore | [↗](https://www.apidays.global/events/singapore) |
 | GENAIX 2027: Global Generative & Agentic AI Summit | 2027-04-15 to 2027-04-16 | Singapore | [↗](https://dev.events/conferences/genaix-2027-global-generative-and-agentic-ai-summit-c-m-oz7y) |

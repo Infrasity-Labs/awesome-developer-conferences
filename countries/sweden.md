@@ -1,9 +1,10 @@
 # Developer Events in Sweden
 
-10 upcoming events. [Back to the full directory](../README.md)
+11 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
+| Building Stockholm's Next Tech Era w/ Ariane Bucquet Pousette | 2026-11-26 | Stockholm, Sweden | [↗](https://www.startupgrind.com/events/details/startup-grind-stockholm-presents-building-stockholms-next-tech-era-w-ariane-bucquet-pousette/) |
 | Architecting and Integrating Task-Specific AI Agents | 2026-12-03 | Stockholm | [↗](https://dev.events/conferences/architecting-and-integrating-task-specific-ai-agents-evyscfbk) |
 | Swetugg Stockholm 2027 | 2027-02-02 to 2027-02-03 | Stockholm | [↗](https://dev.events/conferences/swetugg-stockholm-2027-xqdlszxe) |
 | Techarena 2027 | 2027-02-03 to 2027-02-04 | Stockholm, Sweden | [↗](https://techarena.se/) |

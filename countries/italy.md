@@ -1,11 +1,9 @@
 # Developer Events in Italy
 
-38 upcoming events. [Back to the full directory](../README.md)
+36 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| angularday 2026 | 2026-11-20 | Verona (Italy) | [↗](https://www.angularday.it) |
-| AI Real Talk & Beer: come usiamo l'AI per davvero | 2026-11-20 | Potenza, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-basilicata-presents-ai-real-talk-amp-beer-come-usiamo-lai-per-davvero/) |
 | AGENTHON: Waiting for DevFest Alps | 2026-11-21 | Torino, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-torino-presents-agenthon-waiting-for-devfest-alps/) |
 | Last commit of the year | 2026-11-23 | Palermo, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-palermo-presents-last-commit-of-the-year/) |
 | Investor Days 2026 | 2026-11-25 to 2026-11-26 | Milan, Italy | [↗](https://www.b2match.com/e/investor-days-2026) |

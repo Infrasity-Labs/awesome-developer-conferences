@@ -1,6 +1,6 @@
 # Developer Events in Japan
 
-34 upcoming events. [Back to the full directory](../README.md)
+35 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -20,6 +20,7 @@
 | データ利活用やってみよう！ハッカソン2026 成果発表会 #DevFest | 2026-12-05 | Osaka, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-osaka-presents-detali-huo-yong-yatsutemiyouhatsukason2026-cheng-guo-fa-biao-hui-devfest/) |
 | GDG DevFest 2026 山形 (Tohoku Tech Dojo) | 2026-12-05 | Yamagata, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-tohoku-tech-dojo-yamagata-presents-gdg-devfest-2026-shan-xing-tohoku-tech-dojo/) |
 | 【OSAKA】AIワークショップ | 2026-12-05 | Tokyo, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-international-professional-university-of-technology-tokyo-japan-presents-osaka-aiwakushiyotsupu-5/) |
+| Google AI Dojo シーズン3 - AI ラボ・シリーズ | 2026-12-05 | Wakayama, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-wakayama-presents-google-ai-dojo-shizun3-ai-raboshirizu/) |
 | Open Source Summit Japan 2026 | 2026-12-07 to 2026-12-09 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/open-source-summit-japan/) |
 | Automotive Linux Summit | 2026-12-07 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/automotive-linux-summit/) |
 | Embedded Linux Conference Asia | 2026-12-07 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/embedded-linux-conference-asia/) |

@@ -1,6 +1,6 @@
 # Developer Events in Pakistan
 
-16 upcoming events. [Back to the full directory](../README.md)
+17 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -8,6 +8,7 @@
 | Road to DevFest 2026 – COMSATS Abbottabad\| Building and Deploying Autonomous Agents: From Concept to Google Cloud | 2026-11-21 | Islamabad, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-islamabad-presents-road-to-devfest-2026-comsats-abbottabad-building-and-deploying-autonomous-agents-from-concept-to-google-cloud/) |
 | Agentic Engineering in Practice | 2026-11-21 | Lahore, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-management-and-technology-lahore-pakistan-presents-agentic-engineering-in-practice/) |
 | Road to DevFest 2026 \| GDG Cloud Islamabad × GDGoC COMSATS Abbottabad | 2026-11-21 | Abbottabad, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-comsats-university-abbottabad-pakistan-presents-road-to-devfest-2026-gdg-cloud-islamabad-x-gdgoc-comsats-abbottabad/) |
+| Road to DevFest: Google Agentic Skills | 2026-11-21 | Lahore, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-lahore-presents-road-to-devfest-google-agentic-skills/) |
 | From Pakistan to the US: My Journey in Tech | 2026-11-22 | Lahore, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-education-lahore-pakistan-presents-from-pakistan-to-the-us-my-journey-in-tech/) |
 | Bhai, Banana Kya Hai? Building with Agents - Road to DevFest | 2026-11-23 | Islamabad, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-islamabad-presents-bhai-banana-kya-hai-building-with-agents-road-to-devfest/) |
 | BUILD CITY: THE BIG LAUNCH | 2026-11-23 | Lahore, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-comsats-university-islamabad-lahore-campus-lahore-pakistan-presents-build-city-the-big-launch/) |

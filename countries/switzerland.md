@@ -1,12 +1,9 @@
 # Developer Events in Switzerland
 
-17 upcoming events. [Back to the full directory](../README.md)
+14 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Helvetic Ruby 2026 | 2026-11-19 to 2026-11-20 | Zurich | [↗](https://dev.events/conferences/helvetic-ruby-2026-qgyfurwa) |
-| Agentic Engineering Day Zurich | 2026-11-20 | Zurich (Switzerland) | [↗](https://www.agenticdays.com/) |
-| Agentic Engineering Days Zurich | 2026-11-20 | Zurich, Switzerland | [↗](https://www.agenticdays.com) |
 | GDG Cloud Zürich – 26 November 2026 Meetup (#39) | 2026-11-26 | Zürich, Switzerland | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-zurich-presents-gdg-cloud-zurich-26-november-2026-meetup-39/) |
 | Product Management Festival 2026 | 2026-11-27 | Zurich | [↗](https://dev.events/conferences/product-management-festival-2026-rvvoq3nr) |
 | KCD Suisse Romande 2026 | 2026-12-09 to 2026-12-10 | Geneva (Switzerland) | [↗](https://kcd.cloud-native-romandy.ch/) |

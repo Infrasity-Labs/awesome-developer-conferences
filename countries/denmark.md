@@ -1,10 +1,9 @@
 # Developer Events in Denmark
 
-10 upcoming events. [Back to the full directory](../README.md)
+9 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Cloud Native Denmark 2026 | 2026-11-19 to 2026-11-20 | Copenhagen (Denmark) | [↗](https://cloudnativedenmark.dk) |
 | Testing United Conference 2026 | 2026-11-25 to 2026-11-26 | Copenhagen | [↗](https://dev.events/conferences/testing-united-conference-2026-hgyfmkex) |
 | Data Saturday 2027 | 2027-01-30 | Kongens Lyngby (Denmark) | [↗](https://datasaturdays.com/Event/20260131-datasaturday0074) |
 | DynamicsCon Regional: Europe 2027 | 2027-02-03 | Copenhagen | [↗](https://dev.events/conferences/dynamics-con-regional-europe-2027-gujvinpr) |

@@ -1,10 +1,9 @@
 # Developer Events in Netherlands
 
-40 upcoming events. [Back to the full directory](../README.md)
+39 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Product Circle - Leaders Amsterdam | 2026-11-20 | Amsterdam | [↗](https://dev.events/conferences/product-circle-leaders-amsterdam-xdmhexuf) |
 | Weekly Meeten en Drinken | 2026-11-25 | Amsterdam, Netherlands | [↗](https://gdg.community.dev/events/details/google-gdg-amsterdam-presents-weekly-meeten-en-drinken-2026-11-25/) |
 | AICA | 2026-11-26 | Amsterdam | [↗](https://dev.events/conferences/aica-55ond3w2) |
 | Build for Eindhoven: Agentic AI for Social Good | 2026-11-26 | Eindhoven, Netherlands | [↗](https://gdg.community.dev/events/details/google-gdg-eindhoven-presents-build-for-eindhoven-agentic-ai-for-social-good/) |
