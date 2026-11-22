@@ -1,6 +1,6 @@
 # Developer Events in Belgium
 
-16 upcoming events. [Back to the full directory](../README.md)
+15 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -18,5 +18,4 @@
 | Code & Compliance 2027 | 2027-01-28 | Brussels | [↗](https://dev.events/conferences/code-and-compliance-2027-v0ndz59k) |
 | FOSSapalooza | 2027-01-29 | Brussels | [↗](https://dev.events/conferences/fos-sapalooza-ceyxnhw3) |
 | FOSDEM 2027 | 2027-01-30 to 2027-01-31 | Brussels (Belgium) | [↗](https://fosdem.org/2027/) |
-| OCX | 2027-04-13 | Brussels, Belgium | [↗](https://www.ocxconf.org/event/778b82cc-6834-48a4-a58e-f883c5a7b8c9/home) |
 | Open Community Experience | 2027-04-13 to 2027-04-15 | Brussels | [↗](https://dev.events/conferences/open-community-experience-8epmj-ck) |

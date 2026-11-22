@@ -1,11 +1,10 @@
 # Developer Events in Australia
 
-116 upcoming events. [Back to the full directory](../README.md)
+119 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | AI Entrepreneurship Bootcamp & Hackathon: Build Your Successful AI Startup | 2026-11-10 to 2027-10-28 | Sydney, NS, AU | [↗](https://allevents.in/sydney/ai-entrepreneurship-bootcamp-and-hackathon-build-your-successful-ai-startup/100002004514419589) |
-| Aloha Saturdays - International Social + Latin Party | 2026-11-21 | Sydney, AU | [↗](https://lu.ma/7s7yxir0) |
 | EDGE by Ampere | 2026-11-23 | Sydney, AU | [↗](https://lu.ma/yp81nenc) |
 | Meet Your Future Co-Founder 🤝 | 2026-11-23 | Sydney, AU | [↗](https://lu.ma/glo4io2z) |
 | AI and China's Industrial Transformation | 2026-11-23 | Sydney, NS, AU | [↗](https://allevents.in/sydney/ai-and-chinas-industrial-transformation/100002004687460158) |
@@ -34,12 +33,14 @@
 | AI & Tech Community Monthly Meet up: (Novotel Darling Harbour) | 2026-11-26 | Sydney, AU | [↗](https://lu.ma/mw2gx0vk) |
 | Female Founders Rise & Radiate | 2026-11-26 | Sydney, AU | [↗](https://lu.ma/8txjumjx) |
 | Crypto Conversations: Networking Drinks | 2026-11-26 | Sydney, AU | [↗](https://lu.ma/rzlwq5ax) |
+| Referron Live: Let’s Talk Connection , growth and Becoming More referrable | 2026-11-26 | Sydney, AU | [↗](https://lu.ma/1d9ak2e3) |
 | AusCryptoCon 2026 - Australia's largest crypto event | 2026-11-27 | Sydney, AU | [↗](https://lu.ma/AusCryptoCon26) |
 | APAC AI for Science DevFest - Call for Speakers | 2026-11-27 | Sydney, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-ai-for-science-australia-presents-apac-ai-for-science-devfest-call-for-speakers/) |
 | Debate Club 5th Birthday Celebration at The Pillars \| After-party at the hacker house (invite-only) | 2026-11-27 | Sydney, AU | [↗](https://lu.ma/oxb68ixr) |
 | APAC AI for Science DevFest | 2026-11-27 | Sydney, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-ai-for-science-australia-presents-apac-ai-for-science-devfest/) |
 | Bridging Value: Stablecoins Connecting ANZ to the World | 2026-11-27 | Sydney, AU | [↗](https://lu.ma/bridging-value) |
 | Building Trust in a Digital World: Cybersecurity, Risk & Protecting Your Business | 2026-11-27 | Sydney, AU | [↗](https://lu.ma/v3yqri4u) |
+| Fast Start 2027: How to win enterprise business | 2026-11-27 | Sydney, AU | [↗](https://lu.ma/uqdpqkiz) |
 | Trustyfy: Redefining the Future of Finance | 2026-11-28 | Sydney, AU | [↗](https://lu.ma/eynimwzr) |
 | The Art of a Great Working Life | 2026-11-28 | Sydney, AU | [↗](https://lu.ma/wsln25g7) |
 | Nexo Private, Sydney | 2026-11-28 | Sydney, AU | [↗](https://lu.ma/t0maa6c4) |
@@ -84,6 +85,7 @@
 | Camp Code-Gen Harbour Cruise at NeurIPS 2026 Sydney | 2026-12-09 | Sydney, AU | [↗](https://lu.ma/revelo-neurips-2026-sydney-harbour-cruise) |
 | Alterra Labs: NeurIPS Dinner | 2026-12-09 | Sydney, AU | [↗](https://lu.ma/fx8xql0n) |
 | DevFest Extended: Building with Carbon in Antigravity | 2026-12-09 | Sydney, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-sydney-presents-devfest-extended-building-with-carbon-in-antigravity/) |
+| Data & Analytics Wednesday - December 2026 | 2026-12-09 | Sydney, NS, AU | [↗](https://allevents.in/sydney/data-and-analytics-wednesday-december-2026/100002005182139758) |
 | Difinity Conference - Melbourne - 2026 | 2026-12-10 to 2026-12-11 | Melbourne (Australia) | [↗](https://difinitymelbourne.com/) |
 | End of Year Celebration! | 2026-12-10 | Melbourne, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-melbourne-presents-end-of-year-celebration/) |
 | AI Safety Networking Night - Sydney Conference Week | 2026-12-10 | Sydney, AU | [↗](https://lu.ma/qw32xqfa) |
@@ -96,6 +98,7 @@
 | Full-Duplex Voice Al Meetup @ NeurIPS 2026 | 2026-12-11 | Sydney, AU | [↗](https://lu.ma/ey5bxuwx) |
 | Devfest 2026: Build It, Guard It, Ship It: Building Secure AI Apps (Workshop) | 2026-12-11 | Darwin, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-darwin-presents-devfest-2026-build-it-guard-it-ship-it-building-secure-ai-apps-workshop/) |
 | Christmas Networking Drinks | 2026-12-16 | Sydney, AU | [↗](https://lu.ma/9judywon) |
+| Breakast at Vogue: Women in Business with Konnectile [5th Edition] | 2026-12-20 | Sydney, AU | [↗](https://lu.ma/konnec-mhxe) |
 | HackerX - Sydney (AI) - Employer Ticket - 12/21 | 2026-12-21 | Sydney, NS, AU | [↗](https://allevents.in/sydney/hackerx-sydney-ai-employer-ticket-12-21/100001980430990404) |
 | Everything Open 2027 | 2027-01-20 to 2027-01-22 | Brisbane | [↗](https://dev.events/conferences/everything-open-2027-fqdbc0md) |
 | HAPPY STARTUP™ – Connecting Startups, Investors & Universities \| Sydney | 2027-01-22 to 2027-01-24 | Sydney, NS, AU | [↗](https://allevents.in/sydney/happy-startup-connecting-startups-investors-and-universities-sydney/100001994916896138) |

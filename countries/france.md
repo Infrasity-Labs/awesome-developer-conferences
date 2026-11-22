@@ -1,27 +1,9 @@
 # Developer Events in France
 
-265 upcoming events. [Back to the full directory](../README.md)
+263 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Banc d'Essai #2 — build club sécurité de l'IA | 2026-11-21 | Paris, FR | [↗](https://lu.ma/xyiow6bw) |
-| Bain sonore aux bols de cristal & Massage du visage | 2026-11-21 | Paris, FR | [↗](https://lu.ma/viphhqan) |
-| LE GALA MASQUÉ — Ambition & Networking (H/F) | 2026-11-21 | Paris, FR | [↗](https://lu.ma/o26i58qx) |
-| ✍️ Offline Writing Party \| Le Kawaa du Lucernaire \| Paris 6th | 2026-11-21 | Paris, FR | [↗](https://lu.ma/3qye7pjy) |
-| Lecture jeunesse pour les 6 - 10 ans | 2026-11-21 | Paris, FR | [↗](https://lu.ma/ombi3ccy) |
-| Atelier : 1h pour reprendre la main sur son smartphone ! | 2026-11-21 | Paris, FR | [↗](https://lu.ma/vft9pg4x) |
-| Dance & Connect Paris \| embrace your femininity & meet like-minded women | 2026-11-21 | Paris, FR | [↗](https://lu.ma/a4c2tvff) |
-| Networking colombiano - París | 2026-11-21 | Paris, FR | [↗](https://lu.ma/ydfur5v7) |
-| OWN YOUR COLORS - Color workshop with Melinda, color specialist and makeup artist | 2026-11-21 | Paris, FR | [↗](https://lu.ma/2l673xet) |
-| RUN x HOT PILATES x RECOVER | 2026-11-21 | Paris, FR | [↗](https://lu.ma/7uxu3rd5) |
-| Cloth, Water, Touch // Mémoires de Hammam | 2026-11-21 | Paris, FR | [↗](https://lu.ma/54vkq55d) |
-| Atelier d'initiation à la danse avec La Saomera | 2026-11-21 | Paris, FR | [↗](https://lu.ma/1bdtyhyb) |
-| 🥥 ConUt - Paris : Tous artistes avec L'IA ? | 2026-11-21 | Paris, FR | [↗](https://lu.ma/reppeu2t) |
-| RUN_ART Paris — Prochain parcours \| 21 novembre | 2026-11-21 | Paris, FR | [↗](https://lu.ma/bau7ma1p) |
-| Stretching Class | 2026-11-21 | Paris, FR | [↗](https://lu.ma/q0oet6o1) |
-| Founders' Brunch Paris | 2026-11-21 | Paris, FR | [↗](https://lu.ma/ffm9t8rj) |
-| Paris \| The Salon, Book Club Edition: Yesteryear | 2026-11-21 | Paris, FR | [↗](https://lu.ma/v1znl72h) |
-| Improbable Ascenseur | 2026-11-21 | Paris, FR | [↗](https://lu.ma/hrc6yza9) |
 | RUN CLUB SPECIAL BAINS CHAUDS/ FROIDS - 22/11 @La Montgolfière 18ème | 2026-11-22 | Paris, FR | [↗](https://lu.ma/xkhaqsy7) |
 | Build your side hustle Hackathon | 2026-11-22 | Paris, FR | [↗](https://lu.ma/dc3ynvnx) |
 | 📚 Offline Reading Party \| La Dame aux plantes \| TOC x Verso \| 🍃 La Maison du Jardinage et du Compostage \| Paris 12e arr. | 2026-11-22 | Paris, FR | [↗](https://lu.ma/n6plshk0) |
@@ -61,6 +43,8 @@
 | Forum d'Alliance Digitale | 2026-11-24 | Paris, FR | [↗](https://lu.ma/wew0g4qi) |
 | Lifecycle Dinner Paris · Customer.io × Shiplog | 2026-11-24 | Paris, FR | [↗](https://lu.ma/wx2x1b06) |
 | Meetup IA avec DevWithAI @ Google | 2026-11-24 | Paris, FR | [↗](https://lu.ma/2krybbmv) |
+| Produit, levée, première équipe : Arthaud Mesnard raconte Mio | 2026-11-24 | Paris, FR | [↗](https://lu.ma/uh9uugjw) |
+| Signer son premier deal enterprise : Samuel Ladroue raconte Netter | 2026-11-24 | Paris, FR | [↗](https://lu.ma/oxslpvhd) |
 | Compute! Paris 2026 | 2026-11-25 to 2026-11-26 | Paris | [↗](https://dev.events/conferences/compute-paris-2026-kym7lhlv) |
 | Tenir La Distance — Matinée Fondateurs avec Nicolas d'Hueppe | 2026-11-25 | Paris, FR | [↗](https://lu.ma/foundersmorning-nicolasdhueppe) |
 | Le financement de l’Élimination du carbone : matinée AFEN & Bpifrance | 2026-11-25 | Paris, FR | [↗](https://lu.ma/eexu2jz6) |
@@ -84,6 +68,7 @@
 | Claude pour dirigeants : venez vous former gratuitement | 2026-11-25 | Paris, FR | [↗](https://lu.ma/xxi7xlfg) |
 | Special Guest : Maxime Barbier, CEO & cofondateur de Timeleft (4 M de membres, +18 M€ d’ARR) @BuildersFactory | 2026-11-25 | Paris, FR | [↗](https://lu.ma/c8u5vo1u) |
 | Atelier « Mon sous-verre en perles de bois » | 2026-11-25 | Paris, FR | [↗](https://lu.ma/qkev9vqy) |
+| Plumb Cafe / Paris | 2026-11-25 | Paris, FR | [↗](https://lu.ma/vbcej3w1) |
 | EACD WORKSHOP #1 - STRATÉGIES D'INFLUENCE, CRISES ET MENACES ACTIVISTES. | 2026-11-26 | Paris, FR | [↗](https://lu.ma/tfla4ohf) |
 | Future Talk : Planifier son budget marketing et communication à l’ère de l’IA | 2026-11-26 | Paris, FR | [↗](https://lu.ma/035d2mhr) |
 | RH freelance à l'ère de l'IA : gagner du temps sans perdre sa valeur | 2026-11-26 | Paris, FR | [↗](https://lu.ma/m6exfysj) |
@@ -145,6 +130,7 @@
 | Reframe Apéro | 2026-11-28 | Paris, FR | [↗](https://lu.ma/ilxa3nqi) |
 | Humains et IA : étude comparative | 2026-11-28 | Paris, FR | [↗](https://lu.ma/t5w3gjht) |
 | Pop Up Latinas x Paris | 2026-11-28 | Paris, FR | [↗](https://lu.ma/o2w7n6cq) |
+| Alan x Qovery x AWS: AI Health Hack 2 | 2026-11-28 | Paris, FR | [↗](https://lu.ma/o1eopuwy) |
 | RUN CLUB 29/11 @La Montgolfière 10ème | 2026-11-29 | Paris, FR | [↗](https://lu.ma/enccfurq) |
 | Longevity Café #08 ⏰ Le Sommeil: À la recherche du temps rendu | 2026-11-29 | Paris, FR | [↗](https://lu.ma/adz17xzf) |
 | La Magicienne D'Ose est de retour @La Climate House Silent Disco expérience | 2026-11-29 | Paris, FR | [↗](https://lu.ma/frhp7le2) |
@@ -199,6 +185,7 @@
 | Workplace Sessions #2 | 2026-12-02 | Paris, FR | [↗](https://lu.ma/9v3k5qxb) |
 | Meetup Tech & Foi \| PARIS | 2026-12-02 | Paris, FR | [↗](https://lu.ma/mk2v8ry7) |
 | Naked Talks - The salon exploring everything we were never taught about intimacy and relationships | 2026-12-02 | Paris, FR | [↗](https://lu.ma/7etnms4w) |
+| Resistance Jam | 2026-12-02 | Paris, FR | [↗](https://lu.ma/5getpdrj) |
 | Adopt AI | 2026-12-03 to 2026-12-04 | Paris, France | [↗](https://myconnectivity.lu/en/event/adopt-ai/) |
 | Jeudi Expresso - 3 Décembre 🎄 | 2026-12-03 | Paris, FR | [↗](https://lu.ma/m60xembl) |
 | 3ème Sommet National pour l'Emploi des Seniors | 2026-12-03 | Paris, FR | [↗](https://lu.ma/97auw8l1) |
@@ -232,7 +219,18 @@
 | ALMOST. Kris Lef I Vernissage | 2026-12-05 | Paris, FR | [↗](https://lu.ma/asklmp28) |
 | Atelier : peinture - L'art de l'ornement | 2026-12-05 | Paris, FR | [↗](https://lu.ma/5830htzl) |
 | Smack My Book 14h - 16h Atelier aquarelle | 2026-12-05 | Paris, FR | [↗](https://lu.ma/wdu5m81g) |
+| Rencontre-Dédicace | 2026-12-05 | Paris, FR | [↗](https://lu.ma/8ufj51zp) |
+| LE DÎNER CAVIAR – champagne & leadership. | 2026-12-05 | Paris, FR | [↗](https://lu.ma/20fqhpu5) |
+| One Year of Us · Fempower Society Anniversary Dinner 🥂 | 2026-12-05 | Paris, FR | [↗](https://lu.ma/ry2mscrb) |
+| KIN Holiday Wellbeing Day | 2026-12-06 | Paris, FR | [↗](https://lu.ma/sseinj9v) |
+| RUN CLUB 06/12 @La Montgolfière 18ème | 2026-12-06 | Paris, FR | [↗](https://lu.ma/532e0m77) |
+| PILATES ATHLETIQUE (35°C) par MATPULSE & EMBER (90mn) | 2026-12-06 | Paris, FR | [↗](https://lu.ma/v6w4x776) |
+| Sketch Club - December | 2026-12-06 | Paris, FR | [↗](https://lu.ma/0ud0kyb0) |
+| Projection & conférence participative Epop& - France, il était une fois demain avec Michaël Pitiot | 2026-12-07 | Paris, FR | [↗](https://lu.ma/thru0lkq) |
+| spektr x NEA supper club: paris | 2026-12-07 | Paris, FR | [↗](https://lu.ma/spektr-supper-club-paris) |
 | GDG Aix DevFest 2026 : Une nouvelle édition provençale ! | 2026-12-08 | Aix-en-Provence, France | [↗](https://gdg.community.dev/events/details/google-gdg-aix-en-provence-presents-gdg-aix-devfest-2026-une-nouvelle-edition-provencale/) |
+| Les Rencontres Zadig #2 | 2026-12-08 | Paris, FR | [↗](https://lu.ma/so9it5hn) |
+| Atelier Quantis \| Adaptation & Impact Business | 2026-12-08 | Paris, FR | [↗](https://lu.ma/kvqv8iz0) |
 | DevOps REX | 2026-12-09 to 2026-12-10 | Paris (France) | [↗](https://www.devopsrex.fr/fr/) |
 | Open Source Experience 2026 | 2026-12-09 to 2026-12-10 | Paris | [↗](https://dev.events/conferences/open-source-experience-2026-p-ntdtj5) |
 | KCD Provence | 2026-12-10 | Aix-en-Provence (France) | [↗](https://cloudnative-provence.fr/) |

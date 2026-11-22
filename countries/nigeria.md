@@ -1,26 +1,16 @@
 # Developer Events in Nigeria
 
-47 upcoming events. [Back to the full directory](../README.md)
+39 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| DevFest Uyo 2026 | 2026-11-21 | Uyo, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-uyo-presents-devfest-uyo-2026/) |
-| DevFest Lafia 2026 | 2026-11-21 | Lafia, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-lafia-presents-devfest-lafia-2026/) |
-| DevFest Calabar 2026 | 2026-11-21 | Calabar, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-calabar-presents-devfest-calabar-2026/) |
-| DevFest Lokoja 2026 | 2026-11-21 | Lokoja, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-lokoja-presents-devfest-lokoja-2026/) |
-| DevFest Ibadan 2026 | 2026-11-21 | Ibadan, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-ibadan-presents-devfest-ibadan-2026/) |
-| Infosession: Orbit- Launching your Tech Odyssey | 2026-11-21 | Iwo, Nigeria, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-bowen-university-iwo-nigeria-presents-infosession-orbit-launching-your-tech-odyssey/) |
-| DevFest Jalingo 2026 | 2026-11-21 | Jalingo, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-jalingo-presents-devfest-jalingo-2026/) |
-| DevFest Umuahia 2026 | 2026-11-21 | Umuahia, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-umuahia-presents-devfest-umuahia-2026/) |
-| Your First Commit: A Beginner's Guide to GitHub & Open Source | 2026-11-21 | Benin, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-benin-benin-nigeria-presents-your-first-commit-a-beginners-guide-to-github-amp-open-source/) |
-| Build your first Android app | 2026-11-21 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-build-your-first-android-app/) |
-| Get Google Certified: Associate Cloud Engineer - Week 2 | 2026-11-21 | Awka, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-nnamdi-azikiwe-university-awka-nigeria-presents-get-google-certified-associate-cloud-engineer-week-2/) |
 | GDGoC Unilorin Info session | 2026-11-22 | Ilorin, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-ilorin-ilorin-nigeria-presents-gdgoc-unilorin-info-session/) |
 | From Code to Cloud: Deploying applications with Google Cloud Run | 2026-11-22 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-from-code-to-cloud-deploying-applications-with-google-cloud-run/) |
 | DevOps Magic: Push Code, Watch It Ship | 2026-11-22 | Ilishan-Remo, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-babcock-university-ilishan-remo-nigeria-presents-devops-magic-push-code-watch-it-ship/) |
 | Data Mastery: Clean & Visualize | 2026-11-22 | Ilishan-Remo, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-babcock-university-ilishan-remo-nigeria-presents-data-mastery-clean-amp-visualize/) |
 | Bug Hunt Workshop: Find It Before Your Users Do | 2026-11-22 | Ilishan-Remo, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-babcock-university-ilishan-remo-nigeria-presents-bug-hunt-workshop-find-it-before-your-users-do/) |
 | Cybersecurity Essentials Workshop | 2026-11-22 | Ilishan-Remo, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-babcock-university-ilishan-remo-nigeria-presents-cybersecurity-essentials-workshop/) |
+| Mindset to Momentum: Startup Grind Owerri x Founder Dojo Mixer | 2026-11-22 | Owerri, Nigeria | [↗](https://www.startupgrind.com/events/details/startup-grind-owerri-presents-mindset-to-momentum-startup-grind-owerri-x-founder-dojo-mixer/) |
 | Hands-On AI Workshop: Building Careers with Google AI & Cloud | 2026-11-24 | Kaduna, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-hands-on-ai-workshop-building-careers-with-google-ai-amp-cloud-2026-11-24/) |
 | Mentorship Session | 2026-11-25 | Abeokuta, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-federal-university-of-agriculture-abeokuta-nigeria-presents-mentorship-session-2026-11-25/) |
 | AI Workshop: Elevating Standards | 2026-11-25 | Wudil, Nigeria, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-aliko-dangote-university-of-science-and-technology-wudil-nigeria-presents-ai-workshop-elevating-standards/) |
@@ -46,6 +36,8 @@
 | DevFest Meetup Ikot Ekpene 2026 | 2026-12-12 | Ikot Ekpene, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-ikot-ekpene-presents-devfest-meetup-ikot-ekpene-2026/) |
 | Devfest 2026: Building Safe, Secure & Scalable Solutions with AI and Cloud for Local Impact | 2026-12-12 | Osogbo, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-osogbo-presents-devfest-2026-building-safe-secure-amp-scalable-solutions-with-ai-and-cloud-for-local-impact/) |
 | AWS Community Day Nigeria 2026 | 2026-12-12 | Harcourt (Nigeria) | [↗](http://www.awswomensusergroupportharcourt.org) |
+| GDG Zaria Tech Hangout: Shaping Our Community Together | 2026-12-12 | Zaria, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-zaria-presents-gdg-zaria-tech-hangout-shaping-our-community-together/) |
+| DevFest Lokoja 2026 | 2026-12-12 | Lokoja, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-lokoja-presents-devfest-lokoja-2026/) |
 | DevFest Yenagoa 2026 | 2026-12-18 | Yenagoa, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-yenagoa-presents-devfest-yenagoa-2026/) |
 | DevFest Yola 2026 | 2026-12-19 | Jimeta, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-yola-presents-devfest-yola-2026/) |
 | DevFest Dutse '26 | 2026-12-19 | Dutse, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-dutse-presents-devfest-dutse-26/) |

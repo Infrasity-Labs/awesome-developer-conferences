@@ -1,11 +1,9 @@
 # Developer Events in Brazil
 
-33 upcoming events. [Back to the full directory](../README.md)
+32 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| DevFest Parnaíba 2026 | 2026-11-21 | Parnaíba, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-parnaiba-presents-devfest-parnaiba-2026/) |
-| [ MeetUp ] - 2º Tech Day do GDG Blumenau | 2026-11-21 | Blumenau, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-blumenau-presents-meetup-2o-tech-day-do-gdg-blumenau/) |
 | DevFest Ctba 2026 | 2026-11-22 | Curitiba, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-curitiba-presents-devfest-ctba-2026/) |
 | Explorando HTTPs e a Revolução da IA Agêntica | 2026-11-24 | Barueri, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-barueri-presents-explorando-https-e-a-revolucao-da-ia-agentica/) |
 | Cloud Lab BH #1 | 2026-11-24 | Belo Horizonte, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-belo-horizonte-presents-cloud-lab-bh-1/) |
@@ -28,6 +26,7 @@
 | DEVFEST Brasília 2026 | 2026-12-05 | Brasília, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-brasilia-presents-devfest-brasilia-2026/) |
 | DevFest Santos 2026 | 2026-12-05 | Santos, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-santos-presents-devfest-santos-2026/) |
 | Devfest ABC | 2026-12-05 | Santo André, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-abc-presents-devfest-abc/) |
+| DevFest Parnaíba 2026 | 2026-12-05 | Parnaíba, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-parnaiba-presents-devfest-parnaiba-2026/) |
 | Brazil Tech Summit | 2026-12-09 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/brazil-tech-summit/1000065499469677) |
 | Google DevFest Agreste'26 - BUILD, SECURE AND SCALE IN THE AGENTIC ERA. | 2026-12-11 | Arapiraca, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-arapiraca-presents-google-devfest-agreste26-build-secure-and-scale-in-the-agentic-era/) |
 | Devopsdays Recife | 2026-12-12 | Recife (Brazil) | [↗](https://devopsdays.org/events/2026-recife) |
