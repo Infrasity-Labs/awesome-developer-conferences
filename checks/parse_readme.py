@@ -1,5 +1,16 @@
+import os
 import re
+import sys
 from datetime import datetime, date
+
+ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
+sys.path.insert(0, ROOT)
+import events_store  # noqa: E402
+
+
+def event_files():
+    """Region files that hold the event tables."""
+    return events_store.event_files(ROOT)
 
 def parse_date(date_str):
     try:
@@ -19,9 +30,9 @@ def parse_date(date_str):
                 return date(year, month, 1)
     return None
 
-def parse_readme(filepath="README.md"):
+def parse_readme(filepath):
     """
-    Parses README.md and yields structured event objects.
+    Parses one event file (events/<region>.md) into structured event objects.
     """
     events = []
     
@@ -82,7 +93,7 @@ def parse_readme(filepath="README.md"):
     return events
 
 if __name__ == "__main__":
-    events = parse_readme()
+    events = [e for path in event_files() for e in parse_readme(path)]
     print(f"Parsed {len(events)} events.")
     if events:
         print(events[0])

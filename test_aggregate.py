@@ -5,23 +5,18 @@ import unittest
 from pathlib import Path
 
 import aggregate
+import events_store
 
-README = """# Test
-
-### Asia
-| Event Name | Date | Location | Register |
-|---|---|---|---|
-| Build With Gemma Hackathon | 2099-08-01 | Mumbai, India | [link](https://example.com/one) |
-
-</details>
-"""
+ROW = "| Build With Gemma Hackathon | 2099-08-01 | Mumbai, India | [link](https://example.com/one) |\n"
+ASIA_FILE = events_store.new_region_text("Asia", ROW)
 
 
 class AggregateDeduplicationTest(unittest.TestCase):
     def aggregate(self, events):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
-            (root / "README.md").write_text(README, encoding="utf-8")
+            (root / "events").mkdir()
+            (root / "events" / "asia.md").write_text(ASIA_FILE, encoding="utf-8")
             (root / "events_test.json").write_text(json.dumps(events), encoding="utf-8")
             old_cwd = Path.cwd()
             try:
@@ -29,7 +24,7 @@ class AggregateDeduplicationTest(unittest.TestCase):
                 aggregate.main()
             finally:
                 os.chdir(old_cwd)
-            return (root / "README.md").read_text(encoding="utf-8")
+            return (root / "events" / "asia.md").read_text(encoding="utf-8")
 
     def test_distinct_event_with_longer_name_is_not_dropped(self):
         result = self.aggregate(

@@ -4,12 +4,10 @@ import json
 import re
 from datetime import datetime
 from fetchers import config
+import events_store
 
 def main():
     print("Starting aggregation...")
-    with open('README.md', 'r', encoding='utf-8') as f:
-        readme_content = f.read()
-
     # Load all json files
     all_new_events = []
     source_counts = {}
@@ -68,11 +66,18 @@ def main():
             regions[region].append(event)
             
     total_added = 0
-    # Now integrate into README.md
+    # Merge into one Markdown file per region under events/
     for region, region_events in regions.items():
         if not region_events:
             continue
             
+        path = events_store.region_file(region)
+        if os.path.exists(path):
+            with open(path, 'r', encoding='utf-8') as f:
+                readme_content = f.read()
+        else:
+            readme_content = events_store.new_region_text(region)
+
         pattern = re.compile(rf"(### {region}\n.*?\| Event Name.*?\|\n\|---.*?\|\n)(.*?)(?=\n</details>|\n### |\n## |\n---|\Z)", re.DOTALL)
         match = pattern.search(readme_content)
         
@@ -148,10 +153,10 @@ def main():
             
             new_table_content = '\n'.join(sorted_rows) + '\n'
             readme_content = readme_content[:match.start()] + header_and_table_header + new_table_content + readme_content[match.end():]
-                
-    with open('README.md', 'w', encoding='utf-8') as f:
-        f.write(readme_content)
-        
+            os.makedirs(events_store.EVENTS_DIR, exist_ok=True)
+            with open(path, 'w', encoding='utf-8') as f:
+                f.write(readme_content)
+
     print(f"Aggregate step finished! {total_added} new unique events added.")
 
     # Write summary for GitHub Actions
@@ -160,7 +165,7 @@ def main():
         with open(summary_path, 'a') as f:
             f.write("### Event Update Summary\n")
             f.write(f"- Processed {len(all_new_events)} events across all sources.\n")
-            f.write(f"- Added {total_added} new unique events to README.\n\n")
+            f.write(f"- Added {total_added} new unique events to the region files.\n\n")
             f.write("#### Source Breakdown:\n")
             for source, count in source_counts.items():
                 f.write(f"- **{source.replace('events_', '').replace('.json', '')}**: {count} events fetched\n")

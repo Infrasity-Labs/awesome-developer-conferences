@@ -2,7 +2,7 @@ import argparse
 import sys
 import subprocess
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from parse_readme import parse_readme
+from parse_readme import parse_readme, event_files
 import re
 
 def check_url(url):
@@ -35,12 +35,12 @@ def get_newly_added_urls():
     """
     try:
         # Check unstaged (daily pipeline)
-        result = subprocess.run(["git", "diff", "HEAD", "--", "README.md"], stdout=subprocess.PIPE, text=True)
+        result = subprocess.run(["git", "diff", "HEAD", "--", "events"], stdout=subprocess.PIPE, text=True)
         diff_out = result.stdout
         
         # If empty, check against last commit (PR pipeline)
         if not diff_out.strip():
-            result = subprocess.run(["git", "diff", "HEAD^1", "HEAD", "--", "README.md"], stdout=subprocess.PIPE, text=True)
+            result = subprocess.run(["git", "diff", "HEAD^1", "HEAD", "--", "events"], stdout=subprocess.PIPE, text=True)
             diff_out = result.stdout
             
         added_urls = set()
@@ -56,9 +56,9 @@ def get_newly_added_urls():
         return set()
 
 def main():
-    parser = argparse.ArgumentParser(description="Check URLs in README.md")
+    parser = argparse.ArgumentParser(description="Check URLs in the event files (events/*.md)")
     parser.add_argument('--report', action='store_true', help="Print dead URLs and exit 1 if any")
-    parser.add_argument('--fix', action='store_true', help="Remove dead URL rows from README.md")
+    parser.add_argument('--fix', action='store_true', help="Remove dead URL rows from the event files")
     parser.add_argument('--diff-only', action='store_true', help="Only check URLs added in current git diff")
     parser.add_argument('--all', action='store_true', help="Check all URLs")
     args = parser.parse_args()
@@ -68,11 +68,12 @@ def main():
     if not args.diff_only and not args.all:
         parser.error("Must specify --diff-only or --all")
         
-    import os
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    readme_path = os.path.join(script_dir, "..", "README.md")
-    events = parse_readme(readme_path)
-    
+    events = []
+    for path in event_files():
+        for ev in parse_readme(path):
+            ev["file"] = path
+            events.append(ev)
+
     urls_to_check = []
     if args.diff_only:
         added_urls = get_newly_added_urls()
@@ -81,40 +82,39 @@ def main():
                 urls_to_check.append(ev)
     else:
         urls_to_check = events
-        
+
     print(f"Checking {len(urls_to_check)} URLs...")
-    
+
     dead_events = []
-    
+
     with ThreadPoolExecutor(max_workers=50) as executor:
         future_to_event = {executor.submit(check_url, ev['url']): ev for ev in urls_to_check}
         for future in as_completed(future_to_event):
             ev = future_to_event[future]
             alive, code = future.result()
-            
+
             if not alive:
                 dead_events.append((ev, code))
-                
+
     if dead_events:
         print(f"Found {len(dead_events)} dead URLs:")
-        lines_to_remove = set()
+        to_remove = {}
         for ev, code in dead_events:
-            print(f"Line {ev['line_number']} | Code: {code} | {ev['name']} | {ev['url']}")
-            lines_to_remove.add(ev['line_number'])
-            
+            print(f"{ev['file'].replace(chr(92), '/').split('/')[-1]}:{ev['line_number']} | Code: {code} | {ev['name']} | {ev['url']}")
+            to_remove.setdefault(ev['file'], set()).add(ev['line_number'])
+
         if args.fix:
-            print(f"Removing {len(lines_to_remove)} rows from README.md...")
-            with open(readme_path, "r", encoding="utf-8") as f:
-                lines = f.readlines()
-                
-            remove_indices = {num - 1 for num in lines_to_remove}
-            
-            with open(readme_path, "w", encoding="utf-8") as f:
-                for i, line in enumerate(lines):
-                    if i not in remove_indices:
-                        f.write(line)
-            print("Done fixing README.md.")
-            
+            for path, line_numbers in to_remove.items():
+                print(f"Removing {len(line_numbers)} rows from {path.replace(chr(92), '/').split('/')[-1]}...")
+                with open(path, "r", encoding="utf-8") as f:
+                    lines = f.readlines()
+                remove_indices = {num - 1 for num in line_numbers}
+                with open(path, "w", encoding="utf-8") as f:
+                    for i, line in enumerate(lines):
+                        if i not in remove_indices:
+                            f.write(line)
+            print("Done fixing event files.")
+
         if args.report:
             sys.exit(1)
     else:

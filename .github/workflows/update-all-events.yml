@@ -110,14 +110,15 @@ jobs:
           python checks/date_check.py --fix
           python checks/spell_check.py --fix
           python checks/url_check.py --diff-only --fix
-          python dedupe_readme.py
+          python dedupe_events.py
           python build_country_index.py
+          python build_readme.py
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md countries
+          git add README.md events countries .github/assets
           
           if ! git diff --staged --quiet; then
             EVENTS_ADDED=$(cat events_added_count.txt || echo "multiple")

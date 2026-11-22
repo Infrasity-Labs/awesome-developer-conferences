@@ -10,10 +10,10 @@ This document serves as a set of guidelines for contributing to the repository.
 ## Ways to Contribute
 ### 1. Submit an Event
 
-If you know of a developer conference that isn't listed here yet, you can easily add it yourself! The main directory is driven completely by the `README.md` file.
+If you know of a developer conference that isn't listed here yet, you can easily add it yourself! The event tables live in one file per region under [`events/`](./events). `README.md` is only an overview that is rebuilt every night, so don't edit it by hand.
 
 1. **Fork the repository** to your own GitHub account.
-2. Open `README.md` and locate the correct **Geographic Region** (Asia, Europe, North America, etc.).
+2. Open the file for the right **region** in `events/` (`asia.md`, `europe.md`, `north-america.md`, etc.; use `virtual-online.md` for online events).
 3. Add a new row to the Markdown table in chronological order based on the event's date.
 4. Follow the exact table format:
    ```markdown
@@ -29,7 +29,7 @@ This repository uses automated Python scripts to fetch events from major confere
 
 If you are a developer, you can contribute by adding new automated scrapers!
 * All fetcher scripts are located in the `fetchers/` directory.
-* If you want to add a new source, simply create a new Python script (e.g. `my_source.py`) that parses the website and injects the new rows into the `README.md` tables.
+* If you want to add a new source, simply create a new Python script (e.g. `my_source.py`) that parses the website and writes its events to an `events_<source>.json` file. `aggregate.py` merges those files into the region tables.
 * Once your script is built, add it to the `.github/workflows/update-all-events.yml` GitHub Action file so it runs automatically.
 
 ---
@@ -40,8 +40,8 @@ If you want to improve existing Python fetchers, fix bugs, or add new ones, here
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Infrasity-Labs/awersome-developer-conferences.git
-   cd awersome-developer-conferences
+   git clone https://github.com/Infrasity-Labs/awesome-developer-conferences.git
+   cd awesome-developer-conferences
    ```
 
 2. **Set up environment variables** (if required):
@@ -62,7 +62,25 @@ If you want to improve existing Python fetchers, fix bugs, or add new ones, here
    python fetchers/developer_events.py
    ```
 
-5. Check that the `README.md` file updated correctly with your changes, and then submit a Pull Request!
+5. Rebuild the generated files and check they updated correctly, then submit a Pull Request:
+   ```bash
+   python aggregate.py              # merge events_*.json into events/<region>.md
+   python dedupe_events.py          # drop duplicate rows
+   python build_country_index.py    # countries/*.md
+   python build_readme.py           # README.md and .github/assets/*.svg
+   python -m unittest               # run the tests
+   ```
+
+**Project layout**
+
+```text
+events/            one table per region (the data, editable by hand)
+countries/         generated: upcoming in-person events per country
+fetchers/          one script per source, each writes events_<source>.json
+aggregate.py       merges fetcher output into events/
+checks/            date, link and spelling checks (run on events/)
+build_readme.py    generates README.md; readme_assets.py draws the SVGs in .github/assets/
+```
 
 ---
 
@@ -76,6 +94,6 @@ If you want to improve existing Python fetchers, fix bugs, or add new ones, here
 
 ### 5. Found a Bug?
 
-If you spot a broken link, a cancelled event, or a bug in one of our Python fetchers, please [open an Issue](https://github.com/Infrasity-Labs/awersome-developer-conferences/issues/new) on the repository so we can fix it!
+If you spot a broken link, a cancelled event, or a bug in one of our Python fetchers, please [open an Issue](https://github.com/Infrasity-Labs/awesome-developer-conferences/issues/new) on the repository so we can fix it!
 
 Thank you for helping Infrasity build the best developer event directory on the internet!

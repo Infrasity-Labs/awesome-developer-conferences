@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="230" viewBox="0 0 1280 230" role="img" aria-label="How the nightly run works">
+<rect x="0.5" y="0.5" width="1279" height="229" rx="14" fill="#151b23" stroke="#30363d"/>
+<text x="28" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#f0f6fc" font-weight="650">Every night at 00:00 UTC</text>
+<text x="1252" y="44" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#6e7681" text-anchor="end">.github/workflows/update-all-events.yml</text>
+<rect x="28" y="70" width="266" height="120" rx="12" fill="#0d1117" stroke="#30363d"/>
+<circle cx="58" cy="102" r="13" fill="#8b7dff"/>
+<text x="58" y="107" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#ffffff" font-weight="700" text-anchor="middle">1</text>
+<text x="82" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#f0f6fc" font-weight="650">Fetch</text>
+<text x="48" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#9198a1">26 sources: GDG, CNCF, Luma,</text>
+<text x="48" y="167" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#9198a1">Meetup, dev.events and more</text>
+<path d="M302 130 h28" stroke="#6e7681" stroke-width="2" fill="none"/>
+<path d="M324 124 l7 6 l-7 6" stroke="#6e7681" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="338" y="70" width="266" height="120" rx="12" fill="#0d1117" stroke="#30363d"/>
+<circle cx="368" cy="102" r="13" fill="#8b7dff"/>
+<text x="368" y="107" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#ffffff" font-weight="700" text-anchor="middle">2</text>
+<text x="392" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#f0f6fc" font-weight="650">Merge</text>
+<text x="358" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#9198a1">New events deduplicated into</text>
+<text x="358" y="167" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#9198a1">one file per region</text>
+<path d="M612 130 h28" stroke="#6e7681" stroke-width="2" fill="none"/>
+<path d="M634 124 l7 6 l-7 6" stroke="#6e7681" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="648" y="70" width="266" height="120" rx="12" fill="#0d1117" stroke="#30363d"/>
+<circle cx="678" cy="102" r="13" fill="#8b7dff"/>
+<text x="678" y="107" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#ffffff" font-weight="700" text-anchor="middle">3</text>
+<text x="702" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#f0f6fc" font-weight="650">Check</text>
+<text x="668" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#9198a1">Dates, dead links and</text>
+<text x="668" y="167" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#9198a1">spelling verified</text>
+<path d="M922 130 h28" stroke="#6e7681" stroke-width="2" fill="none"/>
+<path d="M944 124 l7 6 l-7 6" stroke="#6e7681" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="958" y="70" width="266" height="120" rx="12" fill="#262046" stroke="#8b7dff" stroke-opacity="0.55"/>
+<circle cx="988" cy="102" r="13" fill="#8b7dff"/>
+<text x="988" y="107" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#ffffff" font-weight="700" text-anchor="middle">4</text>
+<text x="1012" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#f0f6fc" font-weight="650">Publish</text>
+<text x="978" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#9198a1">README, region lists and</text>
+<text x="978" y="167" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#9198a1">country pages rebuilt</text>
+</svg>

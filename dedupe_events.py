@@ -1,9 +1,13 @@
 import re
 
-def clean_readme():
-    with open('README.md', 'r', encoding='utf-8') as f:
+import events_store
+
+
+def clean_file(path):
+    """Drop duplicate rows (same URL or same name) inside one region file."""
+    with open(path, 'r', encoding='utf-8') as f:
         content = f.read()
-        
+
     lines = content.split('\n')
     
     seen_urls = set()
@@ -58,10 +62,15 @@ def clean_readme():
         else:
             new_lines.append(line)
             
-    with open('README.md', 'w', encoding='utf-8') as f:
+    with open(path, 'w', encoding='utf-8') as f:
         f.write('\n'.join(new_lines))
-        
-    print(f"\nTotal duplicates removed: {removed_count}")
+    return removed_count
+
+
+def clean_events():
+    removed = sum(clean_file(path) for path in events_store.event_files())
+    print(f"\nTotal duplicates removed: {removed}")
+
 
 if __name__ == '__main__':
-    clean_readme()
+    clean_events()

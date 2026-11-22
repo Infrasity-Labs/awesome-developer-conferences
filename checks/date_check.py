@@ -1,7 +1,7 @@
 import argparse
 import sys
 from datetime import date, timedelta
-from parse_readme import parse_readme
+from parse_readme import parse_readme, event_files
 import re
 
 def is_year_typo(d):
@@ -53,39 +53,42 @@ def check_dates(events, grace_days=7):
     return issues, lines_to_remove
 
 def main():
-    parser = argparse.ArgumentParser(description="Check dates in README.md")
+    parser = argparse.ArgumentParser(description="Check dates in the event files (events/*.md)")
     parser.add_argument('--report', action='store_true', help="Print issues and exit 1 if any")
-    parser.add_argument('--fix', action='store_true', help="Remove invalid/past events from README.md")
+    parser.add_argument('--fix', action='store_true', help="Remove invalid/past events from the event files")
     args = parser.parse_args()
     
     if not args.report and not args.fix:
         parser.error("Must specify --report or --fix")
         
-    import os
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    readme_path = os.path.join(script_dir, "..", "README.md")
-    events = parse_readme(readme_path)
-    issues, lines_to_remove = check_dates(events)
-    
-    if issues:
-        print(f"Found {len(issues)} date issues:")
+    any_issues = False
+    for path in event_files():
+        name = path.replace("\\", "/").split("/")[-1]
+        events = parse_readme(path)
+        issues, lines_to_remove = check_dates(events)
+        if not issues:
+            continue
+        any_issues = True
+        print(f"{name}: found {len(issues)} date issues:")
         for iss in issues:
             print(iss)
-            
+
         if args.fix:
-            print(f"Removing {len(lines_to_remove)} rows from README.md...")
-            with open(readme_path, "r", encoding="utf-8") as f:
+            print(f"Removing {len(lines_to_remove)} rows from {name}...")
+            with open(path, "r", encoding="utf-8") as f:
                 lines = f.readlines()
-                
+
             # 1-indexed to 0-indexed
             remove_indices = {num - 1 for num in lines_to_remove}
-            
-            with open(readme_path, "w", encoding="utf-8") as f:
+
+            with open(path, "w", encoding="utf-8") as f:
                 for i, line in enumerate(lines):
                     if i not in remove_indices:
                         f.write(line)
-            print("Done fixing README.md.")
-            
+
+    if any_issues:
+        if args.fix:
+            print("Done fixing event files.")
         if args.report:
             sys.exit(1)
     else:

@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+events_*.json
+events_added_count.txt
+.env
