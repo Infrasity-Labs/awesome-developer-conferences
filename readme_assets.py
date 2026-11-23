@@ -9,6 +9,8 @@ build_readme.py computes from events/*.md on every nightly run.
 import os
 from xml.sax.saxutils import escape
 
+import hero_banner
+
 ASSET_DIR = os.path.join(".github", "assets")
 REPO_SLUG = "infrasity-labs / awesome-developer-conferences"
 
@@ -159,6 +161,8 @@ def _write(root, name, text):
 def write_all(s, root="."):
     """Write every graphic. `s` is the stats dict built by build_readme.compute_stats."""
     scale = max((r["count"] for r in s["regions"]), default=1) or 1
+    _write(root, "hero.svg", hero_banner.render("events", "Awesome Developer Conferences",
+           f"{s['upcoming']:,} upcoming events across {s['countries']} countries"))
     for theme, c in THEMES.items():
         _write(root, f"banner-{theme}.svg", banner(s, c))
         _write(root, f"by-month-{theme}.svg", by_month(s, c))

@@ -1,4 +1,8 @@
 <p align="center">
+  <img width="100%" alt="Infrasity: Awesome Developer Conferences" src="./.github/assets/hero.svg">
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/banner-dark.svg">
     <img width="100%" alt="Developer Events & Conferences: upcoming developer conferences worldwide, refreshed nightly" src="./.github/assets/banner-light.svg">
