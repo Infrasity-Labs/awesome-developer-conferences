@@ -161,8 +161,8 @@ def _write(root, name, text):
 def write_all(s, root="."):
     """Write every graphic. `s` is the stats dict built by build_readme.compute_stats."""
     scale = max((r["count"] for r in s["regions"]), default=1) or 1
-    _write(root, "hero.svg", hero_banner.render("events", "Awesome Developer Conferences",
-           f"{s['upcoming']:,} upcoming events across {s['countries']} countries"))
+    _write(root, "hero.svg", hero_banner.render("events", ("Every developer", "conference."),
+           f"{s['upcoming']:,} upcoming events across {s['countries']} countries", f"{s['upcoming']:,} events"))
     for theme, c in THEMES.items():
         _write(root, f"banner-{theme}.svg", banner(s, c))
         _write(root, f"by-month-{theme}.svg", by_month(s, c))
