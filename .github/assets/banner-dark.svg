@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="t d">
 <title id="t">Developer Events &amp; Conferences</title>
-<desc id="d">4,338 upcoming developer events in 65 countries; 368 new since the last run; updated 22 Nov 2026, 06:41 UTC.</desc>
+<desc id="d">4,371 upcoming developer events in 65 countries; 364 new since the last run; updated 23 Nov 2026, 07:36 UTC.</desc>
 <rect x="0.5" y="0.5" width="1279" height="359" rx="16" fill="#151b23" stroke="#30363d"/>
 <rect x="64" y="56" width="34" height="34" rx="8" fill="#8b7dff"/>
 <rect x="73" y="66" width="16" height="15" rx="2" fill="none" stroke="#ffffff" stroke-width="2.5"/>
@@ -9,10 +9,10 @@
 <text x="64" y="138" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="50" fill="#f0f6fc" font-weight="700" letter-spacing="-1.2">Developer Events &amp; Conferences</text>
 <text x="64" y="172" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#9198a1">Developer, cloud-native and open-source conferences worldwide. Refreshed nightly.</text>
 <rect x="64" y="200" width="266" height="96" rx="12" fill="#0d1117" stroke="#30363d"/>
-<text x="86" y="252" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="36" fill="#f0f6fc" font-weight="700" letter-spacing="-0.8" style="font-variant-numeric:tabular-nums">4,338</text>
+<text x="86" y="252" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="36" fill="#f0f6fc" font-weight="700" letter-spacing="-0.8" style="font-variant-numeric:tabular-nums">4,371</text>
 <text x="86" y="278" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#9198a1">upcoming events</text>
 <rect x="350" y="200" width="266" height="96" rx="12" fill="#262046" stroke="#8b7dff" stroke-opacity="0.55"/>
-<text x="372" y="252" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="36" fill="#8b7dff" font-weight="700" letter-spacing="-0.8" style="font-variant-numeric:tabular-nums">+368</text>
+<text x="372" y="252" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="36" fill="#8b7dff" font-weight="700" letter-spacing="-0.8" style="font-variant-numeric:tabular-nums">+364</text>
 <text x="372" y="278" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#9198a1">new since last run</text>
 <rect x="636" y="200" width="266" height="96" rx="12" fill="#0d1117" stroke="#30363d"/>
 <text x="658" y="252" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="36" fill="#f0f6fc" font-weight="700" letter-spacing="-0.8" style="font-variant-numeric:tabular-nums">65</text>
@@ -21,5 +21,5 @@
 <text x="944" y="252" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="36" fill="#f0f6fc" font-weight="700" letter-spacing="-0.8" style="font-variant-numeric:tabular-nums">29%</text>
 <text x="944" y="278" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#9198a1">online or hybrid</text>
 <circle cx="70" cy="328" r="4" fill="#3fb950"/>
-<text x="82" y="333" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#6e7681">last run 22 Nov 2026, 06:41 UTC  ·  next run 00:00 UTC  ·  26 sources</text>
+<text x="82" y="333" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#6e7681">last run 23 Nov 2026, 07:36 UTC  ·  next run 00:00 UTC  ·  26 sources</text>
 </svg>

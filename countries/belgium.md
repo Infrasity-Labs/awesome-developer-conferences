@@ -1,10 +1,9 @@
 # Developer Events in Belgium
 
-15 upcoming events. [Back to the full directory](../README.md)
+14 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Odoo Hackathon #6 | 2026-11-20 to 2026-11-22 | Ramillies (Belgium) | [↗](https://www.odoo.com/r/yZq) |
 | Startup Grind Monthly Pitch & Feedback Session (Online) | 2026-11-26 | Brussels, Belgium | [↗](https://www.startupgrind.com/events/details/startup-grind-brussels-presents-startup-grind-monthly-pitch-amp-feedback-session-online-2026-11-26/) |
 | HealthTech Investor Summit 2026 | 2026-11-30 to 2026-12-02 | Bruges, Belgium | [↗](https://www.healthtechinvestorsummit.com/) |
 | Digital First 2026 | 2026-12-01 | Brussels, Belgium | [↗](https://www.digitalfirst.be/) |

@@ -1,34 +1,9 @@
 # Developer Events in Canada
 
-275 upcoming events. [Back to the full directory](../README.md)
+274 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Into the Ecstasy with Arkaya & Darren Austin Hall | 2026-11-22 | Toronto, CA | [↗](https://lu.ma/9oqstzhw) |
-| Book Swap! | 2026-11-22 | Toronto, CA | [↗](https://lu.ma/2mm7uc5r) |
-| Gathered & Bound: Introduction to Handheld Brooms | 2026-11-22 | Toronto, CA | [↗](https://lu.ma/7ai7u0od) |
-| ❦ Civic Space Sunday | 2026-11-22 | Toronto | [↗](https://lu.ma/civic-space-november-2026) |
-| Counting Seagulls and it's a retirement party | 2026-11-22 | Toronto, CA | [↗](https://lu.ma/mb0rrgaz) |
-| Second Annual Girl Connected x Billboard Canada Women in Music Breakfast Club | 2026-11-22 | Toronto, CA | [↗](https://lu.ma/girl-z19c) |
-| 🦋 SOUL REMEMBRANCE | 2026-11-22 | Toronto, CA | [↗](https://lu.ma/ksij7oxm) |
-| Beginners Only Mahjong w/ Special Menu by @Qozecafe | 2026-11-22 | Toronto, CA | [↗](https://lu.ma/v9n4am8o) |
-| Cafecito & Money: Edición Inversión | 2026-11-22 | Toronto, CA | [↗](https://lu.ma/p79aercz) |
-| 🔥Toronto Founder Walk #15 - How to make ambitious friends and influence people. | 2026-11-22 | Toronto, CA | [↗](https://lu.ma/l6q1bdmx) |
-| the writing circle⋆˙⟡♡ | 2026-11-22 | Toronto, CA | [↗](https://lu.ma/vvd3nx2p) |
-| PAINT • SIP • CONNECT 🌸 | 2026-11-22 | Toronto, CA | [↗](https://lu.ma/fe6kh4mr) |
-| Learning to Oil Paint (landscape) | 2026-11-22 | Toronto, CA | [↗](https://lu.ma/eje3qrpj) |
-| so you think you're a bad artist? ep.21 | 2026-11-22 | Toronto, CA | [↗](https://lu.ma/u93194ki) |
-| Mahjong Night ft. Special Menu by @Qozecafe | 2026-11-22 | Toronto, CA | [↗](https://lu.ma/t8ngck10) |
-| the fifth sunday stroll through the PATH | 2026-11-22 | Toronto, CA | [↗](https://lu.ma/ret7xae6) |
-| Christmas Market Photowalk & Social Stroll by IRL Club TO | 2026-11-22 | Toronto, CA | [↗](https://lu.ma/26gg1poh) |
-| Moving as Thinking - The self, together | 2026-11-22 | Toronto, CA | [↗](https://lu.ma/dtkfsewp) |
-| Hike with Muslims from the GTA!! | 2026-11-22 | Toronto, CA | [↗](https://lu.ma/wcwuxzfn) |
-| Guitar Labs | 2026-11-22 | Toronto, CA | [↗](https://lu.ma/qor1xran) |
-| Cafe Book Club | 2026-11-22 | Toronto, CA | [↗](https://lu.ma/fobj8ydz) |
-| STEP6IX Sunday Social Run | 2026-11-22 | Toronto, CA | [↗](https://lu.ma/d2x1a6b2) |
-| Shut Up & Code - NORTH YORK (Finch and Yonge) | 2026-11-22 | Toronto, CA | [↗](https://lu.ma/ovxl50hg) |
-| Sunday Kundalini Yoga \| The Heart of Prosperity | 2026-11-22 | Toronto, CA | [↗](https://lu.ma/kh1wuput) |
-| The Joy of Writing Together #10 (Foodcourt Edition) | 2026-11-22 | Toronto, CA | [↗](https://lu.ma/783vbqtc) |
 | GDG Coding Jam @ Seneca: Build with AI, Together! | 2026-11-23 | Toronto, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-seneca-polytechnic-toronto-canada-presents-gdg-coding-jam-seneca-build-with-ai-together/) |
 | The Art of Blow Drying with Allison Kam | 2026-11-23 | Toronto, CA | [↗](https://lu.ma/f8fxlolc) |
 | MFT Practical Training Workshop - November 2026 - Toronto, Canada | 2026-11-23 | Toronto, CA | [↗](https://lu.ma/ucpqj9i8) |
@@ -156,6 +131,8 @@
 | Caffeinated Innovators | 2026-11-27 | Toronto, CA | [↗](https://lu.ma/pl9yvd6k) |
 | Designing high-growth startups with Jai & Noor from General Magic and Mo from Shepherd | 2026-11-27 | Toronto, CA | [↗](https://lu.ma/falcon-2b89) |
 | (Date Updated) GDG Coding Jam @ Seneca: Build with AI, Together! | 2026-11-27 | Toronto, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-seneca-polytechnic-toronto-canada-presents-date-updated-gdg-coding-jam-seneca-build-with-ai-together/) |
+| Break Into Data & AI: Friday Coffee Chats at College & University | 2026-11-27 | Toronto, CA | [↗](https://lu.ma/3zy2mmqe) |
+| Analyst Program Event — Fall | 2026-11-27 | Toronto, CA | [↗](https://lu.ma/akr4uycf) |
 | DevFest Sudbury 2026: Build, Secure, Scale – Developers and Builders in the Agentic Era | 2026-11-28 | Sudbury, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-sudbury-presents-devfest-sudbury-2026-build-secure-scale-developers-and-builders-in-the-agentic-era/) |
 | DevFest St. John's 2026 | 2026-11-28 | St. John's, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-st-johns-presents-devfest-st-johns-2026/) |
 | Gen AI and Agentic AI - Full day Hands on Workshop with Certificate | 2026-11-28 | Toronto, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-toronto-presents-gen-ai-and-agentic-ai-full-day-hands-on-workshop-with-certificate/) |
@@ -181,6 +158,8 @@
 | Audit World Tour - TOR | 2026-11-28 | Toronto, CA | [↗](https://lu.ma/hch7pl9e) |
 | The Portrait Social: Winter Edition | 2026-11-28 | Toronto, CA | [↗](https://lu.ma/1fvmkklh) |
 | Hot dogs with Lauren and Kale | 2026-11-28 | Toronto, CA | [↗](https://lu.ma/r4m29fxz) |
+| Secret Sauna x BANG Personal Training | 2026-11-28 | Toronto, CA | [↗](https://lu.ma/5tvf1ph4) |
+| Rerun of Sewing Workshop #1: Fundamentals | 2026-11-28 | Toronto, CA | [↗](https://lu.ma/gr2p76h9) |
 | Solra Disco Social | 2026-11-29 | Toronto, CA | [↗](https://lu.ma/6qrwx03e) |
 | A LITTLE MORE LIGHT | 2026-11-29 | Toronto, CA | [↗](https://lu.ma/5289er70) |
 | CANNABIS SOUND CEREMONY | 2026-11-29 | Toronto, CA | [↗](https://lu.ma/x3zi5qdc) |
@@ -197,6 +176,7 @@
 | Ada Night - Sidisti Bari | 2026-11-29 | Toronto, CA | [↗](https://lu.ma/a2bodoia) |
 | Sauté Sundays Cookbook Club: Ottolenghi Night (Simple Edition) | 2026-11-29 | Toronto, CA | [↗](https://lu.ma/wspo7q4g) |
 | Unfold: Tea Ritual, Somatic Breathwork & Yoga Nidra | 2026-11-29 | Toronto, CA | [↗](https://lu.ma/j5gmkvg7) |
+| The Joy of Writing Together #11 (Foodcourt Edition) | 2026-11-29 | Toronto, CA | [↗](https://lu.ma/wnnn4vmp) |
 | Toronto Comic Jam | 2026-11-30 | Toronto, CA | [↗](https://lu.ma/33dkzde6) |
 | Your Blueprint: A Student’s Guide to Buying a Business | 2026-11-30 | Toronto, CA | [↗](https://lu.ma/lnj0bxb5) |
 | Grok Bot Hackathon Toronto - November | 2026-11-30 | Toronto, CA | [↗](https://lu.ma/og0rsa52) |
@@ -218,6 +198,7 @@
 | Social Reading Night #37 | 2026-12-01 | Toronto, CA | [↗](https://lu.ma/9u1jzoxy) |
 | TechTO Canadian Rocketships 2026 | 2026-12-01 | Toronto, CA | [↗](https://lu.ma/canadian-rocketships-dec-1-2026) |
 | Mahjong Night (Beginner friendly!) | 2026-12-01 | Toronto, CA | [↗](https://lu.ma/2p8t7vq8) |
+| Toronto Exclusive Female Founders Social | 2026-12-01 | Toronto, CA | [↗](https://lu.ma/kpt13wr7) |
 | 1P13 Review Session | 2026-12-02 | Hamilton, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-mcmaster-university-hamilton-canada-presents-1p13-review-session/) |
 | Book Club: Reading The Only Cure: Freud and the Neuroscience of Mental Healing by Mark Solms | 2026-12-02 | Toronto, CA | [↗](https://lu.ma/471yvc65) |
 | BU Circle \| Entrepreneurship Holiday Dinner | 2026-12-02 | Toronto, CA | [↗](https://lu.ma/mno40mgu) |
@@ -234,11 +215,27 @@
 | Well Fed: Woven End of Year Celebration | 2026-12-02 | Toronto, CA | [↗](https://lu.ma/hdyaysg0) |
 | YC Alumni Holiday Party | 2026-12-02 | Toronto, CA | [↗](https://lu.ma/yc-holiday-party-dec-2-2026) |
 | Endings: Poetry & Writing workshop hosted by @ginnnychen | 2026-12-02 | Toronto, CA | [↗](https://lu.ma/p3esvjl3) |
+| B2S: In a Holidaze | 2026-12-02 | Toronto, CA | [↗](https://lu.ma/gjyttnsb) |
 | Beyond the Application: Inside the Recruiter's Playbook | 2026-12-03 | Burnaby, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-burnaby-presents-beyond-the-application-inside-the-recruiters-playbook/) |
 | Coding with GDG-ÉTS #2 : Programmation dynamique | 2026-12-03 | Montreal, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ecole-de-technologie-superieure-montreal-canada-presents-coding-with-gdg-ets-2-programmation-dynamique/) |
 | Show & Tell: Physical Computing | 2026-12-03 | Toronto, CA | [↗](https://lu.ma/bh397kow) |
 | AMA (Ask Me Anything) \| Toronto | 2026-12-03 | Toronto, CA | [↗](https://lu.ma/dkgrz7yg) |
+| Ready, Set, Shop - a private lunch with TikTok | 2026-12-03 | Toronto, CA | [↗](https://lu.ma/5j42ts6d) |
+| The Art of Talking Business by Atlas Connective | 2026-12-03 | Toronto, CA | [↗](https://lu.ma/zyj6zur3) |
+| Clay in Toronto: GTM Group Therapy + Holiday Social | 2026-12-03 | Toronto, CA | [↗](https://lu.ma/xyhltumb) |
+| TL/IRL: Robotics Demo Night & Social [Georgian Transferred Learning x Toronto Robot Club] | 2026-12-03 | Toronto, CA | [↗](https://lu.ma/tlirl-robotic-demo) |
+| ATTRACT. CONVERT. RETAIN: Practical Growth Strategies for Clinics & Beauty Businesses | 2026-12-03 | Toronto, CA | [↗](https://lu.ma/gdubh3tr) |
+| Beyond Your LinkedIn, Career Progression At The Executive Level | 2026-12-03 | Toronto, CA | [↗](https://lu.ma/4uwkzjyc) |
+| Hello World #1: A night of music, essays, poetry, and art about what it means to be a human in an artificial age | 2026-12-03 | Toronto, CA | [↗](https://lu.ma/ws58vog3) |
+| Quiet Social Stitch #3 | 2026-12-03 | Toronto, CA | [↗](https://lu.ma/17xgp1wq) |
+| Dec 3rd: w(h)ine & wreaths | 2026-12-03 | Toronto, CA | [↗](https://lu.ma/7jo3mdb6) |
 | Scotiabank x Sheridan: Leadership x Interns Panel and Networking | 2026-12-04 | Oakville, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sheridan-college-trafalgar-road-campus-oakville-canada-presents-scotiabank-x-sheridan-leadership-x-interns-panel-and-networking/) |
+| Ecstatic Dance Toronto \| A Weekly Wellness Dance for Modern Life | 2026-12-04 | Toronto, CA | [↗](https://lu.ma/t0i9r4hi) |
+| LET’S TALK UFOs: Canada and the Global UAP Story | 2026-12-04 | Toronto, CA | [↗](https://lu.ma/w4z8m0jx) |
+| AI Builder Café: Build Your AI Revenue & Operations Team | 2026-12-04 | Toronto, CA | [↗](https://lu.ma/6wd7mggt) |
+| Build A Fun Entertainment Business | 2026-12-04 | Toronto, CA | [↗](https://lu.ma/v9dzvung) |
+| UTBAA 2026 Holiday Party | 2026-12-04 | Toronto, CA | [↗](https://lu.ma/q7p2ixp0) |
+| Tea Tasting & Ceramic Painting Workshop w/ @teacia.gathering | 2026-12-04 | Toronto, CA | [↗](https://lu.ma/e66ctb8n) |
 | DevFest 2026: Nova Scotia | 2026-12-05 | Sydney, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-sydney-presents-devfest-2026-nova-scotia/) |
 | DevFest 2026: Nova Scotia Edition | 2026-12-05 | Halifax, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-halifax-presents-devfest-2026-nova-scotia-edition/) |
 | DevFest Ottawa 2026: Build, Secure & Scale in the Agentic Era | 2026-12-05 | Ottawa, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-ottawa-presents-devfest-ottawa-2026-build-secure-amp-scale-in-the-agentic-era/) |
@@ -247,6 +244,8 @@
 | VisionHacks: Computer Vision Hackathon with Sheridan CAAI and Inference Labs | 2026-12-05 | Oakville, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sheridan-college-trafalgar-road-campus-oakville-canada-presents-visionhacks-computer-vision-hackathon-with-sheridan-caai-and-inference-labs/) |
 | VisionHacks: Computer Vision Hackathon by Inference Labs at Sheridan College | 2026-12-05 | Oakville, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sheridan-college-trafalgar-road-campus-oakville-canada-presents-visionhacks-computer-vision-hackathon-by-inference-labs-at-sheridan-college/) |
 | Richmond Tech Community Coffee Meetup | 2026-12-05 | Richmond, BC, Canada | [↗](https://www.startupgrind.com/events/details/startup-grind-richmond-bc-presents-richmond-tech-community-coffee-meetup-8/) |
+| HackAI Toronto @ StanHQ | 2026-12-05 | Toronto, CA | [↗](https://lu.ma/hackaistan) |
+| Strengthening Your Inner Compass | 2026-12-05 | Toronto, CA | [↗](https://lu.ma/n12v5p99) |
 | GDG Cloud Sherbrooke – Celebration 2026 🎉 | 2026-12-07 | Sherbrooke, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-sherbrooke-presents-gdg-cloud-sherbrooke-celebration-2026/) |
 | End of Year Bash: Annual Recap & Hangout / Fête de fin d'année : Récap annual & Rencontres | 2026-12-07 | Montreal, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-montreal-presents-end-of-year-bash-annual-recap-amp-hangout-fete-de-fin-dannee-recap-annuel-amp-rencontres/) |
 | AI 2036: Are You Ready for What's Coming? | 2026-12-07 | Ajax, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-ajax-presents-ai-2036-are-you-ready-for-whats-coming/) |

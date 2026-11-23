@@ -1,6 +1,6 @@
 # Developer Events in Australia
 
-119 upcoming events. [Back to the full directory](../README.md)
+120 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -86,6 +86,7 @@
 | Alterra Labs: NeurIPS Dinner | 2026-12-09 | Sydney, AU | [↗](https://lu.ma/fx8xql0n) |
 | DevFest Extended: Building with Carbon in Antigravity | 2026-12-09 | Sydney, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-sydney-presents-devfest-extended-building-with-carbon-in-antigravity/) |
 | Data & Analytics Wednesday - December 2026 | 2026-12-09 | Sydney, NS, AU | [↗](https://allevents.in/sydney/data-and-analytics-wednesday-december-2026/100002005182139758) |
+| Physical AI Dinner with Mecka | 2026-12-09 | Sydney, AU | [↗](https://lu.ma/dpyr4ph4) |
 | Difinity Conference - Melbourne - 2026 | 2026-12-10 to 2026-12-11 | Melbourne (Australia) | [↗](https://difinitymelbourne.com/) |
 | End of Year Celebration! | 2026-12-10 | Melbourne, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-melbourne-presents-end-of-year-celebration/) |
 | AI Safety Networking Night - Sydney Conference Week | 2026-12-10 | Sydney, AU | [↗](https://lu.ma/qw32xqfa) |
