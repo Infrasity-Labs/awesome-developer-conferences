@@ -22,6 +22,7 @@ Developer conferences and community events across South America. [Back to the di
 | AI Executive Lunch | 2026-11-26 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/ai-executive-lunch/4700031097079949) |
 | Tech Leaders Coffee \| Cubo + Oracle | 2026-11-26 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/tech-leaders-coffee-cubo-oracle/4700031097073913) |
 | Women's Brunch - AI ao Cubo Edition | 2026-11-26 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/womens-brunch-ai-ao-cubo-edition/4700031097080654) |
+| Puliendo datos con BI e IA: charlando con expertos | 2026-11-26 | Asunción, Paraguay | [↗](https://gdg.community.dev/events/details/google-gdg-asuncion-presents-puliendo-datos-con-bi-e-ia-charlando-con-expertos/) |
 | DevFest Caracas 2026 | 2026-11-27 | Caracas, Venezuela | [↗](https://gdg.community.dev/events/details/google-gdg-caracas-presents-devfest-caracas-2026/) |
 | AI Builder Tour São Paulo | 2026-11-27 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/ai-builder-tour-são-paulo/4700031097077106) |
 | GambiConf 2026 | 2026-11-28 to 2026-11-29 | São Paulo (Brazil) | [↗](https://gambiconf.dev/) |
@@ -49,6 +50,7 @@ Developer conferences and community events across South America. [Back to the di
 | DevFest Sucre 2026 | 2026-11-28 | Sucre, Bolivia | [↗](https://gdg.community.dev/events/details/google-gdg-sucre-presents-devfest-sucre-2026/) |
 | Cloud Sessions #4 - Gestão de Nuvem e IA [Exclusivo para CTOs] | 2026-11-30 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/cloud-sessions-4-gestão-de-nuvem-e-ia-exclusivo-para-ctos/4700031097076900) |
 | DevOpsDays Salvador 2026 | 2026-12-01 | Salvador | [↗](https://devopsdays.org/events/2026-salvador) |
+| Demo Day NVIDIA Inception · Redes de Anjos na AI House Brasil | 2026-12-03 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/demo-day-nvidia-inception-·-redes-de-anjos-na-ai-house-brasil/4700031097085433) |
 | DevFest Nortão 2026 | 2026-12-04 | Sinop, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-sinop-presents-devfest-nortao-2026/) |
 | ITA AI Founders' Meetup at Gama House \| Offered by Stripe and Monashees | 2026-12-04 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/ita-ai-founders-meetup-at-gama-house-offered-by-stripe-and-monashees/4700031097076451) |
 | DevFest São José dos Campos 2026 | 2026-12-05 | São José dos Campos, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-sao-jose-dos-campos-presents-devfest-sao-jose-dos-campos-2026/) |

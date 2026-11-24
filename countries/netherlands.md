@@ -1,6 +1,6 @@
 # Developer Events in Netherlands
 
-40 upcoming events. [Back to the full directory](../README.md)
+41 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -25,6 +25,7 @@
 | Dawn Conferences 2027 | 2027-03-16 to 2027-03-19 | Amsterdam (Netherlands) | [↗](https://dawn.tech/en/conferences) |
 | Voxxed Days Amsterdam 2027 | 2027-03-31 to 2027-04-01 | Amsterdam | [↗](https://dev.events/conferences/voxxed-days-amsterdam-2027-z9c2zp5u) |
 | Laracon EU 2027 | 2027-04-05 to 2027-04-07 | Amsterdam | [↗](https://dev.events/conferences/laracon-eu-2027-xwuevfxz) |
+| TrustSecAI 2027 | 2027-04-13 to 2027-04-15 | Delft (Netherlands) | [↗](https://cs-conferences.acadiau.ca/ant-27/) |
 | MLcon Amsterdam 2027 | 2027-04-19 to 2027-04-23 | Amsterdam | [↗](https://dev.events/conferences/m-lcon-amsterdam-2027-gbx-mjag) |
 | DevOpsCon Amsterdam 2027 | 2027-04-19 to 2027-04-23 | Amsterdam | [↗](https://dev.events/conferences/dev-ops-con-amsterdam-2027-fmicck4r) |
 | DevOpsCon & MLCon/AI Engineering Summit 2027 | 2027-04-19 to 2027-04-23 | Amsterdam | N/A |

@@ -1,13 +1,9 @@
 # Developer Events in Egypt
 
-26 upcoming events. [Back to the full directory](../README.md)
+22 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| The First Move | 2026-11-23 | Birkat as SAB, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-faculty-of-computers-and-artificial-intelligence-menoufia-national-university-birkat-as-sab-egypt-presents-the-first-move/) |
-| Session2-intro. to Scratch | 2026-11-23 | Zagazig, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-zagazig-university-zagazig-egypt-presents-session2-intro-to-scratch/) |
-| Vibe Coding Workshop: Dive into Creative Coding | 2026-11-23 | 6Th Of October, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-misr-university-for-science-technology-6th-of-october-egypt-presents-vibe-coding-workshop-dive-into-creative-coding/) |
-| Cyber Security Session 3: Unravel the Network: Hands-on Workshop | 2026-11-23 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-cyber-security-session-3-unravel-the-network-hands-on-workshop-2026-11-23/) |
 | Launch into Embedded Systems | 2026-11-24 | Charlottesville, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-arab-academy-for-science-technology-and-maritime-transport-cairo-egypt-presents-launch-into-embedded-systems-2026-11-24/) |
 | AI Assistants for Everyday Work Workshop | 2026-11-24 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-canadian-international-college-cairo-egypt-presents-ai-assistants-for-everyday-work-workshop/) |
 | Session2: IP & Subnetting | 2026-11-24 | Zagazig, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-zagazig-university-zagazig-egypt-presents-session2-ip-amp-subnetting/) |

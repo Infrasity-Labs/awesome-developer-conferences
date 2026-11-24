@@ -1,6 +1,6 @@
 # Developer Events in Nigeria
 
-34 upcoming events. [Back to the full directory](../README.md)
+36 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -17,10 +17,11 @@
 | Business Intelligence Saturday | 2026-11-28 | Kaduna, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-business-intelligence-saturday-2026-11-28-1/) |
 | From data to intelligence  Build an Ai-powered web app that analyses text, images, audio and documents using simple prompts. | 2026-11-28 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-from-data-to-intelligence-build-an-ai-powered-web-app-that-analyses-text-images-audio-and-documents-using-simple-prompts/) |
 | GDG FUOYE X BUILD54: Impact Hack Day | 2026-11-28 | Oye-Ekiti, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-federal-university-oye-ekiti-oye-ekiti-nigeria-presents-gdg-fuoye-x-build54-impact-hack-day/) |
+| Launch Your Portfolio Website with AI | 2026-11-28 | Bauchi, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-abubakar-tafawa-balewa-university-bauchi-nigeria-presents-launch-your-portfolio-website-with-ai/) |
+| FROM ZERO TO GOOGLE:HOW TO BUILD A DIGITAL IDENTITY THAT GETS FOUND | 2026-11-28 | Iyin, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-federal-university-of-technology-and-environmental-sciences-iyin-ekiti-nigeria-presents-from-zero-to-googlehow-to-build-a-digital-identity-that-gets-found/) |
 | Data Science-AI-Cloud Sundays | 2026-11-29 | Kaduna, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-11-29/) |
 | Empowering University Staff Through AI | 2026-11-30 | Wudil, Nigeria, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-aliko-dangote-university-of-science-and-technology-wudil-nigeria-presents-empowering-university-staff-through-ai/) |
 | DevFest Enugu 2026 | 2026-12-04 | Enugu, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-enugu-presents-devfest-enugu-2026-1/) |
-| Launch Your Portfolio Website with AI | 2026-12-04 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-launch-your-portfolio-website-with-ai/) |
 | Devfest Gusau 2026 Kickoff | 2026-12-05 | Gusau, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-gusau-presents-devfest-gusau-2026-kickoff/) |
 | DevFest Aba 2026 | 2026-12-05 | Aba, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-aba-presents-devfest-aba-2026/) |
 | Devfest Gusau 2026 | 2026-12-05 | Gusau, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-gusau-presents-devfest-gusau-2026/) |
@@ -33,6 +34,7 @@
 | AWS Community Day Nigeria 2026 | 2026-12-12 | Harcourt (Nigeria) | [↗](http://www.awswomensusergroupportharcourt.org) |
 | GDG Zaria Tech Hangout: Shaping Our Community Together | 2026-12-12 | Zaria, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-zaria-presents-gdg-zaria-tech-hangout-shaping-our-community-together/) |
 | DevFest Lokoja 2026 | 2026-12-12 | Lokoja, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-lokoja-presents-devfest-lokoja-2026/) |
+| Builder's Jam: Launch Your AI-Powered Portfolio | 2026-12-12 | Ilorin, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-ilorin-ilorin-nigeria-presents-builders-jam-launch-your-ai-powered-portfolio/) |
 | DevFest Yenagoa 2026 | 2026-12-18 | Yenagoa, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-yenagoa-presents-devfest-yenagoa-2026/) |
 | DevFest Yola 2026 | 2026-12-19 | Jimeta, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-yola-presents-devfest-yola-2026/) |
 | DevFest Dutse '26 | 2026-12-19 | Dutse, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-dutse-presents-devfest-dutse-26/) |

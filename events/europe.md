@@ -6,71 +6,6 @@ Developer conferences, summits and community events across Europe. [Back to the 
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| DDC .NET Developer Conference | 2026-11-23 to 2026-11-26 | Köln (Germany) | [↗](https://www.developer-world.de/ddc) |
-| API Conference Berlin | 2026-11-23 to 2026-11-27 | Berlin (Germany) | [↗](https://apiconference.net/berlin) |
-| MLCon Berlin 2026 | 2026-11-23 to 2026-11-27 | Berlin (Germany) | [↗](https://mlconference.ai/berlin/) |
-| DSC Europe (Data Science Conference) 2026 | 2026-11-23 to 2026-11-27 | Belgrade, Serbia | [↗](https://datasciconference.com/) |
-| Introducción a la Ciberseguridad: Primeros Pasos y Vulnerabilidades Básicas | 2026-11-23 | Jaen, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-jaen-presents-introduccion-a-la-ciberseguridad-primeros-pasos-y-vulnerabilidades-basicas/) |
-| Table ronde HEC Alumni · La fidélisation client | 2026-11-23 | Paris, FR | [↗](https://lu.ma/z2tdayn1) |
-| Christmas Day with Miss Dior | 2026-11-23 | Paris, FR | [↗](https://lu.ma/1ox80nwo) |
-| Afterwork innovation publique - FP21 | 2026-11-23 | Paris, FR | [↗](https://lu.ma/l3jppl63) |
-| Soirée membres fondateurs | 2026-11-23 | Paris, FR | [↗](https://lu.ma/e86f7oiq) |
-| FinOps for ML and GenAI on Google Cloud: Cost per Task, Not Cost per Token | 2026-11-23 | Thessaloniki, Greece | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-thessaloniki-presents-finops-for-ml-and-genai-on-google-cloud-cost-per-task-not-cost-per-token/) |
-| Dîner Machine, #9: La peur (AI Safety) | 2026-11-23 | Paris, FR | [↗](https://lu.ma/tf7j0cts) |
-| Last commit of the year | 2026-11-23 | Palermo, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-palermo-presents-last-commit-of-the-year/) |
-| IVY & GAULT EXHIBITION 2026 | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/o25wwi9h) |
-| Mein Türkranz – Workshop | 2026-11-23 | Berlin | [↗](https://lu.ma/1yz6hl3a) |
-| Legal, Sorted: Legal Starterpack for Founders | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/u4qnhhpd) |
-| UNCONFERENCE: Engineering AI Together #12 | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/unconference_12) |
-| LSE Generate x BCG X: The Hard Part of AI Deployment Isn’t AI | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/uamketgz) |
-| Slow Poke Run Club: Monday Run | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/3btzksd4) |
-| Conscious Clubbing Workshop at CLINKER | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/ofr0w31k) |
-| Saddle Up XXI | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/wwjx8jyw) |
-| Sing Along Run - Christmas Edition | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/7fakgv7n) |
-| Longevity Lounge: Smart Fitness for Longevity⚕️ 🏋️‍♂️ | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/kbcqtxv1) |
-| GAIIF Paris 2026 \| Global AI Forum | 2026-11-23 | Paris, FR | [↗](https://lu.ma/h23gk34z) |
-| Rituel De Pleine Lune- Yoga Nidra & Écriture | 2026-11-23 | Paris, FR | [↗](https://lu.ma/ncfei3ld) |
-| Deep Tech Founder & Investor Breakfast vol.2 | 2026-11-23 | London, GB | [↗](https://lu.ma/z2xqfy9u) |
-| PauseAI Conference in Parliament | 2026-11-23 | London, GB | [↗](https://lu.ma/pauseai-conf-nov26) |
-| Daytona Builder Brunch - London, November 2026 | 2026-11-23 | London, GB | [↗](https://lu.ma/usecorgi-fujf) |
-| Angels Den DDQ Hot Room \| DeepTech | 2026-11-23 | London, GB | [↗](https://lu.ma/v5jwlw5g) |
-| Ubuntu: I Am Because We Are – Investing in Community, Power and Possibility | 2026-11-23 | London, GB | [↗](https://lu.ma/yu6rho5t) |
-| i help busy business owners learn ai -- live in london. | 2026-11-23 | London, GB | [↗](https://lu.ma/xma67ed8) |
-| From Real Assets to Digital Tokens: RWA Tokenisation | 2026-11-23 | London, GB | [↗](https://lu.ma/r5kqfaz0) |
-| Emerging Tech Investors Forum | 2026-11-23 | London, GB | [↗](https://lu.ma/0sakeyh9) |
-| Founders Meetup London - November 2026 | 2026-11-23 | London, GB | [↗](https://lu.ma/fy0ivv5a) |
-| 9 Simple Secrets Of Persuasion And Influence | 2026-11-23 | London, GB | [↗](https://lu.ma/tywzaajh) |
-| A Wild Horse Returns: Linda In London Hotpot Karaoke! 🫦 | 2026-11-23 | London, GB | [↗](https://lu.ma/pqach3pz) |
-| Entrepreneurship in the Age of AI | 2026-11-23 | London, GB | [↗](https://lu.ma/x1d407u8) |
-| Fireside Chat with Siliconversations | 2026-11-23 | London, GB | [↗](https://lu.ma/siliconversations) |
-| From sequence to insight: Exploring Bioinformatics | 2026-11-23 | London, GB | [↗](https://lu.ma/vj64kdrd) |
-| Institute of Regeneration / The First Seed “Drinks & Thinks” with the Global CSO of Mars Snacking | 2026-11-23 | London, GB | [↗](https://lu.ma/865bkhwb) |
-| November AI Workshop | 2026-11-23 | London, GB | [↗](https://lu.ma/occfjntp) |
-| Scaling US Retail: An Evening with the Experts and Brands Who’ve Done It. | 2026-11-23 | London, GB | [↗](https://lu.ma/uuq9fzzn) |
-| shipped #3 - London's FDE Meetup | 2026-11-23 | London, GB | [↗](https://lu.ma/sf3glv38) |
-| The Art of Mutual Flourishing - Private Dinner by Unity4Impact (London) | 2026-11-23 | London, GB | [↗](https://lu.ma/wi1vaerf) |
-| Weighting for Godot | 2026-11-23 | London, GB | [↗](https://lu.ma/9pbmrbr9) |
-| Winter Drinks Reception | 2026-11-23 | London, GB | [↗](https://lu.ma/dpi3zd43) |
-| Atlas Book Club: An Evening in Lebanon -The True True Story of Raja the Gullible by Rabih Alameddine | 2026-11-23 | London, GB | [↗](https://lu.ma/6s8ml9rf) |
-| Offland : Create Your Own Cardholder | 2026-11-23 | London, GB | [↗](https://lu.ma/uvkbda60) |
-| Pixis x FMCG Guys: Agentic in Marketing Dinner | 2026-11-23 | London, GB | [↗](https://lu.ma/jyudfvwp) |
-| Product Designer Gym 🏋️ - Generative UI Experiment! | 2026-11-23 | London, GB | [↗](https://lu.ma/0k8ntwqq) |
-| Urban Climate Innovation Network - November Social | 2026-11-23 | London, GB | [↗](https://lu.ma/a6kll196) |
-| Women’s Winter Social | 2026-11-23 | London, GB | [↗](https://lu.ma/5h9lnc2o) |
-| Dine with Fuel Ventures: from pre-seed to Series A | 2026-11-23 | London, GB | [↗](https://lu.ma/tablec-vvq7) |
-| Babes in London: Ice, Sauna & Recovery for Ambitious Babes | 2026-11-23 | London, GB | [↗](https://lu.ma/2wp32cf4) |
-| The Lady Gaga Pub Quiz with Seb Darke | 2026-11-23 | London, GB | [↗](https://lu.ma/pmcxckar) |
-| Law for Entrepreneurs – with Prof. Dr. Stephan R. Göthel | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/tg25oxx2) |
-| Agent Harnesses Explained: How AI Employees Really Work | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/c7qll9z3) |
-| Tylko Pop-up Store Opening in Paris | 2026-11-23 | Paris, FR | [↗](https://lu.ma/fhnogye7) |
-| BRISA Reading Group 07 - Estimate, Don't Imitate: Reusing Differentiable State-Based Policies for Visuomotor Control | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/zf7m6y1c) |
-| P'tit déj' SPEED CALLING Patronne Club x JAB | 2026-11-23 | Paris, FR | [↗](https://lu.ma/632cgrd4) |
-| Special Guest : Laurent Lefebvre, CEO & cofondateur de HelloCSE (143 M€ de CA, 100% bootstrap) @BuildersFactory | 2026-11-23 | Paris, FR | [↗](https://lu.ma/6omuk40e) |
-| Women In Entrepreneurship | 2026-11-23 | London, GB | [↗](https://lu.ma/ou4pjj5b) |
-| Tijana Jevtić - Veče ultramoderne poezije | 2026-11-23 | Paris, FR | [↗](https://lu.ma/ykpsbvqu) |
-| Source the Area x Intisar Abdul - Kader | 2026-11-23 | London, GB | [↗](https://lu.ma/eya6jesc) |
-| Mama Baby Yoga, Postnatales Yoga mit/ohne Baby 0+ mit Cornelia | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/ne1fudz8) |
-| Berlin-Asia Startup Night | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/cg4ux5kt) |
 | Manage Agile 2026 | 2026-11-24 to 2026-11-26 | Leipzig (Germany) | [↗](https://www.manage-agile.de/) |
 | Big Data Conference Europe | 2026-11-24 to 2026-11-27 | Vilnius | [↗](https://dev.events/conferences/big-data-conference-europe-g2okbywt) |
 | AI World Congress London 2026 | 2026-11-24 to 2026-11-25 | London | [↗](https://dev.events/conferences/ai-world-congress-london-2026-1f401ilq) |
@@ -216,6 +151,16 @@ Developer conferences, summits and community events across Europe. [Back to the 
 | CREATIVE COWORKING SESSION at CIC | 2026-11-24 | Berlin | [↗](https://lu.ma/8d5oxvd8) |
 | Product Xmas Dinner – Year-End Edition 2026 | 2026-11-24 | Berlin, DE | [↗](https://lu.ma/tex2uuic) |
 | Men's Embodiment Group Berlin | 2026-11-24 | Berlin, DE | [↗](https://lu.ma/p4nuwevs) |
+| Morning Yoga with Corgi | 2026-11-24 | London, GB | [↗](https://lu.ma/k8l89meh) |
+| Finance Bootcamp Session 1 | 2026-11-24 | London, GB | [↗](https://lu.ma/r9wibmvp) |
+| Custom LLMs private dinner | 2026-11-24 | London, GB | [↗](https://lu.ma/ahrodsht) |
+| The King's Agents Party | 2026-11-24 | London, GB | [↗](https://lu.ma/d9bj9x7g) |
+| Coworking Day: Longevity + Membership Trial ⚕️🌱 | 2026-11-24 | Berlin, DE | [↗](https://lu.ma/4fbj7u2t) |
+| FRC Berlin :: Run & Network @ AsiaBerlin Summit 2026 | 2026-11-24 | Berlin, DE | [↗](https://lu.ma/00rocwhs) |
+| VISITE : Tribunal judiciaire de Paris (Porte de Clichy) - Jules Ferry (78) | 2026-11-24 | Paris, FR | [↗](https://lu.ma/izdma7a2) |
+| 🍛 Dinner with Strangers \| Meet New People in Paris | 2026-11-24 | Paris, FR | [↗](https://lu.ma/gt32hn0b) |
+| TechTalks, un streaming tecnològic des de els Laboratoris TIC del Parc Agrobiotech Lleida, episodi Pilot | 2026-11-24 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-techtalks-un-streaming-tecnologic-des-de-els-laboratoris-tic-del-parc-agrobiotech-lleida-episodi-pilot/) |
+| AI at the Heart of Software Development | 2026-11-24 | Munsbach, Luxembourg | [↗](https://myconnectivity.lu/en/event/ai-at-the-heart-of-software-development/) |
 | Testing United Conference 2026 | 2026-11-25 to 2026-11-26 | Copenhagen | [↗](https://dev.events/conferences/testing-united-conference-2026-hgyfmkex) |
 | MeOut Summit 2026 | 2026-11-25 to 2026-11-26 | Budapest | [↗](https://dev.events/conferences/me-out-summit-2026-f29o6qn8) |
 | AI World Congress | 2026-11-25 to 2026-11-26 | London (UK) | [↗](https://aiconference.london) |
@@ -380,6 +325,18 @@ Developer conferences, summits and community events across Europe. [Back to the 
 | Jeena and Temple Rat Live Ambient | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/kk4tbacv) |
 | Plumb Cafe / Paris | 2026-11-25 | Paris, FR | [↗](https://lu.ma/vbcej3w1) |
 | Build Your First AI Bot with Grok: For Founders & Small Business Owners (No Coding) | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/syys86iy) |
+| Intro to Computer Vision | 2026-11-25 | London, GB | [↗](https://lu.ma/p2y4it2b) |
+| Build a Game w/JavaFX #2: Bring It to Life | 2026-11-25 | London, GB | [↗](https://lu.ma/194s4tiv) |
+| OnlyLifts | 2026-11-25 | London, GB | [↗](https://lu.ma/u3keckst) |
+| BitDevs - Socratic Seminar #55 | 2026-11-25 | London, GB | [↗](https://lu.ma/antidote-pswa) |
+| WEDNESDAY TRACK SESSIONS · 25 NOVEMBER | 2026-11-25 | London, GB | [↗](https://lu.ma/wyw0stzf) |
+| 🥂 Workday x Unicorn Bakery – Exclusive Scale-up Founder Dinner | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/founder-dinner-25-11) |
+| BBK Stammtisch | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/97mplx3y) |
+| Coffee & Demos : The Nest × AI Tinkerers Paris | 2026-11-25 | Paris, FR | [↗](https://lu.ma/0ue9fm4p) |
+| Mado Curated x Le Gainsbarre | 2026-11-25 | Paris, FR | [↗](https://lu.ma/vgjv599w) |
+| 🎅 Berlindroid EOY 2026 🎅 | 2026-11-25 | Berlin, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-berlin-android-presents-berlindroid-eoy-2026/) |
+| Understanding LLM Attacks: Applying Google SAIF and Model Armor for Production Security | 2026-11-25 | Budapest, Hungary | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-bme-budapest-hungary-presents-understanding-llm-attacks-applying-google-saif-and-model-armor-for-production-security/) |
+| Taller de Rust | 2026-11-25 | Valladolid, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-valladolid-presents-taller-de-rust/) |
 | SymfonyCon | 2026-11-26 | Warsaw, Poland | [↗](https://live.symfony.com/2026-warsaw-con) |
 | Meeting C++ 2026 | 2026-11-26 to 2026-11-28 | Berlin | [↗](https://dev.events/conferences/meeting-c-2026-jhr0hlfa) |
 | SymfonyCon Warsaw 2026 | 2026-11-26 to 2026-11-27 | Warsaw | [↗](https://dev.events/conferences/symfony-con-warsaw-2026-ucaafsud) |
@@ -525,6 +482,27 @@ Developer conferences, summits and community events across Europe. [Back to the 
 | The Kayzen Christmas Social | 2026-11-26 | London, GB | [↗](https://lu.ma/6theeqct) |
 | RUN-N-RAVE at CIC | 2026-11-26 | Berlin, DE | [↗](https://lu.ma/runrave-gid5) |
 | Thursday Builders Coffee Cowork #3 at swanbase | 2026-11-26 | Paris, FR | [↗](https://lu.ma/jy5pnai5) |
+| Angels Den Live Pitch Night \| In partnership with Corgi and Deel | 2026-11-26 | London, GB | [↗](https://lu.ma/r8huftr2) |
+| Build on Tangem: MCP Workshop & Build Night | 2026-11-26 | London, GB | [↗](https://lu.ma/encode-8amm) |
+| CAPP TECH PANEL 2 | 2026-11-26 | London, GB | [↗](https://lu.ma/xcmhhwgb) |
+| Founders & AI: How to Build an AI Startup That Big Tech Can’t Kill | 2026-11-26 | London, GB | [↗](https://lu.ma/ydzsu4ke) |
+| Reality Check - Robotic Hackathon Kickoff Drinks | 2026-11-26 | London, GB | [↗](https://lu.ma/aiengine-5m5y) |
+| TRUK Pitch Day 2026 | 2026-11-26 | London, GB | [↗](https://lu.ma/jeifgrkz) |
+| Ventrix: Pilot Send-Off Thanksgiving | 2026-11-26 | London, GB | [↗](https://lu.ma/ju6jnvoi) |
+| Zed x Rust London Meetup | 2026-11-26 | London, GB | [↗](https://lu.ma/rkvszcsu) |
+| BiteLabs Digital Health & Innovation Demo Day (Autumn 2026) | 2026-11-26 | London, GB | [↗](https://lu.ma/m178u59r) |
+| AGI IRL: Are we there yet? | 2026-11-26 | London, GB | [↗](https://lu.ma/ramen-5gl5) |
+| CipherX Flagship Store — Opening Party (Borough Market) | 2026-11-26 | London, GB | [↗](https://lu.ma/c6o6zt6y) |
+| Community Connect LIVE in London - November 🌳 | 2026-11-26 | London, GB | [↗](https://lu.ma/zi7sntxl) |
+| DBKing:The Deal Room | 2026-11-26 | London, GB | [↗](https://lu.ma/k3i7mm1m) |
+| Futureheads Design Leaders Winter Drinks | 2026-11-26 | London, GB | [↗](https://lu.ma/7z7p96r3) |
+| London Systems (November meetup) | 2026-11-26 | London, GB | [↗](https://lu.ma/hxwdvdhq) |
+| Silver Sun x The Halley presents: The Industry Room | 2026-11-26 | London, GB | [↗](https://lu.ma/x2onx4bv) |
+| Who's Afraid of Reading? Book Club | 2026-11-26 | London, GB | [↗](https://lu.ma/e3tfyny7) |
+| Transitioning into AI Safety Accountability Group | 2026-11-26 | Berlin, DE | [↗](https://lu.ma/b408yd86) |
+| AI Social Club: Berlin | 2026-11-26 | Berlin, DE | [↗](https://lu.ma/vercel-ai-social-club-berlin) |
+| The Power Behind AI: Africa and the Global Energy Transition | 2026-11-26 | Berlin, DE | [↗](https://lu.ma/bxq3owq2) |
+| New Defense Dinner Berlin | 2026-11-26 | Berlin, DE | [↗](https://lu.ma/european-57va) |
 | DevFest Paris 2026 | 2026-11-27 | Paris (France) | [↗](https://devfest.gdgparis.fr/) |
 | TechMids Conf 2026 | 2026-11-27 | Birmingham, UK | [↗](http://conf.techmids.io) |
 | Product Management Festival 2026 | 2026-11-27 | Zurich | [↗](https://dev.events/conferences/product-management-festival-2026-rvvoq3nr) |
@@ -626,6 +604,9 @@ Developer conferences, summits and community events across Europe. [Back to the 
 | Alan x Qovery x AWS: AI Health Hack 2 | 2026-11-28 | Paris, FR | [↗](https://lu.ma/o1eopuwy) |
 | ✨ FoodMato Creator Connect — Berlin | 2026-11-28 | Berlin, DE | [↗](https://lu.ma/qy2y6017) |
 | HACKATHON: Build AI on KASPA | 2026-11-28 | Paris, France | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-epita-paris-france-presents-hackathon-build-ai-on-kaspa/) |
+| The Forest of Blue Wonders · Adventure Hike · 20 km | 2026-11-28 | Berlin, DE | [↗](https://lu.ma/oa5ajcz3) |
+| REProduce x Subkontinent: Listening Room with DJ Khabir | 2026-11-28 | Berlin, DE | [↗](https://lu.ma/2ic1mwk2) |
+| Reel2Reel Studio turns 3 | 2026-11-28 | Berlin, DE | [↗](https://lu.ma/3pjsr4iy) |
 | DataSaturday Madrid 2026 | 2026-11-29 | Madrid | [↗](https://dev.events/conferences/data-saturday-madrid-2026-rwsk2lrs) |
 | RUN CLUB 29/11 @La Montgolfière 10ème | 2026-11-29 | Paris, FR | [↗](https://lu.ma/enccfurq) |
 | Longevity Café #08 ⏰ Le Sommeil: À la recherche du temps rendu | 2026-11-29 | Paris, FR | [↗](https://lu.ma/adz17xzf) |
@@ -650,6 +631,10 @@ Developer conferences, summits and community events across Europe. [Back to the 
 | Clärchens Ballhaus: Baumloben | 2026-11-29 | Berlin, DE | [↗](https://lu.ma/jbqrz337) |
 | Queer Volleyball Club | 2026-11-29 | Berlin, DE | [↗](https://lu.ma/bgb6vr1b) |
 | Yapay Zekâ Çağında Ürün Geliştirme & Mockathon | 2026-11-29 | Izmir,  Turkey, Türkiye | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-izmir-katip-celebi-university-izmir-turkey-presents-yapay-zeka-caginda-urun-gelistirme-amp-mockathon/) |
+| SUNDAY LONGRUN at CIC | 2026-11-29 | Berlin, DE | [↗](https://lu.ma/evyt1cpy) |
+| The Missing Archives \| Translingual Writing Workshop | 2026-11-29 | Berlin, DE | [↗](https://lu.ma/nzio99nr) |
+| Christmas Wreath Workshop | 2026-11-29 | Berlin, DE | [↗](https://lu.ma/christmasworkshop) |
+| Lost Faces, New Pages | 2026-11-29 | Paris, FR | [↗](https://lu.ma/9i7cj3av) |
 | IT Security Summit Munich 2026 | 2026-11-30 to 2026-12-04 | Munich (Germany) | [↗](https://it-security-summit.com/munich/) |
 | ESPC | 2026-11-30 | Amsterdam, Netherlands | [↗](https://www.sharepointeurope.com) |
 | Tech.Rocks Summit | 2026-11-30 to 2026-12-01 | Paris | [↗](https://dev.events/conferences/tech-rocks-summit-aaxn2xuq) |
@@ -682,6 +667,10 @@ Developer conferences, summits and community events across Europe. [Back to the 
 | "How to Live on Earth" Community Movie Screening - Climate Coffee Berlin | 2026-11-30 | Berlin, DE | [↗](https://lu.ma/kelcoqit) |
 | "Dear Self": A Letter-Writing Workshop at Michelberger | 2026-11-30 | Berlin, DE | [↗](https://lu.ma/4etoynnx) |
 | Life Sciences Startups: Speed Networking & Roundtables | 2026-11-30 | Berlin, DE | [↗](https://lu.ma/3o2r6y9a) |
+| BRISA Reading Group 08 - VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model | 2026-11-30 | Berlin, DE | [↗](https://lu.ma/1lk2u1qn) |
+| HOT BOYS KNIT x KNIT KNIT Berlin (Men-Only) | 2026-11-30 | Berlin, DE | [↗](https://lu.ma/hotboys-j2fc) |
+| Le Café de l’Agentique spécial Tech for Retail \| Adobe × Stripe | 2026-11-30 | Paris, FR | [↗](https://lu.ma/j6ziltni) |
+| Join Retail Women in Tech for AfterShow Drinks at Tech for Retail in Paris! | 2026-11-30 | Paris, FR | [↗](https://lu.ma/retail-5dyp) |
 | Cloud Native AI Summit – EUROPE 2026 | 2026-12-01 to 2026-12-02 | Paris | [↗](https://www.cloudnative.ai) |
 | Build It Summit | 2026-12-01 to 2026-12-03 | Paris | [↗](https://dev.events/conferences/build-it-summit-k66lx1xj) |
 | Chief AI Officer Summit London | 2026-12-01 | London | [↗](https://dev.events/conferences/chief-ai-officer-summit-london-ol9qeuex) |
@@ -721,6 +710,8 @@ Developer conferences, summits and community events across Europe. [Back to the 
 | BLISS AI Speaker Series: Sovereign AI from a Perspective of Model Building and AI Governance - Jonathan Schwarz | 2026-12-01 | Berlin, DE | [↗](https://lu.ma/pday4uph) |
 | desirelines book club: episode 6 (Christmas Party!) | 2026-12-01 | Berlin, DE | [↗](https://lu.ma/ary75uf2) |
 | Lass uns Deutsch sprechen (Sprachcafé) #2 | 2026-12-01 | Berlin, DE | [↗](https://lu.ma/lass-uns-deutsch-sprechen-2) |
+| Work Together | 2026-12-01 | Berlin, DE | [↗](https://lu.ma/r2lh6apc) |
+| Grok Bot Build Night Paris x Swanbase | 2026-12-01 | Paris, FR | [↗](https://lu.ma/spacexai-2cvj) |
 | Cloud Native AI Summit Europe | 2026-12-02 to 2026-12-03 | Paris (France) | [↗](https://www.cloudnative.ai/events/paris) |
 | Power Conference 2026 | 2026-12-02 to 2026-12-03 | Prague (Czechia) | [↗](https://www.powerconference.cz/) |
 | Oh My Hack 2026 | 2026-12-02 | Warsaw | [↗](https://dev.events/conferences/oh-my-hack-2026-xigqjzxk) |
@@ -753,6 +744,7 @@ Developer conferences, summits and community events across Europe. [Back to the 
 | FinWell Summit 2026 | 2026-12-02 | Berlin, DE | [↗](https://lu.ma/FinWell-Summit-2026) |
 | Hacker House 36 hours | 2026-12-02 | Berlin, DE | [↗](https://lu.ma/48f5c33r) |
 | Kateryna Radchenko - The Impact of Technologies in Wartime Photography in Ukraine | 2026-12-02 | Paris, FR | [↗](https://lu.ma/45lq6lmg) |
+| What happens when agents run every layer of the company? | 2026-12-02 | Paris, FR | [↗](https://lu.ma/3br4reod) |
 | DevDay 2026 - Alchemy | 2026-12-03 | Mons (Belgium) | [↗](https://www.devday.be) |
 | DevFest 2026: GameJam - Conference | 2026-12-03 | Belgrade, Serbia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-belgrade-belgrade-serbia-presents-devfest-2026-gamejam-conference/) |
 | GDG Nuremberg - 10th anniversary | 2026-12-03 | Nürnberg, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-nuremberg-presents-gdg-nuremberg-10th-anniversary/) |
@@ -781,6 +773,7 @@ Developer conferences, summits and community events across Europe. [Back to the 
 | Co-sensing Lab #5 | 2026-12-03 | Paris, FR | [↗](https://lu.ma/0x7t3pyh) |
 | Dégustation 03/12 | 2026-12-03 | Paris, FR | [↗](https://lu.ma/nsmrmfxp) |
 | Atelier bougie & apéro 🕯️캔들 만들기 & 아페로 | 2026-12-03 | Paris, FR | [↗](https://lu.ma/kore-5qma) |
+| Workshop : Réconcilier Canvas et Code | 2026-12-03 | Paris, FR | [↗](https://lu.ma/augmented-5uep) |
 | DevFest Lyon 2026 | 2026-12-04 | Lyon (France) | [↗](https://devfest.gdglyon.com/) |
 | DevFest Dijon 2026 | 2026-12-04 | Dijon (France) | [↗](https://devfest.developers-group-dijon.fr/) |
 | React Day Berlin | 2026-12-04 to 2026-12-07 | Berlin (Germany) | [↗](https://reactday.berlin) |
@@ -796,6 +789,8 @@ Developer conferences, summits and community events across Europe. [Back to the 
 | Bricks Awards 2026 (PARIS) | 2026-12-04 | Paris, FR | [↗](https://lu.ma/gr79iju2) |
 | La Soirée De Noël | 2026-12-04 | Paris, FR | [↗](https://lu.ma/ukq9wo7p) |
 | Learning Expedition : La magie du Ritz la nuit pendant les fêtes | 2026-12-04 | Paris, FR | [↗](https://lu.ma/5k24rvmb) |
+| League of Legends Tournament: may the best team win! | 2026-12-04 | Koper, Slovenia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-primorska-koper-slovenia-presents-league-of-legends-tournament-may-the-best-team-win/) |
+| Google  DevFest Kosova 2026 | 2026-12-04 | Pristina, Kosovo | [↗](https://gdg.community.dev/events/details/google-gdg-prishtina-presents-google-devfest-kosova-2026/) |
 | DevFest Aix 2026 : Une nouvelle édition provençale ! | 2026-12-05 | Aix-en-Provence, France | [↗](https://gdg.community.dev/events/details/google-gdg-aix-en-provence-presents-devfest-aix-2026-une-nouvelle-edition-provencale/) |
 | TPU Learning Club: High-Performance AI — Build, Optimize & Scale | 2026-12-05 | Romford, United Kingdom | [↗](https://gdg.community.dev/events/details/google-gdg-essex-presents-tpu-learning-club-high-performance-ai-build-optimize-amp-scale/) |
 | Oxford DevFest 2026 | 2026-12-05 | Oxford, United Kingdom | [↗](https://gdg.community.dev/events/details/google-gdg-oxford-presents-oxford-devfest-2026/) |
@@ -817,10 +812,12 @@ Developer conferences, summits and community events across Europe. [Back to the 
 | LE DÎNER CAVIAR – champagne & leadership. | 2026-12-05 | Paris, FR | [↗](https://lu.ma/20fqhpu5) |
 | One Year of Us · Fempower Society Anniversary Dinner 🥂 | 2026-12-05 | Paris, FR | [↗](https://lu.ma/ry2mscrb) |
 | Atelier Vision Board + Tirage Flash : clôturer 2026 et créer ton année 2027 🦋 | 2026-12-05 | Paris, FR | [↗](https://lu.ma/b4gotd8p) |
+| Ask US Anything about Liquid Galaxy future | 2026-12-05 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-ask-us-anything-about-liquid-galaxy-future/) |
 | KIN Holiday Wellbeing Day | 2026-12-06 | Paris, FR | [↗](https://lu.ma/sseinj9v) |
 | RUN CLUB 06/12 @La Montgolfière 18ème | 2026-12-06 | Paris, FR | [↗](https://lu.ma/532e0m77) |
 | PILATES ATHLETIQUE (35°C) par MATPULSE & EMBER (90mn) | 2026-12-06 | Paris, FR | [↗](https://lu.ma/v6w4x776) |
 | Sketch Club - December | 2026-12-06 | Paris, FR | [↗](https://lu.ma/0ud0kyb0) |
+| Atelier Prop28 : Notaire et Fiscalité | 2026-12-06 | Paris, FR | [↗](https://lu.ma/a40w7w3n) |
 | APE 2026 | 2026-12-07 to 2026-12-11 | Apenheul (Netherlands) | [↗](https://ai-ape.nl/) |
 | IT-Tage | 2026-12-07 | Frankfurt am Main, Germany | [↗](https://www.it-tage.org) |
 | IT-Tage 2026 | 2026-12-07 to 2026-12-10 | Frankfurt | [↗](https://dev.events/conferences/it-tage-2026-6azb9oo) |
@@ -835,6 +832,7 @@ Developer conferences, summits and community events across Europe. [Back to the 
 | Luxe, Mode & Beauté : le pouvoir des conversations sur WhatsApp | 2026-12-08 | Paris, FR | [↗](https://lu.ma/j52n7xua) |
 | Déjeuner de Noël Indéparents - Paris - 8 décembre | 2026-12-08 | Paris, FR | [↗](https://lu.ma/1mql1w22) |
 | Mardi 8 décembre un Noël entre meufs | 2026-12-08 | Paris, FR | [↗](https://lu.ma/4nz3tmfl) |
+| GDG #36 : Pompes à chaleur et acoustique : comprendre le bruit, découvrir les solutions | 2026-12-08 | Le Mans, France | [↗](https://gdg.community.dev/events/details/google-gdg-le-mans-presents-gdg-36-pompes-a-chaleur-et-acoustique-comprendre-le-bruit-decouvrir-les-solutions/) |
 | DevOps REX | 2026-12-09 to 2026-12-10 | Paris (France) | [↗](https://www.devopsrex.fr/fr/) |
 | KCD Suisse Romande 2026 | 2026-12-09 to 2026-12-10 | Geneva (Switzerland) | [↗](https://kcd.cloud-native-romandy.ch/) |
 | droidcon London | 2026-12-09 | London, U.K. | [↗](https://london.droidcon.com) |
@@ -843,6 +841,7 @@ Developer conferences, summits and community events across Europe. [Back to the 
 | DevFest Kırklareli'26 | 2026-12-09 | Kırklareli Merkez (Turkey) | [↗](https://gdg.community.dev/events/details/google-gdg-kirklareli-presents-devfest-kirklareli26-1/) |
 | Idea to URL: Build Your First Web App with Google Antigravity | 2026-12-09 | Riga, Latvia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-riga-technical-university-riga-latvia-presents-idea-to-url-build-your-first-web-app-with-google-antigravity/) |
 | Siber Güvenlik Zirvesi | 2026-12-09 | Istanbul, Türkiye | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-uskudar-university-istanbul-turkiye-presents-siber-guvenlik-zirvesi/) |
+| Startup Grind Helsinki End of the Year Party 2026 | 2026-12-09 | Helsinki, Finland | [↗](https://www.startupgrind.com/events/details/startup-grind-helsinki-presents-startup-grind-helsinki-end-of-the-year-party-2026/) |
 | KCD Provence | 2026-12-10 | Aix-en-Provence (France) | [↗](https://cloudnative-provence.fr/) |
 | CloudBrew 2026 - A two-day Microsoft Azure event | 2026-12-10 to 2026-12-11 | Mechelen (Belgium) | [↗](https://www.cloudbrew.be) |
 | Cinq Maîtres en Perspective: Simon Hantaï avec Pierre Wat - Galerie Amelie du Chalard | 2026-12-10 | Paris, FR | [↗](https://lu.ma/e8vi4klp) |
@@ -867,7 +866,9 @@ Developer conferences, summits and community events across Europe. [Back to the 
 | DevFest Athens 2026 Edition | 2026-12-12 | Athens, Greece | [↗](https://gdg.community.dev/events/details/google-gdg-athens-presents-devfest-athens-2026-edition/) |
 | #135-th Event ✨ Built with AI & Cloud Workshop | 2026-12-13 | Sarajevo, Bosnia and Herzegovina | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-sarajevo-presents-135-th-event-built-with-ai-amp-cloud-workshop/) |
 | Meetup Xmas Edition: IA y Accesibilidad en Proyectos Legacy | 2026-12-14 | Madrid, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-madrid-presents-meetup-xmas-edition-ia-y-accesibilidad-en-proyectos-legacy/) |
+| Git & GitHub Workshop: From First Commit to a Merged Pull Request | 2026-12-14 | Koper, Slovenia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-primorska-koper-slovenia-presents-git-amp-github-workshop-from-first-commit-to-a-merged-pull-request/) |
 | Global AI Nights Sofia | 2026-12-15 | Sofia | [↗](https://globalai.community/e/3bpbrt9d) |
+| How to Turn AI into a Real Performance Driver for Your Business | 2026-12-15 | Luxembourg City, Luxembourg | [↗](https://myconnectivity.lu/en/event/how-to-turn-ai-into-a-real-performance-driver-for-your-business/) |
 | Workshop Stampa 3D | 2026-12-16 | Saint-Vincent, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-valle-daosta-presents-workshop-stampa-3d-1/) |
 | Building Modern Cloud & AI Applications on Google Cloud | 2026-12-16 | Athens, Greece | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-west-attica-athens-greece-presents-building-modern-cloud-amp-ai-applications-on-google-cloud/) |
 | aMP Day Luxembourg 2026 | 2026-12-17 | Luxembourg (Luxembourg) | [↗](https://ampcommunity.online/amp-day-luxembourg-2026/) |
@@ -881,6 +882,7 @@ Developer conferences, summits and community events across Europe. [Back to the 
 | 🎉🎉 Christmas dinner with Startup Grind Rome near Piazza Navona 🎉🎉 | 2026-12-19 | Rome, Italy | [↗](https://www.startupgrind.com/events/details/startup-grind-rome-presents-christmas-dinner-with-startup-grind-rome-near-piazza-navona/) |
 | Season Finale Hackathon · aivancity Tech Club × GDG on Campus aivancity | 2026-12-19 | Villejuif, France | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-aivancity-villejuif-france-presents-season-finale-hackathon-aivancity-tech-club-x-gdg-on-campus-aivancity/) |
 | Build with AI: TPU Learning Club \| Week 1: Why TPU? (CPU vs. GPU vs. TPU) | 2026-12-19 | Ahlen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-build-with-ai-tpu-learning-club-week-1-why-tpu-cpu-vs-gpu-vs-tpu/) |
+| Liquid Galaxy general MEET | 2026-12-19 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-liquid-galaxy-general-meet/) |
 | #136-th Event ✨ Built with AI & Cloud Workshop | 2026-12-20 | Sarajevo, Bosnia and Herzegovina | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-sarajevo-presents-136-th-event-built-with-ai-amp-cloud-workshop/) |
 | Christmas Party - Secret Santa | 2026-12-23 | Saint-Vincent, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-valle-daosta-presents-christmas-party-secret-santa/) |
 | Christmas Party 2026 | 2026-12-23 | Saint-Vincent, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-valle-daosta-presents-christmas-party-2026/) |
@@ -1062,6 +1064,7 @@ Developer conferences, summits and community events across Europe. [Back to the 
 | GeeCon Kraków | 2027-04-13 to 2027-04-14 | Krakow | [↗](https://dev.events/conferences/gee-con-krakow-trlkebcm) |
 | Open Community Experience | 2027-04-13 to 2027-04-15 | Brussels | [↗](https://dev.events/conferences/open-community-experience-8epmj-ck) |
 | DMEA 2027 | 2027-04-13 to 2027-04-15 | Munich, Germany | [↗](https://www.dmea.de/en/) |
+| TrustSecAI 2027 | 2027-04-13 to 2027-04-15 | Delft (Netherlands) | [↗](https://cs-conferences.acadiau.ca/ant-27/) |
 | Devopsdays Zurich | 2027-04-14 to 2027-04-15 | Zurich (Germany) | [↗](https://devopsdays.org/events/2027-zurich) |
 | MODERN ENDPOINT MANAGEMENT EMEA SUMMIT 2027 | 2027-04-14 to 2027-04-16 | Paris (France) | [↗](https://www.endpointsummit.com) |
 | DevOpsDays Zurich 2027 | 2027-04-14 to 2027-04-15 | Winterthur (Switzerland) | [↗](https://www.devopsdays.ch) |
@@ -1210,6 +1213,7 @@ Developer conferences, summits and community events across Europe. [Back to the 
 | The Things Conference 2027 | 2027-09-28 to 2027-09-29 | Amsterdam | [↗](https://dev.events/conferences/the-things-conference-2027-z-kcs5km) |
 | BASTA! Fall 2027 | 2027-09-28 to 2027-10-01 | Mainz | [↗](https://dev.events/conferences/basta-fall-2027-i4q5xbf3) |
 | Big Data & AI Paris | 2027-09-29 to 2027-09-30 | Paris, France | [↗](https://myconnectivity.lu/en/event/big-data-ai-paris/) |
+| AWS Community Summit 2027 | 2027-09-30 | Manchester (UK) | [↗](https://www.comsum.co.uk) |
 | GOTO Copenhagen 2027 | 2027-10-04 to 2027-10-08 | Copenhagen | [↗](https://dev.events/conferences/goto-copenhagen-2027-lrazg9z6) |
 | FinNext Conference London 2027 | 2027-10-13 | London | [↗](https://dev.events/conferences/fin-next-conference-london-2027-onukk5wi) |
 | EuroRust 2027 | 2027-10-13 to 2027-10-16 | Prague | [↗](https://dev.events/conferences/euro-rust-2027-vhq7b-wt) |
@@ -1220,6 +1224,71 @@ Developer conferences, summits and community events across Europe. [Back to the 
 | International JavaScript Conference Munich | 2027-11-08 to 2027-11-12 | Munich | [↗](https://dev.events/conferences/international-java-script-conference-munich-ztj8s4fl) |
 | Space Tech Expo Europe | 2027-11-30 to 2027-12-02 | Bremen, Germany | [↗](https://myconnectivity.lu/en/event/space-tech-expo-europe/) |
 | KubeCon + CloudNativeCon Europe 2028 | 2028-04-24 | Berlin (Germany) | [↗](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe-2028/) |
+| DDC .NET Developer Conference | 2026-11-23 to 2026-11-26 | Köln (Germany) | [↗](https://www.developer-world.de/ddc) |
+| API Conference Berlin | 2026-11-23 to 2026-11-27 | Berlin (Germany) | [↗](https://apiconference.net/berlin) |
+| MLCon Berlin 2026 | 2026-11-23 to 2026-11-27 | Berlin (Germany) | [↗](https://mlconference.ai/berlin/) |
+| DSC Europe (Data Science Conference) 2026 | 2026-11-23 to 2026-11-27 | Belgrade, Serbia | [↗](https://datasciconference.com/) |
+| Introducción a la Ciberseguridad: Primeros Pasos y Vulnerabilidades Básicas | 2026-11-23 | Jaen, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-jaen-presents-introduccion-a-la-ciberseguridad-primeros-pasos-y-vulnerabilidades-basicas/) |
+| Table ronde HEC Alumni · La fidélisation client | 2026-11-23 | Paris, FR | [↗](https://lu.ma/z2tdayn1) |
+| Christmas Day with Miss Dior | 2026-11-23 | Paris, FR | [↗](https://lu.ma/1ox80nwo) |
+| Afterwork innovation publique - FP21 | 2026-11-23 | Paris, FR | [↗](https://lu.ma/l3jppl63) |
+| Soirée membres fondateurs | 2026-11-23 | Paris, FR | [↗](https://lu.ma/e86f7oiq) |
+| FinOps for ML and GenAI on Google Cloud: Cost per Task, Not Cost per Token | 2026-11-23 | Thessaloniki, Greece | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-thessaloniki-presents-finops-for-ml-and-genai-on-google-cloud-cost-per-task-not-cost-per-token/) |
+| Dîner Machine, #9: La peur (AI Safety) | 2026-11-23 | Paris, FR | [↗](https://lu.ma/tf7j0cts) |
+| Last commit of the year | 2026-11-23 | Palermo, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-palermo-presents-last-commit-of-the-year/) |
+| IVY & GAULT EXHIBITION 2026 | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/o25wwi9h) |
+| Mein Türkranz – Workshop | 2026-11-23 | Berlin | [↗](https://lu.ma/1yz6hl3a) |
+| Legal, Sorted: Legal Starterpack for Founders | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/u4qnhhpd) |
+| UNCONFERENCE: Engineering AI Together #12 | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/unconference_12) |
+| LSE Generate x BCG X: The Hard Part of AI Deployment Isn’t AI | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/uamketgz) |
+| Slow Poke Run Club: Monday Run | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/3btzksd4) |
+| Conscious Clubbing Workshop at CLINKER | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/ofr0w31k) |
+| Saddle Up XXI | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/wwjx8jyw) |
+| Sing Along Run - Christmas Edition | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/7fakgv7n) |
+| Longevity Lounge: Smart Fitness for Longevity⚕️ 🏋️‍♂️ | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/kbcqtxv1) |
+| GAIIF Paris 2026 \| Global AI Forum | 2026-11-23 | Paris, FR | [↗](https://lu.ma/h23gk34z) |
+| Rituel De Pleine Lune- Yoga Nidra & Écriture | 2026-11-23 | Paris, FR | [↗](https://lu.ma/ncfei3ld) |
+| Deep Tech Founder & Investor Breakfast vol.2 | 2026-11-23 | London, GB | [↗](https://lu.ma/z2xqfy9u) |
+| PauseAI Conference in Parliament | 2026-11-23 | London, GB | [↗](https://lu.ma/pauseai-conf-nov26) |
+| Daytona Builder Brunch - London, November 2026 | 2026-11-23 | London, GB | [↗](https://lu.ma/usecorgi-fujf) |
+| Angels Den DDQ Hot Room \| DeepTech | 2026-11-23 | London, GB | [↗](https://lu.ma/v5jwlw5g) |
+| Ubuntu: I Am Because We Are – Investing in Community, Power and Possibility | 2026-11-23 | London, GB | [↗](https://lu.ma/yu6rho5t) |
+| i help busy business owners learn ai -- live in london. | 2026-11-23 | London, GB | [↗](https://lu.ma/xma67ed8) |
+| From Real Assets to Digital Tokens: RWA Tokenisation | 2026-11-23 | London, GB | [↗](https://lu.ma/r5kqfaz0) |
+| Emerging Tech Investors Forum | 2026-11-23 | London, GB | [↗](https://lu.ma/0sakeyh9) |
+| Founders Meetup London - November 2026 | 2026-11-23 | London, GB | [↗](https://lu.ma/fy0ivv5a) |
+| 9 Simple Secrets Of Persuasion And Influence | 2026-11-23 | London, GB | [↗](https://lu.ma/tywzaajh) |
+| A Wild Horse Returns: Linda In London Hotpot Karaoke! 🫦 | 2026-11-23 | London, GB | [↗](https://lu.ma/pqach3pz) |
+| Entrepreneurship in the Age of AI | 2026-11-23 | London, GB | [↗](https://lu.ma/x1d407u8) |
+| Fireside Chat with Siliconversations | 2026-11-23 | London, GB | [↗](https://lu.ma/siliconversations) |
+| From sequence to insight: Exploring Bioinformatics | 2026-11-23 | London, GB | [↗](https://lu.ma/vj64kdrd) |
+| Institute of Regeneration / The First Seed “Drinks & Thinks” with the Global CSO of Mars Snacking | 2026-11-23 | London, GB | [↗](https://lu.ma/865bkhwb) |
+| November AI Workshop | 2026-11-23 | London, GB | [↗](https://lu.ma/occfjntp) |
+| Scaling US Retail: An Evening with the Experts and Brands Who’ve Done It. | 2026-11-23 | London, GB | [↗](https://lu.ma/uuq9fzzn) |
+| shipped #3 - London's FDE Meetup | 2026-11-23 | London, GB | [↗](https://lu.ma/sf3glv38) |
+| The Art of Mutual Flourishing - Private Dinner by Unity4Impact (London) | 2026-11-23 | London, GB | [↗](https://lu.ma/wi1vaerf) |
+| Weighting for Godot | 2026-11-23 | London, GB | [↗](https://lu.ma/9pbmrbr9) |
+| Winter Drinks Reception | 2026-11-23 | London, GB | [↗](https://lu.ma/dpi3zd43) |
+| Atlas Book Club: An Evening in Lebanon -The True True Story of Raja the Gullible by Rabih Alameddine | 2026-11-23 | London, GB | [↗](https://lu.ma/6s8ml9rf) |
+| Offland : Create Your Own Cardholder | 2026-11-23 | London, GB | [↗](https://lu.ma/uvkbda60) |
+| Pixis x FMCG Guys: Agentic in Marketing Dinner | 2026-11-23 | London, GB | [↗](https://lu.ma/jyudfvwp) |
+| Product Designer Gym 🏋️ - Generative UI Experiment! | 2026-11-23 | London, GB | [↗](https://lu.ma/0k8ntwqq) |
+| Urban Climate Innovation Network - November Social | 2026-11-23 | London, GB | [↗](https://lu.ma/a6kll196) |
+| Women’s Winter Social | 2026-11-23 | London, GB | [↗](https://lu.ma/5h9lnc2o) |
+| Dine with Fuel Ventures: from pre-seed to Series A | 2026-11-23 | London, GB | [↗](https://lu.ma/tablec-vvq7) |
+| Babes in London: Ice, Sauna & Recovery for Ambitious Babes | 2026-11-23 | London, GB | [↗](https://lu.ma/2wp32cf4) |
+| The Lady Gaga Pub Quiz with Seb Darke | 2026-11-23 | London, GB | [↗](https://lu.ma/pmcxckar) |
+| Law for Entrepreneurs – with Prof. Dr. Stephan R. Göthel | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/tg25oxx2) |
+| Agent Harnesses Explained: How AI Employees Really Work | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/c7qll9z3) |
+| Tylko Pop-up Store Opening in Paris | 2026-11-23 | Paris, FR | [↗](https://lu.ma/fhnogye7) |
+| BRISA Reading Group 07 - Estimate, Don't Imitate: Reusing Differentiable State-Based Policies for Visuomotor Control | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/zf7m6y1c) |
+| P'tit déj' SPEED CALLING Patronne Club x JAB | 2026-11-23 | Paris, FR | [↗](https://lu.ma/632cgrd4) |
+| Special Guest : Laurent Lefebvre, CEO & cofondateur de HelloCSE (143 M€ de CA, 100% bootstrap) @BuildersFactory | 2026-11-23 | Paris, FR | [↗](https://lu.ma/6omuk40e) |
+| Women In Entrepreneurship | 2026-11-23 | London, GB | [↗](https://lu.ma/ou4pjj5b) |
+| Tijana Jevtić - Veče ultramoderne poezije | 2026-11-23 | Paris, FR | [↗](https://lu.ma/ykpsbvqu) |
+| Source the Area x Intisar Abdul - Kader | 2026-11-23 | London, GB | [↗](https://lu.ma/eya6jesc) |
+| Mama Baby Yoga, Postnatales Yoga mit/ohne Baby 0+ mit Cornelia | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/ne1fudz8) |
+| Berlin-Asia Startup Night | 2026-11-23 | Berlin, DE | [↗](https://lu.ma/cg4ux5kt) |
 | RUN CLUB SPECIAL BAINS CHAUDS/ FROIDS - 22/11 @La Montgolfière 18ème | 2026-11-22 | Paris, FR | [↗](https://lu.ma/xkhaqsy7) |
 | Build your side hustle Hackathon | 2026-11-22 | Paris, FR | [↗](https://lu.ma/dc3ynvnx) |
 | 📚 Offline Reading Party \| La Dame aux plantes \| TOC x Verso \| 🍃 La Maison du Jardinage et du Compostage \| Paris 12e arr. | 2026-11-22 | Paris, FR | [↗](https://lu.ma/n6plshk0) |
@@ -2069,94 +2138,11 @@ Developer conferences, summits and community events across Europe. [Back to the 
 | Gartner IT Infrastructure, Operations & Cloud Strategies | 2026-11-16 to 2026-11-17 | London | [↗](https://dev.events/conferences/gartner-it-infrastructure-operations-and-cloud-strategies-arnsh3u6) |
 | VibeKode Berlin 2026 | 2026-11-16 to 2026-11-20 | Berlin | [↗](https://dev.events/conferences/vibe-kode-berlin-2026-39ptxama) |
 | Software Architecture Gathering | 2026-11-16 to 2026-11-19 | Berlin (Germany) | [↗](https://www.software-architecture-gathering.com) |
-| The Leading International Conference for Software Architecture | 2026-11-16 | Berlin, Germany | [↗](https://conferences.isaqb.org/software-architecture-gathering/) |
 | EdTech Conference | 2026-11-16 to 2026-11-17 | London | [↗](https://dev.events/conferences/ed-tech-conference-dhq480b3) |
-| HalfStack Vienna | 2026-11-16 | Vienna (Austria) | [↗](https://halfstackconf.com/vienna) |
 | European Cyber Week 2026 | 2026-11-16 to 2026-11-19 | Rennes, France | [↗](https://www.european-cyber-week.eu/) |
 | ML Conference Berlin 2026 | 2026-11-16 to 2026-11-20 | Berlin, Germany | [↗](https://mlconference.ai/) |
-| Forward Data Conference 2026 | 2026-11-16 | Paris, France | [↗](https://forwarddataconf.com/) |
-| GenAI Summit Athens 2026 | 2026-11-16 | Athens, Greece | [↗](https://www.genaisummitseeurope.com/) |
-| Building AI apps from scratch with the Google ecosystem | 2026-11-16 | London, United Kingdom | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-college-london-london-united-kingdom-presents-building-ai-apps-from-scratch-with-the-google-ecosystem/) |
 | Budapest BI & Analytics Forum 2026 | 2026-11-16 to 2026-11-18 | Budapest (Hungary) | [↗](https://budapestbi.hu) |
 | Softwarearchitektur für KI-Systeme | 2026-11-16 to 2026-11-18 | Berlin | [↗](https://dev.events/conferences/softwarearchitektur-fuer-ki-systeme-ls2jz8si) |
-| Paris Tech Forum | 2026-11-16 | Paris, FR | [↗](https://lu.ma/actonline-ys4o) |
-| Retour d’expérience : Mise en production de pipelines IA | 2026-11-16 | Paris, FR | [↗](https://lu.ma/retour-dexperience-mise-en-production-de-pipelines) |
-| DevDogs × GDGC UGA │ DevDogs Demo Day | 2026-11-16 | Athens, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-georgia-athens-united-states-presents-devdogs-x-gdgc-uga-devdogs-demo-day/) |
-| Afterwork privé CMO : Co-créez votre stratégie marketing 2027 entre pairs | 2026-11-16 | Paris, FR | [↗](https://lu.ma/uhieiniz) |
-| Dîner Machine, #8: Invité spécial (AI Safety) | 2026-11-16 | Paris, FR | [↗](https://lu.ma/11lm2440) |
-| GTM Week Berlin \| Founders & Talent Matching | 2026-11-16 | Berlin, DE | [↗](https://lu.ma/gtm-obcx) |
-| What's on youHR plate? When the CV doesn’t match the kitchen | 2026-11-16 | Berlin, DE | [↗](https://lu.ma/twzgwdyc) |
-| Gæmz #86 in Berlin | 2026-11-16 | Berlin, DE | [↗](https://lu.ma/lwyvwitc) |
-| Petite Mendigote - Book club | 2026-11-16 | Paris, FR | [↗](https://lu.ma/t2d6yvjm) |
-| AI Safety Action Day (EAGx satellite event) | 2026-11-16 | Berlin, DE | [↗](https://lu.ma/agl8cvrs) |
-| GTM Week Berlin \| Strategic Roundtables: How to build valuable companies? | 2026-11-16 | Berlin, DE | [↗](https://lu.ma/gtm-k1yh) |
-| 🔵 Focus Warriors Circle - ADHD Peer Support | 2026-11-16 | Berlin, DE | [↗](https://lu.ma/2ma5j9c0) |
-| GTM Week Berlin \| VIP Welcome Dinner | 2026-11-16 | Berlin, DE | [↗](https://lu.ma/gtm-b4y9) |
-| GTM Week Berlin Opening: The Rise of the GTM Era | 2026-11-16 | Berlin, DE | [↗](https://lu.ma/gtm-mm6d) |
-| 5v5 casual football (Indoor) [U Schlesisches Tor] | 2026-11-16 | Berlin, DE | [↗](https://lu.ma/wh4ppxr4) |
-| Meet the Machines | 2026-11-16 | Berlin, DE | [↗](https://lu.ma/aq3hy0xn) |
-| AI Enthusiasts - Tech: Reverse Engineer Everything!! | 2026-11-16 | Berlin, DE | [↗](https://lu.ma/zx33p447) |
-| Discoverability in LLMs x Axis live demo | 2026-11-16 | London, GB | [↗](https://lu.ma/v78qi01c) |
-| Pre-Market Trading Hours | 2026-11-16 | London, GB | [↗](https://lu.ma/pikjo6l0) |
-| AI That Works for People and Planet \| RAIDO × UCL UNESCO Chair | 2026-11-16 | London, GB | [↗](https://lu.ma/jbwswfzj) |
-| Breakpoint Coffee for DeFi Builders & Traders | 2026-11-16 | London, GB | [↗](https://lu.ma/a6xuo4c1) |
-| Colosseum Builder Zone | 2026-11-16 | London, GB | [↗](https://lu.ma/colosseum-2xiq) |
-| The Rekt Championship 5-A-Side Football: Breakpoint 2026, Powered by OpenSea | 2026-11-16 | London, GB | [↗](https://lu.ma/q5teo4oa) |
-| You Can Alway's Sit With Us | 2026-11-16 | London, GB | [↗](https://lu.ma/a54bspvr) |
-| Zebu Live Arms: A Great British Pub Takeover, presented by AlphaWire | 2026-11-16 | London, GB | [↗](https://lu.ma/jzlkn59s) |
-| SWC \| Debanking Roundtable at Zebu Live Arms | 2026-11-16 | London, GB | [↗](https://lu.ma/ejadxw59) |
-| FWDI Breakpoint Happy Hour | 2026-11-16 | London, GB | [↗](https://lu.ma/ti7vdsai) |
-| Whitepaper Reading Club - After Alpenglow | 2026-11-16 | London, GB | [↗](https://lu.ma/wprc-breakpoint26) |
-| GGC: GMGN Global Championship - London Finals \| Breakpoint 2026 | 2026-11-16 | London, GB | [↗](https://lu.ma/39ckiuiy) |
-| The RWA Pub at Breakpoint | 2026-11-16 | London, GB | [↗](https://lu.ma/a9yvvi96) |
-| Bullseye with Multicoin Capital | 2026-11-16 | London, GB | [↗](https://lu.ma/4m0ksi3i) |
-| CAD & Cure: 3D Design & Silicone Molding Workshop | 2026-11-16 | London, GB | [↗](https://lu.ma/6im7wujt) |
-| Licence to Spend: an evening with Altitude and Rain | 2026-11-16 | London, GB | [↗](https://lu.ma/altitude-rain-BP26) |
-| Meet Your Match w/ CoW Swap @ Solana Breakpoint | 2026-11-16 | London, GB | [↗](https://lu.ma/mkvzcqey) |
-| Solana Breakpoint Security Drinks - by Fidesium | 2026-11-16 | London, GB | [↗](https://lu.ma/lajgsnqb) |
-| Sports Meets Solana: The Future of Sports is On-chain ⚽ | 2026-11-16 | London, GB | [↗](https://lu.ma/1hdsvfdv) |
-| AI & Financial Modelling: A Learning Clinic with Forvis Mazars | 2026-11-16 | London, GB | [↗](https://lu.ma/1k4e5s8a) |
-| Fenwick Presents: A Proper London Knees-Up | 2026-11-16 | London, GB | [↗](https://lu.ma/2hjd7dhn) |
-| London After Hours I The Breakpoint Debrief by GSR x Arkham | 2026-11-16 | London, GB | [↗](https://lu.ma/gsrcrypto-jmyt) |
-| The Next 250 Years | 2026-11-16 | London, GB | [↗](https://lu.ma/dabkl78o) |
-| IE x FOMO: Journey To $550M In One Year | 2026-11-16 | London, GB | [↗](https://lu.ma/cd5pmm1z) |
-| Biology After AI | 2026-11-16 | London, GB | [↗](https://lu.ma/czq8eapu) |
-| Bullet & Pudgy Penguins VIP Dinner in London Town | 2026-11-16 | London, GB | [↗](https://lu.ma/PudgyxBulletLondonVipDinner) |
-| Climate Intelligence Forum (Chapter 2) | 2026-11-16 | London, GB | [↗](https://lu.ma/f7nos6nj) |
-| Fog & Fortune | 2026-11-16 | London, GB | [↗](https://lu.ma/fog_and_fortune) |
-| House of Sol: Breakpoint | 2026-11-16 | London, GB | [↗](https://lu.ma/hos-breakpoint) |
-| LONDON CALLING 🇬🇧 | 2026-11-16 | London, GB | [↗](https://lu.ma/cbiabn4m) |
-| Love Thy Neighbour | 2026-11-16 | London, GB | [↗](https://lu.ma/ssaztt4a) |
-| Open Studio \| Arcadis | 2026-11-16 | London, GB | [↗](https://lu.ma/arcadis-3) |
-| Skill, Luck, and Impact: Data Analysis in Football | 2026-11-16 | London, GB | [↗](https://lu.ma/i5wj5jwt) |
-| SOL Calling: Solana Breakpoint Happy Hour | 2026-11-16 | London, GB | [↗](https://lu.ma/gpxfy249) |
-| Alchemy VIP Dinner: Solana Breakpoint | 2026-11-16 | London, GB | [↗](https://lu.ma/3ob6fi72) |
-| Breakpoint: Day Two Afterparty | 2026-11-16 | London, GB | [↗](https://lu.ma/6sdoouxp) |
-| Building the Next AI-Powered BeSci Unicorn | 2026-11-16 | London, GB | [↗](https://lu.ma/encode-t73d) |
-| ConservaTech Launch Reception | 2026-11-16 | London, GB | [↗](https://lu.ma/tk2zywws) |
-| Offland: Belt-Making | 2026-11-16 | London, GB | [↗](https://lu.ma/93hxc0v4) |
-| REVISION After Hours | 2026-11-16 | London, GB | [↗](https://lu.ma/8ypznoaj) |
-| Ship Your Website Tonight London - King’s MedTech × Living Room Labs x Lovable | 2026-11-16 | London, GB | [↗](https://lu.ma/epaq3sol) |
-| The Everything Code: Decoded with Raoul Pal 🇬🇧 | 2026-11-16 | London, GB | [↗](https://lu.ma/y3s7ibya) |
-| Wellbeing Week: Who has your power? with Lynda Dennis (IRL) | 2026-11-16 | London, GB | [↗](https://lu.ma/ktvk7bve) |
-| Beyond Business: An Exclusive Dinner in Mayfair | 2026-11-16 | London, GB | [↗](https://lu.ma/snrmcp50) |
-| Campaign Lab Autumn Hack Night! | 2026-11-16 | London, GB | [↗](https://lu.ma/4k86xhn4) |
-| Forward Industries - Breakpoint Dinner | 2026-11-16 | London, GB | [↗](https://lu.ma/cnswgn30) |
-| Pr1me [London Series] - Exclusive Dinner for Web3 Finance | 2026-11-16 | London, GB | [↗](https://lu.ma/aqntywn2) |
-| The Eve (before RR26) | 2026-11-16 | London, GB | [↗](https://lu.ma/knfq6b04) |
-| BEYOND THE FRAME: An Immersive Art Activation by Render Network x Solana | 2026-11-16 | London, GB | [↗](https://lu.ma/frzpha3k) |
-| Union Social w/ Fomo | 2026-11-16 | London, GB | [↗](https://lu.ma/7hlai4j6) |
-| Breakpoint Executive Mixer w/ Halborn & MERGE 🍸 | 2026-11-16 | London, GB | [↗](https://lu.ma/breakpointmixer) |
-| BING BONG AFTER DARK BREAKPOINT powered by PHANTOM | 2026-11-16 | London, GB | [↗](https://lu.ma/ketcj6z6) |
-| BRISA Reading Group 06 - Long-WAM: Scaling the Context of World-Action Models | 2026-11-16 | Berlin, DE | [↗](https://lu.ma/cjgopolx) |
-| FlexUp Startup Networking Workshop #45, Station F (Boardroom OpenAI), Paris • Monday 16th November 2026, 6pm (CET) | 2026-11-16 | Paris, FR | [↗](https://lu.ma/q1yd805m) |
-| IRL x CADD Presents: Maple Fizz Happy Hour at Breakpoint | 2026-11-16 | London, GB | [↗](https://lu.ma/9muwnvia) |
-| Update x Julien Honnart | 2026-11-16 | Paris, FR | [↗](https://lu.ma/7pbd2d2n) |
-| 100 FREE TICKETS \| London AI Networking Event \| Fintech, Digital & Tech Innovation Meetup | 2026-11-16 | London, GB | [↗](https://lu.ma/vztkf248) |
-| Own Pace Monday #58 - Map My Pizza Run with zia maria | 2026-11-16 | Berlin, DE | [↗](https://lu.ma/1ktcbv50) |
-| Proof of Coffee: Accuracy, Auditing & Accounting | 2026-11-16 | London, GB | [↗](https://lu.ma/89bsaskb) |
-| The Maps Pub Quiz with Rhoni Cash | 2026-11-16 | London, GB | [↗](https://lu.ma/tgauxqnl) |
-| Musikkurs für 1,5 bis 4-jährige Kinder bei ENNA | 2026-11-16 | Berlin, DE | [↗](https://lu.ma/b9bybgun) |
 | Cloud Native Amsterdam | 2026-09-17 to 2026-11-18 | Amsterdam | [↗](https://dev.events/conferences/cloud-native-amsterdam-7ll5p-sn) |
 | OWASP Chapter Frankfurt | 2026-07-01 to 2026-11-25 | Frankfurt am Main, Germany | [↗](https://owasp.org/www-chapter-frankfurt/) |
 | meshcloud Con'26 | TBA | Frankfurt, Germany | [↗](https://con26.meshcloud.io/ ) |
