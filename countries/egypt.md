@@ -4,12 +4,12 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Launch into Embedded Systems | 2026-11-24 | Charlottesville, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-arab-academy-for-science-technology-and-maritime-transport-cairo-egypt-presents-launch-into-embedded-systems-2026-11-24/) |
-| AI Assistants for Everyday Work Workshop | 2026-11-24 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-canadian-international-college-cairo-egypt-presents-ai-assistants-for-everyday-work-workshop/) |
-| Session2: IP & Subnetting | 2026-11-24 | Zagazig, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-zagazig-university-zagazig-egypt-presents-session2-ip-amp-subnetting/) |
 | Introduction to Flutter: Building Your First App (Session 1) | 2026-11-25 | Zagazig, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-zagazig-university-zagazig-egypt-presents-introduction-to-flutter-building-your-first-app-session-1/) |
 | Introduction to Hardware | 2026-11-25 | Zagazig, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-zagazig-university-zagazig-egypt-presents-introduction-to-hardware/) |
+| Data Analysis Session 4 : Kickstart Your SQL Journey: Mastering Basics | 2026-11-25 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-data-analysis-session-4-kickstart-your-sql-journey-mastering-basics/) |
+| Frontend Session 4 : Mastering CSS: Display, Positioning & Flexbox | 2026-11-26 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-frontend-session-4-mastering-css-display-positioning-amp-flexbox-2026-11-26/) |
 | Local Storage & Firebase Intro | 2026-11-27 | Giza, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-october-6-university-giza-egypt-presents-local-storage-amp-firebase-intro/) |
+| AI Automation Session 3 : Unplugged: Master Functions & Files Part 2 | 2026-11-27 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-ai-automation-session-3-unplugged-master-functions-amp-files-part-2-2026-11-27/) |
 | GDG Benha DevFest 2026 | 2026-11-28 | Banha, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-benha-presents-gdg-benha-devfest-2026/) |
 | Architecture, Publishing & Demo | 2026-12-04 | Giza, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-october-6-university-giza-egypt-presents-architecture-publishing-amp-demo/) |
 | DevFest Online Evening: Multimodal RAG with Gemini API | 2026-12-04 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-egypt-presents-devfest-online-evening-multimodal-rag-with-gemini-api/) |

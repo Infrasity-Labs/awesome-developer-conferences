@@ -1,13 +1,9 @@
 # Developer Events in Brazil
 
-42 upcoming events. [Back to the full directory](../README.md)
+38 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Explorando HTTPs e a Revolução da IA Agêntica | 2026-11-24 | Barueri, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-barueri-presents-explorando-https-e-a-revolucao-da-ia-agentica/) |
-| Cloud Lab BH #1 | 2026-11-24 | Belo Horizonte, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-belo-horizonte-presents-cloud-lab-bh-1/) |
-| Elefantes Projetam, Peixes-Dourados Revisam: Desenvolvimento Agêntico sem Bagunçar o Repositório | 2026-11-24 | Porto Alegre, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-elefantes-projetam-peixes-dourados-revisam-desenvolvimento-agentico-sem-baguncar-o-repositorio/) |
-| Workshop Prático: Construindo Aplicações Web com Event Sourcing | 2026-11-24 | Uberlandia, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-uberlandia-presents-workshop-pratico-construindo-aplicacoes-web-com-event-sourcing/) |
 | Esquenta DevFest Cerrado 2026 | 2026-11-25 | Goiania, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-goiania-presents-esquenta-devfest-cerrado-2026/) |
 | French Tech São Paulo Summit | 2026-11-25 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/french-tech-são-paulo-summit/4700031097072307) |
 | Quarta na AI House #64 · A inauguração continua | 2026-11-25 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/quarta-na-ai-house-64-·-a-inauguração-continua/4700031097076554) |

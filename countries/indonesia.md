@@ -4,7 +4,6 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| StudyJam #2 - Product Management #ProductSeries \| User & Market Insight (Discovery + Market Research) | 2026-11-24 | Malang, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-brawijaya-malang-indonesia-presents-studyjam-2-product-management-productseries-user-amp-market-insight-discovery-market-research/) |
 | StudyJam #2 - Web Development #TechSeries \| Golang Fundamentals & First API | 2026-11-25 | Malang, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-brawijaya-malang-indonesia-presents-studyjam-2-web-development-techseries-golang-fundamentals-amp-first-api/) |
 | DevFest Live Indonesia 2026 - Ep. 1 \| Measure, Guide, Fix: Core Web Vitals with an AI Agent | 2026-11-25 | Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-live-indonesia-presents-devfest-live-indonesia-2026-ep-1-measure-guide-fix-core-web-vitals-with-an-ai-agent/) |
 | Weekly Class #2 Building Web Applications with AI: From Fundamentals to Case Study | 2026-11-25 | Depok, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-gunadarma-depok-indonesia-presents-weekly-class-2-building-web-applications-with-ai-from-fundamentals-to-case-study/) |
@@ -25,6 +24,7 @@
 | DevFest Live Indonesia 2026 x KodingDeepDive S3 - Ep. 2 \| Lab 1: Untrusted by Default | 2026-11-29 | Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-live-indonesia-presents-devfest-live-indonesia-2026-x-kodingdeepdive-s3-ep-2-lab-1-untrusted-by-default/) |
 | DevFest Depok 2026 | 2026-12-05 | Depok, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-depok-presents-devfest-depok-2026/) |
 | Study Jam AI Agentic Development: Accelerating Fullstack Web with Agentic AI | 2026-12-05 | Jakarta, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sekolah-tinggi-teknologi-terpadu-nurul-fikri-jakarta-indonesia-presents-study-jam-ai-agentic-development-accelerating-fullstack-web-with-agentic-ai/) |
+| NGABUILD: Ngobrol, Ngulik, Build Something | 2026-12-05 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-bandung-presents-ngabuild-ngobrol-ngulik-build-something-1/) |
 | DevFest Cloud Jakarta 2026 | 2026-12-12 | Jakarta (Indonesia) | [↗](https://app.advocu.com/events/6ab9dae89716fe1c1a4d2074) |
 | DevFest 2026 Surabaya : Build Secure and Scalable Agent | 2026-12-12 | Surabaya, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-surabaya-presents-devfest-2026-surabaya-build-secure-and-scalable-agent/) |
 | DevFest 2026 Semarang | 2026-12-12 | Semarang, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-semarang-presents-devfest-2026-semarang/) |

@@ -4,7 +4,7 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Plovdiv TechHack #1 | 2026-11-24 | Plovdiv, Bulgaria | [↗](https://gdg.community.dev/events/details/google-gdg-plovdiv-presents-plovdiv-techhack-1/) |
+| Plovdiv TechHack #1 | 2026-12-01 | Plovdiv, Bulgaria | [↗](https://gdg.community.dev/events/details/google-gdg-plovdiv-presents-plovdiv-techhack-1/) |
 | .NET Conf 2026 Bulgaria | 2026-12-10 | Sofia | [↗](https://dev.events/conferences/net-conf-2026-bulgaria-1gnguv0l) |
 | .NET Conf 2026 | 2026-12-10 | Sofia (Bulgaria) | [↗](https://dotNetConf2026.eventbrite.com) |
 | Global AI Nights Sofia | 2026-12-15 | Sofia | [↗](https://globalai.community/e/3bpbrt9d) |

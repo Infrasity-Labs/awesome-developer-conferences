@@ -34,13 +34,13 @@ Every event sits in one list per region, soonest first. Events drop off a week a
 
 | Region | Upcoming | New | |
 |:--|--:|--:|:--|
-| [Africa](events/africa.md) | **124** | +16 | <picture>   <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/bars/africa-dark.svg">   <img alt="124 events" src="./.github/assets/bars/africa-light.svg"> </picture> |
-| [Asia](events/asia.md) | **737** | +73 | <picture>   <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/bars/asia-dark.svg">   <img alt="737 events" src="./.github/assets/bars/asia-light.svg"> </picture> |
-| [Australia](events/australia.md) | **133** | +13 | <picture>   <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/bars/australia-dark.svg">   <img alt="133 events" src="./.github/assets/bars/australia-light.svg"> </picture> |
-| [Europe](events/europe.md) | **1,224** | +69 | <picture>   <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/bars/europe-dark.svg">   <img alt="1224 events" src="./.github/assets/bars/europe-light.svg"> </picture> |
-| [North America](events/north-america.md) | **905** | +74 | <picture>   <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/bars/north-america-dark.svg">   <img alt="905 events" src="./.github/assets/bars/north-america-light.svg"> </picture> |
-| [South America](events/south-america.md) | **73** | +2 | <picture>   <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/bars/south-america-dark.svg">   <img alt="73 events" src="./.github/assets/bars/south-america-light.svg"> </picture> |
-| [Virtual/Online](events/virtual-online.md) | **1,295** | +78 | <picture>   <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/bars/virtual-online-dark.svg">   <img alt="1295 events" src="./.github/assets/bars/virtual-online-light.svg"> </picture> |
+| [Africa](events/africa.md) | **123** | +10 | <picture>   <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/bars/africa-dark.svg">   <img alt="123 events" src="./.github/assets/bars/africa-light.svg"> </picture> |
+| [Asia](events/asia.md) | **742** | +48 | <picture>   <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/bars/asia-dark.svg">   <img alt="742 events" src="./.github/assets/bars/asia-light.svg"> </picture> |
+| [Australia](events/australia.md) | **136** | +9 | <picture>   <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/bars/australia-dark.svg">   <img alt="136 events" src="./.github/assets/bars/australia-light.svg"> </picture> |
+| [Europe](events/europe.md) | **1,217** | +143 | <picture>   <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/bars/europe-dark.svg">   <img alt="1217 events" src="./.github/assets/bars/europe-light.svg"> </picture> |
+| [North America](events/north-america.md) | **929** | +95 | <picture>   <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/bars/north-america-dark.svg">   <img alt="929 events" src="./.github/assets/bars/north-america-light.svg"> </picture> |
+| [South America](events/south-america.md) | **72** | +4 | <picture>   <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/bars/south-america-dark.svg">   <img alt="72 events" src="./.github/assets/bars/south-america-light.svg"> </picture> |
+| [Virtual/Online](events/virtual-online.md) | **1,280** | +62 | <picture>   <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/bars/virtual-online-dark.svg">   <img alt="1280 events" src="./.github/assets/bars/virtual-online-light.svg"> </picture> |
 
 <sub>Bars share one scale. The darker part of each bar is events added in the last run.</sub>
 
@@ -50,16 +50,16 @@ The next in-person conferences by start date. Community meetups from Meetup, Lum
 
 | Conference | Date | Location | |
 |:--|:--|:--|:-:|
-| **AI Summit Europe 2026** | 2026-11-24 to 2026-11-27 | Vilnius | [Register ↗](https://dev.events/conferences/ai-summit-europe-2026-dxbmujlg) |
-| **AI World Congress London 2026** | 2026-11-24 to 2026-11-25 | London | [Register ↗](https://dev.events/conferences/ai-world-congress-london-2026-1f401ilq) |
-| **AI at the Heart of Software Development** <img src="./.github/assets/new.svg" height="16" alt="new"> | 2026-11-24 | Munsbach, Luxembourg | [Register ↗](https://myconnectivity.lu/en/event/ai-at-the-heart-of-software-development/) |
-| **Big Data Conference Europe** | 2026-11-24 to 2026-11-27 | Vilnius | [Register ↗](https://dev.events/conferences/big-data-conference-europe-g2okbywt) |
-| **Civo Navigate India 2026** | 2026-11-24 | Bengaluru (India) | [Register ↗](https://www.civo.com/navigate/india/2026) |
-| **Manage Agile 2026** | 2026-11-24 to 2026-11-26 | Leipzig (Germany) | [Register ↗](https://www.manage-agile.de/) |
-| **NCA x Visionbites** | 2026-11-24 to 2026-11-25 | Munich | [Register ↗](https://dev.events/conferences/nca-x-visionbites-w42h4ngo) |
-| **WeAreDevelopers Conference 2026 – India** | 2026-11-24 to 2026-11-25 | Bengaluru, Karnataka | [Register ↗](https://www.wearedevelopers.com/world-congress) |
 | **AE Global Summit 2026: Open Problems for AI** | 2026-11-25 to 2026-11-27 | London | [Register ↗](https://dev.events/conferences/ae-global-summit-2026-open-problems-for-ai-yoykagij) |
 | **AI World Congress** | 2026-11-25 to 2026-11-26 | London (UK) | [Register ↗](https://aiconference.london) |
+| **Compute! Paris 2026** | 2026-11-25 to 2026-11-26 | Paris | [Register ↗](https://dev.events/conferences/compute-paris-2026-kym7lhlv) |
+| **Hacktitud Summit 2026** | 2026-11-25 | Mexico City | [Register ↗](https://dev.events/conferences/hacktitud-summit-2026-opxv3p4m) |
+| **ICCC 2026** | 2026-11-25 to 2026-11-27 | New Delhi | [Register ↗](https://dev.events/conferences/iccc-2026-7zaagmpq) |
+| **Investor Days 2026** | 2026-11-25 to 2026-11-26 | Milan, Italy | [Register ↗](https://www.b2match.com/e/investor-days-2026) |
+| **JavaDays Prague** | 2026-11-25 to 2026-11-26 | Prague | [Register ↗](https://dev.events/conferences/java-days-prague-utjc9dqr) |
+| **KISA Blockchain Promotion Week 2026** | 2026-11-25 | Seoul, South Korea | [Register ↗](https://onoffmix.com/event/351014) |
+| **KSUG.AI Australia #75 – Melbourne Meetup – 25 Nov 2026** | 2026-11-25 | Melbourne | [Register ↗](https://au.ksug.ai) |
+| **KSUG.AI Singapore #50 Meetup @IMDA** | 2026-11-25 | Singapore | [Register ↗](https://sg.ksug.ai) |
 
 ## Events at a glance
 
@@ -80,66 +80,66 @@ Jump straight to upcoming in-person events in a country. Each page is rebuilt ni
 
 | Country | Upcoming |
 |:--|--:|
-| [United States](countries/united-states.md) | 649 |
-| [Germany](countries/germany.md) | 311 |
-| [United Kingdom](countries/united-kingdom.md) | 302 |
-| [Singapore](countries/singapore.md) | 275 |
-| [Canada](countries/canada.md) | 267 |
-| [France](countries/france.md) | 267 |
-| [India](countries/india.md) | 238 |
-| [Australia](countries/australia.md) | 130 |
+| [United States](countries/united-states.md) | 668 |
+| [Germany](countries/germany.md) | 315 |
+| [United Kingdom](countries/united-kingdom.md) | 294 |
+| [Canada](countries/canada.md) | 273 |
+| [Singapore](countries/singapore.md) | 272 |
+| [France](countries/france.md) | 265 |
+| [India](countries/india.md) | 245 |
+| [Australia](countries/australia.md) | 133 |
 | [Spain](countries/spain.md) | 63 |
-| [Brazil](countries/brazil.md) | 42 |
 | [Netherlands](countries/netherlands.md) | 41 |
-| [Nigeria](countries/nigeria.md) | 36 |
+| [Brazil](countries/brazil.md) | 38 |
+| [Nigeria](countries/nigeria.md) | 37 |
 
 <details>
-<summary><b>Show 53 more countries</b></summary>
+<summary><b>Show 54 more countries</b></summary>
 
 | Country | Upcoming |
 |:--|--:|
-| [Italy](countries/italy.md) | 35 |
-| [Japan](countries/japan.md) | 33 |
-| [Kenya](countries/kenya.md) | 33 |
+| [Italy](countries/italy.md) | 36 |
+| [Japan](countries/japan.md) | 34 |
+| [Kenya](countries/kenya.md) | 28 |
 | [Indonesia](countries/indonesia.md) | 26 |
 | [Poland](countries/poland.md) | 23 |
 | [Egypt](countries/egypt.md) | 22 |
-| [South Korea](countries/south-korea.md) | 22 |
-| [Taiwan](countries/taiwan.md) | 18 |
-| [United Arab Emirates](countries/united-arab-emirates.md) | 16 |
+| [South Korea](countries/south-korea.md) | 18 |
+| [Taiwan](countries/taiwan.md) | 15 |
 | [Switzerland](countries/switzerland.md) | 14 |
+| [United Arab Emirates](countries/united-arab-emirates.md) | 14 |
 | [China](countries/china.md) | 11 |
 | [Philippines](countries/philippines.md) | 11 |
 | [Sweden](countries/sweden.md) | 11 |
-| [Portugal](countries/portugal.md) | 10 |
 | [Türkiye](countries/t-rkiye.md) | 10 |
+| [Portugal](countries/portugal.md) | 9 |
 | [Israel](countries/israel.md) | 8 |
 | [Mexico](countries/mexico.md) | 7 |
 | [South Africa](countries/south-africa.md) | 7 |
 | [Colombia](countries/colombia.md) | 5 |
-| [Argentina](countries/argentina.md) | 2 |
+| [Argentina](countries/argentina.md) | 1 |
+| [Vietnam](countries/vietnam.md) | 18 |
 | [Pakistan](countries/pakistan.md) | 15 |
 | [Belgium](countries/belgium.md) | 14 |
+| [Peru](countries/peru.md) | 11 |
 | [Cameroon](countries/cameroon.md) | 10 |
 | [Czechia](countries/czechia.md) | 10 |
-| [Vietnam](countries/vietnam.md) | 10 |
+| [Finland](countries/finland.md) | 10 |
 | [Austria](countries/austria.md) | 9 |
 | [Denmark](countries/denmark.md) | 9 |
-| [Finland](countries/finland.md) | 9 |
-| [Greece](countries/greece.md) | 9 |
 | [Hungary](countries/hungary.md) | 9 |
+| [Greece](countries/greece.md) | 8 |
+| [Morocco](countries/morocco.md) | 8 |
 | [Norway](countries/norway.md) | 8 |
-| [Peru](countries/peru.md) | 8 |
 | [Bulgaria](countries/bulgaria.md) | 7 |
 | [Latvia](countries/latvia.md) | 7 |
 | [Lithuania](countries/lithuania.md) | 7 |
 | [Malaysia](countries/malaysia.md) | 7 |
-| [Morocco](countries/morocco.md) | 7 |
-| [Jordan](countries/jordan.md) | 5 |
 | [Nepal](countries/nepal.md) | 5 |
 | [Saudi Arabia](countries/saudi-arabia.md) | 5 |
 | [Serbia](countries/serbia.md) | 5 |
-| [Tunisia](countries/tunisia.md) | 4 |
+| [Tunisia](countries/tunisia.md) | 5 |
+| [Jordan](countries/jordan.md) | 4 |
 | [Bangladesh](countries/bangladesh.md) | 3 |
 | [Estonia](countries/estonia.md) | 3 |
 | [Ireland](countries/ireland.md) | 3 |
@@ -148,6 +148,7 @@ Jump straight to upcoming in-person events in a country. Each page is rebuilt ni
 | [Qatar](countries/qatar.md) | 2 |
 | [Romania](countries/romania.md) | 2 |
 | [Rwanda](countries/rwanda.md) | 2 |
+| [Ghana](countries/ghana.md) | 1 |
 | [New Zealand](countries/new-zealand.md) | 1 |
 | [Senegal](countries/senegal.md) | 1 |
 | [Sri Lanka](countries/sri-lanka.md) | 1 |

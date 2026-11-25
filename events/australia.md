@@ -6,12 +6,6 @@ Developer conferences and meetups across Australia and Oceania. [Back to the dir
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| The Reinventor's Mindset Live | 2026-11-24 | Sydney, AU | [↗](https://lu.ma/sk74tfi3) |
-| Ellect Women Hybrid: Celebrating Three Years | 2026-11-24 | Sydney, AU | [↗](https://lu.ma/3j88ketk) |
-| Growing Brokerage Profits in a Low-Fee Market -Executive Breakfast | 2026-11-24 | Sydney, AU | [↗](https://lu.ma/xd4udbi5) |
-| Chooks in Session: 01 | 2026-11-24 | Sydney, AU | [↗](https://lu.ma/gcp1r1lw) |
-| 25/11 - Millie's 25th Bday She Run x Avène! | 2026-11-24 | Sydney | [↗](https://lu.ma/qjfe6z1e) |
-| Sydney Founders Pickleball | 2026-11-24 | Sydney, AU | [↗](https://lu.ma/9thwg0nl) |
 | One of the World's Largest Battery Fleets Is Parked in Our Garages, Waiting to Power Our Homes w/ Tyson R. CEO & Co-founder @ Merge Energy | 2026-11-25 | Sydney, AU | [↗](https://lu.ma/310nuokk) |
 | From AI User to AI Builder: Build Your Own AI Assistant | 2026-11-25 | Sydney, AU | [↗](https://lu.ma/8f4duakx) |
 | Robert Ian Bonnick & Andrew Shand - Building the Room | 2026-11-25 | Sydney, AU | [↗](https://lu.ma/9bkt6q7k) |
@@ -43,12 +37,14 @@ Developer conferences and meetups across Australia and Oceania. [Back to the dir
 | Trustyfy: Redefining the Future of Finance | 2026-11-28 | Sydney, AU | [↗](https://lu.ma/eynimwzr) |
 | The Art of a Great Working Life | 2026-11-28 | Sydney, AU | [↗](https://lu.ma/wsln25g7) |
 | Nexo Private, Sydney | 2026-11-28 | Sydney, AU | [↗](https://lu.ma/t0maa6c4) |
+| WhiteBIT AU \| SUNDOWN SESH \| Sydney | 2026-11-28 | Sydney, AU | [↗](https://lu.ma/dq9y33mz) |
 | Global Security Bootcamp Melbourne 2026 | 2026-11-30 | Melbourne | [↗](https://dev.events/conferences/global-security-bootcamp-melbourne-2026-w3oskhgv) |
 | DevFest Extended: Android for the Agentic Era | 2026-12-01 | Sydney, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-sydney-presents-devfest-extended-android-for-the-agentic-era/) |
 | She Runs Weekly Wednesday City Run | 2026-12-01 | Sydney | [↗](https://lu.ma/z6srx9cg) |
 | YOW! Melbourne 2026 | 2026-12-02 to 2026-12-04 | Melbourne | [↗](https://dev.events/conferences/yow-melbourne-2026-l20mbibp) |
 | AI Engineering Summit \| Sydney \| 2026 | 2026-12-02 | Sydney, NS, AU | [↗](https://allevents.in/sydney/ai-engineering-summit-sydney-2026/100001995177889777) |
 | Odoo AI Academy - San Francisco, CA | 2026-12-02 | Brisbane, US | [↗](https://www.meetup.com/odooapps/events/317275264/) |
+| Kiroween Build Night with Kiro \| AWS Sydney User Group | 2026-12-02 | Sydney, AU | [↗](https://lu.ma/sqku4c2y) |
 | Difinity Conference - Auckland - 2026 | 2026-12-03 to 2026-12-04 | Auckland (New Zealand) | [↗](https://difinity.co.nz/) |
 | Write the Docs Australia | 2026-12-03 to 2026-12-04 | Melbourne | [↗](https://dev.events/conferences/write-the-docs-australia-89lr7-hz) |
 | Forza End of Year Drinks - Sydney | 2026-12-03 | Sydney, AU | [↗](https://lu.ma/d2oivciv) |
@@ -59,6 +55,8 @@ Developer conferences and meetups across Australia and Oceania. [Back to the dir
 | NeurIPS Board Games Night with Poindexter Labs & EvalEval Coalition | 2026-12-05 | Sydney, AU | [↗](https://lu.ma/pg7rhhp4) |
 | Matcha Monday: NeurIPS | 2026-12-06 | Sydney, AU | [↗](https://lu.ma/7nna36rn) |
 | 5km a day @ NeurIPS Sydney | 2026-12-06 | Sydney, AU | [↗](https://lu.ma/m08mjsfm) |
+| Meet with Modal at NeurIPS Sydney '26 | 2026-12-06 | Sydney, AU | [↗](https://lu.ma/modal_neurips_sydney) |
+| Prior Open: Rooftop Breakfast at NeurIPS Sydney | 2026-12-06 | Sydney, AU | [↗](https://lu.ma/ukrmazgm) |
 | YOW! Brisbane 2026 | 2026-12-07 to 2026-12-09 | Brisbane | [↗](https://dev.events/conferences/yow-brisbane-2026-wwf7hor1) |
 | The State of Frontier AI Evaluation and Red Teaming | 2026-12-07 | Sydney, AU | [↗](https://lu.ma/h88d5x3l) |
 | Whispers: An Interactive Screening | 2026-12-07 | Sydney, AU | [↗](https://lu.ma/a1lzm56r) |
@@ -71,6 +69,7 @@ Developer conferences and meetups across Australia and Oceania. [Back to the dir
 | Mercor NeurIPS Sydney Booth 59 at ICC Sydney | 2026-12-07 | Sydney, AU | [↗](https://lu.ma/2r74lyxy) |
 | NeurIPS 2026 Warm Up at Machine Hall | 2026-12-07 | Sydney, AU | [↗](https://lu.ma/sbcd7naa) |
 | Vinci Synthesis: A Dinner in Sydney | 2026-12-07 | Sydney, AU | [↗](https://lu.ma/ckhlhg64) |
+| ☕ Product of SYD: AI Week Edition | 2026-12-07 | Sydney, AU | [↗](https://lu.ma/xf5qmhff) |
 | NeurIPS x Appen: Evaluating Long-Horizon Agents | 2026-12-08 | Sydney, AU | [↗](https://lu.ma/whdzlte4) |
 | Dead Reckoning: NeurIPS Happy Hour for Researchers Navigating Without Ground Truth | 2026-12-08 | Sydney, AU | [↗](https://lu.ma/z2yusp2k) |
 | [Sydney] Build AI x NeurIPS: Physical AI & Koalas After Dark | 2026-12-08 | Sydney, AU | [↗](https://lu.ma/hxduf68y) |
@@ -87,6 +86,7 @@ Developer conferences and meetups across Australia and Oceania. [Back to the dir
 | Cartesia x NeurIPS: After Hours | 2026-12-08 | Sydney, AU | [↗](https://lu.ma/cartesia-jic4) |
 | i14 Sydney Workshop | 2026-12-08 | Sydney, AU | [↗](https://lu.ma/524uf8u0) |
 | DevFest Adelaide 2026 | 2026-12-08 | Adelaide, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-adelaide-presents-devfest-adelaide-2026/) |
+| Sydney Tech Pickleball | 2026-12-08 | Sydney, AU | [↗](https://lu.ma/q1wzofag) |
 | Community Breakfast ☕️✨ AI Week edition | 2026-12-09 | Sydney, AU | [↗](https://lu.ma/vm0dlqjl) |
 | NeurIPS x Appen: Happy Hour on the Harbour | 2026-12-09 | Sydney, AU | [↗](https://lu.ma/8wu2z11b) |
 | Arch Capital Christmas Party | 2026-12-09 | Sydney, AU | [↗](https://lu.ma/mv93p04x) |
@@ -112,6 +112,8 @@ Developer conferences and meetups across Australia and Oceania. [Back to the dir
 | Devfest 2026: Build It, Guard It, Ship It: Building Secure AI Apps (Workshop) | 2026-12-11 | Darwin, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-darwin-presents-devfest-2026-build-it-guard-it-ship-it-building-secure-ai-apps-workshop/) |
 | Harness²: Recursive Agent Harnessing for an Open World | 2026-12-15 | Sydney, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-ai-for-science-australia-presents-harness2-recursive-agent-harnessing-for-an-open-world/) |
 | Christmas Networking Drinks | 2026-12-16 | Sydney, AU | [↗](https://lu.ma/9judywon) |
+| Junior Christmas Drinks | 2026-12-16 | Sydney, AU | [↗](https://lu.ma/dnh467bi) |
+| Afternoon Breathwork Session | 2026-12-17 | Sydney, AU | [↗](https://lu.ma/48jo248u) |
 | Breakast at Vogue: Women in Business with Konnectile [5th Edition] | 2026-12-20 | Sydney, AU | [↗](https://lu.ma/konnec-mhxe) |
 | HackerX - Sydney (AI) - Employer Ticket - 12/21 | 2026-12-21 | Sydney, NS, AU | [↗](https://allevents.in/sydney/hackerx-sydney-ai-employer-ticket-12-21/100001980430990404) |
 | Everything Open 2027 | 2027-01-20 to 2027-01-22 | Brisbane | [↗](https://dev.events/conferences/everything-open-2027-fqdbc0md) |
@@ -135,9 +137,16 @@ Developer conferences and meetups across Australia and Oceania. [Back to the dir
 | PlatformCon Live Day - Sydney | 2027-10-26 | Sydney, AU | [↗](https://lu.ma/pc27-sydney) |
 | Product-Led Summit \| Sydney | 2027-10-26 | Sydney | [↗](https://dev.events/conferences/product-led-summit-sydney-5snwexpw) |
 | AgenticCon - Sydney | 2027-10-27 | Sydney, AU | [↗](https://lu.ma/agenticcon-sydney) |
+| Sydney Tech Week | 2027-11-08 to 2027-11-11 | Sydney, NS, AU | [↗](https://allevents.in/sydney/sydney-tech-week/100001991188594688) |
 | Sydney Tech Expo 2027 | 2027-11-09 to 2027-11-10 | Sydney | [↗](https://dev.events/conferences/sydney-tech-expo-2027-ctiuizx4) |
 | The Enterprise Tech, Cloud & AI Show | 2027-11-09 to 2027-11-10 | Sydney | [↗](https://dev.events/conferences/the-enterprise-tech-cloud-and-ai-show-pxb0upxf) |
 | Data Centres & Digital Infrastructure Show | 2027-11-09 to 2027-11-10 | Sydney | [↗](https://dev.events/conferences/data-centres-and-digital-infrastructure-show-cvx5rhmk) |
+| The Reinventor's Mindset Live | 2026-11-24 | Sydney, AU | [↗](https://lu.ma/sk74tfi3) |
+| Ellect Women Hybrid: Celebrating Three Years | 2026-11-24 | Sydney, AU | [↗](https://lu.ma/3j88ketk) |
+| Growing Brokerage Profits in a Low-Fee Market -Executive Breakfast | 2026-11-24 | Sydney, AU | [↗](https://lu.ma/xd4udbi5) |
+| Chooks in Session: 01 | 2026-11-24 | Sydney, AU | [↗](https://lu.ma/gcp1r1lw) |
+| 25/11 - Millie's 25th Bday She Run x Avène! | 2026-11-24 | Sydney | [↗](https://lu.ma/qjfe6z1e) |
+| Sydney Founders Pickleball | 2026-11-24 | Sydney, AU | [↗](https://lu.ma/9thwg0nl) |
 | EDGE by Ampere | 2026-11-23 | Sydney, AU | [↗](https://lu.ma/yp81nenc) |
 | Meet Your Future Co-Founder 🤝 | 2026-11-23 | Sydney, AU | [↗](https://lu.ma/glo4io2z) |
 | AI and China's Industrial Transformation | 2026-11-23 | Sydney, NS, AU | [↗](https://allevents.in/sydney/ai-and-chinas-industrial-transformation/100002004687460158) |
@@ -168,7 +177,4 @@ Developer conferences and meetups across Australia and Oceania. [Back to the dir
 | CPL Sydney presented by Independent Reserve Week 3 | 2026-11-18 | Sydney, AU | [↗](https://lu.ma/w27jgegr) |
 | SYD: Clinic Open Night \| Monash IVF Sydney CBD | 2026-11-18 | Sydney, AU | [↗](https://lu.ma/jvtda0uf) |
 | Sydney \| Claude For Developers Meetup | 2026-11-18 | Sydney, AU | [↗](https://lu.ma/claude-w21b) |
-| WoDECA Sydney Coffee Catch Up | 2026-11-17 | Sydney, AU | [↗](https://lu.ma/8s3cque6) |
-| Sydney Tech Pickleball | 2026-11-17 | Sydney, AU | [↗](https://lu.ma/t6qbwisi) |
-| Gartner HR Symposium/Xpo | 2026-11-16 to 2026-11-17 | Sydney | [↗](https://dev.events/conferences/gartner-hr-symposium-xpo-6e-ujera) |
 | AI Entrepreneurship Bootcamp & Hackathon: Build Your Successful AI Startup | 2026-11-10 to 2027-10-28 | Sydney, NS, AU | [↗](https://allevents.in/sydney/ai-entrepreneurship-bootcamp-and-hackathon-build-your-successful-ai-startup/100002004514419589) |

@@ -6,77 +6,6 @@ Developer conferences, summits and meetups across the United States, Canada and 
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| For Business Owners: Building AI Agents for Business Workflows | 2026-11-24 | Pittsburgh, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-pittsburgh-presents-for-business-owners-building-ai-agents-for-business-workflows/) |
-| Virtual "Show and Tell" of Projects by the Community | 2026-11-24 | Orlando, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-central-florida-presents-virtual-show-and-tell-of-projects-by-the-community-2026-11-24/) |
-| Morning Grind: Founder Coffee Drop-In | 2026-11-24 | Grand Rapids, United States of America | [↗](https://www.startupgrind.com/events/details/startup-grind-grand-rapids-presents-morning-grind-founder-coffee-drop-in-2026-11-24/) |
-| DevFest Winnipeg 2026 | 2026-11-24 | Winnipeg, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-winnipeg-presents-devfest-winnipeg-2026/) |
-| Startup Grind Fort Lauderdale 2nd Annual Techsgiving Holiday Party | 2026-11-24 | Ft. Lauderdale, United States of America | [↗](https://www.startupgrind.com/events/details/startup-grind-ft-lauderdale-presents-startup-grind-fort-lauderdale-2nd-annual-techsgiving-holiday-party/) |
-| Career OS: Level Up Your Tech Career | 2026-11-24 | Waterloo, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-conestoga-college-waterloo-campus-waterloo-canada-presents-career-os-level-up-your-tech-career/) |
-| Toronto Blockchain Week 2026 | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/blockchainweekto) |
-| COIE Demo Day Fall 2026: Pitch to Win & Showcase -Competitor Application & Registration | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/gtdttu8o) |
-| COIE Demo Day Fall 2026: Pitch to Win & Showcase -General Audience ONLY | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/olqyaeel) |
-| How AgeTech Actually Gets Adopted | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/3kiv9tp2) |
-| Reactor 002 | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/xy10tz17) |
-| 2027 Planning: The Bet You're Making for Next Year - 5 to 9 Society | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/kssxk13h) |
-| Ask a Chief of Staff: Toronto Happy Hour | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/0lebw846) |
-| Social Reading Night #36 | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/o71mdu4l) |
-| Craft Cafe: Make friends, Make crafts | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/h8y8lr5u) |
-| Fuckup Nights Toronto: November 24 | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/funtonov24) |
-| Toronto Revenue Leaders Dinner | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/toronto-revenue-leaders-nov24) |
-| UKRAINIAN DEFENCE TECH 2026 | 2026-11-24 | Toronto, ON, CA | [↗](https://allevents.in/toronto/ukrainian-defence-tech-2026/200031037239637) |
-| Founder Supper Club - Festive Dinner & Mastermind | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/2b8uqqgr) |
-| Hacktober Redux: Open-weight models | 2026-11-24 | Ann Arbor, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-ann-arbor-presents-hacktober-redux-open-weight-models/) |
-| CML Insider: The $20K Playbook | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/rh8o9eog) |
-| MahPoints mahjong league game night Nov 24 | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/fcwzzrop) |
-| El Reto IA para no techies: una idea, un prototipo y tres minutos para convencer | 2026-11-24 | Santo Domingo, Dominican Republic | [↗](https://gdg.community.dev/events/details/google-gdg-santo-domingo-presents-el-reto-ia-para-no-techies-una-idea-un-prototipo-y-tres-minutos-para-convencer/) |
-| AI In The Workplace | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/ut91maly) |
-| BREAKATHON by BotGauge: Bring your agent. Lets break it. | 2026-11-24 | San Francisco, US | [↗](https://lu.ma/nbgpzay1) |
-| Founders Demo Night \| YC, The Residency & More | 2026-11-24 | San Francisco, US | [↗](https://lu.ma/m18xf5h7) |
-| Durable AI Meetup (November Edition) | 2026-11-24 | San Francisco, US | [↗](https://lu.ma/durable-ai-november) |
-| Founder Friendsgiving Dinner | 2026-11-24 | San Francisco, US | [↗](https://lu.ma/sprinto-friendsgiving) |
-| Degrees of Freedom: Embodied AI Builders Night @ Mission Robotics | 2026-11-24 | San Francisco, US | [↗](https://lu.ma/mission-u38j) |
-| Midnight in California: A Holiday Duology Book Signing | 2026-11-24 | San Francisco, US | [↗](https://lu.ma/aluq8vkn) |
-| The No-Prep Book Club SF: What Macbeth Can Teach Us About Sales | 2026-11-24 | San Francisco, US | [↗](https://lu.ma/jbzd5tmm) |
-| An evening with Anna Voloshyna: the launch of UKRAÏNE | 2026-11-24 | San Francisco, US | [↗](https://lu.ma/hjh5nv1y) |
-| Temporal AI Meetup | 2026-11-24 | San Francisco, US | [↗](https://lu.ma/3pfsmcbz) |
-| HackwithBay 4.0 | 2026-11-24 | San Francisco, US | [↗](https://lu.ma/x05cmrqh) |
-| How to Close Deals: Before and After with ARKI | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/dv0vjt8o) |
-| Scrappy Founders Play Soccer | 2026-11-24 | San Francisco, US | [↗](https://lu.ma/rno7bfz4) |
-| Aditya Kumar at the SF Lean Meetup | 2026-11-24 | San Francisco, US | [↗](https://lu.ma/zc0quhtf) |
-| FIKA: Thanksgiving Potluck | 2026-11-24 | San Francisco, US | [↗](https://lu.ma/mbc-xvlo) |
-| An Evening with kHz | 2026-11-24 | New York, US | [↗](https://lu.ma/flktmeq4) |
-| "It's Not Always" @ Streeters Gallery - Metamorphosis Exhibition Opening Night! | 2026-11-24 | New York, US | [↗](https://lu.ma/hwe7arsm) |
-| MuSE @ NYU :: Harmonic Filtration w/ Roey Shamir | 2026-11-24 | New York, US | [↗](https://lu.ma/siz5jkzi) |
-| Startup Dinner | 2026-11-24 | New York, US | [↗](https://lu.ma/1159lhpb) |
-| You Can Laugh At Everything: An Elizabeth Holmes and Nathan Fielder Comedy Show and Lookalike Contest by Elizabeth Swaney | 2026-11-24 | New York, US | [↗](https://lu.ma/lizholmes) |
-| The Builder Series: Run Club | 2026-11-24 | New York, US | [↗](https://lu.ma/kert3vls) |
-| The Farmlink Project x 260 Sample Sale: Apple Picking in NYC | 2026-11-24 | New York, US | [↗](https://lu.ma/wdgdacg6) |
-| BUILDING TRUST AND DEMONSTRATING VALUE THROUGH AN EFFECTIVE BUYER CONSULTATION w. William Krooss-Tadas | 2026-11-24 | New York, US | [↗](https://lu.ma/oesbjkii) |
-| Claude For Financial Leaders - Group 2 | 2026-11-24 | New York, US | [↗](https://lu.ma/enxnixfm) |
-| Harvest Dinner @ AICH | 2026-11-24 | New York, US | [↗](https://lu.ma/21t8j56y) |
-| Building the New Energy Frontier at SPC NYC | 2026-11-24 | New York, US | [↗](https://lu.ma/energy-spc-nyc) |
-| Grok Build Night | 2026-11-24 | New York, US | [↗](https://lu.ma/cu6dl3ij) |
-| Helena Happy Hour | 2026-11-24 | New York, US | [↗](https://lu.ma/d14gqlsw) |
-| NYC B2B x Micro: Founder Friendsgiving | 2026-11-24 | New York, US | [↗](https://lu.ma/20022xzk) |
-| Chi Kung, A Wellness Movement Class | 2026-11-24 | New York, US | [↗](https://lu.ma/pobk8mzy) |
-| CHiP IN: MPR NYC's Fintech Poker Night | 2026-11-24 | New York, US | [↗](https://lu.ma/8fc12g67) |
-| NYC B2B: AI Founders & Investors Meetup | 2026-11-24 | New York, US | [↗](https://lu.ma/ery2bo3s) |
-| SALON CREATIVES VOL. IX | 2026-11-24 | New York, US | [↗](https://lu.ma/t4phy76o) |
-| FWD Coworking pass: 002 | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/falcon-h6x1) |
-| Inventing for the physical world with Devansh Shah | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/falcon-klrb) |
-| Designing consumer social AI with Sid & Patrick from Ambition | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/falcon-23kb) |
-| HOLIDAY FRIENDSGIVING AMAZING SUNSET, CITY LIGHTS & FULL MOON HIKE CLOUD 9 RUINS | 2026-11-24 | Phoenix, us | [↗](https://www.meetup.com/amazing-arizona-adventures-triple-a/events/317468832/) |
-| Guided Meditation | 2026-11-24 | New York, US | [↗](https://lu.ma/5ouvx2v9) |
-| Comfy & Cozy | 2026-11-24 | New York, US | [↗](https://lu.ma/reading-rw1l) |
-| RevOps Meetup | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/9luplebe) |
-| LASL X BASE44 ADVOCACY NIGHT | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/rpzblalz) |
-| AI regulations around the world | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/trajec-d1wi) |
-| FLŌRA X DMAP \| Deep Meditation Approach & Practice | 2026-11-24 | New York, US | [↗](https://lu.ma/kxuuynk2) |
-| Mentorship breakfast with Lindsay MacMillan - Nov 24th at 7:30am in Soho | 2026-11-24 | New York, US | [↗](https://lu.ma/5dhpmm4j) |
-| FOCUS Art Projects presents Kento Senga at Virgin Hotels New York City | 2026-11-24 | New York, US | [↗](https://lu.ma/rtp0nbdt) |
-| Pre-Thanksgiving Happy Hour at LG Collective Studio | 2026-11-24 | New York, US | [↗](https://lu.ma/31vy2c2i) |
-| nervous system regulation | 2026-11-24 | New York, US | [↗](https://lu.ma/pjaetd6z) |
-| Archivo Vivo: Memoria y Libertad \| Archives & Aluminum Embossing Workshop | 2026-11-24 | New York, US | [↗](https://lu.ma/hye7ldjb) |
 | Hacktitud Summit 2026 | 2026-11-25 | Mexico City | [↗](https://dev.events/conferences/hacktitud-summit-2026-opxv3p4m) |
 | DevFest 2026: TecNM Villahermosa | 2026-11-25 | Villahermosa, Mexico | [↗](https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2026-tecnm-villahermosa/) |
 | The Product Owner’s AI Playbook: Turning Ideas into Outcomes | 2026-11-25 | Ajax, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-ajax-presents-the-product-owners-ai-playbook-turning-ideas-into-outcomes/) |
@@ -142,6 +71,8 @@ Developer conferences, summits and meetups across the United States, Canada and 
 | Special Pre-Thanksgiving Trivia! | 2026-11-25 | New York, US | [↗](https://lu.ma/55w7gnlc) |
 | Tony & Thibaut's Game Night - A better way to meet people | 2026-11-25 | San Francisco, US | [↗](https://lu.ma/g74ws1yr) |
 | DINNER 18｜下班小聚 · 华尔街之“羊” 📰 | 2026-11-25 | New York, US | [↗](https://lu.ma/gv6z6nbq) |
+| New Stadium: 220 | 2026-11-25 | Toronto, CA | [↗](https://lu.ma/stadium220) |
+| Slow Networking 🦥 for Introverts + Journalling Workshop to Reconnect with your Strengths! 💖 | 2026-11-25 | Toronto, CA | [↗](https://lu.ma/h2djy598) |
 | Dev Fest 2026: Collaborative Innovation | 2026-11-26 | Tepic, Mexico | [↗](https://gdg.community.dev/events/details/google-gdg-tepic-presents-dev-fest-2026-collaborative-innovation/) |
 | Dev day - and then it was a SKILL | 2026-11-26 | Victoria, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-victoria-presents-dev-day-and-then-it-was-a-skill/) |
 | Toronto AI, Startups, Tech & Finance Networking Event | 2026-11-26 | Toronto, ON, CA | [↗](https://allevents.in/toronto/toronto-ai-startups-tech-and-finance-networking-event/100002004498132875) |
@@ -188,6 +119,8 @@ Developer conferences, summits and meetups across the United States, Canada and 
 | SF In-Person Meeting | 2026-11-26 | San Francisco, US | [↗](https://lu.ma/nov25) |
 | ⩐ Art Club | 2026-11-26 | Toronto, CA | [↗](https://lu.ma/1rg-x0hv) |
 | Exit Readiness for Tech Scaleup Founders | 2026-11-26 | Toronto, CA | [↗](https://lu.ma/qsslqkof) |
+| Sourj Book Club | 2026-11-26 | Toronto, CA | [↗](https://lu.ma/vck16kuh) |
+| Dev day - OpenSpec - Day 1 | 2026-11-26 | Victoria, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-victoria-presents-dev-day-openspec-day-1/) |
 | Conférence /dev/mtl 2026 | 2026-11-27 | Montreal | [↗](https://dev.events/conferences/conference-dev-mtl-2026-98nfur1e) |
 | DevFest San Pedro Sula 2026 - Day #1 | 2026-11-27 | San Pedro Sula, Honduras | [↗](https://gdg.community.dev/events/details/google-gdg-san-pedro-sula-presents-devfest-san-pedro-sula-2026-day-1/) |
 | GDG Columbus: Shots On Goal | 2026-11-27 | Columbus, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-columbus-presents-gdg-columbus-shots-on-goal-2026-11-27/) |
@@ -223,6 +156,12 @@ Developer conferences, summits and meetups across the United States, Canada and 
 | Ecstatic Dance Toronto \| A Weekly Wellness Dance for Modern Life | 2026-11-27 | Toronto, CA | [↗](https://lu.ma/iuhwg446) |
 | 1.0: Industrial Design Social | 2026-11-27 | Toronto, CA | [↗](https://lu.ma/mczxv51z) |
 | Salaam Spaces Photo Walk at The Well 📸 | 2026-11-27 | Toronto, CA | [↗](https://lu.ma/1gyqo9jx) |
+| Friendsgiving Hotpot | 2026-11-27 | San Francisco, US | [↗](https://lu.ma/292zct37) |
+| Hexagiving - Thanksgiving dinner for European founders in SF | 2026-11-27 | San Francisco, US | [↗](https://lu.ma/vybmdpry) |
+| Thanksgiving Potluck Dinner 🥘🍂 | 2026-11-27 | San Francisco, US | [↗](https://lu.ma/cl78dqxi) |
+| Meet 'Excuse My Bus' the winners of NYC Game Jam | 2026-11-27 | New York, US | [↗](https://lu.ma/accentisa-7fj2) |
+| MIIS - A Table Still in Use | 2026-11-27 | New York, US | [↗](https://lu.ma/qg1b8qcw) |
+| Toronto VibeStation | 2026-11-27 | Toronto, CA | [↗](https://lu.ma/ih7o5t51) |
 | DevFest San Pedro Sula 2026 - Day #2 | 2026-11-28 | San Pedro Sula, Honduras | [↗](https://gdg.community.dev/events/details/google-gdg-san-pedro-sula-presents-devfest-san-pedro-sula-2026-day-2/) |
 | DevFest Sudbury 2026: Build, Secure, Scale – Developers and Builders in the Agentic Era | 2026-11-28 | Sudbury, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-sudbury-presents-devfest-sudbury-2026-build-secure-scale-developers-and-builders-in-the-agentic-era/) |
 | Hackathon Google Cloud x NVIDIA | 2026-11-28 | Newport Beach, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-newport-beach-presents-hackathon-google-cloud-x-nvidia/) |
@@ -273,6 +212,9 @@ Developer conferences, summits and meetups across the United States, Canada and 
 | Weekly New Founders Meetup: Welcome to SF | 2026-11-28 | San Francisco, US | [↗](https://lu.ma/hxo9z2d3) |
 | Volunteer Shift 10: Holiday Market 2026 | 2026-11-28 | New York, US | [↗](https://lu.ma/ltrk5ku7) |
 | A Living Archive: Photographs, Places, and Practices | 2026-11-28 | Toronto, CA | [↗](https://lu.ma/sf3oq92w) |
+| Silent Reading @ Sports Basement Bryant | 2026-11-28 | San Francisco, US | [↗](https://lu.ma/ssportsbasement) |
+| The Chip Chat \| AI Infra Dinner | 2026-11-28 | Toronto, CA | [↗](https://lu.ma/4kulw8e2) |
+| Home, hopes and the heart ~ a reading club series. | 2026-11-28 | Toronto, CA | [↗](https://lu.ma/l81snnun) |
 | KubeAuto Day Las Vegas | 2026-11-29 | Las Vegas, NV (USA) | [↗](https://kubeauto.day/las-vegas) |
 | GDG Merced Study Jam: Google Cloud ML Certification | 2026-11-29 | Merced, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-merced-presents-gdg-merced-study-jam-google-cloud-ml-certification-2026-11-29/) |
 | Solra Disco Social | 2026-11-29 | Toronto, CA | [↗](https://lu.ma/6qrwx03e) |
@@ -310,6 +252,9 @@ Developer conferences, summits and meetups across the United States, Canada and 
 | Informationbanker Fintech & AI networking walk | 2026-11-29 | New York, US | [↗](https://lu.ma/zqnype9k) |
 | Shut Up & Code - DOWNTOWN (Bay and Adelaide) | 2026-11-29 | Toronto, CA | [↗](https://lu.ma/ywhrw1xa) |
 |  8am Sunday, 11/29 🍂hike.🎧Nia.🥾hike @ Mt. Tabor, SE PDX | 2026-11-29 | Portland, us | [↗](https://www.meetup.com/hike-nia-hike/events/317192805/) |
+| Bread Around #02 | 2026-11-29 | New York, US | [↗](https://lu.ma/gn2dql11) |
+| AI, NY, and Our Future \| RAD Collective Workshop | 2026-11-29 | New York, US | [↗](https://lu.ma/ue8p3927) |
+| Build Your Student OS: Toronto Edition | 2026-11-29 | Toronto, CA | [↗](https://lu.ma/clcse0ad) |
 | AI Dev NYC 2026 | 2026-11-30 to 2026-12-01 | New York, NY (USA) | [↗](https://ai-dev.deeplearning.ai/) |
 | Mastering Multi-Agent Workflows: Gemini & Function Calling | 2026-11-30 | Ocala, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-ocala-presents-mastering-multi-agent-workflows-gemini-amp-function-calling/) |
 | Intro to Web Development Workshop | 2026-11-30 | New Orleans, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-tulane-university-new-orleans-united-states-presents-intro-to-web-development-workshop/) |
@@ -340,6 +285,11 @@ Developer conferences, summits and meetups across the United States, Canada and 
 | Reading Rhythms Upper West Side: November 30th | 2026-11-30 | New York, US | [↗](https://lu.ma/reading-1ltx) |
 | Santai Hackathon #1 | 2026-11-30 | New York, US | [↗](https://lu.ma/76s0u4sl) |
 | PIT Stop! Celebration | 2026-11-30 | New York, US | [↗](https://lu.ma/9n06ksn0) |
+| Pitch and Run Monday | 2026-11-30 | New York, US | [↗](https://lu.ma/0yc5aeut) |
+| Monday Founders Coworking Pod | 2026-11-30 | New York, US | [↗](https://lu.ma/mon-1130) |
+| People of Color in Dental Holiday Social | 2026-11-30 | New York, US | [↗](https://lu.ma/txufykat) |
+| Friendsgiving Dinner Party 🦃 | 2026-11-30 | Toronto, CA | [↗](https://lu.ma/2xhtzgra) |
+| Prompt to Product: Build Your First AI App in 45 Minutes | 2026-11-30 | Waterloo, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-conestoga-college-waterloo-campus-waterloo-canada-presents-prompt-to-product-build-your-first-ai-app-in-45-minutes/) |
 | Build with Gemma: 305 CodeFest Hackathon Edition December 2026 (Session A - Virtual - Date TBD / Session B - Dec 1-31, 2026 - Virtual Asynchronous) \| Build W AI | 2026-12-01 | Miami, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-florida-international-university-presents-build-with-gemma-305-codefest-hackathon-edition-december-2026-session-a-virtual-date-tbd-session-b-dec-1-31-2026-virtual-asynchronous-build-w-ai/) |
 | DDC December Meetup | 2026-12-01 | Chicago, us | [↗](https://www.meetup.com/js-chi/events/314509846/) |
 | Agentic AI Foundation ( AAIF ) December Talks | 2026-12-01 to 2026-12-15 | Washington, DC (USA) | [↗](https://luma.com/aaif-seattle) |
@@ -415,6 +365,11 @@ Developer conferences, summits and meetups across the United States, Canada and 
 | Music Share for Seniors: GivingTuesday Event | 2026-12-01 | Toronto, CA | [↗](https://lu.ma/f7vgrurm) |
 | Fall 2026 General Meeting: Meet the Team, Explore AI, Discover DevFest | 2026-12-01 | Riverside, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-california-riverside-riverside-united-states-presents-fall-2026-general-meeting-meet-the-team-explore-ai-discover-devfest/) |
 | Startup Mania III Competitor Application Info Session | 2026-12-01 | Chicago, United States of America | [↗](https://www.startupgrind.com/events/details/startup-grind-startup-mania-presents-startup-mania-iii-competitor-application-info-session-1/) |
+| SF Founder Meetup - WF26 16VC | 2026-12-01 | San Francisco, US | [↗](https://lu.ma/vjxz13v2) |
+| AIC Voice at NYU — Students, AI & the Future of Learning (Session 1) | 2026-12-01 | New York, US | [↗](https://lu.ma/gm9z5r95) |
+| FC NYC • Founders Run & Coffee! | 2026-12-01 | New York, US | [↗](https://lu.ma/zm4q009z) |
+| The Builder Series: Run Club | 2026-12-01 | New York, US | [↗](https://lu.ma/kert3vls) |
+| WNBA/ NBA Behind the Scenes - NYC Office Visit | 2026-12-01 | New York, US | [↗](https://lu.ma/o1yeys2c) |
 | Tech Leader Summit | 2026-12-02 to 2026-12-04 | Clearwater, FL (USA) | [↗](https://techleadersummit.io) |
 | YC Demo Day (Fall) | 2026-12-02 | San Francisco | [↗](https://www.ycombinator.com/demoday) |
 | Make It Matter: AI for Good Coding Jam | 2026-12-02 | Brunswick, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-brunswick-presents-make-it-matter-ai-for-good-coding-jam/) |
@@ -504,6 +459,43 @@ Developer conferences, summits and meetups across the United States, Canada and 
 | Manhattan Climate Changemakers Hour of Action | 2026-12-02 | New York, US | [↗](https://lu.ma/ui5t45sd) |
 | WoCS NYC X Kobalt Labs: End-of-Year Social | 2026-12-02 | New York, US | [↗](https://lu.ma/ryw7pfg1) |
 | Build with AI: Bring Your Idea, Ship an App | 2026-12-02 | Dobbs Ferry, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-mercy-university-dobbs-ferry-united-states-presents-build-with-ai-bring-your-idea-ship-an-app/) |
+| d_model Tuesday Social | 2026-12-02 | San Francisco, US | [↗](https://lu.ma/etiax1t8) |
+| Happy Hour @ Mercor NYC | 2026-12-02 | New York, US | [↗](https://lu.ma/zjqitfkm) |
+| Model ML Run Club | 2026-12-02 | New York, US | [↗](https://lu.ma/zzhak0jm) |
+| haricot vert charm bar pop-up in soho | 2026-12-02 | New York, US | [↗](https://lu.ma/nckk43ch) |
+| MAISON MOTEMA at The Makers Market NYC | 2026-12-02 | New York, US | [↗](https://lu.ma/j83juqs9) |
+| Claude SMB Workshop with Fine Line Consultants - New York | 2026-12-02 | New York, US | [↗](https://lu.ma/hm5xow49) |
+| *in spite of*- with Mark Hurst | 2026-12-02 | New York, US | [↗](https://lu.ma/nz69cxqq) |
+| Cuttable Coffee Club: After Dark @ Bar Oliver | 2026-12-02 | New York, US | [↗](https://lu.ma/5eb00px6) |
+| Latent Space Social | 2026-12-02 | New York, US | [↗](https://lu.ma/jth3xjd7) |
+| Artist-led Walkthrough of "Ouroboros" by Heidi Lau at Sikkema Malloy Jenkins | 2026-12-02 | New York, US | [↗](https://lu.ma/cht6q79y) |
+| Scale LLP Holiday Happy Hour | 2026-12-02 | New York, US | [↗](https://lu.ma/2nyntjil) |
+| 2026 KREPA Holiday Party | 2026-12-02 | New York, US | [↗](https://lu.ma/9dneuwnk) |
+| Coram AI Holiday Drinks | 2026-12-02 | New York, US | [↗](https://lu.ma/ae6heyoa) |
+| Critical Minerals Co-Founder Matching | 2026-12-02 | New York, US | [↗](https://lu.ma/c2fm-dz40) |
+| ElevenCreative After Hours: New York | 2026-12-02 | New York, US | [↗](https://lu.ma/nycafterhours) |
+| Fonzi's Devs & Drinks | 2026-12-02 | New York, US | [↗](https://lu.ma/ai-6w25) |
+| GLG x AI Circle \| Building and Deploying AI You Can Trust in High-Stakes Domains | 2026-12-02 | New York, US | [↗](https://lu.ma/tml9zdk1) |
+| Health AI Happy Hour - Health Frontier NYC🗽 | 2026-12-02 | New York, US | [↗](https://lu.ma/jp748c8d) |
+| HIFI x TabaPay: Stablecoin Cocktail Hour | 2026-12-02 | New York, US | [↗](https://lu.ma/3z3yve4f) |
+| Introw NYC Salesforce World Tour Dinner | 2026-12-02 | New York, US | [↗](https://lu.ma/6x3wwgty) |
+| Kana Agentic Marketers Dinner | 2026-12-02 | New York, US | [↗](https://lu.ma/tax6ekpg) |
+| NYC HR Executive Dinner with HR Elevate | 2026-12-02 | New York, US | [↗](https://lu.ma/x485f987) |
+| OHC: Healthcare Social (Holiday Edition) | 2026-12-02 | New York, US | [↗](https://lu.ma/uqxeoaox) |
+| One Strategy, Three Answers: Test Planning for Hybrid AI Programs \| 11th New York Meetup | 2026-12-02 | New York, US | [↗](https://lu.ma/ttt-11th-newyork) |
+| Pepper Holiday Dinner | 2026-12-02 | New York, US | [↗](https://lu.ma/dwhkzqok) |
+| Ruby Hack Night | 2026-12-02 | New York, US | [↗](https://lu.ma/yhy5o32r) |
+| Stanford ACTs: Holiday Mixer | 2026-12-02 | New York, US | [↗](https://lu.ma/ackq7ej9) |
+| Startup Pitch Events NYC: 5 Founders on Stage | 2026-12-02 | New York, US | [↗](https://lu.ma/56gbj79o) |
+| Startup Pitch & Networking in NYC Manhattan | 2026-12-02 | New York, US | [↗](https://lu.ma/hoj0vrqf) |
+| The Female Founder's Holiday Party \| Collab Matchmaking | 2026-12-02 | New York, US | [↗](https://lu.ma/a8co9o9a) |
+| Your AI Agents, Organized with Notion | 2026-12-02 | New York, US | [↗](https://lu.ma/aiafter5-notion) |
+| Bag Charms 👛 | 2026-12-02 | New York, US | [↗](https://lu.ma/m22ei0xn) |
+| Growth Stage Finance & Operations Leaders Cocktail Party | 2026-12-02 | New York, US | [↗](https://lu.ma/ewmijvb5) |
+| The Common Table: New York City | 2026-12-02 | New York, US | [↗](https://lu.ma/sustainability-NYC) |
+| What just happened? | 2026-12-02 | Toronto, CA | [↗](https://lu.ma/d5b8hu3b) |
+| Electronics Craft Night | 2026-12-02 | Toronto, CA | [↗](https://lu.ma/4oi1vffk) |
+| GDG Pace NYC Festive Workshop: Building Multi-Agent Systems | 2026-12-02 | New York, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-pace-university-new-york-united-states-presents-gdg-pace-nyc-festive-workshop-building-multi-agent-systems/) |
 | San Francisco AI, Tech & Finance Networking Event | 2026-12-03 | San Francisco, CA, US | [↗](https://allevents.in/san-francisco/san-francisco-ai-tech-and-finance-networking-event/100002003964927042) |
 | First Thursdays Creative Collisions with RocGrowth and Startup Grind | 2026-12-03 | Rochester, United States of America | [↗](https://www.startupgrind.com/events/details/startup-grind-rochester-presents-first-thursdays-creative-collisions-with-rocgrowth-and-startup-grind-2026-12-03/) |
 | Utah Flutter Meetup | 2026-12-03 | Lindon, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-lindon-presents-utah-flutter-meetup-2026-12-03/) |
@@ -574,6 +566,12 @@ Developer conferences, summits and meetups across the United States, Canada and 
 | Final After Hours of 2026 @ Long Journey (12/2) | 2026-12-03 | San Francisco, US | [↗](https://lu.ma/mzb5zxyv) |
 | Ideogram Community Hackathon | 2026-12-03 | Toronto, CA | [↗](https://lu.ma/zlaaelz6) |
 | GDG@LSU GBM #2 + End-of-Year Potluck Celebration | 2026-12-03 | Baton Rouge, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-louisiana-state-university-presents-gdglsu-gbm-2-end-of-year-potluck-celebration/) |
+| Computational Social Science SF Happy Hour | 2026-12-03 | San Francisco, US | [↗](https://lu.ma/pvq3gb22) |
+| Open House: AI engineering at Mainstay | 2026-12-03 | San Francisco, US | [↗](https://lu.ma/seat9gep) |
+| Building AI for high-stakes work | 2026-12-03 | San Francisco, US | [↗](https://lu.ma/tavrn-gau6) |
+| Practicum and Career Panel | 2026-12-03 | Toronto, CA | [↗](https://lu.ma/saxzrbfi) |
+| Dev Day - OpenSpec Day 2 | 2026-12-03 | Victoria, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-victoria-presents-dev-day-openspec-day-2/) |
+| CNCF On-Demand: Certificate rotation without ACME | 2026-12-03 | Online, United States of America | [↗](https://community2.cncf.io/events/details/cncf-cncf-online-programs-presents-cncf-on-demand-certificate-rotation-without-acme/) |
 | Day of Data and AI - Houston | 2026-12-04 to 2026-12-05 | Houston, TX (USA) | [↗](https://dayofdata.org/2026-12-05-dayofdata1162/) |
 | PyConf | 2026-12-04 to 2026-12-06 | San Francisco, CA, U.S.A. | [↗](https://pyconf.org) |
 | Google Developers Group - Virginia Beach Social @ Smartmouth Every 1st Fri | 2026-12-04 | Virginia Beach, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-virginia-beach-presents-google-developers-group-virginia-beach-social-smartmouth-every-1st-fri-2026-12-04/) |
@@ -621,6 +619,14 @@ Developer conferences, summits and meetups across the United States, Canada and 
 | Being Heumann Movie Night | 2026-12-04 | Toronto, CA | [↗](https://lu.ma/uyt9y29e) |
 | December Open Mic 🎤 | 2026-12-04 | Toronto, CA | [↗](https://lu.ma/6ahnix8p) |
 | AI Adoption for Large and Small Businesses: The Case for Adoption | 2026-12-04 | Portland, us | [↗](https://www.meetup.com/meetup-group-fvgsjrfv/events/317523024/) |
+| YC Afterbatch F26 | 2026-12-04 | San Francisco, US | [↗](https://lu.ma/tw0oeqoo) |
+| Cardinal x Circleback: GTM After Hours | 2026-12-04 | San Francisco, US | [↗](https://lu.ma/wu5l0poh) |
+| Inception Co-Founder Matching Day #6 2026 | 2026-12-04 | San Francisco, US | [↗](https://lu.ma/bwuk5lnl) |
+| The Workshop's Hardware Demo Day | 2026-12-04 | San Francisco, US | [↗](https://lu.ma/2jk2ywg6) |
+| Attune NXT Flow Cytometer Training | 2026-12-04 | San Francisco, US | [↗](https://lu.ma/pk91jcfp) |
+| Founders Workshop: Hiring — SF | 2026-12-04 | San Francisco, US | [↗](https://lu.ma/9pt4xmyr) |
+| Moms who AI: Show and Tell | 2026-12-04 | San Francisco, US | [↗](https://lu.ma/0h7u160z) |
+| ChaiTech Accelerator 8 Welcome Breakfast | 2026-12-04 | Toronto, CA | [↗](https://lu.ma/klq7nb0m) |
 | DevFest Fresno 2026 | 2026-12-05 | Fresno, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-fresno-presents-devfest-fresno-2026/) |
 | DevFest Miami 2026: AI + Art Edition 🏝 | 2026-12-05 | Miami, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-miami-presents-devfest-miami-2026-ai-art-edition/) |
 | DevFest 2026: Nova Scotia Edition | 2026-12-05 | Halifax, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-halifax-presents-devfest-2026-nova-scotia-edition/) |
@@ -643,9 +649,21 @@ Developer conferences, summits and meetups across the United States, Canada and 
 | Strengthening Your Inner Compass | 2026-12-05 | Toronto, CA | [↗](https://lu.ma/n12v5p99) |
 | STRONG & BRIGHT | 2026-12-05 | Toronto, CA | [↗](https://lu.ma/strongandbright) |
 | Sapiens: A hackathon for human intelligence | 2026-12-05 | San Francisco, CA, US | [↗](https://allevents.in/san-francisco/sapiens-a-hackathon-for-human-intelligence/4700031096762500) |
+| Toronto Co-Work Crawl #1: Close Out 2026 / Plan Your Q1 | 2026-12-05 | Toronto, CA | [↗](https://lu.ma/apmeo4hd) |
+| CNNY presents Affordable Heat Pumps: A Community Lunch with THE Network | 2026-12-05 | Toronto, CA | [↗](https://lu.ma/zulwmpvt) |
+| A CLEARER VISION FOR 2027: Brand Building Clarity Workshop | 2026-12-05 | Toronto, CA | [↗](https://lu.ma/sq6a962w) |
+| DECK THE PAWS - Toronto Dogs Holiday party | 2026-12-05 | Toronto, CA | [↗](https://lu.ma/o5u5tq7f) |
+| Planning for Postpartum: Preparing for Life after Birth | 2026-12-05 | Toronto, CA | [↗](https://lu.ma/3n498wez) |
+| PLUTO Musicians' Jam #2 | 2026-12-05 | Toronto, CA | [↗](https://lu.ma/me75bcyk) |
+| Tea & Tie-Dye · Christmas Edition | 2026-12-05 | Toronto, CA | [↗](https://lu.ma/6gxc8wd7) |
+| 2026 MNTO AGM & Holiday Party | 2026-12-05 | Toronto, CA | [↗](https://lu.ma/bod73yy3) |
+| Dancehall Dubs Archival Photography Exhibition | 2026-12-05 | Toronto, CA | [↗](https://lu.ma/9t8vsgj4) |
+| SBA’s 30th Anniversary Holiday Party Fundraiser! | 2026-12-05 | Toronto, CA | [↗](https://lu.ma/SBA-Dance) |
 | DistrictCon | 2026-12-06 to 2026-12-07 | Washington D.C. (USA) | [↗](https://www.districtcon.org/) |
 | DevFest Santa Bárbara 2026 | 2026-12-06 | Santa Barbara, Honduras | [↗](https://gdg.community.dev/events/details/google-gdg-santa-barbara-presents-devfest-santa-barbara-2026/) |
 | Devfest Pennsylvania State University 2026 | 2026-12-06 | State College, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-pennsylvania-state-university-state-college-united-states-presents-devfest-pennsylvania-state-university-2026/) |
+| Floorplay: Drip n Dip [The Hottest Party in Toronto] | 2026-12-06 | Toronto, CA | [↗](https://lu.ma/fp-drip-n-dip) |
+| Stillwater State \| Conscious Connected Breathwork | 2026-12-06 | Toronto, CA | [↗](https://lu.ma/e36vxhch) |
 | ArchConf | 2026-12-07 to 2026-12-10 | Clearwater, FL (USA) | [↗](https://archconf.com) |
 | Gartner Identity & Access Management Summit | 2026-12-07 to 2026-12-09 | Las Vegas | [↗](https://dev.events/conferences/gartner-identity-and-access-management-summit-0tmnvzg3) |
 | Devfest 2026: Ciudad de México | 2026-12-07 | Mexico City, Mexico | [↗](https://gdg.community.dev/events/details/google-gdg-cdmx-presents-devfest-2026-ciudad-de-mexico/) |
@@ -671,6 +689,7 @@ Developer conferences, summits and meetups across the United States, Canada and 
 | NachoTuesday NYC Founder + VC Annual Holiday Happy Hour | 2026-12-08 | New York, NY, US | [↗](https://allevents.in/new-york/nachotuesday-nyc-founder-vc-annual-holiday-happy-hour/100002004143288526) |
 | How My AI Clone Put First Movers on a $3M Trajectory | 2026-12-08 | Phoenix, US | [↗](https://www.meetup.com/phoenix-ai-for-business-workshops-networking-strategy/events/317211748/) |
 | Agentic AI Year in Review | 2026-12-08 | San Francisco, CA, US | [↗](https://allevents.in/san-francisco/agentic-ai-year-in-review/4700031096717649) |
+| Agentic AI in the Wild: Software Factory Engineering | 2026-12-08 | San Francisco, CA, US | [↗](https://allevents.in/san-francisco/agentic-ai-in-the-wild-software-factory-engineering/4700031116433327) |
 | The AI Summit New York 2026 | 2026-12-09 to 2026-12-10 | New York, NY (USA) | [↗](https://newyork.theaisummit.com/) |
 | AI Infra Summit 6 | 2026-12-09 | San Francisco, CA (USA) | [↗](https://aiinfra.live/) |
 | The Future of AI Infrastructure | 2026-12-09 | New York City, United States of America | [↗](https://www.startupgrind.com/events/details/startup-grind-new-york-city-presents-the-future-of-ai-infrastructure/) |
@@ -682,6 +701,7 @@ Developer conferences, summits and meetups across the United States, Canada and 
 | Central Valley Innovation 2027 | 2026-12-09 | Modesto, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-modesto-presents-central-valley-innovation-2027/) |
 | Zero to 100k followers in 90 days: Google Flow AI Video Hacks ft. Ryan Watrous | 2026-12-09 | Phoenix, us | [↗](https://www.meetup.com/cracked-claude-cowork-and-codex-club/events/317217317/) |
 | Llama Lounge 28: The AI Startup Event Series @ Adobe SF | 2026-12-09 | San Francisco, CA, US | [↗](https://allevents.in/san-francisco/llama-lounge-28-the-ai-startup-event-series-adobe-sf/4700031096717953) |
+| Bits in Bio and Nucleate Present: What Is a Dead Drug Program Worth? AI from Preclinical to the Clinic | 2026-12-09 | San Francisco, CA, US | [↗](https://allevents.in/san-francisco/bits-in-bio-and-nucleate-present-what-is-a-dead-drug-program-worth-ai-from-preclinical-to-the-clinic/4700031116509533) |
 | AI Demo Series: THE GRAND FINAL | 2026-12-10 | Bay Area, United States of America | [↗](https://www.startupgrind.com/events/details/startup-grind-silicon-valley-san-francisco-bay-area-presents-ai-demo-series-the-grand-final/) |
 | Portfolio Review + Holiday Social | 2026-12-10 | Chicago, us | [↗](https://www.meetup.com/nivanlive/events/316767637/) |
 | HVTech Virtual: Understanding the AI Search Journey with Gemini & Google Maps | 2026-12-10 | Hudson, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-hudson-presents-hvtech-virtual-understanding-the-ai-search-journey-with-gemini-amp-google-maps/) |
@@ -696,6 +716,7 @@ Developer conferences, summits and meetups across the United States, Canada and 
 | 🚀 Startup Pitch Night SF # 3 \| B4SF \| San Francisco | 2026-12-10 | San Francisco, CA, US | [↗](https://allevents.in/san-francisco/startup-pitch-night-sf-3-b4sf-san-francisco/4700031097427834) |
 | Tech & Business Networking Toronto | 2026-12-10 | Toronto, ON, CA | [↗](https://allevents.in/toronto/tech-and-business-networking-toronto/100001291770433139) |
 | Finals Study Hall with Google AI | 2026-12-10 | Boca Raton, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-florida-atlantic-university-boca-raton-united-states-presents-finals-study-hall-with-google-ai/) |
+| Dev Day - OpenSpec Day 3 | 2026-12-10 | Victoria, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-victoria-presents-dev-day-openspec-day-3/) |
 | KCD Florida 2026 – Miami | 2026-12-11 | Miami, United States of America | [↗](https://community2.cncf.io/events/details/cncf-kcd-florida-presents-kcd-florida-2026-miami/) |
 | Carpool to Los Angeles Devfest | 2026-12-11 | Fresno, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-fresno-presents-carpool-to-los-angeles-devfest/) |
 | Swift Language User Group (SLUG) x Cocoaheads \| December \| San Francisco | 2026-12-11 | San Francisco, us | [↗](https://www.meetup.com/swift-language/events/314414516/) |
@@ -735,6 +756,7 @@ Developer conferences, summits and meetups across the United States, Canada and 
 | The Startup Pitch: Demo Showcase | 2026-12-17 | New York City, United States of America | [↗](https://www.startupgrind.com/events/details/startup-grind-new-york-city-presents-the-startup-pitch-demo-showcase-11/) |
 | Build & Career Night: Hands-on with Google Cloud | 2026-12-17 | College Park, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-college-park-presents-build-amp-career-night-hands-on-with-google-cloud/) |
 | Avengers: Doomsday Early Screening, Hosted By Lightning AI | 2026-12-17 | San Francisco, CA, US | [↗](https://allevents.in/san-francisco/avengers-doomsday-early-screening-hosted-by-lightning-ai/4700031096730823) |
+| Dev Day - OpenSpec Day 4 | 2026-12-17 | Victoria, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-victoria-presents-dev-day-openspec-day-4/) |
 | BSides RDU 2026 | 2026-12-18 | Raleigh, NC (USA) | [↗](https://bsidesrdu.org) |
 | The Year-End Social | 2026-12-18 | Surrey, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-surrey-presents-the-year-end-social/) |
 | AI Deck Club @ NJ AI Hub | 2026-12-18 | Princeton, United States of America | [↗](https://www.startupgrind.com/events/details/startup-grind-princeton-presents-ai-deck-club-nj-ai-hub-6/) |
@@ -742,6 +764,7 @@ Developer conferences, summits and meetups across the United States, Canada and 
 | Deploy ADK Agents with Agent Runtime workshop | 2026-12-18 | Grand Rapids, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-grand-rapids-presents-deploy-adk-agents-with-agent-runtime-workshop/) |
 | 🎄 GDG Saskatoon Holiday Social 2026 | 2026-12-18 | Saskatoon, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-saskatoon-presents-gdg-saskatoon-holiday-social-2026/) |
 | Holiday Tech Happy Hour 🎄 | 2026-12-18 | New York City, United States of America | [↗](https://www.startupgrind.com/events/details/startup-grind-new-york-city-presents-holiday-tech-happy-hour-1/) |
+| ❄️ The Year-End Social · GDG Surrey | 2026-12-18 | Surrey, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-surrey-presents-the-year-end-social-gdg-surrey/) |
 | Build with AI: A Project Management Agent with Vertex AI and LangGraph | 2026-12-19 | Ajax, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-ajax-presents-build-with-ai-a-project-management-agent-with-vertex-ai-and-langgraph/) |
 | GDG College Park End-of-Year Community Hangout | 2026-12-19 | College Park, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-college-park-presents-gdg-college-park-end-of-year-community-hangout/) |
 | RocketRide — Developer-First AI Pipeline Infrastructure | 2026-12-19 | Fresno, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-fresno-presents-rocketride-developer-first-ai-pipeline-infrastructure/) |
@@ -749,6 +772,7 @@ Developer conferences, summits and meetups across the United States, Canada and 
 | Meet Your Next Collaborator: A Social for Founders & AI Builders | 2026-12-19 | Markham, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-markham-presents-meet-your-next-collaborator-a-social-for-founders-amp-ai-builders/) |
 | Exploring AI for Beginners | 2026-12-20 | Lethbridge, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-lethbridge-presents-exploring-ai-for-beginners/) |
 | DevFest 2026 | 2026-12-22 | San Diego, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-san-diego-presents-devfest-2026/) |
+| Morning Grind: Founder Coffee Drop-In | 2026-12-29 | Grand Rapids, United States of America | [↗](https://www.startupgrind.com/events/details/startup-grind-grand-rapids-presents-morning-grind-founder-coffee-drop-in-2026-12-29/) |
 | Ghana Tech Summit - 2026 Ai Edition | 2026-12-30 | New York, NY, US | [↗](https://allevents.in/new-york/ghana-tech-summit-2026-ai-edition/100001362903052719) |
 | Small Business AI Clinic: Prompting & Automation Lab (Virtual) | 2026-12-31 | Baltimore, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-baltimore-presents-small-business-ai-clinic-prompting-amp-automation-lab-virtual-2026-12-31/) |
 | Lunch and Learn - Android Development | 2026-12-31 | Columbia, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-columbia-presents-lunch-and-learn-android-development-2026-12-31/) |
@@ -907,6 +931,75 @@ Developer conferences, summits and meetups across the United States, Canada and 
 | Michigan DevFest + AI Hackathon 2027 | 2027-11-12 | Detroit, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-detroit-presents-michigan-devfest-ai-hackathon-2027/) |
 | From Demo to Deployment 2: AI That Actually Ships \| GEW SoFlo x Boston Showcase | 2027-11-19 | Ft. Lauderdale, United States of America | [↗](https://www.startupgrind.com/events/details/startup-grind-ft-lauderdale-presents-from-demo-to-deployment-2-ai-that-actually-ships-gew-soflo-x-boston-showcase/) |
 | Build with Gemma: 305 CodeFest Hackathon Edition December 2027 (Session A - Virtual - Date TBD / Session B - Dec 1-31, 2027 - Virtual Asynchronous) \| Build W AI | 2027-12-01 | Miami, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-florida-international-university-presents-build-with-gemma-305-codefest-hackathon-edition-december-2027-session-a-virtual-date-tbd-session-b-dec-1-31-2027-virtual-asynchronous-build-w-ai/) |
+| For Business Owners: Building AI Agents for Business Workflows | 2026-11-24 | Pittsburgh, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-pittsburgh-presents-for-business-owners-building-ai-agents-for-business-workflows/) |
+| Virtual "Show and Tell" of Projects by the Community | 2026-11-24 | Orlando, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-central-florida-presents-virtual-show-and-tell-of-projects-by-the-community-2026-11-24/) |
+| DevFest Winnipeg 2026 | 2026-11-24 | Winnipeg, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-winnipeg-presents-devfest-winnipeg-2026/) |
+| Startup Grind Fort Lauderdale 2nd Annual Techsgiving Holiday Party | 2026-11-24 | Ft. Lauderdale, United States of America | [↗](https://www.startupgrind.com/events/details/startup-grind-ft-lauderdale-presents-startup-grind-fort-lauderdale-2nd-annual-techsgiving-holiday-party/) |
+| Career OS: Level Up Your Tech Career | 2026-11-24 | Waterloo, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-conestoga-college-waterloo-campus-waterloo-canada-presents-career-os-level-up-your-tech-career/) |
+| Toronto Blockchain Week 2026 | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/blockchainweekto) |
+| COIE Demo Day Fall 2026: Pitch to Win & Showcase -Competitor Application & Registration | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/gtdttu8o) |
+| COIE Demo Day Fall 2026: Pitch to Win & Showcase -General Audience ONLY | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/olqyaeel) |
+| How AgeTech Actually Gets Adopted | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/3kiv9tp2) |
+| Reactor 002 | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/xy10tz17) |
+| 2027 Planning: The Bet You're Making for Next Year - 5 to 9 Society | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/kssxk13h) |
+| Ask a Chief of Staff: Toronto Happy Hour | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/0lebw846) |
+| Social Reading Night #36 | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/o71mdu4l) |
+| Craft Cafe: Make friends, Make crafts | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/h8y8lr5u) |
+| Fuckup Nights Toronto: November 24 | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/funtonov24) |
+| Toronto Revenue Leaders Dinner | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/toronto-revenue-leaders-nov24) |
+| UKRAINIAN DEFENCE TECH 2026 | 2026-11-24 | Toronto, ON, CA | [↗](https://allevents.in/toronto/ukrainian-defence-tech-2026/200031037239637) |
+| Founder Supper Club - Festive Dinner & Mastermind | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/2b8uqqgr) |
+| Hacktober Redux: Open-weight models | 2026-11-24 | Ann Arbor, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-ann-arbor-presents-hacktober-redux-open-weight-models/) |
+| CML Insider: The $20K Playbook | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/rh8o9eog) |
+| MahPoints mahjong league game night Nov 24 | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/fcwzzrop) |
+| El Reto IA para no techies: una idea, un prototipo y tres minutos para convencer | 2026-11-24 | Santo Domingo, Dominican Republic | [↗](https://gdg.community.dev/events/details/google-gdg-santo-domingo-presents-el-reto-ia-para-no-techies-una-idea-un-prototipo-y-tres-minutos-para-convencer/) |
+| AI In The Workplace | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/ut91maly) |
+| BREAKATHON by BotGauge: Bring your agent. Lets break it. | 2026-11-24 | San Francisco, US | [↗](https://lu.ma/nbgpzay1) |
+| Founders Demo Night \| YC, The Residency & More | 2026-11-24 | San Francisco, US | [↗](https://lu.ma/m18xf5h7) |
+| Durable AI Meetup (November Edition) | 2026-11-24 | San Francisco, US | [↗](https://lu.ma/durable-ai-november) |
+| Founder Friendsgiving Dinner | 2026-11-24 | San Francisco, US | [↗](https://lu.ma/sprinto-friendsgiving) |
+| Degrees of Freedom: Embodied AI Builders Night @ Mission Robotics | 2026-11-24 | San Francisco, US | [↗](https://lu.ma/mission-u38j) |
+| Midnight in California: A Holiday Duology Book Signing | 2026-11-24 | San Francisco, US | [↗](https://lu.ma/aluq8vkn) |
+| The No-Prep Book Club SF: What Macbeth Can Teach Us About Sales | 2026-11-24 | San Francisco, US | [↗](https://lu.ma/jbzd5tmm) |
+| An evening with Anna Voloshyna: the launch of UKRAÏNE | 2026-11-24 | San Francisco, US | [↗](https://lu.ma/hjh5nv1y) |
+| Temporal AI Meetup | 2026-11-24 | San Francisco, US | [↗](https://lu.ma/3pfsmcbz) |
+| HackwithBay 4.0 | 2026-11-24 | San Francisco, US | [↗](https://lu.ma/x05cmrqh) |
+| How to Close Deals: Before and After with ARKI | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/dv0vjt8o) |
+| Scrappy Founders Play Soccer | 2026-11-24 | San Francisco, US | [↗](https://lu.ma/rno7bfz4) |
+| Aditya Kumar at the SF Lean Meetup | 2026-11-24 | San Francisco, US | [↗](https://lu.ma/zc0quhtf) |
+| FIKA: Thanksgiving Potluck | 2026-11-24 | San Francisco, US | [↗](https://lu.ma/mbc-xvlo) |
+| An Evening with kHz | 2026-11-24 | New York, US | [↗](https://lu.ma/flktmeq4) |
+| "It's Not Always" @ Streeters Gallery - Metamorphosis Exhibition Opening Night! | 2026-11-24 | New York, US | [↗](https://lu.ma/hwe7arsm) |
+| MuSE @ NYU :: Harmonic Filtration w/ Roey Shamir | 2026-11-24 | New York, US | [↗](https://lu.ma/siz5jkzi) |
+| Startup Dinner | 2026-11-24 | New York, US | [↗](https://lu.ma/1159lhpb) |
+| You Can Laugh At Everything: An Elizabeth Holmes and Nathan Fielder Comedy Show and Lookalike Contest by Elizabeth Swaney | 2026-11-24 | New York, US | [↗](https://lu.ma/lizholmes) |
+| The Farmlink Project x 260 Sample Sale: Apple Picking in NYC | 2026-11-24 | New York, US | [↗](https://lu.ma/wdgdacg6) |
+| BUILDING TRUST AND DEMONSTRATING VALUE THROUGH AN EFFECTIVE BUYER CONSULTATION w. William Krooss-Tadas | 2026-11-24 | New York, US | [↗](https://lu.ma/oesbjkii) |
+| Claude For Financial Leaders - Group 2 | 2026-11-24 | New York, US | [↗](https://lu.ma/enxnixfm) |
+| Harvest Dinner @ AICH | 2026-11-24 | New York, US | [↗](https://lu.ma/21t8j56y) |
+| Building the New Energy Frontier at SPC NYC | 2026-11-24 | New York, US | [↗](https://lu.ma/energy-spc-nyc) |
+| Grok Build Night | 2026-11-24 | New York, US | [↗](https://lu.ma/cu6dl3ij) |
+| Helena Happy Hour | 2026-11-24 | New York, US | [↗](https://lu.ma/d14gqlsw) |
+| NYC B2B x Micro: Founder Friendsgiving | 2026-11-24 | New York, US | [↗](https://lu.ma/20022xzk) |
+| Chi Kung, A Wellness Movement Class | 2026-11-24 | New York, US | [↗](https://lu.ma/pobk8mzy) |
+| CHiP IN: MPR NYC's Fintech Poker Night | 2026-11-24 | New York, US | [↗](https://lu.ma/8fc12g67) |
+| NYC B2B: AI Founders & Investors Meetup | 2026-11-24 | New York, US | [↗](https://lu.ma/ery2bo3s) |
+| SALON CREATIVES VOL. IX | 2026-11-24 | New York, US | [↗](https://lu.ma/t4phy76o) |
+| FWD Coworking pass: 002 | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/falcon-h6x1) |
+| Inventing for the physical world with Devansh Shah | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/falcon-klrb) |
+| Designing consumer social AI with Sid & Patrick from Ambition | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/falcon-23kb) |
+| HOLIDAY FRIENDSGIVING AMAZING SUNSET, CITY LIGHTS & FULL MOON HIKE CLOUD 9 RUINS | 2026-11-24 | Phoenix, us | [↗](https://www.meetup.com/amazing-arizona-adventures-triple-a/events/317468832/) |
+| Guided Meditation | 2026-11-24 | New York, US | [↗](https://lu.ma/5ouvx2v9) |
+| Comfy & Cozy | 2026-11-24 | New York, US | [↗](https://lu.ma/reading-rw1l) |
+| RevOps Meetup | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/9luplebe) |
+| LASL X BASE44 ADVOCACY NIGHT | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/rpzblalz) |
+| AI regulations around the world | 2026-11-24 | Toronto, CA | [↗](https://lu.ma/trajec-d1wi) |
+| FLŌRA X DMAP \| Deep Meditation Approach & Practice | 2026-11-24 | New York, US | [↗](https://lu.ma/kxuuynk2) |
+| Mentorship breakfast with Lindsay MacMillan - Nov 24th at 7:30am in Soho | 2026-11-24 | New York, US | [↗](https://lu.ma/5dhpmm4j) |
+| FOCUS Art Projects presents Kento Senga at Virgin Hotels New York City | 2026-11-24 | New York, US | [↗](https://lu.ma/rtp0nbdt) |
+| Pre-Thanksgiving Happy Hour at LG Collective Studio | 2026-11-24 | New York, US | [↗](https://lu.ma/31vy2c2i) |
+| nervous system regulation | 2026-11-24 | New York, US | [↗](https://lu.ma/pjaetd6z) |
+| Archivo Vivo: Memoria y Libertad \| Archives & Aluminum Embossing Workshop | 2026-11-24 | New York, US | [↗](https://lu.ma/hye7ldjb) |
 | Get into GEAR: Beyond Chatbots, Build Your First AI Agent with Google ADK | 2026-11-23 | Towson, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-towson-university-towson-usa-presents-get-into-gear-beyond-chatbots-build-your-first-ai-agent-with-google-adk/) |
 | GDG Coding Jam @ Seneca: Build with AI, Together! | 2026-11-23 | Toronto, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-seneca-polytechnic-toronto-canada-presents-gdg-coding-jam-seneca-build-with-ai-together/) |
 | The Art of Blow Drying with Allison Kam | 2026-11-23 | Toronto, CA | [↗](https://lu.ma/f8fxlolc) |
@@ -1793,7 +1886,6 @@ Developer conferences, summits and meetups across the United States, Canada and 
 | Rest & Read | 2026-11-18 | New York, US | [↗](https://lu.ma/2fl4buw8) |
 | Roster Radio LIVE: Decoding The Cultural Signals Shaping Beauty | 2026-11-18 | New York, US | [↗](https://lu.ma/rosterradio-beautybeyondthebuzz) |
 | Screen & Social | 2026-11-18 | New York, US | [↗](https://lu.ma/mbgedww1) |
-| Startup Pitch & Networking in NYC Manhattan | 2026-11-18 | New York, US | [↗](https://lu.ma/lxpcykxv) |
 | TriEdge presents: An Evening with Israel's National AI Directorate | 2026-11-18 | New York, US | [↗](https://lu.ma/triedge-byig) |
 | Turning a New Leaf: Canadians in Tech | 2026-11-18 | New York, US | [↗](https://lu.ma/x87s3cjv) |
 | Tzahov Moms’ Night Out | 2026-11-18 | New York, US | [↗](https://lu.ma/lv82rr5b) |
@@ -1833,148 +1925,7 @@ Developer conferences, summits and meetups across the United States, Canada and 
 | S.F. Tech and AI Social | 2026-11-18 to 2026-12-18 | San Francisco, CA, US | [↗](https://allevents.in/san-francisco/sf-tech-and-ai-social/200031064521852) |
 | Launch Your First Website: Beginner Portfolio Workshop | 2026-11-18 | Dobbs Ferry, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-mercy-university-dobbs-ferry-united-states-presents-launch-your-first-website-beginner-portfolio-workshop/) |
 | React Summit US | 2026-11-17 to 2026-11-20 | New York, NY (USA) | [↗](https://reactsummit.us) |
-| CISO Boston 2026 | 2026-11-17 | Boston | [↗](https://dev.events/conferences/ciso-boston-2026-ncb1ancd) |
-| Demo Nights | 2026-11-17 | Waterloo, Canada | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-conestoga-college-waterloo-campus-waterloo-canada-presents-demo-nights/) |
 | NexGen Banking Summit USA 2026 – AI & Banking Innovation Conference, New York | 2026-11-17 to 2026-11-18 | New York, NY, US | [↗](https://allevents.in/new-york/nexgen-banking-summit-usa-2026-ai-and-banking-innovation-conference-new-york-tickets/80001796168029) |
-| OpenInfra Days North America 2025 at SCaLE | 2026-11-17 | Chicago, us | [↗](https://www.meetup.com/openinframn/events/316958001/) |
-| Guest Speaker: The Future of Agentic AI & AI Safety \| Meta FAIR | 2026-11-17 | Hayward, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-california-state-university-east-bay-hayward-united-states-presents-guest-speaker-the-future-of-agentic-ai-amp-ai-safety-meta-fair/) |
-| Startup Grind Bar Night @ The Nassau Inn (September 29) | 2026-11-17 | Princeton, United States of America | [↗](https://www.startupgrind.com/events/details/startup-grind-princeton-presents-startup-grind-bar-night-the-nassau-inn-september-29-1/) |
-| Measure Twice, Automate the Rest | 2026-11-17 | Phoenix, US | [↗](https://www.meetup.com/phoenix-ai-for-business-workshops-networking-strategy/events/317194140/) |
-| [111] Open House | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/7xcbr3t3) |
-| Net Income: Pickleball with Toronto's CFOs @ Fairgrounds | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/ua20n5n1) |
-| Securing and Governing Agentic Enterprise | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/hj8ixb54) |
-| Tech & Tax: Fuelling Canadian Innovation | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/ri6blb5l) |
-| 1RG Silent Reading Club | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/zk5khlty) |
-| Unconference: Own Your AI Stack | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/toronto-unconference) |
-| SF Future Tech: Startups & Digital Innovation Networking Mixer | 2026-11-17 | San Francisco, CA, US | [↗](https://allevents.in/san-francisco/sf-future-tech-startups-and-digital-innovation-networking-mixer/100002004078475669) |
-| Small Business AI Builder Tour: San Francisco | 2026-11-17 | San Francisco, CA, US | [↗](https://allevents.in/san-francisco/small-business-ai-builder-tour-san-francisco/100002003517292154) |
-| Startup Grind Bar Night @ The Nassau Inn (November 17) | 2026-11-17 | Princeton, United States of America | [↗](https://www.startupgrind.com/events/details/startup-grind-princeton-presents-startup-grind-bar-night-the-nassau-inn-november-17/) |
-| At $1M and Beyond, the Cost of a Bad Decision Goes Up. | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/m0z056zb) |
-| MEIE Open Lecture - Financing a Tech Startup | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/m9s83ps0) |
-| Mastering AI Agents: Work Smarter, Not Harder | 2026-11-17 | New York, NY, US | [↗](https://allevents.in/new-york/mastering-ai-agents-work-smarter-not-harder/100002004122433147) |
-| Get Your Hours Back: A Hands-On AI Workshop for Business Owners | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/ac3xfble) |
-| Startup Grind and Fort Connect at GEWKC 2026 | 2026-11-17 | Kansas City, United States of America | [↗](https://www.startupgrind.com/events/details/startup-grind-kansas-city-presents-startup-grind-and-fort-connect-at-gewkc-2026/) |
-| Reactor | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/yg7dcqlv) |
-| De Hechiceros a Devs: Programando "Magia" en Tiempo Real con MediaPipe | 2026-11-17 | Tegucigalpa, Honduras | [↗](https://gdg.community.dev/events/details/google-gdg-tegucigalpa-presents-de-hechiceros-a-devs-programando-magia-en-tiempo-real-con-mediapipe/) |
-| Tech Basketball Run 53 | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/1cc9klco) |
-| Social Reading Night #35 | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/qean2apw) |
-| TechTO’s 12th Anniversary & Rocketships Soirée | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/toronto-12th-anniversary-rocketships-nov-17-2026) |
-| Woven Black in AI Dinner | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/t1a9nzg6) |
-| GDG Muncie Poetry Night Social | 2026-11-17 | Muncie, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-muncie-presents-gdg-muncie-poetry-night-social/) |
-| FIG AI Design Makeathon 2026 \| Winner Demo + Mixer | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/ex4l2rnj) |
-| An Evening at The St. Regis with Ent & TENEX.AI | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/entignite) |
-| Claude for Wealth Managers & Family Offices | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/mg9bwdwr) |
-| Co-Founder or Die II by Draki | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/e7i41xq3) |
-| Nebius AI Exchange San Francisco | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/nebiusaiexchangesf) |
-| Agentic Web #02 — The Browser as an Agent Runtime | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/agentic-web-browser-runtime-nov16-2026) |
-| Clips & Cocktails: AI Marketing Happy Hour with OpusClip & Marina Mogilko (aka Silicon Valley Girl) | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/4xcuvbn7) |
-| Grace Gong x Nebius x Ramp x Chargebee x Fidelity Private Shares Dinner [Venture with Grace CEO Club] | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/w44xn61x) |
-| Keyholders - After Hours for Founders and Investors with Frachtis and Vora | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/lhbj7f8v) |
-| Unwind Before Ignite: An Exclusive MSP Happy Hour | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/zbltcy54) |
-| Abundant's Frontier Forum w/ Daanish Khazi | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/jm8xaacl) |
-| IT Leaders Happy Hour \| San Francisco \| MS Ignite | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/2i0glbm4) |
-| Monday Mukja @ The Buoy | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/buoy) |
-| Who's Watching the Agents? | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/cbpgjghx) |
-| Women in GTM - Transitioning into an AI-native company | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/reductoai-rpl5) |
-| After Now: Drinks & Connections | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/lhcsx1v8) |
-| AI Engineering Workshop | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/makers-2m7t) |
-| WIFI Controlled Lights - ESP-32 Hello World - CHM | 2026-11-17 | San Francisco, US | [↗](https://www.meetup.com/noisebridge/events/317170679/) |
-| All things software infrastructure | 2026-11-17 | San Francisco, us | [↗](https://www.meetup.com/noisebridge/events/317170729/) |
-| Find Your First Customer: Start With One | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/wjl89kxn) |
-| neuro × ai salon | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/44t6nqlf) |
-| After Hours + Tea Time @ Long Journey 11/16 | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/6hsdiuap) |
-| Audio Lab: An Exploration into Bringing Objects to Life | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/audiolabera) |
-| SF Lean Meetup | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/8mbawndk) |
-| MRC Inner Richmond Pop-up | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/wqredu95) |
-| Coffee & Croissants with Trigger.dev | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/rryq4yo7) |
-| Armada at Ignite - Bridge the Digital Divide | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/1ttjj8sv) |
-| Backprop Summit | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/backprop) |
-| Bay Area Search 2026 | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/d8tc595x) |
-| Accelr8 \| Cowork Club | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/accelr8-l0v6) |
-| Open Lunch with Executive Coach Gil Friend: Bring a real decision! | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/9zero-q12q) |
-| PortCon 2026 \| The AI Software Factory Summit | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/Portcon.port.io) |
-| What's Fundable in Age of AI? | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/backprop-afternoon) |
-| Zero to Hundred: GTM Vibe Coding Hackathon | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/sml53r17) |
-| Black Professionals Connect: Shaping the Future of Tech | 2026-11-17 | Toronto, ON, CA | [↗](https://allevents.in/toronto/black-professionals-connect-shaping-the-future-of-tech/100002002403946106) |
-| The Monday Collective | 2026-11-17 | San Francisco, US | [↗](https://lu.ma/bs1hyrt2) |
-| creative parallel play | 2026-11-17 | New York, US | [↗](https://lu.ma/n91sf2cf) |
-| MuSE::Source separation and embedding inversion | 2026-11-17 | New York, US | [↗](https://lu.ma/nokffkop) |
-| NYC PREMIERE - ODDITY TODD | 2026-11-17 | New York, US | [↗](https://lu.ma/5q49tn1j) |
-| Open Book Club screening Portrait of a Lady on Fire | 2026-11-17 | New York, US | [↗](https://lu.ma/zqvz1iiq) |
-| FC NYC • Founders Run & Coffee! | 2026-11-17 | New York, US | [↗](https://lu.ma/zm4q009z) |
-| The AI Spending Paradox in Lending | 2026-11-17 | New York, US | [↗](https://lu.ma/s09dsa5w) |
-| Founder & Investor Breakfast \| Raisi × Reitler | 2026-11-17 | New York, US | [↗](https://lu.ma/raisi-e6y9) |
-| Studio Sessions: Architecture & Design Coworking | 2026-11-17 | New York, US | [↗](https://lu.ma/rwp164z0) |
-| Ask a Chief of Staff x Industrious: NYC Chief of Staff Co-Working Day | 2026-11-17 | New York, US | [↗](https://lu.ma/5h9iov7m) |
-| Claude on Cacao: Clear Intention, Better AI | 2026-11-17 | New York, US | [↗](https://lu.ma/4waow4k3) |
-| BUILD A KW 1-3-5 with William Krooss-Tadas | 2026-11-17 | New York, US | [↗](https://lu.ma/9znf6il9) |
-| BOARD PACKAGE BOOTCAMP w/ Rachel Geller | 2026-11-17 | New York, US | [↗](https://lu.ma/lg0452cv) |
-| Afternoon Cafe Cowork + Casual Networking at LES | 2026-11-17 | New York, US | [↗](https://lu.ma/f65yb82y) |
-| Plug and Play Batch 2 Expo | 2026-11-17 | New York, US | [↗](https://lu.ma/2rwq4gcw) |
-| NYC Tech Leaders Meetup + Repack for Impact | 2026-11-17 | New York, US | [↗](https://lu.ma/o9dumcp2) |
-| Tech:NYC's Decoded Futures Demo Day | 2026-11-17 | New York, US | [↗](https://lu.ma/lzv4ybyo) |
-| Screening: Gever | 2026-11-17 | New York, US | [↗](https://lu.ma/oc5lpfpq) |
-| Intro to Embroidery: Basic Use & Safety | 2026-11-17 | New York, US | [↗](https://lu.ma/36922i6w) |
-| The Next Wave: AI and the Future of Ocean Conservation, with Ocean Agentics | 2026-11-17 | New York, US | [↗](https://lu.ma/AI-OceanConservation) |
-| 2026 Wind-Win Startup Showdown | 2026-11-17 | New York, US | [↗](https://lu.ma/j0umxwup) |
-| Agora × Google DeepMind: Gemini Voice AI Workshop \| NYC | 2026-11-17 | New York, US | [↗](https://lu.ma/voiceai-workshop-nyc-nov17) |
-| Durable Memory for AI Agents: Build Lab with MongoDB | 2026-11-17 | New York, US | [↗](https://lu.ma/build-lab-mongoDB) |
-| Executive Dinner: Why Isn’t AI Helping SaaS Teams Ship Faster? | 2026-11-17 | New York, US | [↗](https://lu.ma/kg8ymi8z) |
-| Legal Tech & Libations | 2026-11-17 | New York, US | [↗](https://lu.ma/qzvjvmyu) |
-| Take Flight With Reducto | 2026-11-17 | New York, US | [↗](https://lu.ma/reductoai-fiw4) |
-| The Sound of Change: How Music Moves Climate and Culture | 2026-11-17 | New York, US | [↗](https://lu.ma/mbs2jynw) |
-| VISA Invites You: A Festive Volunteer Gathering 🎨🎁 | 2026-11-17 | New York, US | [↗](https://lu.ma/m6ay47ra) |
-| A New Space Worth Savoring: OpenFortune Omakase | 2026-11-17 | New York, US | [↗](https://lu.ma/pjd9ii46) |
-| Baruch College FoundersFair | 2026-11-17 | New York, US | [↗](https://lu.ma/4qynekfj) |
-| Celebrating LangChain’s Series C (New York) | 2026-11-17 | New York, US | [↗](https://lu.ma/6zsv3ps6) |
-| CFO Happy Hour | 2026-11-17 | New York, US | [↗](https://lu.ma/fv6p65gk) |
-| CKA NY Chapter Launch | 2026-11-17 | New York, US | [↗](https://lu.ma/ckany1117) |
-| EDORMAL LAUNCHES AT THE CANVAS SOHO | 2026-11-17 | New York, US | [↗](https://lu.ma/thecanvas-34jt) |
-| First Citizens Innovation Banking x Withum x Valli Ventures: Fintech Folks Wine Tasting | 2026-11-17 | New York, US | [↗](https://lu.ma/9fyyx5ta) |
-| FJC 2026 Autumn Social | 2026-11-17 | New York, US | [↗](https://lu.ma/r2c9rpp2) |
-| From Usable to Beloved: Exploring Love as a Behavioral Design Principle | 2026-11-17 | New York, US | [↗](https://lu.ma/t62sz2ko) |
-| Global signals For Brand Building | 2026-11-17 | New York, US | [↗](https://lu.ma/brodxxtx) |
-| Happy Hour: Preview of the New American Careforce | 2026-11-17 | New York, US | [↗](https://lu.ma/8ca42mci) |
-| Human Design Lab: Create Your Pitch | 2026-11-17 | New York, US | [↗](https://lu.ma/tevhvlvb) |
-| Inlight Dance for Camera: Alli Burgess | 2026-11-17 | New York, US | [↗](https://lu.ma/lnpdzwk5) |
-| Investing Beyond the Pitch: Identifying Enduring Consumer Trends | 2026-11-17 | New York, US | [↗](https://lu.ma/2m2vwler) |
-| Litquidity Happy Hour - Presented by DiligenceSquared | 2026-11-17 | New York, US | [↗](https://lu.ma/refpxck2) |
-| New York K-Beauty Experience Event | 2026-11-17 | New York, US | [↗](https://lu.ma/1x6gpabv) |
-| NYC AI Safety Primer: Hugging Face and Existential Risk. | 2026-11-17 | New York, US | [↗](https://lu.ma/8f8ac3yk) |
-| NYC B2B: FinTech Founders & Investors Meetup | 2026-11-17 | New York, US | [↗](https://lu.ma/4dk36jal) |
-| NYU WinC Builder Sprint | 2026-11-17 | New York, US | [↗](https://lu.ma/el4qd0t0) |
-| Retail Leaders Reception - Holiday Celebration | 2026-11-17 | New York, US | [↗](https://lu.ma/k9ga08tq) |
-| Special Speaker Event Sean Mayberry | 2026-11-17 | New York, US | [↗](https://lu.ma/3ad2whnz) |
-| Stacksync x Supabase New York: AI That Does the Work | 2026-11-17 | New York, US | [↗](https://lu.ma/stacksync-supabase-nyc) |
-| Startup & Venture Legal Happy Hour🍸 | 2026-11-17 | New York, US | [↗](https://lu.ma/3sq5ww2e) |
-| Tech Social Tuesdays | 2026-11-17 | New York, US | [↗](https://lu.ma/kcvks9h3) |
-| Ultralytics Meetup: New York \| Physical AI | 2026-11-17 | New York, US | [↗](https://lu.ma/ch1cccql) |
-| Women.NYC × She AI: Build Night | 2026-11-17 | New York, US | [↗](https://lu.ma/baquu5iv) |
-| Women Who Write The Checks: Wealth Meets Venture | 2026-11-17 | New York, US | [↗](https://lu.ma/109xjyrn) |
-| Zig NYC | 2026-11-17 | New York, US | [↗](https://lu.ma/bbhu367k) |
-| analog art night: sweater weather edition | 2026-11-17 | New York, US | [↗](https://lu.ma/3nio9182) |
-| Build & Connect NYC: Learn How to Ship Software with AI | 2026-11-17 | New York, US | [↗](https://lu.ma/ai-cdn0) |
-| Executive Roundtable Dinner - Governing AI at Scale: Turning Innovation into Business Outcomes | 2026-11-17 | New York, US | [↗](https://lu.ma/lmy49aqh) |
-| Trader Tuesday | 2026-11-17 | New York, US | [↗](https://lu.ma/uit73clc) |
-| Fluid Foundations with NINI | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/inhkiicp) |
-| west side evening | 2026-11-17 | New York, US | [↗](https://lu.ma/7k3194rv) |
-| Chinese / HK Mahjong on the Upper West Side! | 2026-11-17 | New York, US | [↗](https://lu.ma/pd2n7n1f) |
-| La French Tech New York - Afterwork | 2026-11-17 | New York, US | [↗](https://lu.ma/z7gjmgyt) |
-| Machine Learning in Computational Biology x Amplify Bio Happy Hour | 2026-11-17 | New York, US | [↗](https://lu.ma/MLCB) |
-| Mastermind Dinner | 2026-11-17 | New York, US | [↗](https://lu.ma/lndciui1) |
-| Playbook 2.0 Release | 2026-11-17 | New York, US | [↗](https://lu.ma/12t8zpij) |
-| Tech Table Talk: Career, Family & Life on Your Terms | 2026-11-17 | New York, US | [↗](https://lu.ma/leuiekji) |
-| The Girl Math of Prenups: Navigating Marriage with Confidence (In-Person RSVP) | 2026-11-17 | New York, US | [↗](https://lu.ma/1gltogo7) |
-| Reading Rhythms "Books-giving" Book Swap and Donation Drive in Midtown: November 17th | 2026-11-17 | New York, US | [↗](https://lu.ma/reading-1uvh) |
-| Satellite Breakfast | 2026-11-17 | New York, US | [↗](https://lu.ma/i8k2pvda) |
-| Clique Matcha Club 🍵 at MAMALI | 2026-11-17 | New York, US | [↗](https://lu.ma/bz59r14h) |
-| Non-Alcoholic Wine Tasting | 2026-11-17 | New York, US | [↗](https://lu.ma/jy5mz3eb) |
-| CENTER STAGE LOTTERY | 2026-11-17 | New York, US | [↗](https://lu.ma/ryrtoqsu) |
-| Cogent x Rillet \| Tech Talk & Candle Making | 2026-11-17 | New York, US | [↗](https://lu.ma/0likr529) |
-| DataAI Roadshow Toronto | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/m2ls0uda) |
-| MahPoints mahjong league game night Nov 17 | 2026-11-17 | Toronto, CA | [↗](https://lu.ma/subscf4r) |
-| Google Hardware Insights: Tech Talk | 2026-11-17 | San Marcos, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-texas-state-university-san-marcos-united-states-presents-google-hardware-insights-tech-talk/) |
-| Kickoff Code and Connect: General Body Meeting #2 | 2026-11-17 | Gainesville, United States of America | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-florida-gainesville-united-states-presents-kickoff-code-and-connect-general-body-meeting-2/) |
 | AI Coding Summit New York Edition | 2026-11-16 to 2026-11-19 | New York, NY (USA) | [↗](https://aicodingsummit.com/nyc) |
 | JSNation US | 2026-11-16 to 2026-11-19 | New York, NY (USA) | [↗](https://jsnation.us) |
 | Ai Coding Summit (New York Edition) | 2026-11-16 to 2026-11-19 | New York | [↗](https://dev.events/conferences/ai-coding-summit-new-york-edition-m5oyvewo) |

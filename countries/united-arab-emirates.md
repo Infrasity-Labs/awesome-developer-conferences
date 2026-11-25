@@ -1,11 +1,9 @@
 # Developer Events in United Arab Emirates
 
-16 upcoming events. [Back to the full directory](../README.md)
+14 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Pitch Ready: Prepare for a Startup Competition or Demo Day - Startup World Cup Abu Dhabi Edition | 2026-11-24 | Dubai, United Arab Emirates | [↗](https://www.startupgrind.com/events/details/startup-grind-dubai-presents-pitch-ready-prepare-for-a-startup-competition-or-demo-day-startup-world-cup-abu-dhabi-edition/) |
-| AI tools in Action: Prompting to Perception | 2026-11-24 | Sharjah, United Arab Emirates | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-higher-colleges-of-technology-sharjah-united-arab-emirates-presents-ai-tools-in-action-prompting-to-perception/) |
 | WORKSHOP: GITEX Lead Catcher: Build Your Own AI Business Card Scanner with Antigravity | 2026-12-06 | Dubai, United Arab Emirates | [↗](https://gdg.community.dev/events/details/google-gdg-dubai-presents-workshop-gitex-lead-catcher-build-your-own-ai-business-card-scanner-with-antigravity/) |
 | GITEX Global | 2026-12-07 to 2026-12-11 | Dubai, UAE | [↗](https://www.gitex.com) |
 | Expand North Star 2026 | 2026-12-08 to 2026-12-10 | Dubai, United Arab Emirates | [↗](https://expandnorthstar.com) |

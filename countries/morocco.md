@@ -1,9 +1,10 @@
 # Developer Events in Morocco
 
-7 upcoming events. [Back to the full directory](../README.md)
+8 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
+| Automate Anything with n8n | 2026-11-26 | Fes, Morocco | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-school-of-applied-sciences-of-fes-fes-morocco-presents-automate-anything-with-n8n/) |
 | 🚀  Build with Flutter | 2026-11-28 | El Jadida, Morocco | [↗](https://gdg.community.dev/events/details/google-gdg-el-jadida-presents-build-with-flutter/) |
 | Coding Challenge: Solve Real-World Problems | 2026-12-05 | Fes, Morocco | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-school-of-applied-sciences-of-fes-fes-morocco-presents-coding-challenge-solve-real-world-problems/) |
 | Agile En Med Casablanca 2026 | 2026-12-12 | Casablanca | [↗](https://dev.events/conferences/agile-en-med-casablanca-2026-5bycu7bt) |

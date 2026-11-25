@@ -6,15 +6,12 @@ Developer conferences and community events across South America. [Back to the di
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Explorando HTTPs e a Revolução da IA Agêntica | 2026-11-24 | Barueri, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-barueri-presents-explorando-https-e-a-revolucao-da-ia-agentica/) |
-| Cloud Lab BH #1 | 2026-11-24 | Belo Horizonte, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-belo-horizonte-presents-cloud-lab-bh-1/) |
-| Datos satelitales en minutos con Google Earth Engine (GEE) | 2026-11-24 | San Juan, Argentina | [↗](https://gdg.community.dev/events/details/google-gdg-san-juan-presents-datos-satelitales-en-minutos-con-google-earth-engine-gee/) |
-| Elefantes Projetam, Peixes-Dourados Revisam: Desenvolvimento Agêntico sem Bagunçar o Repositório | 2026-11-24 | Porto Alegre, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-elefantes-projetam-peixes-dourados-revisam-desenvolvimento-agentico-sem-baguncar-o-repositorio/) |
-| Workshop Prático: Construindo Aplicações Web com Event Sourcing | 2026-11-24 | Uberlandia, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-uberlandia-presents-workshop-pratico-construindo-aplicacoes-web-com-event-sourcing/) |
 | Esquenta DevFest Cerrado 2026 | 2026-11-25 | Goiania, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-goiania-presents-esquenta-devfest-cerrado-2026/) |
 | French Tech São Paulo Summit | 2026-11-25 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/french-tech-são-paulo-summit/4700031097072307) |
 | Quarta na AI House #64 · A inauguração continua | 2026-11-25 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/quarta-na-ai-house-64-·-a-inauguração-continua/4700031097076554) |
 | ODSC AI Skills Accelerator \| São Paulo | 2026-11-25 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/odsc-ai-skills-accelerator-são-paulo/4700031097079444) |
+| GOOGLE AI: Innovación, agentes inteligentes y el futuro digital | 2026-11-25 | Piura, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-piura-presents-google-ai-innovacion-agentes-inteligentes-y-el-futuro-digital/) |
+| Agentes de IA en tu app móvil con Firebase y Genkit | 2026-11-25 | Sucre, Bolivia | [↗](https://gdg.community.dev/events/details/google-gdg-sucre-presents-agentes-de-ia-en-tu-app-movil-con-firebase-y-genkit/) |
 | DevFest Marília 2026 | 2026-11-26 | Marília, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-marilia-presents-devfest-marilia-2026/) |
 | DevFest Caraguatatuba 2026 | 2026-11-26 | Caraguatatuba, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-caraguatatuba-presents-devfest-caraguatatuba-2026/) |
 | GDG Maceió Reborn - Meetup 26/11/2026 | 2026-11-26 | Maceió, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-maceio-presents-gdg-maceio-reborn-meetup-26112026/) |
@@ -23,8 +20,10 @@ Developer conferences and community events across South America. [Back to the di
 | Tech Leaders Coffee \| Cubo + Oracle | 2026-11-26 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/tech-leaders-coffee-cubo-oracle/4700031097073913) |
 | Women's Brunch - AI ao Cubo Edition | 2026-11-26 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/womens-brunch-ai-ao-cubo-edition/4700031097080654) |
 | Puliendo datos con BI e IA: charlando con expertos | 2026-11-26 | Asunción, Paraguay | [↗](https://gdg.community.dev/events/details/google-gdg-asuncion-presents-puliendo-datos-con-bi-e-ia-charlando-con-expertos/) |
+| Taller presencial: "Modelado de Datos y el ‘Cerebro’ del MVP" | 2026-11-26 | Piura, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-piura-presents-taller-presencial-modelado-de-datos-y-el-cerebro-del-mvp/) |
 | DevFest Caracas 2026 | 2026-11-27 | Caracas, Venezuela | [↗](https://gdg.community.dev/events/details/google-gdg-caracas-presents-devfest-caracas-2026/) |
 | AI Builder Tour São Paulo | 2026-11-27 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/ai-builder-tour-são-paulo/4700031097077106) |
+| Marketing Digital con IA: Potencia tu Emprendimiento | 2026-11-27 | Cusco, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-cusco-presents-marketing-digital-con-ia-potencia-tu-emprendimiento/) |
 | GambiConf 2026 | 2026-11-28 to 2026-11-29 | São Paulo (Brazil) | [↗](https://gambiconf.dev/) |
 | DevFest Ica 2026 | 2026-11-28 | Ica, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-ica-presents-devfest-ica-2026/) |
 | DevFest Open Lima 2026 | 2026-11-28 | Lima, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-open-presents-devfest-open-lima-2026/) |
@@ -79,6 +78,11 @@ Developer conferences and community events across South America. [Back to the di
 | GITEX AI LATAM | 2027-03-16 | São Paulo, Brazil | [↗](https://www.gitexlatam.com) |
 | Devopsdays Belo Horizonte | 2027-05-15 | Belo Horizonte (Brazil) | [↗](https://devopsdays.org/events/2027-belo-horizonte) |
 | Devopsdays Curitiba | 2027-08-21 | Curitiba (Brazil) | [↗](https://devopsdays.org/events/2027-curitiba) |
+| Explorando HTTPs e a Revolução da IA Agêntica | 2026-11-24 | Barueri, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-barueri-presents-explorando-https-e-a-revolucao-da-ia-agentica/) |
+| Cloud Lab BH #1 | 2026-11-24 | Belo Horizonte, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-belo-horizonte-presents-cloud-lab-bh-1/) |
+| Datos satelitales en minutos con Google Earth Engine (GEE) | 2026-11-24 | San Juan, Argentina | [↗](https://gdg.community.dev/events/details/google-gdg-san-juan-presents-datos-satelitales-en-minutos-con-google-earth-engine-gee/) |
+| Elefantes Projetam, Peixes-Dourados Revisam: Desenvolvimento Agêntico sem Bagunçar o Repositório | 2026-11-24 | Porto Alegre, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-elefantes-projetam-peixes-dourados-revisam-desenvolvimento-agentico-sem-baguncar-o-repositorio/) |
+| Workshop Prático: Construindo Aplicações Web com Event Sourcing | 2026-11-24 | Uberlandia, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-uberlandia-presents-workshop-pratico-construindo-aplicacoes-web-com-event-sourcing/) |
 | DevFest Ctba 2026 | 2026-11-22 | Curitiba, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-curitiba-presents-devfest-ctba-2026/) |
 | DevFest La Paz 2026: Innovación y Futuro | 2026-11-21 | La Paz, Bolivia | [↗](https://gdg.community.dev/events/details/google-gdg-la-paz-presents-devfest-la-paz-2026-innovacion-y-futuro/) |
 | BoyaConf 2026 | 2026-11-21 | Tunja (Colombia) | [↗](https://boyaca-dev.org/conf/2026) |

@@ -1,9 +1,12 @@
 # Developer Events in Peru
 
-8 upcoming events. [Back to the full directory](../README.md)
+11 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
+| GOOGLE AI: Innovación, agentes inteligentes y el futuro digital | 2026-11-25 | Piura, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-piura-presents-google-ai-innovacion-agentes-inteligentes-y-el-futuro-digital/) |
+| Taller presencial: "Modelado de Datos y el ‘Cerebro’ del MVP" | 2026-11-26 | Piura, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-piura-presents-taller-presencial-modelado-de-datos-y-el-cerebro-del-mvp/) |
+| Marketing Digital con IA: Potencia tu Emprendimiento | 2026-11-27 | Cusco, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-cusco-presents-marketing-digital-con-ia-potencia-tu-emprendimiento/) |
 | DevFest Ica 2026 | 2026-11-28 | Ica, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-ica-presents-devfest-ica-2026/) |
 | DevFest Open Lima 2026 | 2026-11-28 | Lima, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-open-presents-devfest-open-lima-2026/) |
 | DEVFEST PIURA 2026 | 2026-11-28 | Piura, Peru | [↗](https://gdg.community.dev/events/details/google-gdg-piura-presents-devfest-piura-2026/) |
