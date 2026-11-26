@@ -1,17 +1,16 @@
 # Developer Events in Italy
 
-36 upcoming events. [Back to the full directory](../README.md)
+35 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | Investor Days 2026 | 2026-11-25 to 2026-11-26 | Milan, Italy | [↗](https://www.b2match.com/e/investor-days-2026) |
-| Road To DevFest Alps 2026 | 2026-11-25 | Saint-Vincent, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-valle-daosta-presents-road-to-devfest-alps-2026/) |
-| GDG Onboarding Aperitivo 🎉 | 2026-11-25 | Rome, Italy, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-luiss-guido-carli-rome-italy-presents-gdg-onboarding-aperitivo/) |
 | Cybersecurity e Google Gemini: dalla genesi di un attacco informatico all'analisi dei log e alle strategie di difesa | 2026-11-26 | Treviso, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-treviso-presents-cybersecurity-e-google-gemini-dalla-genesi-di-un-attacco-informatico-allanalisi-dei-log-e-alle-strategie-di-difesa/) |
 | Da sviluppatore a orchestratore: esperimenti con una software house multiagente multiprovider | 2026-11-26 | Rome, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-roma-citta-presents-da-sviluppatore-a-orchestratore-esperimenti-con-una-software-house-multiagente-multiprovider/) |
 | Cybersecurity e Google Gemini | 2026-11-26 | Veneto, Italy | [↗](https://www.startupgrind.com/events/details/startup-grind-veneto-presents-cybersecurity-e-google-gemini/) |
 | Aspettando Devfest Alps 2026 - Aperitech Party | 2026-11-27 | Torino, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-torino-presents-aspettando-devfest-alps-2026-aperitech-party/) |
 | ⚡️ Oltre il login: anatomia del phishing moderno ⚡️ | 2026-11-27 | Pisa, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-pisa-presents-oltre-il-login-anatomia-del-phishing-moderno/) |
+| Wanted: Data Intelligence Secret Agents 🕵️‍♂️ | 2026-11-27 | Rome, Italy, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-luiss-guido-carli-rome-italy-presents-wanted-data-intelligence-secret-agents/) |
 | Devfest Alps 2026 | 2026-11-28 | Torino, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-torino-presents-devfest-alps-2026/) |
 | Il commercialista è diventato digitale. Da studio di famiglia a startup: la storia di Fido Commercialista | 2026-11-30 | Vicenza, Italy | [↗](https://www.startupgrind.com/events/details/startup-grind-vicenza-presents-il-commercialista-e-diventato-digitale-da-studio-di-famiglia-a-startup-la-storia-di-fido-commercialista/) |
 | GDG Launch Aperitivo | 2026-11-30 | Rome, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sapienza-university-of-rome-rome-italy-presents-gdg-launch-aperitivo/) |

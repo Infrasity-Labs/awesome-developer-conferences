@@ -1,11 +1,9 @@
 # Developer Events in Vietnam
 
-18 upcoming events. [Back to the full directory](../README.md)
+16 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Road to DevFest 2026: Decision Models vs Gemini on Cloud Run | 2026-11-25 | Ho Chi Minh City, Vietnam | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-fpt-university-ho-chi-minh-city-vietnam-presents-road-to-devfest-2026-decision-models-vs-gemini-on-cloud-run/) |
-| Road to DevFest 2026 – From Decision Models to Decision Engines on Cloud Run | 2026-11-25 | Ho Chi Minh City, Vietnam | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-fpt-university-ho-chi-minh-city-vietnam-presents-road-to-devfest-2026-from-decision-models-to-decision-engines-on-cloud-run/) |
 | DevFest on Campus HCMC 2026 - GDGoC Ho Chi Minh City International University | 2026-11-27 | Ho Chi Minh City, Vietnam | [↗](https://gdg.community.dev/events/details/google-gdg-ho-chi-minh-city-presents-devfest-on-campus-hcmc-2026-gdgoc-ho-chi-minh-city-international-university/) |
 | GDG Live Vietnam - DevFest 2026 - Prompt to Production | 2026-11-28 | Ho Chi Minh City, Vietnam | [↗](https://gdg.community.dev/events/details/google-gdg-live-vietnam-presents-gdg-live-vietnam-devfest-2026-prompt-to-production/) |
 | DevFest GDG Live Vietnam 2026 | 2026-11-28 | Ho Chi Minh City, Vietnam | [↗](https://gdg.community.dev/events/details/google-gdg-live-vietnam-presents-devfest-gdg-live-vietnam-2026/) |

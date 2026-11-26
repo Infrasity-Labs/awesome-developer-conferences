@@ -1,12 +1,9 @@
 # Developer Events in Nigeria
 
-37 upcoming events. [Back to the full directory](../README.md)
+36 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Mentorship Session | 2026-11-25 | Abeokuta, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-federal-university-of-agriculture-abeokuta-nigeria-presents-mentorship-session-2026-11-25/) |
-| AI Workshop: Elevating Standards | 2026-11-25 | Wudil, Nigeria, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-aliko-dangote-university-of-science-and-technology-wudil-nigeria-presents-ai-workshop-elevating-standards/) |
-| PIPress x GDGoC LAUTECH: Write Smarter. Research Faster. Publish with Confidence | 2026-11-25 | Ogbomosho, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ladoke-akintola-university-of-technology-ogbomosho-nigeria-presents-pipress-x-gdgoc-lautech-write-smarter-research-faster-publish-with-confidence/) |
 | Decode Tech:Exploring the Tech Ecosystem | 2026-11-26 | Okitipupa, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-olusegun-agagu-university-of-science-technology-okitipupa-nigeria-presents-decode-techexploring-the-tech-ecosystem/) |
 | AI for Standards: Empowering SON Staff | 2026-11-26 | Wudil, Nigeria, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-aliko-dangote-university-of-science-and-technology-wudil-nigeria-presents-ai-for-standards-empowering-son-staff/) |
 | A Beginner's Guide to Google Cloud Data & AI Services | 2026-11-27 | Kaduna, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-a-beginners-guide-to-google-cloud-data-amp-ai-services-2026-11-27/) |
@@ -17,8 +14,8 @@
 | Business Intelligence Saturday | 2026-11-28 | Kaduna, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-business-intelligence-saturday-2026-11-28-1/) |
 | From data to intelligence  Build an Ai-powered web app that analyses text, images, audio and documents using simple prompts. | 2026-11-28 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-from-data-to-intelligence-build-an-ai-powered-web-app-that-analyses-text-images-audio-and-documents-using-simple-prompts/) |
 | GDG FUOYE X BUILD54: Impact Hack Day | 2026-11-28 | Oye-Ekiti, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-federal-university-oye-ekiti-oye-ekiti-nigeria-presents-gdg-fuoye-x-build54-impact-hack-day/) |
-| Launch Your Portfolio Website with AI | 2026-11-28 | Bauchi, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-abubakar-tafawa-balewa-university-bauchi-nigeria-presents-launch-your-portfolio-website-with-ai/) |
 | FROM ZERO TO GOOGLE:HOW TO BUILD A DIGITAL IDENTITY THAT GETS FOUND | 2026-11-28 | Iyin, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-federal-university-of-technology-and-environmental-sciences-iyin-ekiti-nigeria-presents-from-zero-to-googlehow-to-build-a-digital-identity-that-gets-found/) |
+| Get Google Certified (ACE): Week 3: Compute, and how to choose it | 2026-11-28 | Awka, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-nnamdi-azikiwe-university-awka-nigeria-presents-get-google-certified-ace-week-3-compute-and-how-to-choose-it/) |
 | Data Science-AI-Cloud Sundays | 2026-11-29 | Kaduna, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-11-29/) |
 | Empowering University Staff Through AI | 2026-11-30 | Wudil, Nigeria, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-aliko-dangote-university-of-science-and-technology-wudil-nigeria-presents-empowering-university-staff-through-ai/) |
 | DevFest Enugu 2026 | 2026-12-04 | Enugu, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-enugu-presents-devfest-enugu-2026-1/) |
@@ -28,6 +25,7 @@
 | DevFest Asaba 2026 | 2026-12-05 | Asaba, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-asaba-presents-devfest-asaba-2026/) |
 | Devfest Kano 2026 | 2026-12-05 | Kano, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-kano-presents-devfest-kano-2026/) |
 | 404: Screen Not Found, Let's Touch Grass | 2026-12-05 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-404-screen-not-found-lets-touch-grass/) |
+| Detect the unusual. Protect the system | 2026-12-06 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-detect-the-unusual-protect-the-system/) |
 | DevFest Benin 2026: Connect, Learn, Innovate | 2026-12-12 | Benin, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-benin-presents-devfest-benin-2026-connect-learn-innovate/) |
 | DevFest Meetup Ikot Ekpene 2026 | 2026-12-12 | Ikot Ekpene, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-ikot-ekpene-presents-devfest-meetup-ikot-ekpene-2026/) |
 | Devfest 2026: Building Safe, Secure & Scalable Solutions with AI and Cloud for Local Impact | 2026-12-12 | Osogbo, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-osogbo-presents-devfest-2026-building-safe-secure-amp-scalable-solutions-with-ai-and-cloud-for-local-impact/) |
@@ -40,4 +38,5 @@
 | DevFest Dutse '26 | 2026-12-19 | Dutse, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-dutse-presents-devfest-dutse-26/) |
 | Build with AI: Data Science-AI-Cloud Sundays | 2026-12-20 | Kaduna, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-build-with-ai-data-science-ai-cloud-sundays-2026-12-20/) |
 | Hands-On AI Workshop: Building Careers with Google AI & Cloud | 2026-12-29 | Kaduna, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-hands-on-ai-workshop-building-careers-with-google-ai-amp-cloud-2026-12-29/) |
+| Mentorship Session | 2026-12-30 | Abeokuta, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-federal-university-of-agriculture-abeokuta-nigeria-presents-mentorship-session-2026-12-30/) |
 | Tech Unite Africa 2027 | 2027-03-26 | Lagos | [↗](https://dev.events/conferences/tech-unite-africa-2027-ngojbjbp) |

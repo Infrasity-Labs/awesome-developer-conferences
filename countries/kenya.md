@@ -4,21 +4,20 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| STARTUP GRIND NAIROBI TECH WEEK DAY 3: "FINARCHITECTS" | 2026-11-25 | Nairobi, Kenya | [↗](https://www.startupgrind.com/events/details/startup-grind-nairobi-presents-startup-grind-nairobi-tech-week-day-3-finarchitects/) |
-| Build Your Own Exam Planner with AI \| Builders Jam Track 01 | 2026-11-25 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-nairobi-nairobi-kenya-presents-build-your-own-exam-planner-with-ai-builders-jam-track-01/) |
-| Intellectual Property, Copyright & Ownership in the Age of AI | 2026-11-25 | Mombasa, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-pwani-presents-intellectual-property-copyright-amp-ownership-in-the-age-of-ai/) |
-| Discover UI Design: Visual & Interaction Design | 2026-11-25 | Nakuru, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kabarak-university-nakuru-kenya-presents-discover-ui-design-visual-amp-interaction-design/) |
-| Machine Learning: The Foundations. | 2026-11-25 | Juja, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-machine-learning-the-foundations/) |
 | Siscom Digital Infrastructure Investments Roundtable | 2026-11-26 | Nairobi | [↗](https://dev.events/conferences/siscom-digital-infrastructure-investments-roundtable-rwws-ejm) |
 | STARTUP GRIND NAIROBI TECH WEEK DAY 4:  "HARD TECH & THE PHYSICAL WORLD" | 2026-11-26 | Nairobi, Kenya | [↗](https://www.startupgrind.com/events/details/startup-grind-nairobi-presents-startup-grind-nairobi-tech-week-day-4-hard-tech-amp-the-physical-world/) |
 | WordCamp Nairobi 2026 | 2026-11-26 | Nairobi | [↗](https://dev.events/conferences/word-camp-nairobi-2026-ccmuu5s) |
 | Workshop: Building BigQuery Agents with ADK and GenAI Eval | 2026-11-26 | Juja, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-workshop-building-bigquery-agents-with-adk-and-genai-eval/) |
 | Builder’s Jam: Cloud, Data & Databases Made Simple | 2026-11-26 | Eldoret, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-moi-university-eldoret-kenya-presents-builders-jam-cloud-data-amp-databases-made-simple/) |
 | Serverless in Action: Deploy Your First App on Google Cloud | 2026-11-26 | Juja, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-serverless-in-action-deploy-your-first-app-on-google-cloud/) |
+| Launch Your Portfolio Website with AI | 2026-11-26 | Eldoret, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-eldoret-eldoret-kenya-presents-launch-your-portfolio-website-with-ai/) |
 | STARTUP GRIND NAIROBI TECH WEEK DAY 5:  "COGNITIVE AFRICA" | 2026-11-27 | Nairobi, Kenya | [↗](https://www.startupgrind.com/events/details/startup-grind-nairobi-presents-startup-grind-nairobi-tech-week-day-5-cognitive-africa/) |
 | Women In Tech Summit Kenya 2026 | 2026-11-27 to 2026-11-28 | Nairobi (Kenya) | [↗](https://www.summit.womenintechblog.dev/) |
 | Pre-DevFest Pwani 2026: Build with Google Antigravity — Hands-On Workshop | 2026-11-27 | Mombasa, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-pwani-presents-pre-devfest-pwani-2026-build-with-google-antigravity-hands-on-workshop/) |
 | Suluhu Hack 1.0: Hack for Health, with ALX UoN Club | 2026-11-27 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-nairobi-nairobi-kenya-presents-suluhu-hack-10-hack-for-health-with-alx-uon-club/) |
+| Design Delight: Mastering Material Design in Android Apps | 2026-11-27 | Nyeri, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-dedan-kimathi-university-of-technology-nyeri-kenya-presents-design-delight-mastering-material-design-in-android-apps/) |
+| Code Smarter: From Basic Scripts to Smart Logic. | 2026-11-27 | Nyeri, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-dedan-kimathi-university-of-technology-nyeri-kenya-presents-code-smarter-from-basic-scripts-to-smart-logic/) |
+| Web Dev Basics: Hands-On Workshop | 2026-11-27 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-kenya-nairobi-kenya-presents-web-dev-basics-hands-on-workshop/) |
 | DevFest Pwani 2026 | 2026-11-28 | Mombasa, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-pwani-presents-devfest-pwani-2026/) |
 | Understanding Data Analysis: From Raw Data to useful insights | 2026-11-28 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-the-co-operative-university-of-kenya-nairobi-kenya-presents-understanding-data-analysis-from-raw-data-to-useful-insights/) |
 | GitHub 2.0: Branches, Pull Requests and Your First Open-Source Contribution | 2026-11-28 | Nairobi, Kenya | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-nairobi-nairobi-kenya-presents-github-20-branches-pull-requests-and-your-first-open-source-contribution/) |
@@ -31,4 +30,5 @@
 | STARTUP GRIND NAIROBI TECH WEEK - DAY 1: "DEV(SEC)OPS & INFRASTRUCTURE" | 2027-06-28 | Nairobi, Kenya | [↗](https://www.startupgrind.com/events/details/startup-grind-nairobi-presents-startup-grind-nairobi-tech-week-day-1-devsecops-amp-infrastructure/) |
 | STARTUP GRIND NAIROBI WEEK - DEEP TECH FRONTIER | 2027-06-28 | Nairobi, Kenya | [↗](https://www.startupgrind.com/events/details/startup-grind-nairobi-presents-startup-grind-nairobi-week-deep-tech-frontier/) |
 | STARTUP GRIND NAIROBI TECH WEEK DAY 2:  "DECENTRALIZED NAIROBI" | 2027-06-29 | Nairobi, Kenya | [↗](https://www.startupgrind.com/events/details/startup-grind-nairobi-presents-startup-grind-nairobi-tech-week-day-2-decentralized-nairobi/) |
+| STARTUP GRIND NAIROBI TECH WEEK DAY 3: "FINARCHITECTS" | 2027-06-30 | Nairobi, Kenya | [↗](https://www.startupgrind.com/events/details/startup-grind-nairobi-presents-startup-grind-nairobi-tech-week-day-3-finarchitects/) |
 | AGNTSummit Nairobi | 2027-11-17 | Nairobi (Kenya) | [↗](https://events.linuxfoundation.org/agntsummit-nairobi/) |

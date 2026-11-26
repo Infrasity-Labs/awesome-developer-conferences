@@ -1,12 +1,9 @@
 # Developer Events in Indonesia
 
-26 upcoming events. [Back to the full directory](../README.md)
+27 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| StudyJam #2 - Web Development #TechSeries \| Golang Fundamentals & First API | 2026-11-25 | Malang, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-brawijaya-malang-indonesia-presents-studyjam-2-web-development-techseries-golang-fundamentals-amp-first-api/) |
-| DevFest Live Indonesia 2026 - Ep. 1 \| Measure, Guide, Fix: Core Web Vitals with an AI Agent | 2026-11-25 | Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-live-indonesia-presents-devfest-live-indonesia-2026-ep-1-measure-guide-fix-core-web-vitals-with-an-ai-agent/) |
-| Weekly Class #2 Building Web Applications with AI: From Fundamentals to Case Study | 2026-11-25 | Depok, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-gunadarma-depok-indonesia-presents-weekly-class-2-building-web-applications-with-ai-from-fundamentals-to-case-study/) |
 | StudyJam #2 - Cyber Security #TechSeries \| Web Exploitation: Attack & Patch | 2026-11-26 | Malang, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-brawijaya-malang-indonesia-presents-studyjam-2-cyber-security-techseries-web-exploitation-attack-amp-patch/) |
 | StudyJam #2 - UI/UX Design #ProductSeries \| UX Research and Problem Definition | 2026-11-27 | Malang, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-brawijaya-malang-indonesia-presents-studyjam-2-uiux-design-productseries-ux-research-and-problem-definition/) |
 | Bali Founder Community Mixer: Drinks & Networking with Osome and Startup Grind | 2026-11-27 | Bali, Indonesia | [↗](https://www.startupgrind.com/events/details/startup-grind-bali-presents-bali-founder-community-mixer-drinks-amp-networking-with-osome-and-startup-grind/) |
@@ -20,8 +17,12 @@
 | GDGoC IPB Study Jam #3: The Essentials Of Pitching! | 2026-11-28 | Bogor, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ipb-university-bogor-indonesia-presents-gdgoc-ipb-study-jam-3-the-essentials-of-pitching/) |
 | Weekly Class #2 Building Semantic Web Structures and Forms with HTML | 2026-11-28 | Makassar, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-negeri-makassar-makassar-indonesia-presents-weekly-class-2-building-semantic-web-structures-and-forms-with-html/) |
 | WELCOMING MEMBER GDGoC UNHAS 2026 : Talkshow & Workshop | 2026-11-28 | Makassar, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-hasanuddin-makassar-indonesia-presents-welcoming-member-gdgoc-unhas-2026-talkshow-amp-workshop/) |
+| Beginner Class HTML, CSS, & Javascript (2nd Meet) | 2026-11-28 | Denpasar Selatan, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-primakara-university-denpasar-indonesia-presents-beginner-class-html-css-amp-javascript-2nd-meet/) |
+| sharing session : Beyond the Organization | 2026-11-28 | Malang, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-uin-maulana-malik-ibrahim-malang-malang-indonesia-presents-sharing-session-beyond-the-organization/) |
+| Introduction Fundamental Ethical Hacking | 2026-11-28 | Makassar, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-uin-alauddin-makassar-makassar-indonesia-presents-introduction-fundamental-ethical-hacking-1/) |
 | DevFest Live Indonesia 2026 x KodingDeepDive - Ep. 2 \| Untrusted by Default: Securing ADK Agents with MCP Toolbox and Model Armor | 2026-11-29 | Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-live-indonesia-presents-devfest-live-indonesia-2026-x-kodingdeepdive-ep-2-untrusted-by-default-securing-adk-agents-with-mcp-toolbox-and-model-armor/) |
 | DevFest Live Indonesia 2026 x KodingDeepDive S3 - Ep. 2 \| Lab 1: Untrusted by Default | 2026-11-29 | Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-live-indonesia-presents-devfest-live-indonesia-2026-x-kodingdeepdive-s3-ep-2-lab-1-untrusted-by-default/) |
+| Weekly Class #2 Building an API & Connecting a Database | 2026-11-29 | Makassar, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-negeri-makassar-makassar-indonesia-presents-weekly-class-2-building-an-api-amp-connecting-a-database/) |
 | DevFest Depok 2026 | 2026-12-05 | Depok, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-depok-presents-devfest-depok-2026/) |
 | Study Jam AI Agentic Development: Accelerating Fullstack Web with Agentic AI | 2026-12-05 | Jakarta, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sekolah-tinggi-teknologi-terpadu-nurul-fikri-jakarta-indonesia-presents-study-jam-ai-agentic-development-accelerating-fullstack-web-with-agentic-ai/) |
 | NGABUILD: Ngobrol, Ngulik, Build Something | 2026-12-05 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-bandung-presents-ngabuild-ngobrol-ngulik-build-something-1/) |

@@ -3,29 +3,29 @@
 <text x="28" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#1f2328" font-weight="650">When events happen</text>
 <text x="28" y="68" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e">Upcoming events by start month, next 12 months</text>
 <text x="28" y="109" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">Nov 2026</text>
-<rect x="190" y="97" width="360" height="16" rx="4" fill="#6a5af0"/>
-<text x="558" y="110" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">1,781</text>
+<rect x="190" y="97" width="286" height="16" rx="4" fill="#6a5af0"/>
+<text x="484" y="110" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">1,562</text>
 <text x="28" y="143" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">Dec 2026</text>
-<rect x="190" y="131" width="354" height="16" rx="4" fill="#6a5af0"/>
-<text x="552" y="144" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">1,753</text>
+<rect x="190" y="131" width="360" height="16" rx="4" fill="#6a5af0"/>
+<text x="558" y="144" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">1,968</text>
 <text x="28" y="177" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">Jan 2027</text>
-<rect x="190" y="165" width="24" height="16" rx="4" fill="#6a5af0"/>
-<text x="222" y="178" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">119</text>
+<rect x="190" y="165" width="22" height="16" rx="4" fill="#6a5af0"/>
+<text x="220" y="178" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">122</text>
 <text x="28" y="211" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">Feb 2027</text>
-<rect x="190" y="199" width="30" height="16" rx="4" fill="#6a5af0"/>
-<text x="228" y="212" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">146</text>
+<rect x="190" y="199" width="27" height="16" rx="4" fill="#6a5af0"/>
+<text x="225" y="212" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">147</text>
 <text x="28" y="245" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">Mar 2027</text>
-<rect x="190" y="233" width="38" height="16" rx="4" fill="#6a5af0"/>
-<text x="236" y="246" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">190</text>
+<rect x="190" y="233" width="35" height="16" rx="4" fill="#6a5af0"/>
+<text x="233" y="246" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">190</text>
 <text x="28" y="279" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">Apr 2027</text>
-<rect x="190" y="267" width="31" height="16" rx="4" fill="#6a5af0"/>
-<text x="229" y="280" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">154</text>
+<rect x="190" y="267" width="28" height="16" rx="4" fill="#6a5af0"/>
+<text x="226" y="280" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">154</text>
 <text x="28" y="313" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">May 2027</text>
-<rect x="190" y="301" width="24" height="16" rx="4" fill="#6a5af0"/>
-<text x="222" y="314" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">121</text>
+<rect x="190" y="301" width="22" height="16" rx="4" fill="#6a5af0"/>
+<text x="220" y="314" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">121</text>
 <text x="28" y="347" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">Jun 2027</text>
-<rect x="190" y="335" width="20" height="16" rx="4" fill="#6a5af0"/>
-<text x="218" y="348" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">101</text>
+<rect x="190" y="335" width="19" height="16" rx="4" fill="#6a5af0"/>
+<text x="217" y="348" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">102</text>
 <text x="28" y="381" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">Jul 2027</text>
 <rect x="190" y="369" width="6" height="16" rx="4" fill="#6a5af0"/>
 <text x="204" y="382" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">21</text>

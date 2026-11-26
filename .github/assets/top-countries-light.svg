@@ -4,31 +4,31 @@
 <text x="28" y="68" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e">Upcoming in-person events, top 10 of 66 countries</text>
 <text x="28" y="109" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">United States</text>
 <rect x="190" y="97" width="360" height="16" rx="4" fill="#6a5af0"/>
-<text x="558" y="110" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">668</text>
+<text x="558" y="110" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">670</text>
 <text x="28" y="143" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">Germany</text>
-<rect x="190" y="131" width="170" height="16" rx="4" fill="#6a5af0"/>
-<text x="368" y="144" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">315</text>
+<rect x="190" y="131" width="168" height="16" rx="4" fill="#6a5af0"/>
+<text x="366" y="144" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">313</text>
 <text x="28" y="177" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">United Kingdom</text>
-<rect x="190" y="165" width="158" height="16" rx="4" fill="#6a5af0"/>
-<text x="356" y="178" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">294</text>
+<rect x="190" y="165" width="156" height="16" rx="4" fill="#6a5af0"/>
+<text x="354" y="178" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">291</text>
 <text x="28" y="211" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">Canada</text>
-<rect x="190" y="199" width="147" height="16" rx="4" fill="#6a5af0"/>
-<text x="345" y="212" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">273</text>
-<text x="28" y="245" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">Singapore</text>
-<rect x="190" y="233" width="147" height="16" rx="4" fill="#6a5af0"/>
-<text x="345" y="246" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">272</text>
-<text x="28" y="279" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">France</text>
-<rect x="190" y="267" width="143" height="16" rx="4" fill="#6a5af0"/>
-<text x="341" y="280" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">265</text>
+<rect x="190" y="199" width="149" height="16" rx="4" fill="#6a5af0"/>
+<text x="347" y="212" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">278</text>
+<text x="28" y="245" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">France</text>
+<rect x="190" y="233" width="145" height="16" rx="4" fill="#6a5af0"/>
+<text x="343" y="246" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">270</text>
+<text x="28" y="279" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">Singapore</text>
+<rect x="190" y="267" width="142" height="16" rx="4" fill="#6a5af0"/>
+<text x="340" y="280" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">264</text>
 <text x="28" y="313" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">India</text>
-<rect x="190" y="301" width="132" height="16" rx="4" fill="#6a5af0"/>
-<text x="330" y="314" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">245</text>
+<rect x="190" y="301" width="138" height="16" rx="4" fill="#6a5af0"/>
+<text x="336" y="314" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">257</text>
 <text x="28" y="347" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">Australia</text>
-<rect x="190" y="335" width="72" height="16" rx="4" fill="#6a5af0"/>
-<text x="270" y="348" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">133</text>
+<rect x="190" y="335" width="69" height="16" rx="4" fill="#6a5af0"/>
+<text x="267" y="348" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">128</text>
 <text x="28" y="381" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">Spain</text>
-<rect x="190" y="369" width="34" height="16" rx="4" fill="#6a5af0"/>
-<text x="232" y="382" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">63</text>
+<rect x="190" y="369" width="33" height="16" rx="4" fill="#6a5af0"/>
+<text x="231" y="382" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">62</text>
 <text x="28" y="415" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">Netherlands</text>
 <rect x="190" y="403" width="22" height="16" rx="4" fill="#6a5af0"/>
 <text x="220" y="416" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#59636e" font-weight="600" style="font-variant-numeric:tabular-nums">41</text>

@@ -4,10 +4,6 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Esquenta DevFest Cerrado 2026 | 2026-11-25 | Goiania, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-goiania-presents-esquenta-devfest-cerrado-2026/) |
-| French Tech São Paulo Summit | 2026-11-25 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/french-tech-são-paulo-summit/4700031097072307) |
-| Quarta na AI House #64 · A inauguração continua | 2026-11-25 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/quarta-na-ai-house-64-·-a-inauguração-continua/4700031097076554) |
-| ODSC AI Skills Accelerator \| São Paulo | 2026-11-25 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/odsc-ai-skills-accelerator-são-paulo/4700031097079444) |
 | DevFest Marília 2026 | 2026-11-26 | Marília, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-marilia-presents-devfest-marilia-2026/) |
 | DevFest Caraguatatuba 2026 | 2026-11-26 | Caraguatatuba, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-caraguatatuba-presents-devfest-caraguatatuba-2026/) |
 | GDG Maceió Reborn - Meetup 26/11/2026 | 2026-11-26 | Maceió, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-maceio-presents-gdg-maceio-reborn-meetup-26112026/) |
@@ -15,6 +11,7 @@
 | Tech Leaders Coffee \| Cubo + Oracle | 2026-11-26 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/tech-leaders-coffee-cubo-oracle/4700031097073913) |
 | Women's Brunch - AI ao Cubo Edition | 2026-11-26 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/womens-brunch-ai-ao-cubo-edition/4700031097080654) |
 | AI Builder Tour São Paulo | 2026-11-27 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/ai-builder-tour-são-paulo/4700031097077106) |
+| AI Brunch Notion · AI House Brasil | 2026-11-27 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/ai-brunch-notion-·-ai-house-brasil/4700031097076756) |
 | GambiConf 2026 | 2026-11-28 to 2026-11-29 | São Paulo (Brazil) | [↗](https://gambiconf.dev/) |
 | DevFest Cerrado 2026 | 2026-11-28 | Goiania, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-goiania-presents-devfest-cerrado-2026/) |
 | ☁️ DevFest ☁️ | 2026-11-28 | São Paulo, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-sao-paulo-presents-devfest/) |
@@ -23,6 +20,9 @@
 | DevFest Macapá | 2026-11-28 | Macapá, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-macapa-presents-devfest-macapa/) |
 | GDGirls talks de fim de ano: olhar para dentro, planejar 2027 | 2026-11-28 | Porto Alegre, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-gdgirls-talks-de-fim-de-ano-olhar-para-dentro-planejar-2027/) |
 | Cloud Sessions #4 - Gestão de Nuvem e IA [Exclusivo para CTOs] | 2026-11-30 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/cloud-sessions-4-gestão-de-nuvem-e-ia-exclusivo-para-ctos/4700031097076900) |
+| Cloud Lab BH #2 | 2026-12-01 | Belo Horizonte, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-belo-horizonte-presents-cloud-lab-bh-2/) |
+| Tech Leadership Circle #6 | 2026-12-01 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/tech-leadership-circle-6/4700031097073009) |
+| Code Beer \| GDG Uberlândia | 2026-12-02 | Uberlandia, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-uberlandia-presents-code-beer-gdg-uberlandia/) |
 | Demo Day NVIDIA Inception · Redes de Anjos na AI House Brasil | 2026-12-03 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/demo-day-nvidia-inception-·-redes-de-anjos-na-ai-house-brasil/4700031097085433) |
 | DevFest Nortão 2026 | 2026-12-04 | Sinop, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-sinop-presents-devfest-nortao-2026/) |
 | ITA AI Founders' Meetup at Gama House \| Offered by Stripe and Monashees | 2026-12-04 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/ita-ai-founders-meetup-at-gama-house-offered-by-stripe-and-monashees/4700031097076451) |

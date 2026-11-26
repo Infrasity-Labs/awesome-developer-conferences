@@ -1,58 +1,14 @@
 # Developer Events in Germany
 
-315 upcoming events. [Back to the full directory](../README.md)
+313 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| OWASP Chapter Frankfurt | 2026-07-01 to 2026-11-25 | Frankfurt am Main, Germany | [↗](https://owasp.org/www-chapter-frankfurt/) |
 | DevOpsCon Munich 2026 | 2026-11-20 to 2026-12-04 | Munich (Germany) | [↗](https://devopscon.io/muenchen/) |
 | DDC .NET Developer Conference | 2026-11-23 to 2026-11-26 | Köln (Germany) | [↗](https://www.developer-world.de/ddc) |
 | API Conference Berlin | 2026-11-23 to 2026-11-27 | Berlin (Germany) | [↗](https://apiconference.net/berlin) |
 | MLCon Berlin 2026 | 2026-11-23 to 2026-11-27 | Berlin (Germany) | [↗](https://mlconference.ai/berlin/) |
 | Manage Agile 2026 | 2026-11-24 to 2026-11-26 | Leipzig (Germany) | [↗](https://www.manage-agile.de/) |
-| NCA x Visionbites | 2026-11-24 to 2026-11-25 | Munich | [↗](https://dev.events/conferences/nca-x-visionbites-w42h4ngo) |
-| Berlindroid Monthly Meetup | 2026-11-25 | Berlin, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-berlin-android-presents-berlindroid-monthly-meetup/) |
-| CANAL SOCIAL RUN @ FUTURA HOUSE | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/kclduafo) |
-| AI Breakfast: Moat or Myth? The Real Value of Data in the Age of AI | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/5fbknhx1) |
-| Grace Coworking Day | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/wnu65iaz) |
-| People & Culture Breakfast \| New Year, New Challenges | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/8zgasrsh) |
-| Bau Workshop Tiny House Mi+Do | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/aqaw3q9t) |
-| Climate Tech Meetup #07 \| Industry Heat | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/u575vxds) |
-| wechselspiel 002 edition | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/m22tkhtg) |
-| Agentic Analytics Builders' Night: Designing data products in the age of AI | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/zajdu5nt) |
-| AI Agents in HR: What's Actually Working | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/n1338n13) |
-| Asia Berlin Female Founders Afterparty Meetup by ChaiSamosaNetwork | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/WomenOfAsiaBerlin) |
-| Atlar and Finance Collective Present: Finance Leaders' AI Dinner | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/ele3yiiy) |
-| How To Create Your Sacred Altar, As Your Soul Portal | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/xc5lf58j) |
-| Office Drinks & Pizza – November Edition | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/w1i4rolf) |
-| Senior Leaders Roundtable Event | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/tcl6ywto) |
-| Hormones & Longevity: What Women and Men Need to Know | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/age-etws) |
-| Social Media Creators & Influencers Meetup Berlin #33 | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/5e6s0o87) |
-| Uncommon Club \| The Gentle Art of Playfighting with Benjamin Joon | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/7080auh8) |
-| Foresight’s AI Salon \| Engineer AI safety workshop | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/foresight-safety-workshop) |
-| AI+var meetup - November 2026 edition | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/3sk55phg) |
-| Build an AI agent with n8n & Slack | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/28u8107l) |
-| Entwicklung anders denken: Rethinking Development. 3rd and last session! | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/vcvgqn6w) |
-| Founders & Friends Berlin Meetup - End of Year Party | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/n959h4pf) |
-| Women Techmakers at Berlin TC: When AI Joins Your Team | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/jrxjnp6z) |
-| 🇩🇪 Berlin Product Leaders Dinner \| Product People | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/3ppsysu8) |
-| Pop-Up Dinner : Orange Affair | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/8q5kkdwb) |
-| *Dad´s can do hair / Flechtende Väter* hosted by Family Skills Club | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/c998w6kk) |
-| B-Movie Night: Death Stalker II (1987) | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/denfwli1) |
-| Mushroom Meditations: A guided journey to connect to Amanita Muscaria | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/q4rv8awa) |
-| Volunteering In Good Company 🍲 | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/o0mvmmb2) |
-| Exclusive Berlin CFO Breakfast by Unicorn Bakery x Zebra Embassy x Insight Tax | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/cfo-nov-ber) |
-| Women in AI Film (Berlin) | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/rmht010o) |
-| (Last of 2026) Mentor-mentee Meetup #24: UX, PM, Eng & Data | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/mmm24) |
-| paperbackers bookclub | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/n4e3gp3w) |
-| Nebenberuflich Selbständig | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/xg4xdbud) |
-| summeronyourmind \| Mental Wellness Dinner | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/epbx1vh6) |
-| Jeena and Temple Rat Live Ambient | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/kk4tbacv) |
-| Build Your First AI Bot with Grok: For Founders & Small Business Owners (No Coding) | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/syys86iy) |
-| 🥂 Workday x Unicorn Bakery – Exclusive Scale-up Founder Dinner | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/founder-dinner-25-11) |
-| BBK Stammtisch | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/97mplx3y) |
-| 🎅 Berlindroid EOY 2026 🎅 | 2026-11-25 | Berlin, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-berlin-android-presents-berlindroid-eoy-2026/) |
-| Why hasn't AI shown up in the numbers yet? A dinner in Berlin | 2026-11-25 | Berlin, DE | [↗](https://lu.ma/nsxnt67f) |
 | Meeting C++ 2026 | 2026-11-26 to 2026-11-28 | Berlin | [↗](https://dev.events/conferences/meeting-c-2026-jhr0hlfa) |
 | Product Build Day // Pro | 2026-11-26 | Berlin | [↗](https://dev.events/conferences/product-build-day-pro-wzkgdiyz) |
 | HR Breakfast Club Berlin: Wer ist schuld, wenn niemand eingestellt wird? | 2026-11-26 | Berlin, DE | [↗](https://lu.ma/5vw6kea5) |
@@ -126,6 +82,8 @@
 | Tea & Indie-folk. Open Teahouse | 2026-11-27 | Berlin, DE | [↗](https://lu.ma/d8ec5byt) |
 | A Next Octave of LOVE - A Threshold Ceremony | 2026-11-27 | Berlin, DE | [↗](https://lu.ma/l28dam5g) |
 | ART CITY JAZZ JAM | 2026-11-27 | Berlin, DE | [↗](https://lu.ma/ifkitphl) |
+| Ecophono | 2026-11-27 | Berlin, DE | [↗](https://lu.ma/p9rjjdc4) |
+| Sauna Social Night 🔥🪵 with Ugo | 2026-11-27 | Berlin, DE | [↗](https://lu.ma/akthvqpw) |
 | DevFest 2026 Ahlen - ONLINE | 2026-11-28 | Ahlen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-devfest-2026-ahlen-online/) |
 | BIG BERLIN HACK - 350+ Builders from all over Europe -€10k Cash Main Prize | 2026-11-28 | Berlin, DE | [↗](https://lu.ma/bbh) |
 | R&D Social Run \| Coup x Founders Running Club 🏃 | 2026-11-28 | Berlin, DE | [↗](https://lu.ma/889jxeml) |
@@ -160,6 +118,9 @@
 | The Forest of Blue Wonders · Adventure Hike · 20 km | 2026-11-28 | Berlin, DE | [↗](https://lu.ma/oa5ajcz3) |
 | REProduce x Subkontinent: Listening Room with DJ Khabir | 2026-11-28 | Berlin, DE | [↗](https://lu.ma/2ic1mwk2) |
 | Reel2Reel Studio turns 3 | 2026-11-28 | Berlin, DE | [↗](https://lu.ma/3pjsr4iy) |
+| Miami Comes to KaDeWe | 2026-11-28 | Berlin, DE | [↗](https://lu.ma/bj83gw9z) |
+| Le Magasin's Dry Bar Presents: The Inaugural Collagen Café Opening @ Brunnenstrasse 11 | 2026-11-28 | Berlin, DE | [↗](https://lu.ma/v7ndy57o) |
+| YOGA ART and CHILL | 2026-11-28 | Berlin, DE | [↗](https://lu.ma/sgfn8df7) |
 | [Free women only hike]: Wannsee/Düppeler Forst/Glienicker Park 🌲 (easy/moderate) | 2026-11-29 | Berlin, DE | [↗](https://lu.ma/xj0gdm7u) |
 | Silent Tea Ceremony | 2026-11-29 | Berlin, DE | [↗](https://lu.ma/m3dc1anp) |
 | Tech & Tennis Winter Mixer 26/04 | 2026-11-29 | Berlin, DE | [↗](https://lu.ma/nwybsexw) |
@@ -181,6 +142,8 @@
 | Advent Run Series #01 \| HOPE | 2026-11-29 | Berlin, DE | [↗](https://lu.ma/gzi4wfiu) |
 | Sunday Silent Reading @ W66 Café | 2026-11-29 | Berlin, DE | [↗](https://lu.ma/viai6lgy) |
 | Chanukka Stand | 2026-11-29 | Berlin, DE | [↗](https://lu.ma/0qtupypt) |
+| BUILD TO RUN Ep. 2 | 2026-11-29 | Berlin, DE | [↗](https://lu.ma/9zwba1kd) |
+| City Hike [8.5km] Ahrensfelde - Wuhletal | 2026-11-29 | Berlin, DE | [↗](https://lu.ma/gt6j0rvm) |
 | IT Security Summit Munich 2026 | 2026-11-30 to 2026-12-04 | Munich (Germany) | [↗](https://it-security-summit.com/munich/) |
 | Enterprise DevSecOps 2026 | 2026-11-30 to 2026-12-01 | Berlin | [↗](https://dev.events/conferences/enterprise-dev-sec-ops-2026-086xzhi1) |
 | Enterprise DevOps Summit 2026 | 2026-11-30 to 2026-12-01 | Berlin | [↗](https://dev.events/conferences/enterprise-dev-ops-summit-2026-onseyujt) |
@@ -197,6 +160,7 @@
 | HOT BOYS KNIT x KNIT KNIT Berlin (Men-Only) | 2026-11-30 | Berlin, DE | [↗](https://lu.ma/hotboys-j2fc) |
 | Female VC Club x ANTI: Red Light Pilates & Networking | 2026-11-30 | Berlin, DE | [↗](https://lu.ma/0r9ogxrd) |
 | Meet the Machines | 2026-11-30 | Berlin, DE | [↗](https://lu.ma/9wmpkuf4) |
+| BERLIN QUANTUM Pioneer 2026: From research to commercialization | 2026-11-30 | Berlin, DE | [↗](https://lu.ma/sjswasb6) |
 | Cloudy Book Club: Becoming SRE - Chapter 11 to 18 (Part 3/3) 📕☁️ | 2026-12-01 | Munich, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-munich-presents-cloudy-book-club-becoming-sre-chapter-11-to-18-part-33/) |
 | Momentum AI Frankfurt 2026 | 2026-12-01 | Frankfurt am Main, Germany | [↗](https://myconnectivity.lu/en/event/momentum-ai-frankfurt-2026/) |
 | SHE/THEY Berlin – Xmas FLINTA* Coworking @The Delta Campus | 2026-12-01 | Berlin, DE | [↗](https://lu.ma/5f7t4h3u) |
@@ -213,6 +177,7 @@
 | Lass uns Deutsch sprechen (Sprachcafé) #2 | 2026-12-01 | Berlin, DE | [↗](https://lu.ma/lass-uns-deutsch-sprechen-2) |
 | Work Together | 2026-12-01 | Berlin, DE | [↗](https://lu.ma/r2lh6apc) |
 | BRISA Building Night | 2026-12-01 | Berlin, DE | [↗](https://lu.ma/nqtxjgta) |
+| Blueprint Hack: Langfuse × Kuro | 2026-12-01 | Berlin, DE | [↗](https://lu.ma/clickh-lqzg) |
 | The JetBrains Tech Quiz 2026 | 2026-12-02 | Munich, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-munich-munich-germany-presents-the-jetbrains-tech-quiz-2026/) |
 | FinWell Summit 2026 | 2026-12-02 | Berlin, DE | [↗](https://lu.ma/FinWell-Summit-2026) |
 | Hacker House 36 hours | 2026-12-02 | Berlin, DE | [↗](https://lu.ma/48f5c33r) |
@@ -236,6 +201,8 @@
 | Talent & Tinsel: Drinks with Chapter 2 | 2026-12-02 | Berlin, DE | [↗](https://lu.ma/bqbriand) |
 | The First 1,000 Days: How Pregnancy and Postpartum Shape Long-Term Health for Mother and Baby | 2026-12-02 | Berlin, DE | [↗](https://lu.ma/ps9bh3no) |
 | Wellness Wednesday Sauna Night 🧖🏻🔥🧖🏽‍♀️ | 2026-12-02 | Berlin, DE | [↗](https://lu.ma/k87k8dyf) |
+| BreakfastInMotion | 2026-12-02 | Berlin, DE | [↗](https://lu.ma/rzw8lr7s) |
+| INSPIRATION SALON: The Afterlife of Things | 2026-12-02 | Berlin, DE | [↗](https://lu.ma/xf51xasl) |
 | GDG Nuremberg - 10th anniversary | 2026-12-03 | Nürnberg, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-nuremberg-presents-gdg-nuremberg-10th-anniversary/) |
 | Building AI-Native Backends in Go: Spec-Compliant MCP Servers with mcp-go | 2026-12-03 | Munich, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-munich-gophers-presents-building-ai-native-backends-in-go-spec-compliant-mcp-servers-with-mcp-go/) |
 | Kickoff Meetup: The Future of Tech | 2026-12-03 | Hanover, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-hannover-presents-kickoff-meetup-the-future-of-tech/) |
@@ -246,21 +213,52 @@
 | Anti Boring SUMMER Club | 2026-12-03 | Berlin, DE | [↗](https://lu.ma/uk6xpiyr) |
 | Berlin Quantum Pioneer Demo Day | 2026-12-03 | Berlin, DE | [↗](https://lu.ma/wn8o94q8) |
 | The Moment | 2026-12-03 | Berlin, DE | [↗](https://lu.ma/n6og3b78) |
+| After-Work-Töpfern: Cup & Crémant | 2026-12-03 | Berlin, DE | [↗](https://lu.ma/marsano-x7so) |
+| Deep Tech Nexus #14 × DRIVE Berlin: From Pilot to Pavement | 2026-12-03 | Berlin, DE | [↗](https://lu.ma/bj2khdnc) |
+| DEPLOY Masterclass: "How to fundraise successfully" by Angel Invest x CODE Capital | 2026-12-03 | Berlin, DE | [↗](https://lu.ma/code-veae) |
+| Deeptech After Hours | 2026-12-03 | Berlin, DE | [↗](https://lu.ma/iyhwlido) |
+| Kirk Sora – Nephilim's Choice – Opening Party | 2026-12-03 | Berlin, DE | [↗](https://lu.ma/frida-o9pw) |
+| Non-Dilutive Funding for Startups | 2026-12-03 | Berlin, DE | [↗](https://lu.ma/s4t13zrh) |
+| RARE POP UP BEFORE CHRISTMAS × TAUKO MAGAZINE | 2026-12-03 | Berlin, DE | [↗](https://lu.ma/035h05zy) |
+| The Delta Pitch · AI Edition | 2026-12-03 | Berlin, DE | [↗](https://lu.ma/gd7vpmz5) |
+| Agents Ship. Leaders Decide. | 2026-12-03 | Berlin, DE | [↗](https://lu.ma/9qqo9wr9) |
+| Alma Angels Christmas 🎄 meetup in Berlin | 2026-12-03 | Berlin, DE | [↗](https://lu.ma/84grjaqp) |
+| Django User Group Berlin December Meetup | 2026-12-03 | Berlin, DE | [↗](https://lu.ma/cy947pgy) |
+| Gingerbread House Contest | 2026-12-03 | Berlin, DE | [↗](https://lu.ma/wdo4jjfn) |
+| Junior VC Drinks @Auxxo | 2026-12-03 | Berlin, DE | [↗](https://lu.ma/0te7kou3) |
+| Research Leadership Christmas Get-Together 🎄 | 2026-12-03 | Berlin, DE | [↗](https://lu.ma/2lsel9uu) |
+| The Hidden Toll of Chronic Stress and How You Can Build Resilience with Every Breath | 2026-12-03 | Berlin, DE | [↗](https://lu.ma/6tq02mkn) |
+| Move Fast And Break Biology? | 2026-12-03 | Berlin, DE | [↗](https://lu.ma/cbdybvn8) |
+| Nova SBE Alumni Afterwork - Berlin | 2026-12-03 | Berlin, DE | [↗](https://lu.ma/nvx0szgn) |
+| Practice convincing politicians about pausing AI development | 2026-12-03 | Berlin, DE | [↗](https://lu.ma/4ogx4prc) |
+| SELF-TAPE. BOLD CHOICE \| Experiential Intro Session \| Artistic Freedom Lab | 2026-12-03 | Berlin, DE | [↗](https://lu.ma/h8hceugp) |
+| Why your future self needs a financial plan? | 2026-12-03 | Berlin, DE | [↗](https://lu.ma/cjhka4gu) |
+| Work Won’t Love You Back - By Sarah Jaffe | 2026-12-03 | Berlin, DE | [↗](https://lu.ma/cm246ikg) |
+| Book Launch - PhiAI Anthology Issue I | 2026-12-03 | Berlin, DE | [↗](https://lu.ma/ecslnnki) |
+| Pierogi Social Club \| Christmas Hangout I 3.12. | 2026-12-03 | Berlin, DE | [↗](https://lu.ma/e6a1n9ka) |
 | React Day Berlin | 2026-12-04 to 2026-12-07 | Berlin (Germany) | [↗](https://reactday.berlin) |
 | AI Coding Summit - Berlin Edition | 2026-12-04 to 2026-12-07 | Berlin | [↗](https://dev.events/conferences/ai-coding-summit-berlin-edition-hqjzolfj) |
+| Co-Working Fridays Berlin | 2026-12-04 | Berlin, DE | [↗](https://lu.ma/03ep1jqk) |
+| Female capital lunch X Titanic Hotels | 2026-12-04 | Berlin, DE | [↗](https://lu.ma/f8g866gx) |
+| Living with the Archetypes - *Royal*Magician*Warrior*Lover* | 2026-12-04 | Berlin, DE | [↗](https://lu.ma/95zk8mjb) |
 | BSides Dresden 2026 | 2026-12-05 | Dresden (Germany) | [↗](https://pretalx.com/bsidesdresden2026/) |
 | DevFest Ahlen 2026 - ONLINE | 2026-12-05 | Ahlen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-devfest-ahlen-2026-online-1/) |
 | DevFest Munich 2026 - Munich Innovates: AI, Cloud & Beyond | 2026-12-05 | Munich, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-munich-presents-devfest-munich-2026-munich-innovates-ai-cloud-amp-beyond/) |
 | IT-Tage | 2026-12-07 | Frankfurt am Main, Germany | [↗](https://www.it-tage.org) |
 | IT-Tage 2026 | 2026-12-07 to 2026-12-10 | Frankfurt | [↗](https://dev.events/conferences/it-tage-2026-6azb9oo) |
+| GDG Workshop Winter Edition: Vibe Coding & 2026 Wrapped 🎄☃️❄️ | 2026-12-08 | Saarbrucken, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-saarbrucken-presents-gdg-workshop-winter-edition-vibe-coding-amp-2026-wrapped/) |
 | DevFest 2026 Ahlen | 2026-12-12 | Ahlen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-devfest-2026-ahlen/) |
 | DevFest Ahlen 2026 \| The AI Agentic Era 🚀 | 2026-12-12 | Ahlen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-devfest-ahlen-2026-the-ai-agentic-era/) |
 | Dev Fest | 2026-12-17 | Essen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-duisburg-essen-essen-germany-presents-dev-fest/) |
 | Build with AI: TPU Learning Club \| Week 1: Why TPU? (CPU vs. GPU vs. TPU) | 2026-12-19 | Ahlen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-build-with-ai-tpu-learning-club-week-1-why-tpu-cpu-vs-gpu-vs-tpu/) |
+| AI Agentic Club: From Concept to Deployment - Scaling Multi-Agent Apps \| Week 1 | 2026-12-19 | Ahlen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-ai-agentic-club-from-concept-to-deployment-scaling-multi-agent-apps-week-1/) |
 | Build with AI: TPU Learning Club \| Week 2: Inside TPU Architecture Fundamentals | 2026-12-26 | Ahlen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-build-with-ai-tpu-learning-club-week-2-inside-tpu-architecture-fundamentals/) |
+| AI Agentic Club: From Concept to Deployment - Scaling Multi-Agent Apps \| Week 2 | 2026-12-26 | Ahlen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-ai-agentic-club-from-concept-to-deployment-scaling-multi-agent-apps-week-2/) |
 | 40C3 Chaos Communication Congress 2026 | 2026-12-27 to 2026-12-30 | Hamburg, Germany | [↗](https://events.ccc.de/en/congress/) |
 | Build with AI: TPU Learning Club \| Week 3: Train Your First LLM on a Free TPU | 2027-01-02 | Ahlen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-build-with-ai-tpu-learning-club-week-3-train-your-first-llm-on-a-free-tpu/) |
+| AI Agentic Club: From Concept to Deployment - Scaling Multi-Agent Apps \| Week 3 | 2027-01-02 | Ahlen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-ai-agentic-club-from-concept-to-deployment-scaling-multi-agent-apps-week-3/) |
 | Build with AI: TPU Learning Club \| Week 4: AI Frameworks & OpenXLA on Cloud TPU | 2027-01-09 | Ahlen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-build-with-ai-tpu-learning-club-week-4-ai-frameworks-amp-openxla-on-cloud-tpu/) |
+| AI Agentic Club: From Concept to Deployment - Scaling Multi-Agent Apps \| Week 4 | 2027-01-09 | Ahlen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-ai-agentic-club-from-concept-to-deployment-scaling-multi-agent-apps-week-4/) |
 | DLD Munich Conference 2027 | 2027-01-14 to 2027-01-16 | Munich, Germany | [↗](https://dld-conference.com/) |
 | Build with AI: TPU Learning Club \| Week 5: PyTorch & Keras 3 on Cloud TPUs | 2027-01-16 | Ahlen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-build-with-ai-tpu-learning-club-week-5-pytorch-amp-keras-3-on-cloud-tpus/) |
 | Build with AI: TPU Learning Club \| Week 6: Intro to JAX on TPUs | 2027-01-23 | Ahlen, Germany | [↗](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-build-with-ai-tpu-learning-club-week-6-intro-to-jax-on-tpus/) |

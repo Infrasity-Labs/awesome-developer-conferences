@@ -1,6 +1,6 @@
 # Developer Events in Japan
 
-34 upcoming events. [Back to the full directory](../README.md)
+35 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
@@ -23,6 +23,7 @@
 | Open Source Summit Japan 2026 | 2026-12-07 to 2026-12-09 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/open-source-summit-japan/) |
 | Automotive Linux Summit | 2026-12-07 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/automotive-linux-summit/) |
 | Embedded Linux Conference Asia | 2026-12-07 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/embedded-linux-conference-asia/) |
+| TUAT AI Lab（仮称）第0回：EmbeddingGemmaで記事の分類・クラスタリング・検索 | 2026-12-09 | Tokyo, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-tokyo-university-of-agriculture-and-technology-tokyo-japan-presents-tuat-ai-labjia-cheng-di-0hui-embeddinggemmadeji-shi-nofen-lei-kurasutaringujian-suo/) |
 | ONE Summit Japan | 2026-12-10 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/open-networking-edge-summit-japan/) |
 | Open Compliance Summit | 2026-12-10 to 2026-12-11 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/open-compliance-summit/) |
 | PyTorch Day Japan | 2026-12-10 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/pytorch-day-japan/) |

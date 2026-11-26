@@ -1,10 +1,9 @@
 # Developer Events in Saudi Arabia
 
-5 upcoming events. [Back to the full directory](../README.md)
+4 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| OPEX FIRST SAUDI 2026 | 2026-11-25 | Riyadh | [↗](https://dev.events/conferences/opex-first-saudi-2026-cnra78d6) |
 | 12th Middle East Banking AI & Analytics Summit 2027 | 2027-01-20 | Riyadh | [↗](https://dev.events/conferences/12th-middle-east-banking-ai-and-analytics-summit-2027-lhtlpf8n) |
 | Enterprise Tech Summit Saudi Arabia 2027 | 2027-02-03 | Riyadh | [↗](https://dev.events/conferences/enterprise-tech-summit-saudi-arabia-2027-pe47vyur) |
 | LEAP 2027 | 2027-04-12 to 2027-04-15 | Riyadh, Saudi Arabia | [↗](https://onegiantleap.com/) |

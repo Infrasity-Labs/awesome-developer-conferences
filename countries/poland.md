@@ -1,11 +1,9 @@
 # Developer Events in Poland
 
-23 upcoming events. [Back to the full directory](../README.md)
+22 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| SRE dla AI: jak Google dba o niezawodność i wydajność systemów sztucznej inteligencji | 2026-11-25 | Warsaw, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-politechnika-warszawska-warsaw-poland-presents-sre-dla-ai-jak-google-dba-o-niezawodnosc-i-wydajnosc-systemow-sztucznej-inteligencji/) |
-| Intro to SRE, Part 1: Designing for Reliability | 2026-11-25 | Warsaw, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-politechnika-warszawska-warsaw-poland-presents-intro-to-sre-part-1-designing-for-reliability/) |
 | SymfonyCon | 2026-11-26 | Warsaw, Poland | [↗](https://live.symfony.com/2026-warsaw-con) |
 | SymfonyCon Warsaw 2026 | 2026-11-26 to 2026-11-27 | Warsaw | [↗](https://dev.events/conferences/symfony-con-warsaw-2026-ucaafsud) |
 | WAWTECH 2026 | 2026-11-26 to 2026-11-27 | Warsaw | [↗](https://dev.events/conferences/wawtech-2026-6g-s55vq) |
@@ -15,6 +13,7 @@
 | 🚀 DevFest on Campus 2026: Explore AI, DevOps & Cybersecurity | 2026-12-05 | Poznań, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-collegium-da-vinci-poznan-poland-presents-devfest-on-campus-2026-explore-ai-devops-amp-cybersecurity/) |
 | DevFest Politechnika Warszawska: GDG Days 2026 | 2026-12-05 | Warsaw, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-politechnika-warszawska-warsaw-poland-presents-devfest-politechnika-warszawska-gdg-days-2026/) |
 | DevFest Łódź 2026 | 2026-12-12 | Łódź, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-lodz-presents-devfest-lodz-2026/) |
+| Warsztaty Świąteczne z AI | 2026-12-12 | Grudziądz, Poland | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-grudziadz-presents-warsztaty-swiateczne-z-ai/) |
 | ContainerDays \| AI Context Warsaw 2027 | 2027-02-21 to 2027-02-23 | Warsaw | [↗](https://www.containerdays.io/containerdays-warsaw-2027) |
 | AzureDay Poland 2027 | 2027-03-11 | Warsaw | [↗](https://dev.events/conferences/azure-day-poland-2027-3bmpn-mj) |
 | AzureDay 2027 | 2027-03-11 | Warsaw (Poland) | [↗](https://azureday.pl) |

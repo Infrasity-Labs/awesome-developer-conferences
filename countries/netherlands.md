@@ -4,7 +4,6 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Weekly Meeten en Drinken | 2026-11-25 | Amsterdam, Netherlands | [↗](https://gdg.community.dev/events/details/google-gdg-amsterdam-presents-weekly-meeten-en-drinken-2026-11-25/) |
 | AICA | 2026-11-26 | Amsterdam | [↗](https://dev.events/conferences/aica-55ond3w2) |
 | Build for Eindhoven: Agentic AI for Social Good | 2026-11-26 | Eindhoven, Netherlands | [↗](https://gdg.community.dev/events/details/google-gdg-eindhoven-presents-build-for-eindhoven-agentic-ai-for-social-good/) |
 | Build for Eindhoven: Agentic AI in Action | 2026-11-26 | Eindhoven, Netherlands | [↗](https://gdg.community.dev/events/details/google-gdg-eindhoven-presents-build-for-eindhoven-agentic-ai-in-action/) |
@@ -12,6 +11,7 @@
 | ESPC | 2026-11-30 | Amsterdam, Netherlands | [↗](https://www.sharepointeurope.com) |
 | VCFTechcon 2026 | 2026-12-01 | Bunnik (Netherlands) | [↗](https://www.vcftechcon.nl) |
 | APE 2026 | 2026-12-07 to 2026-12-11 | Apenheul (Netherlands) | [↗](https://ai-ape.nl/) |
+| Weekly Meeten en Drinken | 2026-12-30 | Amsterdam, Netherlands | [↗](https://gdg.community.dev/events/details/google-gdg-amsterdam-presents-weekly-meeten-en-drinken-2026-12-30/) |
 | MXT Conference 2027 | 2027-01-13 | Groningen, Netherlands | [↗](https://mxtconference.com/) |
 | Bitbash 2027 | 2027-01-22 to 2027-01-23 | Veenendaal (Netherlands) | [↗](https://www.bitbash.nl/) |
 | Test Automation Days | 2027-03-03 to 2027-03-04 | Hilversum, Netherlands | [↗](https://www.testautomationdays.com) |

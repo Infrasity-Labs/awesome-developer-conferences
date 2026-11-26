@@ -1,15 +1,13 @@
 # Developer Events in Taiwan
 
-15 upcoming events. [Back to the full directory](../README.md)
+13 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| 從接案實戰到n8n基礎入門：打造你的Discord資安新聞推播 | 2026-11-25 | Taichung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-chung-shan-medical-university-taichung-taiwan-presents-cong-jie-an-shi-zhan-dao-n8nji-chu-ru-men-da-zao-ni-de-discordzi-an-xin-wen-tui-bo/) |
-| GDG on Campus NTPU - 第七次社課：打造 Gmail 外掛程式！ | 2026-11-25 | New Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-taipei-university-new-taipei-taiwan-presents-gdg-on-campus-ntpu-di-qi-ci-she-ke-da-zao-gmail-wai-gua-cheng-shi/) |
-| 從OSI七層開始的網路追蹤 | 2026-11-25 | Taoyuan, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-chung-yuan-christian-university-taoyuan-taiwan-presents-cong-osiqi-ceng-kai-shi-de-wang-lu-zhui-zong/) |
 | When Docker Compose Isn’t Enough：使用 Kubernetes 部署與管理容器化應用程式 | 2026-11-26 | Taoyuan, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-central-university-taoyuan-city-taiwan-presents-when-docker-compose-isnt-enoughshi-yong-kubernetes-bu-shu-yu-guan-li-rong-qi-hua-ying-yong-cheng-shi/) |
 | GDG on Campus NCKU × Codpy｜聯合社課 | 2026-11-29 | Tainan, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-cheng-kung-university-tainan-city-taiwan-presents-gdg-on-campus-ncku-x-codpylian-he-she-ke/) |
 | 【社課 #5 預告｜用 AI 打造預測模型：從資料到 Kaggle 實戰】 | 2026-12-01 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-chengchi-university-taipei-taiwan-presents-she-ke-5-yu-gao-yong-ai-da-zao-yu-ce-mo-xing-cong-zi-liao-dao-kaggle-shi-zhan/) |
+| 【線上閃電講】技術微分享 | 2026-12-02 | Taichung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-chung-shan-medical-university-taichung-taiwan-presents-xian-shang-shan-dian-jiang-ji-shu-wei-fen-xiang/) |
 | 🤖 Deep Reinforcement Learning from Fundamentals to Frontiers：深度強化學習從基礎理論到前沿研究與遊戲訓練實作 | 2026-12-04 | Taoyuan, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-central-university-taoyuan-city-taiwan-presents-deep-reinforcement-learning-from-fundamentals-to-frontiersshen-du-qiang-hua-xue-xi-cong-ji-chu-li-lun-dao-qian-yan-yan-jiu-yu-you-xi-xun-lian-shi-zuo/) |
 | DevFest Taoyuan 2026 | 2026-12-05 | Taoyuan, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-taoyuan-presents-devfest-taoyuan-2026/) |
 | DevFest Changhua 2026 | 2026-12-06 | Changhua City, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-changhua-presents-devfest-changhua-2026/) |

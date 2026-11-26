@@ -1,12 +1,9 @@
 # Developer Events in Spain
 
-63 upcoming events. [Back to the full directory](../README.md)
+62 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| AI-Native SDLC: de señales a prod! | 2026-11-25 | Alicante, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-alicante-presents-ai-native-sdlc-de-senales-a-prod/) |
-| Más allá del console.log: Introducción a la Observabilidad en Producción (y en la era de la IA) | 2026-11-25 | Seville, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universidad-pablo-de-olavide-seville-spain-presents-mas-alla-del-consolelog-introduccion-a-la-observabilidad-en-produccion-y-en-la-era-de-la-ia/) |
-| Taller de Rust | 2026-11-25 | Valladolid, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-valladolid-presents-taller-de-rust/) |
 | 🎤 ¿Qué aporta la IA a una pequeña empresa de technologyía? (Sin humo) | 2026-11-26 | Barcelona, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-uoc-barcelona-spain-presents-que-aporta-la-ia-a-una-pequena-empresa-de-tecnologia-sin-humo/) |
 | Women in Agile EU Launching New Voices 2026 | 2026-11-27 | Barcelona | [↗](https://dev.events/conferences/women-in-agile-eu-launching-new-voices-2026-pjppegwn) |
 | DevFest Madrid 2026 | 2026-11-27 | Madrid, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-madrid-presents-devfest-madrid-2026/) |
@@ -20,8 +17,10 @@
 | De máquinas virtuales a serverless, por Laura Morillo, GDE Cloud — edición vídeo \| Upskilling Week Barcelona | 2026-12-01 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-de-maquinas-virtuales-a-serverless-por-laura-morillo-gde-cloud-edicion-video-upskilling-week-barcelona/) |
 | Taller con Google for Education de Gemini y Notebook para estudiantes de la Universidad de Huelva | 2026-12-01 | Huelva, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-huelva-university-huelva-spain-presents-taller-con-google-for-education-de-gemini-y-notebook-para-estudiantes-de-la-universidad-de-huelva/) |
 | DescubreXR Zaragoza 2026 | 2026-12-02 | Zaragoza, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-zaragoza-presents-descubrexr-zaragoza-2026/) |
+| Merge Christmas | 2026-12-03 | A Coruña, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-a-coruna-presents-merge-christmas/) |
 | Ask US Anything about Liquid Galaxy future | 2026-12-05 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-ask-us-anything-about-liquid-galaxy-future/) |
 | From Population Models to Personalized Digital Twins | 2026-12-10 | Girona, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-girona-presents-from-population-models-to-personalized-digital-twins-1/) |
+| Study Jam - Programación Agética: Desarrollar con Criterio \| S02 | 2026-12-10 | Ourense, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-ourense-presents-study-jam-programacion-agetica-desarrollar-con-criterio-s02/) |
 | 🚀 DevFest Santander 2026 | 2026-12-11 | Santander (Spain) | [↗](https://gdg.community.dev/events/details/google-gdg-santander-presents-devfest-santander-2026-vuelve-el-sobaofest-ii/) |
 | NetCoreConf Barcelona 2026 | 2026-12-12 | Barcelona | [↗](https://dev.events/conferences/net-core-conf-madrid-2026-4cknjny) |
 | 🎉 DevFest GDG on Campus UOC 2026 | 2026-12-12 | Barcelona, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-uoc-barcelona-spain-presents-devfest-gdg-on-campus-uoc-2026/) |

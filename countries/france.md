@@ -1,37 +1,10 @@
 # Developer Events in France
 
-265 upcoming events. [Back to the full directory](../README.md)
+270 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | Compute! Paris 2026 | 2026-11-25 to 2026-11-26 | Paris | [↗](https://dev.events/conferences/compute-paris-2026-kym7lhlv) |
-| Tenir La Distance — Matinée Fondateurs avec Nicolas d'Hueppe | 2026-11-25 | Paris, FR | [↗](https://lu.ma/foundersmorning-nicolasdhueppe) |
-| Le financement de l’Élimination du carbone : matinée AFEN & Bpifrance | 2026-11-25 | Paris, FR | [↗](https://lu.ma/eexu2jz6) |
-| À hauteur de pas · Vernissage du mercredi 25 novembre | 2026-11-25 | Paris, FR | [↗](https://lu.ma/eu0evy54) |
-| Daytona AI Builders - Paris, November 2026 | 2026-11-25 | Paris, FR | [↗](https://lu.ma/ai-builders-paris-nov) |
-| Afterwork FoodBiome : Les filières d'élevage durable | 2026-11-25 | Paris, FR | [↗](https://lu.ma/m3pkgj85) |
-| New Health · Soirée de lancement | 2026-11-25 | Paris, FR | [↗](https://lu.ma/hexa-llu2) |
-| CTO Craft Mixers: Paris | 2026-11-25 | Paris, FR | [↗](https://lu.ma/iqm7u19u) |
-| 💛 Members Only Wednesdays \| #4 Special Party \| Froufrou \| Paris 17th arr. | 2026-11-25 | Paris, FR | [↗](https://lu.ma/fprt9jkl) |
-| Soirée d'inauguration Ades Bootcamp | 2026-11-25 | Paris, FR | [↗](https://lu.ma/xe22wtv7) |
-| Climate Coffee Paris x Supernova | 2026-11-25 | Paris, FR | [↗](https://lu.ma/lt837l6z) |
-| Hype vs Reality in GTM: Where leading teams are finding growth | 2026-11-25 | Paris, FR | [↗](https://lu.ma/bpzlmboh) |
-| Investir dans l'impact | 2026-11-25 | Paris, FR | [↗](https://lu.ma/fnrrh2v9) |
-| RockFi & Taylor Wessing | 2026-11-25 | Paris, FR | [↗](https://lu.ma/y1e8hzqj) |
-| La Manifestation 🍻 - Apéro pour Freelances Généralistes | 2026-11-25 | Paris, FR | [↗](https://lu.ma/7a7o4zmj) |
-| Notion Paris Summit | 2026-11-25 | Paris, FR | [↗](https://lu.ma/notion-h9qo) |
-| Petit Déjeuner ALOF X Saga | 2026-11-25 | Paris, FR | [↗](https://lu.ma/chdmw90p) |
-| Dialogue 2 - IA et voix - Quand les machines se mettent à répondre | 2026-11-25 | Paris, FR | [↗](https://lu.ma/3fpdq1x2) |
-| Investing In The Future Of Health - NextGen VC | 2026-11-25 | Paris, FR | [↗](https://lu.ma/pc3ho3q1) |
-| Atelier des 3 Sphères | 2026-11-25 | Paris, FR | [↗](https://lu.ma/n6w7h7pa) |
-| Claude pour dirigeants : venez vous former gratuitement | 2026-11-25 | Paris, FR | [↗](https://lu.ma/xxi7xlfg) |
-| Special Guest : Maxime Barbier, CEO & cofondateur de Timeleft (4 M de membres, +18 M€ d’ARR) @BuildersFactory | 2026-11-25 | Paris, FR | [↗](https://lu.ma/c8u5vo1u) |
-| Atelier « Mon sous-verre en perles de bois » | 2026-11-25 | Paris, FR | [↗](https://lu.ma/qkev9vqy) |
-| Plumb Cafe / Paris | 2026-11-25 | Paris, FR | [↗](https://lu.ma/vbcej3w1) |
-| Coffee & Demos : The Nest × AI Tinkerers Paris | 2026-11-25 | Paris, FR | [↗](https://lu.ma/0ue9fm4p) |
-| Mado Curated x Le Gainsbarre | 2026-11-25 | Paris, FR | [↗](https://lu.ma/vgjv599w) |
-| Paris - Sports Creative Networking Coffee Meet-Up | 2026-11-25 | Paris, FR | [↗](https://lu.ma/srefqmdr) |
-| A cena con amici | 2026-11-25 | Paris, FR | [↗](https://lu.ma/13jrpcxk) |
 | EACD WORKSHOP #1 - STRATÉGIES D'INFLUENCE, CRISES ET MENACES ACTIVISTES. | 2026-11-26 | Paris, FR | [↗](https://lu.ma/tfla4ohf) |
 | Future Talk : Planifier son budget marketing et communication à l’ère de l’IA | 2026-11-26 | Paris, FR | [↗](https://lu.ma/035d2mhr) |
 | RH freelance à l'ère de l'IA : gagner du temps sans perdre sa valeur | 2026-11-26 | Paris, FR | [↗](https://lu.ma/m6exfysj) |
@@ -76,6 +49,7 @@
 | Atelier Claude n°2 | 2026-11-26 | Paris, FR | [↗](https://lu.ma/az7vs04y) |
 | AI Dinner | 2026-11-26 | Paris, FR | [↗](https://lu.ma/oh9lbti4) |
 | Thursday Builders Coffee Cowork #3 at swanbase | 2026-11-26 | Paris, FR | [↗](https://lu.ma/jy5pnai5) |
+| 💥 Fuckup Nights — Célébrons nos échecs ! | 2026-11-26 | Paris, FR | [↗](https://lu.ma/avalon-11jj) |
 | DevFest Paris 2026 | 2026-11-27 | Paris (France) | [↗](https://devfest.gdgparis.fr/) |
 | Networking de Noviembre | 2026-11-27 | Paris, FR | [↗](https://lu.ma/2rbio4nm) |
 | Founders Table #1 · Vendre en santé : ce qui marche, ce qui coince | 2026-11-27 | Paris, FR | [↗](https://lu.ma/7u7a5aig) |
@@ -97,6 +71,7 @@
 | Pop Up Latinas x Paris | 2026-11-28 | Paris, FR | [↗](https://lu.ma/o2w7n6cq) |
 | Alan x Qovery x AWS: AI Health Hack 2 | 2026-11-28 | Paris, FR | [↗](https://lu.ma/o1eopuwy) |
 | HACKATHON: Build AI on KASPA | 2026-11-28 | Paris, France | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-epita-paris-france-presents-hackathon-build-ai-on-kaspa/) |
+| Deezer Hackathon | 2026-11-28 | Paris, FR | [↗](https://lu.ma/0dfd8jau) |
 | RUN CLUB 29/11 @La Montgolfière 10ème | 2026-11-29 | Paris, FR | [↗](https://lu.ma/enccfurq) |
 | Longevity Café #08 ⏰ Le Sommeil: À la recherche du temps rendu | 2026-11-29 | Paris, FR | [↗](https://lu.ma/adz17xzf) |
 | La Magicienne D'Ose est de retour @La Climate House Silent Disco expérience | 2026-11-29 | Paris, FR | [↗](https://lu.ma/frhp7le2) |
@@ -119,6 +94,7 @@
 | Le Café de l’Agentique spécial Tech for Retail \| Adobe × Stripe | 2026-11-30 | Paris, FR | [↗](https://lu.ma/j6ziltni) |
 | Join Retail Women in Tech for AfterShow Drinks at Tech for Retail in Paris! | 2026-11-30 | Paris, FR | [↗](https://lu.ma/retail-5dyp) |
 | Seule au monde : l’Europe peut-elle encore choisir son destin ? - Gérard Araud & Arancha González Laya au Sénat | 2026-11-30 | Paris, FR | [↗](https://lu.ma/hj0vr5e7) |
+| Ce que l'IA pense de nous: repenser le commerce à travers la psychologie humaine - Tech for Retail Attitude x CNRS x L'Oréal | 2026-11-30 | Paris, FR | [↗](https://lu.ma/0q42mxlz) |
 | Cloud Native AI Summit – EUROPE 2026 | 2026-12-01 to 2026-12-02 | Paris | [↗](https://www.cloudnative.ai) |
 | Build It Summit | 2026-12-01 to 2026-12-03 | Paris | [↗](https://dev.events/conferences/build-it-summit-k66lx1xj) |
 | Du Dev au Super Dev: Retour d'Expérience | 2026-12-01 | Lannion, France | [↗](https://gdg.community.dev/events/details/google-gdg-code-darmor-presents-du-dev-au-super-dev-retour-dexperience/) |
@@ -140,6 +116,8 @@
 | Grok Bot Build Night Paris x Swanbase | 2026-12-01 | Paris, FR | [↗](https://lu.ma/spacexai-2cvj) |
 | Au Revoir, Spreadsheet Hack: 60 minutes to build your AI Ops App | 2026-12-01 | Paris, FR | [↗](https://lu.ma/softr-mnkh) |
 | UPDATE x Thomas Clamagirand \| France Reprises 🔑 | 2026-12-01 | Paris, FR | [↗](https://lu.ma/2ao7y64h) |
+| Dernier vernissage : les Alpes à pied, 2 000 km · 01/12 | 2026-12-01 | Paris, FR | [↗](https://lu.ma/2pbk7r0w) |
+| 杨淏 纪录片《关机》欧洲巡回放映：在漫长的冬夜里，我们离线相遇 | 2026-12-01 | Paris, FR | [↗](https://lu.ma/vghtdlx7) |
 | Cloud Native AI Summit Europe | 2026-12-02 to 2026-12-03 | Paris (France) | [↗](https://www.cloudnative.ai/events/paris) |
 | AI Chat & Breakfast by Equal Edges (Adopt AI Week) | 2026-12-02 | Paris, FR | [↗](https://lu.ma/ovbz7lwk) |
 | The Road to Prosperity | 2026-12-02 | Paris, FR | [↗](https://lu.ma/cyjpgvm7) |
@@ -163,6 +141,7 @@
 | What happens when agents run every layer of the company? | 2026-12-02 | Paris, FR | [↗](https://lu.ma/3br4reod) |
 | Tout le monde peut shipper ? Retour terrain sur les équipes produit AI-native | 2026-12-02 | Paris, FR | [↗](https://lu.ma/b8oy5kyj) |
 | From the Seine to San Francisco | 2026-12-02 | Paris, FR | [↗](https://lu.ma/8qmirc64) |
+| 🧘‍♀️ SheMoves by SheEOs #3 Yoga | 2026-12-02 | Paris, FR | [↗](https://lu.ma/vtew4i9s) |
 | Adopt AI | 2026-12-03 to 2026-12-04 | Paris, France | [↗](https://myconnectivity.lu/en/event/adopt-ai/) |
 | Jeudi Expresso - 3 Décembre 🎄 | 2026-12-03 | Paris, FR | [↗](https://lu.ma/m60xembl) |
 | 3ème Sommet National pour l'Emploi des Seniors | 2026-12-03 | Paris, FR | [↗](https://lu.ma/97auw8l1) |
@@ -189,6 +168,8 @@
 | Synbio & AI Breakfast | 2026-12-03 | Paris, FR | [↗](https://lu.ma/9tm5u763) |
 | SPILL | 2026-12-03 | Paris, FR | [↗](https://lu.ma/dgewoojq) |
 | Ukrainian Innovation x French Industry | 2026-12-03 | Paris, FR | [↗](https://lu.ma/zacft5xn) |
+| Marble Summit | 2026-12-03 | Paris, FR | [↗](https://lu.ma/marble-summit) |
+| THINGS WILL NOT FALL APART | 2026-12-03 | Paris, FR | [↗](https://lu.ma/4xnasqe1) |
 | DevFest Lyon 2026 | 2026-12-04 | Lyon (France) | [↗](https://devfest.gdglyon.com/) |
 | DevFest Dijon 2026 | 2026-12-04 | Dijon (France) | [↗](https://devfest.developers-group-dijon.fr/) |
 | Agile Rennes | 2026-12-04 | Rennes (France) | [↗](https://www.billetweb.fr/open-forum-agile-rennes-2026) |
@@ -209,6 +190,7 @@
 | One Year of Us · Fempower Society Anniversary Dinner 🥂 | 2026-12-05 | Paris, FR | [↗](https://lu.ma/ry2mscrb) |
 | Atelier Vision Board + Tirage Flash : clôturer 2026 et créer ton année 2027 🦋 | 2026-12-05 | Paris, FR | [↗](https://lu.ma/b4gotd8p) |
 | ✍️ Offline Writing Party \| Le Kawaa du Lucernaire \| Paris 6th | 2026-12-05 | Paris, FR | [↗](https://lu.ma/the-7qqm) |
+| Generathon #4 · Make The Gift Viral | 2026-12-05 | Paris, FR | [↗](https://lu.ma/d1dx34nn) |
 | KIN Holiday Wellbeing Day | 2026-12-06 | Paris, FR | [↗](https://lu.ma/sseinj9v) |
 | RUN CLUB 06/12 @La Montgolfière 18ème | 2026-12-06 | Paris, FR | [↗](https://lu.ma/532e0m77) |
 | PILATES ATHLETIQUE (35°C) par MATPULSE & EMBER (90mn) | 2026-12-06 | Paris, FR | [↗](https://lu.ma/v6w4x776) |
@@ -216,6 +198,7 @@
 | Atelier Prop28 : Notaire et Fiscalité | 2026-12-06 | Paris, FR | [↗](https://lu.ma/a40w7w3n) |
 | Projection & conférence participative Epop& - France, il était une fois demain avec Michaël Pitiot | 2026-12-07 | Paris, FR | [↗](https://lu.ma/thru0lkq) |
 | spektr x NEA supper club: paris | 2026-12-07 | Paris, FR | [↗](https://lu.ma/spektr-supper-club-paris) |
+| Le ciel au sol - Vernissage de l'exposition de Samir Ouriaghli | 2026-12-07 | Paris, FR | [↗](https://lu.ma/ghudhbq5) |
 | GDG Aix DevFest 2026 : Une nouvelle édition provençale ! | 2026-12-08 | Aix-en-Provence, France | [↗](https://gdg.community.dev/events/details/google-gdg-aix-en-provence-presents-gdg-aix-devfest-2026-une-nouvelle-edition-provencale/) |
 | Les Rencontres Zadig #2 | 2026-12-08 | Paris, FR | [↗](https://lu.ma/so9it5hn) |
 | Atelier Quantis \| Adaptation & Impact Business | 2026-12-08 | Paris, FR | [↗](https://lu.ma/kvqv8iz0) |
@@ -228,20 +211,42 @@
 | Is your product agent-ready? Second Opinion x Agent Connect | 2026-12-08 | Paris, FR | [↗](https://lu.ma/agent-connect-paris) |
 | Soirée MOUVESS Ile-de-France | 2026-12-08 | Paris, FR | [↗](https://lu.ma/8i8rq2kk) |
 | Paris Book Club x Katherine Pangonis \| An Evening with the Author | 2026-12-08 | Paris, FR | [↗](https://lu.ma/vlnaw37e) |
+| Avant 1ere du documentaire "Donn, le danseur du XXème siècle" | 2026-12-08 | Paris, FR | [↗](https://lu.ma/whd57y2t) |
 | DevOps REX | 2026-12-09 to 2026-12-10 | Paris (France) | [↗](https://www.devopsrex.fr/fr/) |
 | Open Source Experience 2026 | 2026-12-09 to 2026-12-10 | Paris | [↗](https://dev.events/conferences/open-source-experience-2026-p-ntdtj5) |
 | Mastermind Ades · Édition 2 | 2026-12-09 | Paris, FR | [↗](https://lu.ma/b3o6zn5v) |
 | Future of Tourism Demo Day at STATION F ✨ | 2026-12-09 | Paris, FR | [↗](https://lu.ma/l7dd13bq) |
 | Petit-déjeuner RDVM 2027 par FORMÆ | 2026-12-09 | Paris, FR | [↗](https://lu.ma/vxpzhob5) |
 | Meet with Modal at NeurIPS Paris '26 | 2026-12-09 | Paris, FR | [↗](https://lu.ma/modal-bt1o) |
+| Quelle stack pour une fintech agent-ready ? | 2026-12-09 | Paris, FR | [↗](https://lu.ma/z1mqi3fm) |
+| Company Brain Paris #1 : Qu’est-ce qu’un Company Brain ? | 2026-12-09 | Paris, FR | [↗](https://lu.ma/d59s8mwi) |
+| Soirée du Réseau | 2026-12-09 | Paris, FR | [↗](https://lu.ma/zb95g751) |
+| The AI Ops Meetup | 2026-12-09 | Paris, FR | [↗](https://lu.ma/3sfaobp6) |
+| Japan Night @ NeurIPS 2026 Paris (9th Dec 7pm-9pm) | 2026-12-09 | Paris, FR | [↗](https://lu.ma/meuymlfg) |
+| 💛 Members Only Wednesdays \| #2 Connection Party \| Froufrou \| Paris 17th arr. | 2026-12-09 | Paris, FR | [↗](https://lu.ma/the-9vrp) |
+| POP UP du Faubourg - Soirée d'inauguration | 2026-12-09 | Paris, FR | [↗](https://lu.ma/81khbmus) |
+| Women In Research #2. From Insight To Communication: How A Consumer Truth Becomes A Major Campaign | 2026-12-09 | Paris, FR | [↗](https://lu.ma/dnqxu2tq) |
+| Beyond Auto : Rien ne se perd, rien ne se crée, tout se transforme | 2026-12-09 | Paris, FR | [↗](https://lu.ma/wj0fzljn) |
+| Camp Code-Gen Dinner at NeurIPS 2026 Paris | 2026-12-09 | Paris, FR | [↗](https://lu.ma/revelo-neurips-dinner-paris) |
+| CHERY LIVE #4 | 2026-12-09 | Paris, FR | [↗](https://lu.ma/s3a5bgpp) |
+| NeurIPS AI research dinner hosted by Balderton | 2026-12-09 | Paris, FR | [↗](https://lu.ma/zgiisvv1) |
+| NeurIPS Bistro Night for Researchers & Builders | 2026-12-09 | Paris, FR | [↗](https://lu.ma/massive-rapidata-neurips) |
 | KCD Provence | 2026-12-10 | Aix-en-Provence (France) | [↗](https://cloudnative-provence.fr/) |
 | Cinq Maîtres en Perspective: Simon Hantaï avec Pierre Wat - Galerie Amelie du Chalard | 2026-12-10 | Paris, FR | [↗](https://lu.ma/e8vi4klp) |
 | GDG x Kubernetes Community Days Provence 2026 🇫🇷 | 2026-12-10 | Valbonne, France | [↗](https://gdg.community.dev/events/details/google-gdg-sophia-antipolis-presents-gdg-x-kubernetes-community-days-provence-2026/) |
+| Lunch&Learn \| GTM Squad \| How to kick start your partnership revenue channel as a seed stage company. | 2026-12-10 | Paris, FR | [↗](https://lu.ma/c0qf2ty9) |
+| 🍃 Apéro Adaptation et Résilience 🍃 | 2026-12-10 | Paris, FR | [↗](https://lu.ma/f8hj7pet) |
+| Après NeurIPS Drinks with H Company, Modal , Encord, TFC, Balderton | 2026-12-10 | Paris, FR | [↗](https://lu.ma/ehy8iwul) |
+| Calyvia Investment Club \| Cap sur 2027 | 2026-12-10 | Paris, FR | [↗](https://lu.ma/fgqqj2m1) |
+| MUTT & MEET - Christmas Party | 2026-12-10 | Paris, FR | [↗](https://lu.ma/r0fywpl6) |
+| Winter Cocktail: Next Gen Patrimoine side event | 2026-12-10 | Paris, FR | [↗](https://lu.ma/41uoikvf) |
+| From Research to Company @ NeurIPS 2026 Paris | 2026-12-10 | Paris, FR | [↗](https://lu.ma/s5ebs4ix) |
 | Season Finale Hackathon · aivancity Tech Club × GDG on Campus aivancity | 2026-12-19 | Villejuif, France | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-aivancity-villejuif-france-presents-season-finale-hackathon-aivancity-tech-club-x-gdg-on-campus-aivancity/) |
 | SnowCamp 2027 | 2027-01-14 to 2027-01-16 | Grenoble (France) | [↗](https://snowcamp.io/) |
 | Hubvisory Run Club - 10K Montmartre | 2027-01-24 | Paris, FR | [↗](https://lu.ma/gazlk18w) |
 | Pharmapack Europe 2027 | 2027-01-27 to 2027-01-28 | Paris, France | [↗](https://www.pharmapackeurope.com) |
 | GDG Marseille x Epitech Summit - IA, Cloud & Cyber 🚀 | 2027-02-02 | Marseille, France | [↗](https://gdg.community.dev/events/details/google-gdg-marseille-presents-gdg-marseille-x-epitech-summit-ia-cloud-amp-cyber/) |
+| GDG Marseille x Epitech Summit : IA & Android 🚀 | 2027-02-02 | Marseille, France | [↗](https://gdg.community.dev/events/details/google-gdg-marseille-presents-gdg-marseille-x-epitech-summit-ia-amp-android/) |
 | tech&fest 2027 | 2027-02-03 to 2027-02-04 | Grenoble, France | [↗](https://www.tech-fest.fr/) |
 | World AI Cannes Festival 2027 | 2027-02-10 to 2027-02-11 | Cannes, France | [↗](https://waicf.com/) |
 | Touraine Tech 2027 | 2027-02-18 to 2027-02-19 | Tours (France) | [↗](https://touraine.tech/) |
