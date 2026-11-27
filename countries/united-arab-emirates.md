@@ -1,9 +1,11 @@
 # Developer Events in United Arab Emirates
 
-14 upcoming events. [Back to the full directory](../README.md)
+16 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
+| Startup Lab: From Problem to Pitch — Multidisciplinary Innovation Weekend | 2026-11-28 | Dubai, United Arab Emirates | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-amity-university-dubai-dubai-united-arab-emirates-presents-startup-lab-from-problem-to-pitch-multidisciplinary-innovation-weekend/) |
+| Research Intelligence: Think Smarter, Research Better — Multidisciplinary Innovation Weekend | 2026-11-29 | Dubai, United Arab Emirates | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-amity-university-dubai-dubai-united-arab-emirates-presents-research-intelligence-think-smarter-research-better-multidisciplinary-innovation-weekend/) |
 | WORKSHOP: GITEX Lead Catcher: Build Your Own AI Business Card Scanner with Antigravity | 2026-12-06 | Dubai, United Arab Emirates | [↗](https://gdg.community.dev/events/details/google-gdg-dubai-presents-workshop-gitex-lead-catcher-build-your-own-ai-business-card-scanner-with-antigravity/) |
 | GITEX Global | 2026-12-07 to 2026-12-11 | Dubai, UAE | [↗](https://www.gitex.com) |
 | Expand North Star 2026 | 2026-12-08 to 2026-12-10 | Dubai, United Arab Emirates | [↗](https://expandnorthstar.com) |

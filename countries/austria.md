@@ -1,11 +1,9 @@
 # Developer Events in Austria
 
-9 upcoming events. [Back to the full directory](../README.md)
+7 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| DevFest Linz 2026 | 2026-11-26 | Linz, Austria | [↗](https://gdg.community.dev/events/details/google-gdg-linz-presents-devfest-linz-2026/) |
-| Future Forward 2026 | 2026-11-26 | Vienna, Austria | [↗](https://www.futureforward.at/) |
 | Data Community Day Austria 2027 | 2027-01-18 | Vienna (Austria) | [↗](https://datacommunity.at) |
 | DjangoCon Europe | 2027-02-17 | Innsbruck, Austria | [↗](https://djangocon.eu/) |
 | BSides Tirol | 2027-02-25 | Innsbruck (Austria) | [↗](https://www.bsides.tirol/) |

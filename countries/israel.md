@@ -1,10 +1,9 @@
 # Developer Events in Israel
 
-8 upcoming events. [Back to the full directory](../README.md)
+7 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| האקתון אלברט איינשטיין 2026  חדשנות בחינוך וחוסן לאומי Albert Einstein Hackathon 2026: Innovation in Education and National Resilience | 2026-11-26 | Rehovot, Israel | [↗](https://gdg.community.dev/events/details/google-gdg-rehovot-presents-hqtvn-lbrt-yynshtyyn-2026-khdshnvt-bkhynvk-vkhvsn-lvmy-albert-einstein-hackathon-2026-innovation-in-education-and-national-resilience/) |
 | Reversim Summit 2026 | 2026-11-30 to 2026-12-01 | Tel Aviv (Israel) | [↗](https://summit2026.reversim.com/) |
 | DevOpsDays Tel Aviv 2026 | 2026-12-01 | Tel Aviv | [↗](https://devopsdays.org/events/2026-tel-aviv) |
 | AIngular TLV | 2026-12-07 | Tel Aviv-Yafo, Israel | [↗](https://gdg.community.dev/events/details/google-gdg-tel-aviv-presents-aingular-tlv/) |

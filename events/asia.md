@@ -6,59 +6,6 @@ Developer conferences, summits and community events across Asia. [Back to the di
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Sports Day | 2026-11-26 | Bengaluru, IN | [↗](https://lu.ma/np1y7p59) |
-| Bitcoin Minors Connect | 2026-11-26 | Bengaluru, IN | [↗](https://lu.ma/iciyli3z) |
-| 【Tokyo】AIレディデータ × バイブコーディングで作る！MBTI ＆ 手相占いアプリ開発ワークショップ | 2026-11-26 | Tokyo, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-international-professional-university-of-technology-tokyo-japan-presents-tokyo-airedeideta-x-baibukodeingudezuo-rumbti-shou-xiang-zhan-iapurikai-fa-wakushiyotsupu/) |
-| 2026 GDGoC PKNU 최종발표 | 2026-11-26 | Busan, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-pukyong-national-university-busan-south-korea-presents-2026-gdgoc-pknu-coejongbalpyo/) |
-| Next Generation Testing & AI Bangalore | 2026-11-26 | Bangalore, KA, IN | [↗](https://allevents.in/bangalore/next-generation-testing-and-ai-bangalore/80001436966343) |
-| Google Developer Group DevFest 2026 – Belagavi | 2026-11-26 | Belagavi, India | [↗](https://gdg.community.dev/events/details/google-gdg-belgaum-presents-google-developer-group-devfest-2026-belagavi/) |
-| Vibe Coders Jam Session: feat. Base44 | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/base44sgnov) |
-| Cost, context, control: Leading the AI-run enterprise | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/qv96zjkm) |
-| Startup Stories by Bengaluru Founders | 2026-11-26 | Bengaluru, IN | [↗](https://lu.ma/a37ddum5) |
-| האקתון אלברט איינשטיין 2026  חדשנות בחינוך וחוסן לאומי Albert Einstein Hackathon 2026: Innovation in Education and National Resilience | 2026-11-26 | Rehovot, Israel | [↗](https://gdg.community.dev/events/details/google-gdg-rehovot-presents-hqtvn-lbrt-yynshtyyn-2026-khdshnvt-bkhynvk-vkhvsn-lvmy-albert-einstein-hackathon-2026-innovation-in-education-and-national-resilience/) |
-| Get Rich Through Human Design | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/4fke3f03) |
-| Red Dot Capital Partners CONNECT EVENT | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/ql92n431) |
-| From Detection to Defensibility: Singapore, An Evening of AI, Compliance & Conversation | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/flagright-zr4d) |
-| Nerd Out №02 · Physical AI, Unpacked | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/aav8azb7) |
-| Crossroad Chatters: Responsible AI in Healthcare | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/x6qtxrj2) |
-| Milestones Reimagined: Redefining The Path To Retirement | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/29ipnio6) |
-| Our HR Circle : Off The Record (Nov) | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/kyqjhmyu) |
-| AI Supper Club Singapore: Reliability. Economics. Business Impact. | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/3ssqs0cu) |
-| More than Just Small Talks \| 20s-30s (1 Free Drink!) | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/y69d153u) |
-| Every Love Song in the World | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/k7xtn694) |
-| Friendsgiving Dinner | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/enbpl8vp) |
-| HackerX - Bengaluru (AI) - Employer Ticket - 11/26 | 2026-11-26 to 2026-11-27 | Bengaluru, KA, IN | [↗](https://allevents.in/bengaluru/hackerx-bengaluru-ai-employer-ticket-11-26/100001980342644158) |
-| Unlocking 3.1M Visitors: AMap Singapore Partner Launch -智领三百万客流：高德新加坡生态启动会 | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/7riswuyc) |
-| Trauma-Informed Somatics | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/trauma-informed-somatics-1126) |
-| The Growthcap Mixer | 2026-11-26 | Bengaluru, IN | [↗](https://lu.ma/5fdfieef) |
-| ATLAS (AI Singapore) x DataScience SG | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/htb5wgaj) |
-| StudyJam #2 - Cyber Security #TechSeries \| Web Exploitation: Attack & Patch | 2026-11-26 | Malang, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-brawijaya-malang-indonesia-presents-studyjam-2-cyber-security-techseries-web-exploitation-attack-amp-patch/) |
-| AI, SaaS & Deeptech Founders Meetup | 2026-11-26 | Bengaluru, IN | [↗](https://lu.ma/91hghgv6) |
-| CFO Dinner | 2026-11-26 | Bengaluru, IN | [↗](https://lu.ma/8n8nfctx) |
-| Sanli Environmental 1H2027 Results Briefing | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/807p0mot) |
-| Elastic AI Connect: Singapore | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/nojitcre) |
-| Shakeout Run · HYROX SG Race Week | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/u647vpj6) |
-| 🚶Curious Walking Club — Bengaluru 🇮🇳 · Friends of Screate Labs | 2026-11-26 | Bengaluru, IN | [↗](https://lu.ma/5i4vln8n) |
-| HFPG ‘27 Learning Journey: EDB | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/czxfp1xu) |
-| Build Your Personal AI Assistant | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/x5b438ad) |
-| Founder's Guide to M&A Prep by Qapita, MissionBridge, Ascentium Singapore | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/equ2zgjy) |
-| How to Make Love (HTML) | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/qgzrp9zg) |
-| SameKind Singapore Founder Dinner | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/xnudkr1o) |
-| AI for Workplace Productivity | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/ur3zet38) |
-| When Docker Compose Isn’t Enough：使用 Kubernetes 部署與管理容器化應用程式 | 2026-11-26 | Taoyuan, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-central-university-taoyuan-city-taiwan-presents-when-docker-compose-isnt-enoughshi-yong-kubernetes-bu-shu-yu-guan-li-rong-qi-hua-ying-yong-cheng-shi/) |
-| Beyond The Cup: The Science & Craft of Speciality Coffee | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/tebi4ej5) |
-| GDGoC AI Agent-a-thon 2026 | 2026-11-26 | Chiniot-Faisalabad, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-fast-national-university-of-computer-and-emerging-sciences-chiniot-faisalabad-pakistan-presents-gdgoc-ai-agent-a-thon-2026/) |
-| Data Science Training in Hyderabad \| Attend Free Demo on 26th November 2026 | 2026-11-26 | Hyderabad, TS, IN | [↗](https://allevents.in/hyderabad/data-science-training-in-hyderabad-attend-free-demo-on-26th-november-2026/100002005245912504) |
-| Empowering Everyone: Building for All Generations | 2026-11-26 | Bengaluru, IN | [↗](https://lu.ma/1m5uwgje) |
-| HFPG '27 Learning Journey: NLB Technology Services | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/2e88dawi) |
-| AI for Good, Safely: AI Adoption, Governance & Cybersecurity for NGOs | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/zolv6lm8) |
-| The Ultimate Heist: Cash, Chaos & Code | 2026-11-26 | Chandigarh, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-chitkara-university-chandigarh-india-presents-the-ultimate-heist-cash-chaos-amp-code/) |
-| Capturing the Cosmos: From Raw Data to Scientific Imagery | 2026-11-26 | Al Ahmadi, Kuwait | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-american-university-of-the-middle-east-aum-al-ahmadi-kuwait-presents-capturing-the-cosmos-from-raw-data-to-scientific-imagery/) |
-| How to Start: Legally | 2026-11-26 | Bengaluru, IN | [↗](https://lu.ma/gow2cgqc) |
-| Dev Build 1.0! 🚀💻 | 2026-11-26 | Karachi, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sir-syed-university-of-engineering-technology-karachi-pakistan-presents-dev-build-10/) |
-| Community Tech Talk \| Community Insights: Empowering Real-World Change with AI | 2026-11-26 | Shenzhen, China | [↗](https://gdg.community.dev/events/details/google-gdg-shenzhen-presents-community-tech-talk-community-insights-empowering-real-world-change-with-ai/) |
-| [FE] 정기 온라인 스터디 | 2026-11-26 | Daegu, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kyungpook-national-university-daegu-south-korea-presents-fe-jeonggi-onrain-seuteodi-2/) |
-| Road to DevFest 2026 – Track 3 – Bahria University | 2026-11-26 | Islamabad, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-bahria-university-islamabad-campus-islamabad-pakistan-presents-road-to-devfest-2026-track-3-bahria-university/) |
 | Workplace Ninjas India 2026 | 2026-11-27 to 2026-11-28 | Delhi | [↗](https://dev.events/conferences/workplace-ninjas-india-2026-c7awujrf) |
 | PostgreSQL Conference Japan 2026 | 2026-11-27 | Tokyo | [↗](https://dev.events/conferences/postgre-sql-conference-japan-2026-qpj9x2yg) |
 | HIGHTABLE 2026 BLAST MIXER | 2026-11-27 | Bengaluru, IN | [↗](https://lu.ma/fhd46qhy) |
@@ -117,6 +64,12 @@ Developer conferences, summits and community events across Asia. [Back to the di
 | Seminar - APEC: Reshaping the Digital Economy Landscape | 2026-11-27 | Singapore, SG | [↗](https://lu.ma/1wmbwyn4) |
 | Let Him Cook: From Chatbot to AI Agent Workshop | 2026-11-27 | Kuala Lumpur, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universiti-malaya-kuala-lumpur-malaysia-presents-let-him-cook-from-chatbot-to-ai-agent-workshop/) |
 | [New Venue] Thanksgiving Party \| Founders & Builders Summer Mixer｜Founder’s Office Hours Nov 2026 | 2026-11-27 | Guangzhou, China | [↗](https://www.startupgrind.com/events/details/startup-grind-guangzhou-presents-new-venue-thanksgiving-party-founders-amp-builders-summer-mixerfounders-office-hours-nov-2026/) |
+| Discover Open Source AI: Onboarding Sprint with GC.OS | 2026-11-27 | Bengaluru, IN | [↗](https://lu.ma/v66zshfn) |
+| B2B SaaS Marketing TGIF: Bangalore \| Invite-Only | 2026-11-27 | Bengaluru, IN | [↗](https://lu.ma/13fi6pvm) |
+| DevFest 2026 Buildathon - Kickoff | 2026-11-27 | Peshawar, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-live-pakistan-presents-devfest-2026-buildathon-kickoff/) |
+| Study Jam ML#2: Classical Algorithm | 2026-11-27 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-pasundan-bandung-indonesia-presents-study-jam-ml2-classical-algorithm/) |
+| Study Jam AI: Telegram AI Bot | 2026-11-27 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-widyatama-university-bandung-indonesia-presents-study-jam-ai-telegram-ai-bot/) |
+| Study Jam UI/UX: "Menyulap Sketsa Jadi Nyata: Design System & Hi-Fi Interactive Prototype" | 2026-11-27 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-widyatama-university-bandung-indonesia-presents-study-jam-uiux-menyulap-sketsa-jadi-nyata-design-system-amp-hi-fi-interactive-prototype/) |
 | Zero-Churn Utopia: Is It Possible to Engineer the Customer Journey to Eliminate Unwanted Downgrades and Cancellations? | 2026-11-28 | Bengaluru, IN | [↗](https://lu.ma/i3hwgqoa) |
 | The Messy UX Conference 2026 | 2026-11-28 | Bengaluru | [↗](https://dev.events/conferences/the-messy-ux-conference-2026-hgpouzgq) |
 | FOSS for All Conference 2026 | 2026-11-28 | Seoul | [↗](https://dev.events/conferences/foss-for-all-conference-2026-ujqr94pp) |
@@ -249,6 +202,16 @@ Developer conferences, summits and community events across Asia. [Back to the di
 | sharing session : Beyond the Organization | 2026-11-28 | Malang, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-uin-maulana-malik-ibrahim-malang-malang-indonesia-presents-sharing-session-beyond-the-organization/) |
 | Introduction Fundamental Ethical Hacking | 2026-11-28 | Makassar, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-uin-alauddin-makassar-makassar-indonesia-presents-introduction-fundamental-ethical-hacking-1/) |
 | eChai Startup Demo Day in Hyderabad | 2026-11-28 | Hyderabad, TS, IN | [↗](https://allevents.in/hyderabad/echai-startup-demo-day-in-hyderabad/4700031124161018) |
+| AWFK - HSR Thindi (Food) Walk | 2026-11-28 | Bengaluru, IN | [↗](https://lu.ma/p3vchkfx) |
+| Dosa & Dialogues | 2026-11-28 | Bengaluru, IN | [↗](https://lu.ma/ja7hc0fv) |
+| Bayt Sadath | 2026-11-28 | Bengaluru, IN | [↗](https://lu.ma/ok4txrp6) |
+| Top Tier Institute: Introductory Seminar | 2026-11-28 | Singapore, SG | [↗](https://lu.ma/6qq0tzdm) |
+| SOCHO. BANAO. LAUNCH KARO. | 2026-11-28 | Islamabad, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-international-islamic-university-islamabad-pakistan-presents-socho-banao-launch-karo/) |
+| Startup Lab: From Problem to Pitch — Multidisciplinary Innovation Weekend | 2026-11-28 | Dubai, United Arab Emirates | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-amity-university-dubai-dubai-united-arab-emirates-presents-startup-lab-from-problem-to-pitch-multidisciplinary-innovation-weekend/) |
+| The First Commit. \| Induction 2026-2027 | 2026-11-28 | Hooghly, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-academy-of-technology-hooghly-india-presents-the-first-commit-induction-2026-2027/) |
+| DevFest Cloud x Pangyo 2026 | 2026-11-28 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-korea-presents-devfest-cloud-x-pangyo-2026/) |
+| Tech Talk Web Development: The Future of Software Development | 2026-11-28 | Depok, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-gunadarma-depok-indonesia-presents-tech-talk-web-development-the-future-of-software-development/) |
+| DevFest on Campus 2026 - SGU | 2026-11-28 | Ho Chi Minh City, Vietnam | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-saigon-university-ho-chi-minh-city-vietnam-presents-devfest-on-campus-2026-sgu/) |
 | staaake Founders Pic Nic (Second Edition) — Reverse Network Meet | 2026-11-29 | Bengaluru, IN | [↗](https://lu.ma/staaake-9oez) |
 | Google Developer Group DevFest Tokyo 2026 | 2026-11-29 | Tokyo, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-tokyo-presents-google-developer-group-devfest-tokyo-2026/) |
 | GDG on Campus NCKU × Codpy｜聯合社課 | 2026-11-29 | Tainan, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-cheng-kung-university-tainan-city-taiwan-presents-gdg-on-campus-ncku-x-codpylian-he-she-ke/) |
@@ -286,6 +249,10 @@ Developer conferences, summits and community events across Asia. [Back to the di
 | [Reading Session] Bangalore History Circle Meetup 3 | 2026-11-29 | Bengaluru, IN | [↗](https://lu.ma/xi16dvdn) |
 | Module 2: Introduction to Algebra @ Kembangan | 2026-11-29 | Singapore, SG | [↗](https://lu.ma/gkgzs027) |
 | Weekly Class #2 Building an API & Connecting a Database | 2026-11-29 | Makassar, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-negeri-makassar-makassar-indonesia-presents-weekly-class-2-building-an-api-amp-connecting-a-database/) |
+| Run & Recover | 2026-11-29 | Bengaluru, IN | [↗](https://lu.ma/1hs5pqyq) |
+| Behind the build: Edition 2 | 2026-11-29 | Bengaluru, IN | [↗](https://lu.ma/b2gnea6w) |
+| WanderMesh Presents: Travel Social \| Bengaluru Edition | 2026-11-29 | Bengaluru, IN | [↗](https://lu.ma/36s1orp2) |
+| Research Intelligence: Think Smarter, Research Better — Multidisciplinary Innovation Weekend | 2026-11-29 | Dubai, United Arab Emirates | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-amity-university-dubai-dubai-united-arab-emirates-presents-research-intelligence-think-smarter-research-better-multidisciplinary-innovation-weekend/) |
 | Reversim Summit 2026 | 2026-11-30 to 2026-12-01 | Tel Aviv (Israel) | [↗](https://summit2026.reversim.com/) |
 | FoundIN Curated Meetup - 30th November | 2026-11-30 | Bengaluru, IN | [↗](https://lu.ma/pf147d11) |
 | Kadevs Pathway Expo: Tech Careers Unveiled | 2026-11-30 | Calgary, Philippines | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-science-and-technology-of-southern-philippines-cagayan-de-oro-city-philippines-presents-kadevs-pathway-expo-tech-careers-unveiled/) |
@@ -305,6 +272,9 @@ Developer conferences, summits and community events across Asia. [Back to the di
 | Launch of GDGoC Initiative 2027 & Exclusive Networking building at SVREC | 2026-11-30 | Nandyal, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-svr-engineering-college-nandyala-india-presents-launch-of-gdgoc-initiative-2027-amp-exclusive-networking-building-at-svrec/) |
 | Build a Useful App with Maths and AI | 2026-11-30 | Bengaluru, IN | [↗](https://lu.ma/9qgs29uy) |
 | GDGoC Dr. AITD OP Session \| First Event of 2026–27 🚀 | 2026-11-30 | Kanpur, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-dr-ambedkar-institute-of-technology-for-divyangjan-kanpur-india-presents-gdgoc-dr-aitd-op-session-first-event-of-2026-27/) |
+| Rise & Connect: Investors and Founders | 2026-11-30 | Singapore, SG | [↗](https://lu.ma/zx9ea3cy) |
+| Cyber Security Day 2026 | 2026-11-30 | Kolkata, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-dr-sudhir-chandra-sur-institute-of-technology-sports-complex-kolkata-india-presents-cyber-security-day-2026/) |
+| Welcome & Onboarding Session for New Core Team | 2026-11-30 | South Jakarta, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-trilogi-university-south-jakarta-indonesia-presents-welcome-amp-onboarding-session-for-new-core-team/) |
 | DevOpsDays Tel Aviv 2026 | 2026-12-01 | Tel Aviv | [↗](https://devopsdays.org/events/2026-tel-aviv) |
 | Gartner IT Infrastructure, Operations & Cloud Strategies | 2026-12-01 to 2026-12-03 | Tokyo | [↗](https://dev.events/conferences/gartner-it-infrastructure-operations-and-cloud-strategies-qevvlboe) |
 | Computer Conversations Buildathon | 2026-12-01 | Bengaluru, IN | [↗](https://lu.ma/devrev-uuot) |
@@ -323,6 +293,8 @@ Developer conferences, summits and community events across Asia. [Back to the di
 | SIIN Impact Investing Coffee Morning [Nov 2026] | 2026-12-01 | Singapore, SG | [↗](https://lu.ma/l0x48td8) |
 | Lecture Series: AI03: The New AI Standard | 2026-12-01 | Singapore, SG | [↗](https://lu.ma/qh59bumn) |
 | Welcome to the World of Tech | 2026-12-01 | Bengaluru, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-dr-ambedkar-institute-of-technology-bengaluru-india-presents-welcome-to-the-world-of-tech/) |
+| The Next Decade of Discovery: AI, Materials and the Future of Compute | 2026-12-01 | Bengaluru, IN | [↗](https://lu.ma/AIMaterialsCompute) |
+| Get Your Store Into AI Answers: A Hands-On GEO + AI Customer Acquisition Workshop for Store Owners (Free In-Person Session) | 2026-12-01 | Singapore, SG | [↗](https://lu.ma/285r75rr) |
 | AVAR 2026 | 2026-12-02 to 2026-12-04 | Hyderabad | [↗](https://dev.events/conferences/avar-2026-g-tzmus3) |
 | StackConnect World Tour: Mumbai | 2026-12-02 | Mumbai | [↗](https://dev.events/conferences/stack-connect-world-tour-mumbai-ml6dsfpa) |
 | Tech 2.0 Conference Singapore | 2026-12-02 | Singapore, SG | [↗](https://lu.ma/34dm4inv) |
@@ -346,6 +318,8 @@ Developer conferences, summits and community events across Asia. [Back to the di
 | Fluctuations are all you need | 2026-12-02 | Bengaluru, IN | [↗](https://lu.ma/kn73vknv) |
 | The One About Knowing When Not to Use AI | 2026-12-02 | Singapore, SG | [↗](https://lu.ma/ovr73db6) |
 | 【線上閃電講】技術微分享 | 2026-12-02 | Taichung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-chung-shan-medical-university-taichung-taiwan-presents-xian-shang-shan-dian-jiang-ji-shu-wei-fen-xiang/) |
+| Founder's Guide to M&A Prep by Qapita, MissionBridge, Ascentium Singapore | 2026-12-02 | Singapore, SG | [↗](https://lu.ma/equ2zgjy) |
+| Brew the Future \| AI & Cybersecurity | 2026-12-02 | Singapore, SG | [↗](https://lu.ma/swsoap9c) |
 | QonfX Hyderabad 2026 | 2026-12-03 | Hyderabad | [↗](https://dev.events/conferences/qonf-x-hyderabad-2026-roimhpio) |
 | Founders worldwide: Incorporate your startup, manage funds, and fundraise | 2026-12-03 | Multan, Pakistan | [↗](https://www.startupgrind.com/events/details/startup-grind-multan-presents-founders-worldwide-incorporate-your-startup-manage-funds-and-fundraise/) |
 | Singapore AI Safety Research Symposium | 2026-12-03 | Singapore, SG | [↗](https://lu.ma/tivp43yk) |
@@ -372,6 +346,8 @@ Developer conferences, summits and community events across Asia. [Back to the di
 | Grok Bot Meetup Singapore | 2026-12-03 | Singapore, SG | [↗](https://lu.ma/grokbotmeetupsg) |
 | Odysea Capstone Presentation | 2026-12-03 | Singapore, SG | [↗](https://lu.ma/ehrepvck) |
 | Spec First, Ship Fast: Building with Gemini & Antigravity | 2026-12-03 | Karachi, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-shaheed-zulfikar-ali-bhutto-institute-of-science-and-technology-karachi-pakistan-presents-spec-first-ship-fast-building-with-gemini-amp-antigravity/) |
+| On Singapore Marathon Training Block \| On Shakeout Run | 2026-12-03 | Singapore, SG | [↗](https://lu.ma/7ce2c4jt) |
+| AI Supper Club Singapore: Reliability. Economics. Business Impact. | 2026-12-03 | Singapore, SG | [↗](https://lu.ma/3ssqs0cu) |
 | An Evening to Celebrate Our CSR Partners | 2026-12-04 | Bengaluru, IN | [↗](https://lu.ma/ss1us75m) |
 | Algothon: Innovate with Gen AI and Google Tech | 2026-12-04 | Calgary, Philippines | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-science-and-technology-of-southern-philippines-cagayan-de-oro-city-philippines-presents-algothon-innovate-with-gen-ai-and-google-tech/) |
 | Got an idea? Let's build it with Lovable @Aspire | 2026-12-04 | Singapore, SG | [↗](https://lu.ma/5e9oxw33) |
@@ -391,6 +367,9 @@ Developer conferences, summits and community events across Asia. [Back to the di
 | 🤖 Deep Reinforcement Learning from Fundamentals to Frontiers：深度強化學習從基礎理論到前沿研究與遊戲訓練實作 | 2026-12-04 | Taoyuan, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-central-university-taoyuan-city-taiwan-presents-deep-reinforcement-learning-from-fundamentals-to-frontiersshen-du-qiang-hua-xue-xi-cong-ji-chu-li-lun-dao-qian-yan-yan-jiu-yu-you-xi-xun-lian-shi-zuo/) |
 | Founder Talks by CEDAT | 2026-12-04 | Bengaluru, IN | [↗](https://lu.ma/8i9o4vmm) |
 | HackSphere 2026:AI Hackathon | 2026-12-04 | Attock, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-comsats-university-islamabad-attock-campus-attock-pakistan-presents-hacksphere-2026ai-hackathon/) |
+| Sanctuary as Care — Public Open House | 2026-12-04 | Singapore, SG | [↗](https://lu.ma/0qctsjrs) |
+| Beyond the Prompt 4.0 | 2026-12-04 | Singapore, SG | [↗](https://lu.ma/mbzgq8tt) |
+| Mid Summer Night Scam : A startup murder mystery | 2026-12-04 | Singapore, SG | [↗](https://lu.ma/n6dbsqw6) |
 | HTMD Conference 2026 | 2026-12-05 | Bengaluru (India) | [↗](https://htmdcommunity.org) |
 | OpenSource Con India 2026 | 2026-12-05 | Kolkata (India) | [↗](https://opensourcecon.in/) |
 | Manotsava \| National Mental Health Festival | 2026-12-05 | Bengaluru, IN | [↗](https://lu.ma/8wnf217g) |
@@ -446,6 +425,7 @@ Developer conferences, summits and community events across Asia. [Back to the di
 | DevFest on Campus HCMC 2026 - GDGoC Ho Chi Minh City University of Technology | 2026-12-05 | Ho Chi Minh City, Vietnam | [↗](https://gdg.community.dev/events/details/google-gdg-ho-chi-minh-city-presents-devfest-on-campus-hcmc-2026-gdgoc-ho-chi-minh-city-university-of-technology/) |
 | Unshameable: You Were Never Broken \| Workshop | 2026-12-05 | Bengaluru, IN | [↗](https://lu.ma/t3ol8l48) |
 | Gavipuram and Basavanagudi heritage walk | 2026-12-05 | Bengaluru, IN | [↗](https://lu.ma/mpwsni6h) |
+| Build Your First AI Agent: Hands-on Workshop for Beginners (HSR Layout) | 2026-12-05 | Bengaluru, IN | [↗](https://lu.ma/u0pyhl35) |
 | Google Cloud Community Days Udaipur 2026 | 2026-12-06 | Udaipur, India | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-udaipur-presents-google-cloud-community-days-udaipur-2026/) |
 | DevFest 2026 Nanjing | 2026-12-06 | Nanjing, China | [↗](https://gdg.community.dev/events/details/google-gdg-nanjing-presents-devfest-2026-nanjing/) |
 | Book Launch - Kaustubha | 2026-12-06 | Bengaluru, IN | [↗](https://lu.ma/fkynreqq) |
@@ -468,6 +448,11 @@ Developer conferences, summits and community events across Asia. [Back to the di
 | Design For Impact 2026 Pitch & Showcase | 2026-12-06 | Singapore, SG | [↗](https://lu.ma/mu8qygo5) |
 | DevFest on Campus HCMC 2026 - GDGoC University of Transport HCMC | 2026-12-06 | Ho Chi Minh City, Vietnam | [↗](https://gdg.community.dev/events/details/google-gdg-ho-chi-minh-city-presents-devfest-on-campus-hcmc-2026-gdgoc-university-of-transport-hcmc/) |
 | Devfest 2026 Seoul | 2026-12-06 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-seoul-presents-devfest-2026-seoul/) |
+| Flowers I Never Sent: Craft, Grief, and the Language of Blooms \| Workshop | 2026-12-06 | Bengaluru, IN | [↗](https://lu.ma/emc3fso5) |
+| Rooted and Rising: People, Nature, Culture and the Cities We Want to Live In \| Workshop | 2026-12-06 | Bengaluru, IN | [↗](https://lu.ma/y6pkbtqb) |
+| LLM Behind the Scenes | 2026-12-06 | Indore, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-medi-caps-university-indore-india-presents-llm-behind-the-scenes/) |
+| DevFest on Campus x GDG TP.HCM 2026 – UTH | 2026-12-06 | Ho Chi Minh City, Vietnam | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-ho-chi-minh-city-university-of-transport-ho-chi-minh-city-presents-devfest-on-campus-x-gdg-tphcm-2026-uth/) |
+| The Founder Room ( Hyderabad's private founder problem-solving forum ) | 2026-12-06 | Hyderabad, TS, IN | [↗](https://allevents.in/hyderabad/the-founder-room-hyderabads-private-founder-problem-solving-forum-tickets/80006755261857) |
 | Open Source Summit Japan 2026 | 2026-12-07 to 2026-12-09 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/open-source-summit-japan/) |
 | Automotive Linux Summit | 2026-12-07 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/automotive-linux-summit/) |
 | Embedded Linux Conference Asia | 2026-12-07 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/embedded-linux-conference-asia/) |
@@ -488,6 +473,10 @@ Developer conferences, summits and community events across Asia. [Back to the di
 | Claude Community Singapore \| Skills Clinic for Sales, GTM & Marketing | 2026-12-08 | Singapore, SG | [↗](https://lu.ma/claude-tjmy) |
 | Prime Midlife Year End Dinner 2026 | 2026-12-08 | Singapore, SG | [↗](https://lu.ma/yafo3n1h) |
 | 【GDG '26A 期末專案成果發表會｜12/8（二）明達講堂見！】 | 2026-12-08 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-chengchi-university-taipei-taiwan-presents-gdg-26a-qi-mo-zhuan-an-cheng-guo-fa-biao-hui-128er-ming-da-jiang-tang-jian/) |
+| Enabling CompliantGrowth for Voice AI in India | 2026-12-08 | Bengaluru, IN | [↗](https://lu.ma/a7dy1uq3) |
+| Demo Day: Moomoo x Qoder AI Trading Agent Challenge | 2026-12-08 | Singapore, SG | [↗](https://lu.ma/pn4qsmdm) |
+| Agent Network Night: OpenBuilder x Five Degrees | 2026-12-08 | Singapore, SG | [↗](https://lu.ma/fm7lotyu) |
+| ✨不會寫程式也能開發？用 Vibe Coding 一晚搓出你的Pro 級工具！✨ | 2026-12-08 | Kaohsiung, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-university-of-kaohsiung-kaohsiung-city-taiwan-presents-bu-hui-xie-cheng-shi-ye-neng-kai-fa-yong-vibe-coding-yi-wan-cuo-chu-ni-de-pro-ji-gong-ju/) |
 | Great International AI Native Summit (GAINS) | 2026-12-09 to 2026-12-10 | Bangalore (India) | [↗](https://ainativesummit.com) |
 | Global CXO Awards 2026 – A Global Celebration of Leadership Excellence | 2026-12-09 | Bengaluru, IN | [↗](https://lu.ma/39csr28a) |
 | WOA Singapore Presents...Year End Bash | 2026-12-09 | Singapore, SG | [↗](https://lu.ma/4m7b9zft) |
@@ -509,6 +498,7 @@ Developer conferences, summits and community events across Asia. [Back to the di
 | GTM Engineering for Startups \| Clay [club] x HubSpot x Firmable x Ace SG | 2026-12-09 | Singapore, SG | [↗](https://lu.ma/Clayclub-hubspotforstartups) |
 | Figuring Shit Out End-of-Year Mixer | 2026-12-09 | Singapore, SG | [↗](https://lu.ma/vqmctsgu) |
 | TUAT AI Lab（仮称）第0回：EmbeddingGemmaで記事の分類・クラスタリング・検索 | 2026-12-09 | Tokyo, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-tokyo-university-of-agriculture-and-technology-tokyo-japan-presents-tuat-ai-labjia-cheng-di-0hui-embeddinggemmadeji-shi-nofen-lei-kurasutaringujian-suo/) |
+| [新手友善] AI 代理素養工作坊 #1｜Vibe Coding × Agent Skills | 2026-12-09 | Changhua City, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-changhua-university-of-education-changhua-city-taiwan-presents-xin-shou-you-shan-ai-dai-li-su-yang-gong-zuo-fang-1vibe-coding-x-agent-skills/) |
 | ONE Summit Japan | 2026-12-10 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/open-networking-edge-summit-japan/) |
 | Open Compliance Summit | 2026-12-10 to 2026-12-11 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/open-compliance-summit/) |
 | PyTorch Day Japan | 2026-12-10 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/pytorch-day-japan/) |
@@ -528,6 +518,8 @@ Developer conferences, summits and community events across Asia. [Back to the di
 | Living with AI: How We Work, Build, and Think Now | 2026-12-10 | Singapore, SG | [↗](https://lu.ma/8yxa9y94) |
 | GRO8 Founder & Funder Mixer | 2026-12-10 | Bengaluru, IN | [↗](https://lu.ma/0zsz1v3c) |
 | CX Leaders Dinner Table Bangalore | 2026-12-10 | Bengaluru, IN | [↗](https://lu.ma/xnr8g29x) |
+| AI GTM 101: run your whole go-to-market engine with AI | 2026-12-10 | Bengaluru, IN | [↗](https://lu.ma/aigtm101) |
+| 🚶Curious Walking Club — Bengaluru 🇮🇳 · Friends of Screate Labs | 2026-12-10 | Bengaluru, IN | [↗](https://lu.ma/5i4vln8n) |
 | Blr Lit Fest \| 11-13 Dec 2026 \| 15th Edition | 2026-12-11 | Bengaluru, IN | [↗](https://lu.ma/n8p6fe46) |
 | Chief of Staff Connect - Singapore Forum | 2026-12-11 | Singapore, SG | [↗](https://lu.ma/utr575f1) |
 | [新加坡江苏会] 新苏经贸文化发展论坛 | 2026-12-11 | Singapore, SG | [↗](https://lu.ma/hyucpfym) |
@@ -542,6 +534,7 @@ Developer conferences, summits and community events across Asia. [Back to the di
 | AI Career Unlocked: AIxTech Student Career Event | 2026-12-11 | Singapore, SG | [↗](https://lu.ma/0rzcuc75) |
 | Maitreya AI In Finance Roundtable Dinner | 2026-12-11 | Singapore, SG | [↗](https://lu.ma/nwd6d9n9) |
 | South Bengaluru Startups Meetup by CEDAT | 2026-12-11 | Bengaluru, IN | [↗](https://lu.ma/g5898s1w) |
+| [新手友善] AI 代理素養工作坊 #2｜MCP × Browser Agent × 自動排程 | 2026-12-11 | Changhua City, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-changhua-university-of-education-changhua-city-taiwan-presents-xin-shou-you-shan-ai-dai-li-su-yang-gong-zuo-fang-2mcp-x-browser-agent-x-zi-dong-pai-cheng/) |
 | WordCamp Delhi 2026 | 2026-12-12 to 2026-12-13 | New Delhi | [↗](https://dev.events/conferences/word-camp-delhi-2026-j3idkspk) |
 | Google DevFest 2026 Nanging | 2026-12-12 | Nanning, China | [↗](https://gdg.community.dev/events/details/google-gdg-nanning-presents-google-devfest-2026-nanging/) |
 | DevFest Tainan 2026 — Build What You Can See | 2026-12-12 | Tainan, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-tainan-presents-devfest-tainan-2026-build-what-you-can-see/) |
@@ -577,6 +570,11 @@ Developer conferences, summits and community events across Asia. [Back to the di
 | Rewiring Money | 2026-12-12 | Singapore, SG | [↗](https://lu.ma/h9xygen3) |
 | Build as Strangers: Gingerbread House Party | 2026-12-12 | Singapore, SG | [↗](https://lu.ma/rwwqqp8t) |
 | Devfest Gurugram 2026 | 2026-12-12 | Gurugram, India | [↗](https://gdg.community.dev/events/details/google-gdg-gurugram-presents-devfest-gurugram-2026/) |
+| Find the zero-day exploitable vulnerabilities hiding in your tech stack \| Hack Hour by Kira | 2026-12-12 | Bengaluru, IN | [↗](https://lu.ma/MBsummit-kira) |
+| Two Agents, One Repo: Give Claude Code and Codex a Shared Memory \| Hack Hour by Memro | 2026-12-12 | Bengaluru, IN | [↗](https://lu.ma/MBsummit-memro) |
+| field:work \| Drawing with Code (Live Model: Pat Toh) | 2026-12-12 | Singapore, SG | [↗](https://lu.ma/mvamstkg) |
+| Google Cloud Community Day Madurai 2026 | 2026-12-12 | Madurai, India | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-madurai-presents-google-cloud-community-day-madurai-2026/) |
+| AI Search Lab | 2026-12-12 | Bangalore, KA, IN | [↗](https://allevents.in/bangalore/ai-search-lab-tickets/80002654232364) |
 | Greater Bay Developers, Building What’s Next | 2026-12-13 | Shenzhen, China | [↗](https://gdg.community.dev/events/details/google-gdg-shenzhen-presents-greater-bay-developers-building-whats-next/) |
 | DevFest Taipei 2026 | 2026-12-13 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-taipei-presents-devfest-taipei-2026/) |
 | Devfest Pune 2026 | 2026-12-13 | Pune (India) | [↗](https://devfest.gdgpune.in/) |
@@ -594,12 +592,16 @@ Developer conferences, summits and community events across Asia. [Back to the di
 | Singapore Effective Giving Mixer 🎄 | 2026-12-13 | Singapore, SG | [↗](https://lu.ma/5apohv4d) |
 | Saturday Builder's Walk (0 → 1 Edition) | 2026-12-13 | Bengaluru, IN | [↗](https://lu.ma/qc86qs7j) |
 | 2026 DevFest Golang Korea | 2026-12-13 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-golang-korea-presents-2026-devfest-golang-korea/) |
+| Make it count \| Stripe x The Product Folks | 2026-12-13 | Bengaluru, IN | [↗](https://lu.ma/wbf978ej) |
 | Div0 EOY Meetup | 2026-12-14 | Singapore, SG | [↗](https://lu.ma/27y7efsw) |
 | Tech Leadership Circle — Year-End Wrap | 2026-12-14 | Singapore, SG | [↗](https://lu.ma/qyk5blwj) |
 | HFPG '27 Learning Journey: The Straits Times | 2026-12-14 | Singapore, SG | [↗](https://lu.ma/iruree60) |
+| The Offering Sprint for Founders, Freelancers, Designers | 2026-12-14 | Bengaluru, IN | [↗](https://lu.ma/g5tjopji) |
+| The Elite Circle Soiree | 2026-12-14 | Singapore, SG | [↗](https://lu.ma/99w0aw2p) |
 | World Summit AI Qatar 2026 | 2026-12-15 to 2026-12-16 | Doha, QA | [↗](https://qatar.worldsummit.ai/) |
 | AI Discovery Clinic by Singapore AI Association | 2026-12-15 | Singapore, SG | [↗](https://lu.ma/r7tqc2sp) |
 | Be Curious Presents Haemin Sunim | 2026-12-15 | Singapore, SG | [↗](https://lu.ma/be-curious-presents-haemin) |
+| GamePlan: Winter Edition 2026 | 2026-12-15 | Bengaluru, IN | [↗](https://lu.ma/zrw3znln) |
 | World Data Center Summit - India | 2026-12-16 | Hyderabad, TS, IN | [↗](https://allevents.in/hyderabad/world-data-center-summit-india-tickets/80002557113801) |
 | 你的資料庫安全嗎？SQL 語法解析與實戰 | 2026-12-16 | Taoyuan, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-chung-yuan-christian-university-taoyuan-taiwan-presents-ni-de-zi-liao-ku-an-quan-ma-sql-yu-fa-jie-xi-yu-shi-zhan/) |
 | The Q4 Reset (SG) - By Founder F**K ups | 2026-12-16 | Singapore, SG | [↗](https://lu.ma/sytps8sc) |
@@ -609,6 +611,7 @@ Developer conferences, summits and community events across Asia. [Back to the di
 | Namma Bengaluru Startups Meetup | 2026-12-16 | Bengaluru, IN | [↗](https://lu.ma/6qg54jix) |
 | Agents After Hours - Exclusive Dinner for AI Leaders | 2026-12-16 | Bengaluru, IN | [↗](https://lu.ma/wa2okkun) |
 | Startup Pitch & Investor Connect — Singapore | 2026-12-16 | Singapore, SG | [↗](https://lu.ma/m7vyv5mm) |
+| Seed to Scale: Physical AI Applications | 2026-12-16 | Bengaluru, IN | [↗](https://lu.ma/jyuex7jw) |
 | Pitch Days: Edition #3 | 2026-12-17 | Bengaluru, IN | [↗](https://lu.ma/kuwryjv3) |
 | Hackware - December 2026 | 2026-12-17 | Singapore, SG | [↗](https://lu.ma/me82sl7w) |
 | Brand Builders + Founders Mixer, Bangalore · by SuperStuff 🌈 🌟 | 2026-12-17 | Bengaluru, IN | [↗](https://lu.ma/jqbvqqvu) |
@@ -640,6 +643,7 @@ Developer conferences, summits and community events across Asia. [Back to the di
 | The Saturday Book Club’s 2026 Year End Party 💌 | 2026-12-19 | Singapore, SG | [↗](https://lu.ma/fel86dsu) |
 | The Art of Being Present | 2026-12-19 | Singapore, SG | [↗](https://lu.ma/acfv2ij3) |
 | Creative Connections: Art & Design Gift Swap | 2026-12-19 | Singapore, SG | [↗](https://lu.ma/zqo5e8ic) |
+| Dr Blue in Bangalore: an evening with Dr P. Jagannath | 2026-12-19 | Bengaluru, IN | [↗](https://lu.ma/njc3fvla) |
 | BHARAT 2.0 Conclave: AI Edition Bharat and the Age of Intelligence | 2026-12-20 | Mumbai, MH, IN | [↗](https://allevents.in/mumbai/bharat-20-conclave-ai-edition-bharat-and-the-age-of-intelligence/200031059303609) |
 | DevFest Patna 2026 by GDG Patna | 2026-12-20 | Patna, India | [↗](https://gdg.community.dev/events/details/google-gdg-patna-presents-devfest-patna-2026-by-gdg-patna/) |
 | AI Dev TLV '26 | 2026-12-21 | Tel Aviv | [↗](https://dev.events/conferences/ai-dev-tlv-26-130xgfj) |
@@ -650,6 +654,7 @@ Developer conferences, summits and community events across Asia. [Back to the di
 | DEVFEST GWALIOR 2026 | 2026-12-26 | Gwalior, India | [↗](https://gdg.community.dev/events/details/google-gdg-gwalior-presents-devfest-gwalior-2026/) |
 | Ready to Build Your Career in DevOps & Multi Cloud Engineering? | 2026-12-26 | Hyderabad, TS, IN | [↗](https://allevents.in/hyderabad/ready-to-build-your-career-in-devops-and-multi-cloud-engineering/100002004879094341) |
 | GDG DevFest Chh. Sambhajinagar 2026 | 2026-12-26 | Aurangabad, India | [↗](https://gdg.community.dev/events/details/google-gdg-aurangabad-presents-gdg-devfest-chh-sambhajinagar-2026-1/) |
+| ABON Christmas Party 2026 \| ACS Christmas Feast | 2026-12-28 | Singapore, SG | [↗](https://lu.ma/v4p9e6zj) |
 | DevFest 2026: Physical AI | 2026-12-29 | Rehovot, Israel | [↗](https://gdg.community.dev/events/details/google-gdg-rehovot-presents-devfest-2026-physical-ai/) |
 | Founders Co-working Monday - Call For Interest | 2026-12-31 | Singapore, SG | [↗](https://lu.ma/2vkmpimw) |
 | Creative Building with Meng To Waitlist | 2026-12-31 | Singapore, SG | [↗](https://lu.ma/3iu15nnf) |
@@ -673,6 +678,7 @@ Developer conferences, summits and community events across Asia. [Back to the di
 | Mamba MVP Program: Open House #3 | 2027-01-14 | Singapore, SG | [↗](https://lu.ma/wbub6asg) |
 | Courage AI Playground: Build your Chief of Staff | 2027-01-14 | Singapore, SG | [↗](https://lu.ma/wksstf8t) |
 | Startup Pitch & Networking in Singapore | 2027-01-14 | Singapore, SG | [↗](https://lu.ma/js4vd2kz) |
+| SMU FinLit Carnival 2027 Pre-Registration | 2027-01-15 | Singapore, SG | [↗](https://lu.ma/t4na63fw) |
 | TechMang27 Professional Edition 2027 | 2027-01-16 | Mangaluru (India) | [↗](https://hackersmang.org) |
 | Startup Grind Dubai × TEDxPalm Jumeirah: Join the Community and Save on Your Ticket | 2027-01-16 | Dubai, United Arab Emirates | [↗](https://www.startupgrind.com/events/details/startup-grind-dubai-presents-startup-grind-dubai-x-tedxpalm-jumeirah-join-the-community-and-save-on-your-ticket/) |
 | SAS Alumni City Club of Singapore: Career Marketplace 2026 | 2027-01-16 | Singapore, SG | [↗](https://lu.ma/f3rjjuhx) |
@@ -701,6 +707,7 @@ Developer conferences, summits and community events across Asia. [Back to the di
 | WordCamp Mumbai 2027 | 2027-02-13 | Mumbai | [↗](https://dev.events/conferences/word-camp-mumbai-2027-n4icatdr) |
 | GopherCon Japan 2027 | 2027-02-13 to 2027-02-14 | Tokyo | [↗](https://dev.events/conferences/gopher-con-japan-2027-x6vb4pme) |
 | Lighting World & Home Tech Expo | 2027-02-15 to 2027-02-17 | New Delhi, DL, IN | [↗](https://allevents.in/new-delhi/lighting-world-and-home-tech-expo-tickets/80001433723888) |
+| Singapore AI & Robotics Demo Night (Feb 2027) | 2027-02-16 | Singapore, SG | [↗](https://lu.ma/rygdiz56) |
 | Cyber Security Summit Philippines 2027 | 2027-02-17 | Manila | [↗](https://dev.events/conferences/cyber-security-summit-philippines-2027-bq7rm7n) |
 | Terra Goddesses Presents: The Body Knows with Daphne Picq - Exploring Emotions Through Kinesiology | 2027-02-19 | Singapore, SG | [↗](https://lu.ma/r5o08sra) |
 | AI Vibecoding Hackathon 2026 | 2027-02-21 | Bengaluru, IN | [↗](https://lu.ma/exx7cd47) |
@@ -750,6 +757,56 @@ Developer conferences, summits and community events across Asia. [Back to the di
 | AFG NextGen Leaders Program (2027 Cohort) AFG 新生代领导者计划（2027届） | 2027-11-05 | Singapore, SG | [↗](https://lu.ma/27nextgen) |
 | AGNTSummit Tokyo | 2027-11-09 | Tokyo (Japan) | [↗](https://events.linuxfoundation.org/agntsummit-tokyo/) |
 | FinNext Conference Singapore 2027 | 2027-11-24 | Singapore | [↗](https://dev.events/conferences/fin-next-conference-singapore-2027-elkxy2hz) |
+| Sports Day | 2026-11-26 | Bengaluru, IN | [↗](https://lu.ma/np1y7p59) |
+| Bitcoin Minors Connect | 2026-11-26 | Bengaluru, IN | [↗](https://lu.ma/iciyli3z) |
+| 【Tokyo】AIレディデータ × バイブコーディングで作る！MBTI ＆ 手相占いアプリ開発ワークショップ | 2026-11-26 | Tokyo, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-international-professional-university-of-technology-tokyo-japan-presents-tokyo-airedeideta-x-baibukodeingudezuo-rumbti-shou-xiang-zhan-iapurikai-fa-wakushiyotsupu/) |
+| 2026 GDGoC PKNU 최종발표 | 2026-11-26 | Busan, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-pukyong-national-university-busan-south-korea-presents-2026-gdgoc-pknu-coejongbalpyo/) |
+| Next Generation Testing & AI Bangalore | 2026-11-26 | Bangalore, KA, IN | [↗](https://allevents.in/bangalore/next-generation-testing-and-ai-bangalore/80001436966343) |
+| Google Developer Group DevFest 2026 – Belagavi | 2026-11-26 | Belagavi, India | [↗](https://gdg.community.dev/events/details/google-gdg-belgaum-presents-google-developer-group-devfest-2026-belagavi/) |
+| Vibe Coders Jam Session: feat. Base44 | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/base44sgnov) |
+| Cost, context, control: Leading the AI-run enterprise | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/qv96zjkm) |
+| Startup Stories by Bengaluru Founders | 2026-11-26 | Bengaluru, IN | [↗](https://lu.ma/a37ddum5) |
+| האקתון אלברט איינשטיין 2026  חדשנות בחינוך וחוסן לאומי Albert Einstein Hackathon 2026: Innovation in Education and National Resilience | 2026-11-26 | Rehovot, Israel | [↗](https://gdg.community.dev/events/details/google-gdg-rehovot-presents-hqtvn-lbrt-yynshtyyn-2026-khdshnvt-bkhynvk-vkhvsn-lvmy-albert-einstein-hackathon-2026-innovation-in-education-and-national-resilience/) |
+| Get Rich Through Human Design | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/4fke3f03) |
+| Red Dot Capital Partners CONNECT EVENT | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/ql92n431) |
+| From Detection to Defensibility: Singapore, An Evening of AI, Compliance & Conversation | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/flagright-zr4d) |
+| Nerd Out №02 · Physical AI, Unpacked | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/aav8azb7) |
+| Crossroad Chatters: Responsible AI in Healthcare | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/x6qtxrj2) |
+| Milestones Reimagined: Redefining The Path To Retirement | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/29ipnio6) |
+| Our HR Circle : Off The Record (Nov) | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/kyqjhmyu) |
+| More than Just Small Talks \| 20s-30s (1 Free Drink!) | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/y69d153u) |
+| Every Love Song in the World | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/k7xtn694) |
+| Friendsgiving Dinner | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/enbpl8vp) |
+| HackerX - Bengaluru (AI) - Employer Ticket - 11/26 | 2026-11-26 to 2026-11-27 | Bengaluru, KA, IN | [↗](https://allevents.in/bengaluru/hackerx-bengaluru-ai-employer-ticket-11-26/100001980342644158) |
+| Unlocking 3.1M Visitors: AMap Singapore Partner Launch -智领三百万客流：高德新加坡生态启动会 | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/7riswuyc) |
+| Trauma-Informed Somatics | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/trauma-informed-somatics-1126) |
+| The Growthcap Mixer | 2026-11-26 | Bengaluru, IN | [↗](https://lu.ma/5fdfieef) |
+| ATLAS (AI Singapore) x DataScience SG | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/htb5wgaj) |
+| StudyJam #2 - Cyber Security #TechSeries \| Web Exploitation: Attack & Patch | 2026-11-26 | Malang, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-brawijaya-malang-indonesia-presents-studyjam-2-cyber-security-techseries-web-exploitation-attack-amp-patch/) |
+| AI, SaaS & Deeptech Founders Meetup | 2026-11-26 | Bengaluru, IN | [↗](https://lu.ma/91hghgv6) |
+| CFO Dinner | 2026-11-26 | Bengaluru, IN | [↗](https://lu.ma/8n8nfctx) |
+| Sanli Environmental 1H2027 Results Briefing | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/807p0mot) |
+| Elastic AI Connect: Singapore | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/nojitcre) |
+| Shakeout Run · HYROX SG Race Week | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/u647vpj6) |
+| HFPG ‘27 Learning Journey: EDB | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/czxfp1xu) |
+| Build Your Personal AI Assistant | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/x5b438ad) |
+| How to Make Love (HTML) | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/qgzrp9zg) |
+| SameKind Singapore Founder Dinner | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/xnudkr1o) |
+| AI for Workplace Productivity | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/ur3zet38) |
+| When Docker Compose Isn’t Enough：使用 Kubernetes 部署與管理容器化應用程式 | 2026-11-26 | Taoyuan, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-central-university-taoyuan-city-taiwan-presents-when-docker-compose-isnt-enoughshi-yong-kubernetes-bu-shu-yu-guan-li-rong-qi-hua-ying-yong-cheng-shi/) |
+| Beyond The Cup: The Science & Craft of Speciality Coffee | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/tebi4ej5) |
+| GDGoC AI Agent-a-thon 2026 | 2026-11-26 | Chiniot-Faisalabad, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-fast-national-university-of-computer-and-emerging-sciences-chiniot-faisalabad-pakistan-presents-gdgoc-ai-agent-a-thon-2026/) |
+| Data Science Training in Hyderabad \| Attend Free Demo on 26th November 2026 | 2026-11-26 | Hyderabad, TS, IN | [↗](https://allevents.in/hyderabad/data-science-training-in-hyderabad-attend-free-demo-on-26th-november-2026/100002005245912504) |
+| Empowering Everyone: Building for All Generations | 2026-11-26 | Bengaluru, IN | [↗](https://lu.ma/1m5uwgje) |
+| HFPG '27 Learning Journey: NLB Technology Services | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/2e88dawi) |
+| AI for Good, Safely: AI Adoption, Governance & Cybersecurity for NGOs | 2026-11-26 | Singapore, SG | [↗](https://lu.ma/zolv6lm8) |
+| The Ultimate Heist: Cash, Chaos & Code | 2026-11-26 | Chandigarh, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-chitkara-university-chandigarh-india-presents-the-ultimate-heist-cash-chaos-amp-code/) |
+| Capturing the Cosmos: From Raw Data to Scientific Imagery | 2026-11-26 | Al Ahmadi, Kuwait | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-american-university-of-the-middle-east-aum-al-ahmadi-kuwait-presents-capturing-the-cosmos-from-raw-data-to-scientific-imagery/) |
+| How to Start: Legally | 2026-11-26 | Bengaluru, IN | [↗](https://lu.ma/gow2cgqc) |
+| Dev Build 1.0! 🚀💻 | 2026-11-26 | Karachi, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sir-syed-university-of-engineering-technology-karachi-pakistan-presents-dev-build-10/) |
+| Community Tech Talk \| Community Insights: Empowering Real-World Change with AI | 2026-11-26 | Shenzhen, China | [↗](https://gdg.community.dev/events/details/google-gdg-shenzhen-presents-community-tech-talk-community-insights-empowering-real-world-change-with-ai/) |
+| [FE] 정기 온라인 스터디 | 2026-11-26 | Daegu, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-kyungpook-national-university-daegu-south-korea-presents-fe-jeonggi-onrain-seuteodi-2/) |
+| Road to DevFest 2026 – Track 3 – Bahria University | 2026-11-26 | Islamabad, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-bahria-university-islamabad-campus-islamabad-pakistan-presents-road-to-devfest-2026-track-3-bahria-university/) |
 | [Pre-DevFest] Tech Trivia Night | 2026-11-25 | Mumbai, India | [↗](https://gdg.community.dev/events/details/google-gdg-mad-presents-pre-devfest-tech-trivia-night/) |
 | OPEX FIRST SAUDI 2026 | 2026-11-25 | Riyadh | [↗](https://dev.events/conferences/opex-first-saudi-2026-cnra78d6) |
 | KISA Blockchain Promotion Week 2026 | 2026-11-25 | Seoul, South Korea | [↗](https://onoffmix.com/event/351014) |
@@ -771,7 +828,6 @@ Developer conferences, summits and community events across Asia. [Back to the di
 | Science Cafe @ Pasir Ris : Singapore got Energy ah? | 2026-11-25 | Singapore, SG | [↗](https://lu.ma/zwm4sg1h) |
 | [85회] 글로벌 IT 전문가와 킹고인의 만남 시즌 2 여든다섯 번째 만남 | 2026-11-25 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkyunkwan-university-seoul-south-korea-presents-85hoe-geulrobeol-it-jeonmungawa-kinggoinyi-mannam-sijeun-2-yeodeundaseos-beonjjae-mannam/) |
 | Own the Shift: A Perimenopause Conversation + Iron Check | 2026-11-25 | Singapore, SG | [↗](https://lu.ma/54qdag04) |
-| Brew the Future \| AI & Cybersecurity | 2026-11-25 | Singapore, SG | [↗](https://lu.ma/iak8g3bf) |
 | Bengaluru \| Sparkle CXO Connect — Secure Enterprise AI Adoption | 2026-11-25 | Bengaluru, IN | [↗](https://lu.ma/v2v42u5w) |
 | US Market Traders Gathering: Connect, Learn & Trade | 2026-11-25 | Singapore, SG | [↗](https://lu.ma/3cvgld9b) |
 | Road to DevFest 2026: Decision Models vs Gemini on Cloud Run | 2026-11-25 | Ho Chi Minh City, Vietnam | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-fpt-university-ho-chi-minh-city-vietnam-presents-road-to-devfest-2026-decision-models-vs-gemini-on-cloud-run/) |
@@ -921,7 +977,6 @@ Developer conferences, summits and community events across Asia. [Back to the di
 | Hands-On Music Production & Song Breakdown Hangout. | 2026-11-22 | Bengaluru, IN | [↗](https://lu.ma/2dzkoin2) |
 | [Reading Session] The Female Gaze - Visual Pleasures and Narrative Cinema | 2026-11-22 | Bengaluru, IN | [↗](https://lu.ma/q6ljzcg9) |
 | The Hustle Band November Jam and Open Mic | 2026-11-22 | Bengaluru, IN | [↗](https://lu.ma/tkvew303) |
-| The Offering Sprint for Founders, Freelancers, Designers | 2026-11-22 | Bengaluru, IN | [↗](https://lu.ma/g5tjopji) |
 | Git & GitHub 101: Getting Started with Version Control | 2026-11-22 | Agarpara, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-narula-institute-of-technology-agarpara-india-presents-git-amp-github-101-getting-started-with-version-control/) |
 | Behind the Build | 2026-11-22 | Bengaluru, IN | [↗](https://lu.ma/ldf44p8n) |
 | Study Jam Cybersecurity: Broken access control & IDOR | 2026-11-22 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-widyatama-university-bandung-indonesia-presents-study-jam-cybersecurity-broken-access-control-amp-idor/) |
@@ -1096,95 +1151,7 @@ Developer conferences, summits and community events across Asia. [Back to the di
 | Hands-on Labs for Learn with Communities \| Session 3/3 – The Finale | 2026-11-20 | Kolkata, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-heritage-institute-of-technology-kolkata-india-presents-hands-on-labs-for-learn-with-communities-session-33-the-finale/) |
 | DevFest 2026 Preview: Build With AI | 2026-11-20 | Dhaka, Bangladesh | [↗](https://gdg.community.dev/events/details/google-gdg-dhaka-presents-devfest-2026-preview-build-with-ai/) |
 | Swift Bharat | 2026-11-19 to 2026-11-20 | Mumbai, India | [↗](https://swiftbharat.org) |
-| India Collection & Tech Summit 2026 | 2026-11-19 | Mumbai, MH, IN | [↗](https://allevents.in/mumbai/india-collection-and-tech-summit-2026/100002001454061977) |
-| EVENT Uzbekistan: Central Asia’s Emerging Fintech Hub | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/4c873mz8) |
-| RoboNexus Supply Chain Workshop | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/z4kr75p3) |
-| StackConnect World Tour: Hyderabad | 2026-11-19 | Hyderabad | [↗](https://dev.events/conferences/stack-connect-world-tour-hyderabad-qlohbj-a) |
 | G-STAR 2026 | 2026-11-19 to 2026-11-22 | Busan, South Korea | [↗](https://www.digitaltoday.co.kr/en/view/15066/g-star-2026-early-applications-open-for-exhibitors) |
-| The Zero-Repetition Experience: Making AI, Humans and Channels Work as One | 2026-11-19 | Bengaluru, IN | [↗](https://lu.ma/sdtuy4wb) |
-| The Maitreya Finance Executive Lunch Roundtable | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/tc72tonp) |
-| REWIRED: A Forum on Stablecoins and Agentic Payments | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/rewired-sff) |
-| A Digital Playbook for SMEs: Real-World Strategies for AI, Data Protection and Cybersecurity | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/7dk3j5y9) |
-| AWIC x SFF \| AI & Digital Assets: Building Trust in Financial Markets | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/2f61b5sd) |
-| Why Bad Hires Cost More When AI Shrinks Your Team | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/q8pwodsy) |
-| CrossCurrent \| The India-Singapore Connect | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/chintotl) |
-| Voice AI Night: Fintech Edition with Agora, Amazon Web Services & OpenBuilder | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/arhmbue0) |
-| Agentic AI Night: AAIF Projects, Open Standards, & Singapore Tech Ecosystem | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/inr97fxq) |
-| Agentic Marketers Meetup | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/oqwn5q6i) |
-| Building Products: Starting Right w/ Techies | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/y5j95xb6) |
-| 🤖 How to Build With AI (and Stay Lean) | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/how-to-build-with-ai-and-stay-lean) |
-| UX Kitchen x Friends of Figma: The Evolving Role of UX Practitioners | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/r3x3j7eh) |
-| Decoding Alpha: Lessons in Hedge Fund Selection | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/trpq9ui9) |
-| Spritz & Stablecoins: Happy Hour with Codex FX | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/codexfx-3dkg) |
-| Mums’ Morning Hangout ☕️ \| Potong Pasir & Bidadari | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/otq6mia9) |
-| GFT x Thought Machine: Singapore FinTech Festival Afterwork | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/gft-thought-machine-sff-side-event-2026) |
-| Staying Relevant in the Age of AI | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/yvc9ujhi) |
-| XEED SOCIAL | 2026-11-19 | Bengaluru, IN | [↗](https://lu.ma/t6qfreop) |
-| FIN Global Demo Day Singapore 2026 | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/d46uv30i) |
-| The Future of Cross-Border Maritime Trade: From Insight to Action; An Exclusive Executive Roundtable | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/nu37h6za) |
-| Flutter Meetup | 2026-11-19 | Bangalore, India | [↗](https://gdg.community.dev/events/details/google-gdg-bangalore-presents-flutter-meetup/) |
-| Japan Pitch Night | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/d5qrskdb) |
-| Omarchy Singapore | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/w2adh2et) |
-| Building and Scaling AI with AWS \| In partnership with NetApp Excellerator and Nasscom (In-person Workshop) | 2026-11-19 | Bengaluru, IN | [↗](https://lu.ma/nasscom-j42y) |
-| MAGES Future Ready AI Series \| FREE AI Workshop + Industry Talks | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/future_ready_ai) |
-| Moscow FinTech Startup Network Night 2.0 | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/5zow3s19) |
-| Post-Growth Collage #3 | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/7pad2xg9) |
-| GenAI Builders Meetup Singapore — AI Agents for Customer Engagement (ft. Twilio) | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/f2jpv3fl) |
-| Raving Elephants | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/rll5kc83) |
-| The Ring White Collar Boxing Show | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/vj95v7pr) |
-| Open Kitchen Vol. 03 | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/9v14ehzh) |
-| Singapore FinTech Festival Afterparty | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/sffafterparty2026) |
-| Digital Asset Night with BIT and AMINA | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/r0vxq6t9) |
-| The Female Investor Table - Singapore | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/942ajsbg) |
-| Fintech Networking Mixer @ Singapore FinTech Week | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/7e05bd9p) |
-| Voice AI in Consumer Fintech: Collections, KYC and Support | 2026-11-19 | Bengaluru, IN | [↗](https://lu.ma/n75hr33q) |
-| TTI Singapore \| Impact Investment Lunch | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/0l9yrxdw) |
-| Investing in European startups from Asia - SFF Edition | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/rlntpbnf) |
-| LINE 企業參訪 | 2026-11-19 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-taiwan-university-of-science-and-technology-taipei-taiwan-presents-line-qi-ye-can-fang-1/) |
-| FLEXORA 2026 "Featureathon" | 2026-11-19 | Hyderabad, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-gokaraju-lailavathi-engineering-college-hyderabad-india-presents-flexora-2026-featureathon/) |
-| Turning Retail Footfall into Customer Action: Practical Customer Experience Strategies | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/5kzm6rck) |
-| Cleanverse Connects: SFF Edition | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/htranxgk) |
-| Tokenized Capital Markets Dinner \| Digital Asset, Synthesys and Canton Foundation | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/cf5nvnt6) |
-| Nordics Meet Asia: Fintech Investor Reception | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/cjerlnmd) |
-| Outgrow Your Job Title: A Hands-On LinkedIn & Content Design Workshop | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/ftsd7mrj) |
-| #Active4Youth After Dark: The City Lights 5KM Run | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/sjhn28qs) |
-| Future of Finance, Padel Meetup SG [19 NOV 2026] | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/8rsqxcqn) |
-| Playwright with AI – Join Our Free Mini Workshop | 2026-11-19 | Hyderabad, TS, IN | [↗](https://allevents.in/hyderabad/playwright-with-ai-join-our-free-mini-workshop/100002004703319594) |
-| FLEXORA '26\|Featureathon | 2026-11-19 | Hyderabad, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-gokaraju-lailavathi-engineering-college-hyderabad-india-presents-flexora-26featureathon/) |
-| Grok Bot Bengaluru | 2026-11-19 | Bengaluru, IN | [↗](https://lu.ma/ay6k0dwg) |
-| Omni Ventures VIP & LP Lunch Singapore - Nov 19 | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/uk08qg6g) |
-| Signal Circle: Tracing The Money Across Rewired Rails | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/r5acx8lg) |
-| SFF Merchant Connect: Hosted by T&P Payments Advisory | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/3h1g3v2h) |
-| Pan-Asia FinTech Gateway Networking | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/eps9gq68) |
-| Inside Shopify: Venture Capital & Agentic Commerce | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/jvblfyfx) |
-| GDG Cloud Taipei & GDG Taipei 11 月聯合月會 | 2026-11-19 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-taipei-presents-gdg-cloud-taipei-amp-gdg-taipei-11-yue-lian-he-yue-hui/) |
-| IDEASPARK - Entrepreneurship Expo 2026 | 2026-11-19 | Mangaluru, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-st-joseph-engineering-college-mangaluru-india-presents-ideaspark-entrepreneurship-expo-2026/) |
-| AI For Property: Future Of Real Estate Operations | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/f9do0hsl) |
-| GDG on Campus SKHU Design Study Session - 07 PM&Design session (1) | 2026-11-19 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkonghoe-university-seoul-south-korea-presents-gdg-on-campus-skhu-design-study-session-07-pmampdesign-session-1/) |
-| Codex 3.0 | 2026-11-19 | Lahore, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-bahria-university-lahore-campus-lahore-pakistan-presents-codex-30/) |
-| SINGAPORE AS YOUR LAUNCHPAD FOR GLOBAL GROWTH | 2026-11-19 | Bengaluru, IN | [↗](https://lu.ma/1g6iyl8g) |
-| Quantum Computing Free Mini Workshop – Explore the Future of Tech | 2026-11-19 | Hyderabad, TS, IN | [↗](https://allevents.in/hyderabad/quantum-computing-free-mini-workshop-explore-the-future-of-tech/100002004707701701) |
-| Containers from the Ground Up with Docker：容器基礎原理與 Docker 實作 | 2026-11-19 | Taoyuan, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-national-central-university-taoyuan-city-taiwan-presents-containers-from-the-ground-up-with-dockerrong-qi-ji-chu-yuan-li-yu-docker-shi-zuo/) |
-| Road to Devfest 2026 - Air Edition: Building Agent Autonomy Using Software Factories | 2026-11-19 | Islamabad, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-islamabad-presents-road-to-devfest-2026-air-edition-building-agent-autonomy-using-software-factories-3/) |
-| Skill Up: AI & Careers | 2026-11-19 | Karachi, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-mohammad-ali-jinnah-university-karachi-pakistan-presents-skill-up-ai-amp-careers/) |
-| CodeON 3.0 | 2026-11-19 | Lahore, Pakistan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-bahria-university-lahore-campus-lahore-pakistan-presents-codeon-30/) |
-| Beyond the Silos: AI × Blockchain × Quantum | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/q5kgqxcf) |
-| Social Mixer - Gents | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/7c6qzbbs) |
-| field:work \| Choreographies of Looking | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/qorbqhgc) |
-| GDG Cloud Taipei & GDG Taipei 11 月聯合月會（迎戰 Agentic Era 的心法與守護程式碼庫的資安防線） | 2026-11-19 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-taipei-presents-gdg-cloud-taipei-amp-gdg-taipei-11-yue-lian-he-yue-hui-ying-zhan-agentic-era-de-xin-fa-yu-shou-hu-cheng-shi-ma-ku-de-zi-an-fang-xian/) |
-| Weekly Meetup (11월 3주차) | 2026-11-19 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-chungang-university-seoul-south-korea-presents-weekly-meetup-11weol-3juca/) |
-| Showcase | 2026-11-19 | Bengaluru, IN | [↗](https://lu.ma/s9fxf544) |
-| Sarvam Guild : Token Factory | 2026-11-19 | Bengaluru, IN | [↗](https://lu.ma/t6un6546) |
-| Songwriter Sessions Ft. Mahesh Raghunandan & papabear | 2026-11-19 | Bengaluru, IN | [↗](https://lu.ma/vlifh5cj) |
-| Networking Drinks with Kybix \| SFF 2026 | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/7y3yk0re) |
-| RED WING x BEAMS Launch | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/z27ldmus) |
-| The Reserve · Private Cigar Evening · Singapore · Blockchain Week & FinTech Festival Edition | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/3jolbrsd) |
-| GDG 2026 / 11 月會 - 因為時間撞期， 我們這個月與GDG Cloud 一起辦理月會 | 2026-11-19 | Taipei, Taiwan | [↗](https://gdg.community.dev/events/details/google-gdg-taipei-presents-gdg-2026-11-yue-hui-yin-wei-shi-jian-zhuang-qi-wo-men-zhe-ge-yue-yu-gdg-cloud-yi-qi-ban-li-yue-hui/) |
-| Farewell Fiesta: Celebrating Our Core Team | 2026-11-19 | Jakarta, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-negeri-jakarta-jakarta-indonesia-presents-farewell-fiesta-celebrating-our-core-team/) |
-| Build Your First Digital Employee Before 2027 | 2026-11-19 | Singapore, SG | [↗](https://lu.ma/pr6j2gch) |
-| Data Analyst with AI \| Attend Free Demo Session on November 19th, 2026 | 2026-11-19 | Hyderabad, TS, IN | [↗](https://allevents.in/hyderabad/data-analyst-with-ai-attend-free-demo-session-on-november-19th-2026-tickets/80002030168195) |
-| Community Tech Talk \| Industrializing with Gemini 4: From Code Delivery to 24/7 Agent Management | 2026-11-19 | Shenzhen, China | [↗](https://gdg.community.dev/events/details/google-gdg-shenzhen-presents-community-tech-talk-industrializing-with-gemini-4-from-code-delivery-to-247-agent-management/) |
-| INCURSION 2027 – 24-Hour National Level Hackathon (₹2,00,000 Prize Pool) | 2026-11-19 | Pune, India | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-dr-d-y-patil-institute-of-technology-pune-india-presents-incursion-2027-24-hour-national-level-hackathon-200000-prize-pool/) |
 | Singapore FinTech Festival 2026 | 2026-11-18 to 2026-11-20 | Singapore | [↗](https://dev.events/conferences/singapore-fin-tech-festival-2026-uqb3wnkx) |
 | ISES Solar World Congress 2026 | 2026-11-15 to 2026-11-20 | Daejeon, South Korea | [↗](https://view.asiae.co.kr/en/article/2026020309283926902) |
 | Web Summit Qatar | Jan 27 - Feb 3 2027 | Doha, Qatar | [↗](https://qatar.websummit.com) |

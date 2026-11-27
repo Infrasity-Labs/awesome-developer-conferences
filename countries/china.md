@@ -1,10 +1,9 @@
 # Developer Events in China
 
-13 upcoming events. [Back to the full directory](../README.md)
+12 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Community Tech Talk \| Community Insights: Empowering Real-World Change with AI | 2026-11-26 | Shenzhen, China | [↗](https://gdg.community.dev/events/details/google-gdg-shenzhen-presents-community-tech-talk-community-insights-empowering-real-world-change-with-ai/) |
 | Founders & Builders Summer Mixer｜Founder’s Office Hours Nov 2026 | 2026-11-27 | Guangzhou, China | [↗](https://www.startupgrind.com/events/details/startup-grind-guangzhou-presents-founders-amp-builders-summer-mixerfounders-office-hours-nov-2026/) |
 | [New Venue] Founders & Builders Summer Mixer｜Founder’s Office Hours Nov 2026 | 2026-11-27 | Guangzhou, China | [↗](https://www.startupgrind.com/events/details/startup-grind-guangzhou-presents-new-venue-founders-amp-builders-summer-mixerfounders-office-hours-nov-2026/) |
 | [New Venue] Thanksgiving Party \| Founders & Builders Summer Mixer｜Founder’s Office Hours Nov 2026 | 2026-11-27 | Guangzhou, China | [↗](https://www.startupgrind.com/events/details/startup-grind-guangzhou-presents-new-venue-thanksgiving-party-founders-amp-builders-summer-mixerfounders-office-hours-nov-2026/) |

@@ -1,12 +1,9 @@
 # Developer Events in Egypt
 
-24 upcoming events. [Back to the full directory](../README.md)
+21 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Frontend Session 4 : Mastering CSS: Display, Positioning & Flexbox | 2026-11-26 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-frontend-session-4-mastering-css-display-positioning-amp-flexbox-2026-11-26/) |
-| Online Recap: IP Addressing & Subnetting | 2026-11-26 | Zagazig, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-zagazig-university-zagazig-egypt-presents-online-recap-ip-addressing-amp-subnetting/) |
-| Open Source 101: Git & GitHub | 2026-11-26 | El-Alamein, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-alamein-international-university-el-alamein-egypt-presents-open-source-101-git-amp-github/) |
 | Local Storage & Firebase Intro | 2026-11-27 | Giza, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-october-6-university-giza-egypt-presents-local-storage-amp-firebase-intro/) |
 | AI Automation Session 3 : Unplugged: Master Functions & Files Part 2 | 2026-11-27 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-ai-automation-session-3-unplugged-master-functions-amp-files-part-2-2026-11-27/) |
 | ​Shape Tools & Clipping Mask | 2026-11-27 | Zagazig, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-zagazig-university-zagazig-egypt-presents-shape-tools-amp-clipping-mask/) |

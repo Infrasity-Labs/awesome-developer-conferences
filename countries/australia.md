@@ -1,22 +1,10 @@
 # Developer Events in Australia
 
-128 upcoming events. [Back to the full directory](../README.md)
+124 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | AI Entrepreneurship Bootcamp & Hackathon: Build Your Successful AI Startup | 2026-11-10 to 2027-10-28 | Sydney, NS, AU | [↗](https://allevents.in/sydney/ai-entrepreneurship-bootcamp-and-hackathon-build-your-successful-ai-startup/100002004514419589) |
-| SydPy November Meetup | 2026-11-26 | Sydney, AU | [↗](https://lu.ma/v6xjy80v) |
-| AI Demo Night @ Atlassian Sydney 🇦🇺 | 2026-11-26 | Sydney, AU | [↗](https://lu.ma/lehcn2gr) |
-| Sydney - One Roof Women's National Conference (#OWNCon) | 2026-11-26 | Sydney, AU | [↗](https://lu.ma/7qplisu7) |
-| SaaS Platform Exchange: Sydney | 2026-11-26 | Sydney, AU | [↗](https://lu.ma/kk3twg22) |
-| GTM ANZ End of Year Drinks · Sydney · 26 Nov 2026 | 2026-11-26 | Sydney, AU | [↗](https://lu.ma/gtmanz-fd1m) |
-| The Route Table - November Meetup | 2026-11-26 | Sydney, AU | [↗](https://lu.ma/y7t0c6nh) |
-| Micro Meet - Sydney | 2026-11-26 | Sydney, AU | [↗](https://lu.ma/ffw4ly8i) |
-| Irish Innovation Day - Digital Irish Awards Night | 2026-11-26 | Sydney, AU | [↗](https://lu.ma/digital-w4vz) |
-| AI & Tech Community Monthly Meet up: (Novotel Darling Harbour) | 2026-11-26 | Sydney, AU | [↗](https://lu.ma/mw2gx0vk) |
-| Female Founders Rise & Radiate | 2026-11-26 | Sydney, AU | [↗](https://lu.ma/8txjumjx) |
-| Crypto Conversations: Networking Drinks | 2026-11-26 | Sydney, AU | [↗](https://lu.ma/rzlwq5ax) |
-| Referron Live: Let’s Talk Connection , growth and Becoming More referrable | 2026-11-26 | Sydney, AU | [↗](https://lu.ma/1d9ak2e3) |
 | AusCryptoCon 2026 - Australia's largest crypto event | 2026-11-27 | Sydney, AU | [↗](https://lu.ma/AusCryptoCon26) |
 | APAC AI for Science DevFest - Call for Speakers | 2026-11-27 | Sydney, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-ai-for-science-australia-presents-apac-ai-for-science-devfest-call-for-speakers/) |
 | Debate Club 5th Birthday Celebration at The Pillars \| After-party at the hacker house (invite-only) | 2026-11-27 | Sydney, AU | [↗](https://lu.ma/oxb68ixr) |
@@ -35,10 +23,12 @@
 | YOW! Melbourne 2026 | 2026-12-02 to 2026-12-04 | Melbourne | [↗](https://dev.events/conferences/yow-melbourne-2026-l20mbibp) |
 | AI Engineering Summit \| Sydney \| 2026 | 2026-12-02 | Sydney, NS, AU | [↗](https://allevents.in/sydney/ai-engineering-summit-sydney-2026/100001995177889777) |
 | Kiroween Build Night with Kiro \| AWS Sydney User Group | 2026-12-02 | Sydney, AU | [↗](https://lu.ma/sqku4c2y) |
+| KSUG.AI Australia #73 – Melbourne Meetup – 2 Dec 2026 | 2026-12-02 | Melbourne | [↗](https://au.ksug.ai) |
 | Write the Docs Australia | 2026-12-03 to 2026-12-04 | Melbourne | [↗](https://dev.events/conferences/write-the-docs-australia-89lr7-hz) |
 | Forza End of Year Drinks - Sydney | 2026-12-03 | Sydney, AU | [↗](https://lu.ma/d2oivciv) |
 | Startup Coffee Social #39 | 2026-12-03 | Sydney, AU | [↗](https://lu.ma/arv9qegy) |
 | AFC Sydney EOY Christmas Drinks | 2026-12-03 | Sydney, AU | [↗](https://lu.ma/aussie-15bt) |
+| Founders Outside: Sydney Harbour Walk and Drinks | 2026-12-04 | Sydney, AU | [↗](https://lu.ma/frd4znr5) |
 | DDD Brisbane 2026 | 2026-12-05 | Brisbane | [↗](https://dev.events/conferences/ddd-brisbane-2026-mdv-6-a) |
 | NeurIPS Board Games Night with Poindexter Labs & EvalEval Coalition | 2026-12-05 | Sydney, AU | [↗](https://lu.ma/pg7rhhp4) |
 | Matcha Monday: NeurIPS | 2026-12-06 | Sydney, AU | [↗](https://lu.ma/7nna36rn) |
@@ -77,6 +67,7 @@
 | DevFest Adelaide 2026 | 2026-12-08 | Adelaide, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-adelaide-presents-devfest-adelaide-2026/) |
 | Sydney Tech Pickleball | 2026-12-08 | Sydney, AU | [↗](https://lu.ma/q1wzofag) |
 | An Exclusive Evening with Dscout at NeurIPS | 2026-12-08 | Sydney, AU | [↗](https://lu.ma/3ec9esd3) |
+| Sydney Founders Pickleball | 2026-12-08 | Sydney, AU | [↗](https://lu.ma/t8o521kg) |
 | Community Breakfast ☕️✨ AI Week edition | 2026-12-09 | Sydney, AU | [↗](https://lu.ma/vm0dlqjl) |
 | NeurIPS x Appen: Happy Hour on the Harbour | 2026-12-09 | Sydney, AU | [↗](https://lu.ma/8wu2z11b) |
 | Arch Capital Christmas Party | 2026-12-09 | Sydney, AU | [↗](https://lu.ma/mv93p04x) |
@@ -97,10 +88,15 @@
 | Google x Reactor NeurIPS Cocktail Hour | 2026-12-10 | Sydney, AU | [↗](https://lu.ma/rgwx0dnh) |
 | Exploring the Human Genome with AlphaGenome Atlas and AlphaGenome 2 | 2026-12-10 | Sydney, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-ai-for-science-australia-presents-exploring-the-human-genome-with-alphagenome-atlas-and-alphagenome-2/) |
 | Celebrate 2026 with EtA Central | 2026-12-10 | Sydney, AU | [↗](https://lu.ma/31gpp8ql) |
+| Rocketlane Engage- Sydney | 2026-12-10 | Sydney, AU | [↗](https://lu.ma/sydney-26) |
+| Unfiltered AI by AWS Community | 2026-12-10 | Sydney, AU | [↗](https://lu.ma/i4qhi3gw) |
 | Fabric Friday Melbourne | 2026-12-11 | Melbourne | [↗](https://dev.events/conferences/fabric-friday-melbourne-5wbxivr6) |
 | Full-Duplex Voice Al Meetup @ NeurIPS 2026 | 2026-12-11 | Sydney, AU | [↗](https://lu.ma/ey5bxuwx) |
 | Devfest 2026: Build It, Guard It, Ship It: Building Secure AI Apps (Workshop) | 2026-12-11 | Darwin, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-darwin-presents-devfest-2026-build-it-guard-it-ship-it-building-secure-ai-apps-workshop/) |
+| Startup Pitch Events Sydney: 5 Founders on Stage | 2026-12-11 | Sydney, AU | [↗](https://lu.ma/y7zwsise) |
+| AI & Tech Networking Event in Sydney by Ascent Valley | 2026-12-11 | Sydney, NS, AU | [↗](https://allevents.in/sydney/ai-and-tech-networking-event-in-sydney-by-ascent-valley/100002004670033033) |
 | Harness²: Recursive Agent Harnessing for an Open World | 2026-12-15 | Sydney, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-ai-for-science-australia-presents-harness2-recursive-agent-harnessing-for-an-open-world/) |
+| Launch Walk | 2026-12-15 | Sydney, AU | [↗](https://lu.ma/2v0x3bnp) |
 | Christmas Networking Drinks | 2026-12-16 | Sydney, AU | [↗](https://lu.ma/9judywon) |
 | Junior Christmas Drinks | 2026-12-16 | Sydney, AU | [↗](https://lu.ma/dnh467bi) |
 | Afternoon Breathwork Session | 2026-12-17 | Sydney, AU | [↗](https://lu.ma/48jo248u) |
