@@ -1,10 +1,9 @@
 # Developer Events in Malaysia
 
-8 upcoming events. [Back to the full directory](../README.md)
+7 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Let Him Cook: From Chatbot to AI Agent Workshop | 2026-11-27 | Kuala Lumpur, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universiti-malaya-kuala-lumpur-malaysia-presents-let-him-cook-from-chatbot-to-ai-agent-workshop/) |
 | DevFest Cloud KL 2026 | 2026-11-28 | Kuala Lumpur, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kl-presents-devfest-cloud-kl-2026/) |
 | Road-To-DevFest: Buildathon | 2026-11-29 | Georgetown, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-george-town-presents-road-to-devfest-buildathon/) |
 | DevFest George Town 2026 | 2026-12-12 | Georgetown, Malaysia | [↗](https://gdg.community.dev/events/details/google-gdg-george-town-presents-devfest-george-town-2026/) |

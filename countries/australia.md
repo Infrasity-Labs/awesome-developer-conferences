@@ -1,18 +1,10 @@
 # Developer Events in Australia
 
-124 upcoming events. [Back to the full directory](../README.md)
+119 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
 | AI Entrepreneurship Bootcamp & Hackathon: Build Your Successful AI Startup | 2026-11-10 to 2027-10-28 | Sydney, NS, AU | [↗](https://allevents.in/sydney/ai-entrepreneurship-bootcamp-and-hackathon-build-your-successful-ai-startup/100002004514419589) |
-| AusCryptoCon 2026 - Australia's largest crypto event | 2026-11-27 | Sydney, AU | [↗](https://lu.ma/AusCryptoCon26) |
-| APAC AI for Science DevFest - Call for Speakers | 2026-11-27 | Sydney, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-ai-for-science-australia-presents-apac-ai-for-science-devfest-call-for-speakers/) |
-| Debate Club 5th Birthday Celebration at The Pillars \| After-party at the hacker house (invite-only) | 2026-11-27 | Sydney, AU | [↗](https://lu.ma/oxb68ixr) |
-| APAC AI for Science DevFest | 2026-11-27 | Sydney, Australia | [↗](https://gdg.community.dev/events/details/google-gdg-ai-for-science-australia-presents-apac-ai-for-science-devfest/) |
-| Bridging Value: Stablecoins Connecting ANZ to the World | 2026-11-27 | Sydney, AU | [↗](https://lu.ma/bridging-value) |
-| Building Trust in a Digital World: Cybersecurity, Risk & Protecting Your Business | 2026-11-27 | Sydney, AU | [↗](https://lu.ma/v3yqri4u) |
-| Fast Start 2027: How to win enterprise business | 2026-11-27 | Sydney, AU | [↗](https://lu.ma/uqdpqkiz) |
-| Brotato Capital - Le Poad Live w/Coinbase | 2026-11-27 | Sydney, AU | [↗](https://lu.ma/0ek3di50) |
 | Trustyfy: Redefining the Future of Finance | 2026-11-28 | Sydney, AU | [↗](https://lu.ma/eynimwzr) |
 | The Art of a Great Working Life | 2026-11-28 | Sydney, AU | [↗](https://lu.ma/wsln25g7) |
 | Nexo Private, Sydney | 2026-11-28 | Sydney, AU | [↗](https://lu.ma/t0maa6c4) |
@@ -107,13 +99,16 @@
 | HAPPY STARTUP™ – Connecting Startups, Investors & Universities \| Sydney | 2027-01-22 to 2027-01-24 | Sydney, NS, AU | [↗](https://allevents.in/sydney/happy-startup-connecting-startups-investors-and-universities-sydney/100001994916896138) |
 | Save the date as we kick off 2027 | 2027-02-03 | Sydney, AU | [↗](https://lu.ma/9y4hg4ae) |
 | Australia NextGen Payments & RegTech Forum | 2027-02-11 | Sydney | [↗](https://dev.events/conferences/australia-next-gen-payments-and-reg-tech-forum-186zfp1f) |
+| GTM ANZ Kickoff Breakfast · Sydney · 12 Feb 2027 | 2027-02-11 | Sydney, AU | [↗](https://lu.ma/gtmanz-fkvb) |
 | Atlassian & Konnectile event: Beyond Vibe Coding: Leading AI-Native Engineering Teams | 2027-02-17 | Sydney, AU | [↗](https://lu.ma/konnec-r56h) |
 | DDD Melbourne 2027 | 2027-02-20 | Melbourne | [↗](https://dev.events/conferences/ddd-melbourne-2027-qab5yabl) |
 | Women in Tech Fest 2027 | 2027-02-23 | Sydney, Australia | [↗](https://www.womenintechfest.com.au/) |
+| Sydney 2027 Venture Capital World Summit | 2027-02-23 | Sydney, AU | [↗](https://lu.ma/3ldyfsiz) |
 | AWIE Sydney | 2027-03-03 | Sydney, AU | [↗](https://lu.ma/tkmqm1ck) |
 | Programmable 2027 - Melbourne | 2027-03-16 | Melbourne | [↗](https://dev.events/conferences/programmable-2027-melbourne-w1-hgrrf) |
 | Programmable 2027 | 2027-03-16 | Melbourne (Australia) | [↗](https://programmable.tech) |
 | RubyConf AU 2027 | 2027-03-18 to 2027-03-19 | Melbourne (Australia) | [↗](https://www.rubyconf.org.au/2027) |
+| GTM ANZ Community Evening · Sydney · 18 Mar 2027 | 2027-03-18 | Sydney, AU | [↗](https://lu.ma/gtmanz-kbo3) |
 | Brooks & Dunn with Aitken Mount | 2027-03-25 | Sydney Olympic Park, AU | [↗](https://lu.ma/wcsfbgqx) |
 | Data Saturday #93 Brisbane 2027 | 2027-04-03 | Brisbane (Australia) | [↗](https://sessionize.com/data-saturday-93-brisbane-2027/) |
 | Apac Microsoft Fabric + Microsoft SQL Community Conference | 2027-04-06 to 2027-04-09 | Sydney | [↗](https://dev.events/conferences/apac-microsoft-fabric-microsoft-sql-community-conference-i1yjsg-3) |

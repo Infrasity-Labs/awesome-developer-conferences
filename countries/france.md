@@ -1,20 +1,9 @@
 # Developer Events in France
 
-266 upcoming events. [Back to the full directory](../README.md)
+270 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| DevFest Paris 2026 | 2026-11-27 | Paris (France) | [↗](https://devfest.gdgparis.fr/) |
-| Networking de Noviembre | 2026-11-27 | Paris, FR | [↗](https://lu.ma/2rbio4nm) |
-| Founders Table #1 · Vendre en santé : ce qui marche, ce qui coince | 2026-11-27 | Paris, FR | [↗](https://lu.ma/7u7a5aig) |
-| Women's Health, What's Next? | 2026-11-27 | Paris, FR | [↗](https://lu.ma/jy1c0o93) |
-| Reload After Dark - Édition 02 | 2026-11-27 | Paris, FR | [↗](https://lu.ma/reload-after-dark2) |
-| Soleadher supper club #2 | 2026-11-27 | Paris, FR | [↗](https://lu.ma/c5kj98x9) |
-| ShiTang X Café Muller | 2026-11-27 | Paris, FR | [↗](https://lu.ma/zgtv3ob7) |
-| Workshop FORMÆ & Mirage Granito Ceramico | 2026-11-27 | Paris, FR | [↗](https://lu.ma/bopzkcx7) |
-| Violences économiques : comment les détecter et s'en protéger | 2026-11-27 | Paris, FR | [↗](https://lu.ma/tcbdd6tj) |
-| Rencontrer - After Forum, on lance l'équipe d'éloquence autour d'un verre | 2026-11-27 | Paris, FR | [↗](https://lu.ma/lkyljj3w) |
-| Playtime #4 – Drawing for the sake of drawing | 2026-11-27 | Paris, FR | [↗](https://lu.ma/xu4srbw3) |
 | Les Fondamentaux du Théâtre de Présence Sociale (SPT) | 2026-11-28 | Paris, FR | [↗](https://lu.ma/7gcstcq9) |
 | Launch Day Hackathon | 2026-11-28 | Paris, FR | [↗](https://lu.ma/fg1lny5k) |
 | Book Club | 2026-11-28 | Paris, FR | [↗](https://lu.ma/z3y23in1) |
@@ -84,6 +73,7 @@
 | Pathophysiology of Nutrient Signal Transduction in Growth and Aging | 2026-12-01 | Paris, FR | [↗](https://lu.ma/9w05izds) |
 | higHER Society x The Frenchy Glow x Nooance | 2026-12-01 | Paris, FR | [↗](https://lu.ma/cbyzch1u) |
 | Private Dinner for 30 defence leaders funding peace through power | 2026-12-01 | Paris, FR | [↗](https://lu.ma/re5xt5l1) |
+| Paris \| Claude Community x Insidrs Women Meetup | 2026-12-01 | Paris, FR | [↗](https://lu.ma/claude-fowo) |
 | Cloud Native AI Summit Europe | 2026-12-02 to 2026-12-03 | Paris (France) | [↗](https://www.cloudnative.ai/events/paris) |
 | AI Chat & Breakfast by Equal Edges (Adopt AI Week) | 2026-12-02 | Paris, FR | [↗](https://lu.ma/ovbz7lwk) |
 | The Road to Prosperity | 2026-12-02 | Paris, FR | [↗](https://lu.ma/cyjpgvm7) |
@@ -141,6 +131,8 @@
 | Déjeuner CPO Paris | 2026-12-03 | Paris, FR | [↗](https://lu.ma/rynwkhs6) |
 | AI Mixer #3 | 2026-12-03 | Paris, FR | [↗](https://lu.ma/8z065zzc) |
 | Founder Happy Hour (English) | 2026-12-03 | Paris, FR | [↗](https://lu.ma/er7jr100) |
+| Jean-Gabriel Ganascia \| Mythologies de l’IA — Book Launch at STATION F | 2026-12-03 | Paris, FR | [↗](https://lu.ma/8h0bemuq) |
+| Christmas After Hours #1 | 2026-12-03 | Paris, FR | [↗](https://lu.ma/uhn9i2vo) |
 | DevFest Lyon 2026 | 2026-12-04 | Lyon (France) | [↗](https://devfest.gdglyon.com/) |
 | DevFest Dijon 2026 | 2026-12-04 | Dijon (France) | [↗](https://devfest.developers-group-dijon.fr/) |
 | Agile Rennes | 2026-12-04 | Rennes (France) | [↗](https://www.billetweb.fr/open-forum-agile-rennes-2026) |
@@ -151,6 +143,7 @@
 | Bricks Awards 2026 (PARIS) | 2026-12-04 | Paris, FR | [↗](https://lu.ma/gr79iju2) |
 | La Soirée De Noël | 2026-12-04 | Paris, FR | [↗](https://lu.ma/ukq9wo7p) |
 | Learning Expedition : La magie du Ritz la nuit pendant les fêtes | 2026-12-04 | Paris, FR | [↗](https://lu.ma/5k24rvmb) |
+| Visite du Centre Bourse · Vendredi 4 décembre · ab.derm × JDP 2026 | 2026-12-04 | Paris, FR | [↗](https://lu.ma/qvqre5va) |
 | DevFest Aix 2026 : Une nouvelle édition provençale ! | 2026-12-05 | Aix-en-Provence, France | [↗](https://gdg.community.dev/events/details/google-gdg-aix-en-provence-presents-devfest-aix-2026-une-nouvelle-edition-provencale/) |
 | A Silent reading room. Secret Santa edition. | 2026-12-05 | Paris, FR | [↗](https://lu.ma/xer5gfoz) |
 | ALMOST. Kris Lef I Vernissage | 2026-12-05 | Paris, FR | [↗](https://lu.ma/asklmp28) |
@@ -189,6 +182,9 @@
 | Soirée MOUVESS Ile-de-France | 2026-12-08 | Paris, FR | [↗](https://lu.ma/8i8rq2kk) |
 | Paris Book Club x Katherine Pangonis \| An Evening with the Author | 2026-12-08 | Paris, FR | [↗](https://lu.ma/vlnaw37e) |
 | Avant 1ere du documentaire "Donn, le danseur du XXème siècle" | 2026-12-08 | Paris, FR | [↗](https://lu.ma/whd57y2t) |
+| Studio photo du drapeau de la Terre ! | 2026-12-08 | Paris, FR | [↗](https://lu.ma/58vz1795) |
+| Dev With AI Meetup #26 @ WeScale [Paris] | 2026-12-08 | Paris, FR | [↗](https://lu.ma/dm26) |
+| Dift x SheEOs | 2026-12-08 | Paris, FR | [↗](https://lu.ma/tbb4df5m) |
 | DevOps REX | 2026-12-09 to 2026-12-10 | Paris (France) | [↗](https://www.devopsrex.fr/fr/) |
 | Open Source Experience 2026 | 2026-12-09 to 2026-12-10 | Paris | [↗](https://dev.events/conferences/open-source-experience-2026-p-ntdtj5) |
 | Mastermind Ades · Édition 2 | 2026-12-09 | Paris, FR | [↗](https://lu.ma/b3o6zn5v) |
@@ -237,6 +233,14 @@
 | JAB Xmas Party 🎅🏻 | 2026-12-11 | Paris, FR | [↗](https://lu.ma/mm7i23r1) |
 | Pleias NeurIPS BaguettoRAVE 🥖 | 2026-12-11 | Paris, FR | [↗](https://lu.ma/qu4xjoec) |
 | Lecture Théâtrale: Rangez-vous/Fragments D'un Discours Républicain | 2026-12-11 | Paris, FR | [↗](https://lu.ma/3epa9q1c) |
+| 🎄 SPARK RUN & RECOVER : XMAS EDITION 🎅 | 2026-12-12 | Paris, FR | [↗](https://lu.ma/z3aia28b) |
+| Brio x Kore Social Club Morning Coffee Rave SEOUL Style ☕🎧 | 2026-12-12 | Paris, FR | [↗](https://lu.ma/kore-1159) |
+| AICAF 十周年纪念活动 | 2026-12-12 | Paris, FR | [↗](https://lu.ma/xz3uij8q) |
+| EXHALE by Respire · Paris | 2026-12-12 | Paris, FR | [↗](https://lu.ma/7vo7b4na) |
+| Newjeans Ditto Season | 2026-12-12 | Paris, FR | [↗](https://lu.ma/giykt3aa) |
+| Girls’ Christmas Dinner | 2026-12-12 | Paris, FR | [↗](https://lu.ma/u8z3jkq3) |
+| RUN CLUB SPECIAL - LAST OF THE YEAR 13/12 @La Montgolfière 10ème | 2026-12-13 | Paris, FR | [↗](https://lu.ma/43q2aw6t) |
+| Sunday Morning Read-in | 2026-12-13 | Paris, FR | [↗](https://lu.ma/nblw9wf4) |
 | Season Finale Hackathon · aivancity Tech Club × GDG on Campus aivancity | 2026-12-19 | Villejuif, France | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-aivancity-villejuif-france-presents-season-finale-hackathon-aivancity-tech-club-x-gdg-on-campus-aivancity/) |
 | SnowCamp 2027 | 2027-01-14 to 2027-01-16 | Grenoble (France) | [↗](https://snowcamp.io/) |
 | Hubvisory Run Club - 10K Montmartre | 2027-01-24 | Paris, FR | [↗](https://lu.ma/gazlk18w) |

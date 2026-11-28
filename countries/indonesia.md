@@ -1,14 +1,9 @@
 # Developer Events in Indonesia
 
-31 upcoming events. [Back to the full directory](../README.md)
+29 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| StudyJam #2 - UI/UX Design #ProductSeries \| UX Research and Problem Definition | 2026-11-27 | Malang, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-brawijaya-malang-indonesia-presents-studyjam-2-uiux-design-productseries-ux-research-and-problem-definition/) |
-| Bali Founder Community Mixer: Drinks & Networking with Osome and Startup Grind | 2026-11-27 | Bali, Indonesia | [↗](https://www.startupgrind.com/events/details/startup-grind-bali-presents-bali-founder-community-mixer-drinks-amp-networking-with-osome-and-startup-grind/) |
-| Study Jam ML#2: Classical Algorithm | 2026-11-27 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-pasundan-bandung-indonesia-presents-study-jam-ml2-classical-algorithm/) |
-| Study Jam AI: Telegram AI Bot | 2026-11-27 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-widyatama-university-bandung-indonesia-presents-study-jam-ai-telegram-ai-bot/) |
-| Study Jam UI/UX: "Menyulap Sketsa Jadi Nyata: Design System & Hi-Fi Interactive Prototype" | 2026-11-27 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-widyatama-university-bandung-indonesia-presents-study-jam-uiux-menyulap-sketsa-jadi-nyata-design-system-amp-hi-fi-interactive-prototype/) |
 | DevFest Medan 2026: Build, Secure, and Scale | 2026-11-28 | Medan, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-medan-presents-devfest-medan-2026-build-secure-and-scale/) |
 | DevFest Bogor 2026 | 2026-11-28 | Bogor, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-bogor-presents-devfest-bogor-2026/) |
 | Cloud DevFest Bandung 2026 | 2026-11-28 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-bandung-presents-cloud-devfest-bandung-2026-1/) |
@@ -23,10 +18,13 @@
 | sharing session : Beyond the Organization | 2026-11-28 | Malang, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-uin-maulana-malik-ibrahim-malang-malang-indonesia-presents-sharing-session-beyond-the-organization/) |
 | Introduction Fundamental Ethical Hacking | 2026-11-28 | Makassar, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-uin-alauddin-makassar-makassar-indonesia-presents-introduction-fundamental-ethical-hacking-1/) |
 | Tech Talk Web Development: The Future of Software Development | 2026-11-28 | Depok, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-gunadarma-depok-indonesia-presents-tech-talk-web-development-the-future-of-software-development/) |
+| Study Jam Mobile Dev: Say Hello to API - HTTP Requests, JSON Parsing & Live Data in Android | 2026-11-28 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-widyatama-university-bandung-indonesia-presents-study-jam-mobile-dev-say-hello-to-api-http-requests-json-parsing-amp-live-data-in-android/) |
+| Study Jam Data Analyst: EDA & Data Visualization (Matplotlib & Seaborn) | 2026-11-28 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-widyatama-university-bandung-indonesia-presents-study-jam-data-analyst-eda-amp-data-visualization-matplotlib-amp-seaborn/) |
 | DevFest Live Indonesia 2026 x KodingDeepDive - Ep. 2 \| Untrusted by Default: Securing ADK Agents with MCP Toolbox and Model Armor | 2026-11-29 | Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-live-indonesia-presents-devfest-live-indonesia-2026-x-kodingdeepdive-ep-2-untrusted-by-default-securing-adk-agents-with-mcp-toolbox-and-model-armor/) |
 | DevFest Live Indonesia 2026 x KodingDeepDive S3 - Ep. 2 \| Lab 1: Untrusted by Default | 2026-11-29 | Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-live-indonesia-presents-devfest-live-indonesia-2026-x-kodingdeepdive-s3-ep-2-lab-1-untrusted-by-default/) |
 | Weekly Class #2 Building an API & Connecting a Database | 2026-11-29 | Makassar, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-negeri-makassar-makassar-indonesia-presents-weekly-class-2-building-an-api-amp-connecting-a-database/) |
 | Welcome & Onboarding Session for New Core Team | 2026-11-30 | South Jakarta, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-trilogi-university-south-jakarta-indonesia-presents-welcome-amp-onboarding-session-for-new-core-team/) |
+| Road to DevFest Bandung 2026 : ​"Beyond Chatbots: Menjaga Guardrails & AI Governance di Era Autonomous Coding Agents" | 2026-12-04 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-bandung-presents-road-to-devfest-bandung-2026-beyond-chatbots-menjaga-guardrails-amp-ai-governance-di-era-autonomous-coding-agents/) |
 | DevFest Depok 2026 | 2026-12-05 | Depok, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-depok-presents-devfest-depok-2026/) |
 | Study Jam AI Agentic Development: Accelerating Fullstack Web with Agentic AI | 2026-12-05 | Jakarta, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sekolah-tinggi-teknologi-terpadu-nurul-fikri-jakarta-indonesia-presents-study-jam-ai-agentic-development-accelerating-fullstack-web-with-agentic-ai/) |
 | NGABUILD: Ngobrol, Ngulik, Build Something | 2026-12-05 | Bandung, Indonesia | [↗](https://gdg.community.dev/events/details/google-gdg-bandung-presents-ngabuild-ngobrol-ngulik-build-something-1/) |

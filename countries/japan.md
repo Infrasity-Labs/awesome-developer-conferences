@@ -1,12 +1,9 @@
 # Developer Events in Japan
 
-34 upcoming events. [Back to the full directory](../README.md)
+31 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| PostgreSQL Conference Japan 2026 | 2026-11-27 | Tokyo | [↗](https://dev.events/conferences/postgre-sql-conference-japan-2026-qpj9x2yg) |
-| DevFest GDGoC Japan Hackathon 2026 - Demo Day | 2026-11-27 | Osaka, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-osaka-osaka-japan-presents-devfest-gdgoc-japan-hackathon-2026-demo-day/) |
-| 【初心者向け】MBTI×手相 占いアプリ開発ハンズオン | 2026-11-27 | Kobe, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-greater-kwansai-presents-chu-xin-zhe-xiang-ke-mbtixshou-xiang-zhan-iapurikai-fa-hanzuon/) |
 | JJUG CCC Fall | 2026-11-28 | Tokyo | [↗](https://dev.events/conferences/jjug-ccc-fall-l22r-arp) |
 | 東北TECH道場 山形 (Tohoku Tech Dojo Yamagata) | 2026-11-28 | Yamagata, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-tohoku-tech-dojo-yamagata-presents-dong-bei-techdao-chang-shan-xing-tohoku-tech-dojo-yamagata-2026-11-28/) |
 | Google Developer Group DevFest Tokyo 2026 | 2026-11-29 | Tokyo, Japan | [↗](https://gdg.community.dev/events/details/google-gdg-tokyo-presents-google-developer-group-devfest-tokyo-2026/) |

@@ -1,12 +1,9 @@
 # Developer Events in South Korea
 
-16 upcoming events. [Back to the full directory](../README.md)
+13 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Korea Fintech Week 2026 (8th) | 2026-11-25 to 2026-11-27 | Seoul, South Korea | [↗](https://fsc.go.kr/eng/pr010101/87427) |
-| Smart Construction, Safety & AI Expo 2026 | 2026-11-25 to 2026-11-27 | Goyang, South Korea | [↗](https://smartconexpo.com/) |
-| GDG on Campus SKHU AIOS: Growthon - Ideation Day | 2026-11-27 | Seoul, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sungkonghoe-university-seoul-south-korea-presents-gdg-on-campus-skhu-aios-growthon-ideation-day-1/) |
 | FOSS for All Conference 2026 | 2026-11-28 | Seoul | [↗](https://dev.events/conferences/foss-for-all-conference-2026-ujqr94pp) |
 | OWASP Korea Day 2026 | 2026-11-28 | Seoul | [↗](https://dev.events/conferences/owasp-korea-day-2026-csmt7hwk) |
 | DevFest 2026 GDG Daejeon | 2026-11-28 | Daejeon, South Korea | [↗](https://gdg.community.dev/events/details/google-gdg-daejeon-presents-devfest-2026-gdg-daejeon/) |

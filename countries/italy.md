@@ -4,9 +4,6 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Aspettando Devfest Alps 2026 - Aperitech Party | 2026-11-27 | Torino, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-torino-presents-aspettando-devfest-alps-2026-aperitech-party/) |
-| ⚡️ Oltre il login: anatomia del phishing moderno ⚡️ | 2026-11-27 | Pisa, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-pisa-presents-oltre-il-login-anatomia-del-phishing-moderno/) |
-| Wanted: Data Intelligence Secret Agents 🕵️‍♂️ | 2026-11-27 | Rome, Italy, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-luiss-guido-carli-rome-italy-presents-wanted-data-intelligence-secret-agents/) |
 | Devfest Alps 2026 | 2026-11-28 | Torino, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-torino-presents-devfest-alps-2026/) |
 | Il commercialista è diventato digitale. Da studio di famiglia a startup: la storia di Fido Commercialista | 2026-11-30 | Vicenza, Italy | [↗](https://www.startupgrind.com/events/details/startup-grind-vicenza-presents-il-commercialista-e-diventato-digitale-da-studio-di-famiglia-a-startup-la-storia-di-fido-commercialista/) |
 | GDG Launch Aperitivo | 2026-11-30 | Rome, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-sapienza-university-of-rome-rome-italy-presents-gdg-launch-aperitivo/) |
@@ -16,10 +13,13 @@
 | DevFest Bari 2026 | 2026-12-12 | Bari, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-bari-presents-devfest-bari-2026/) |
 | Workshop Stampa 3D | 2026-12-16 | Saint-Vincent, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-valle-daosta-presents-workshop-stampa-3d-1/) |
 | Yohooo! – L'arte di essere meno developer e più pirata (anche se con meno rum e più caffè) | 2026-12-17 | Brescia, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-brescia-presents-yohooo-larte-di-essere-meno-developer-e-piu-pirata-anche-se-con-meno-rum-e-piu-caffe/) |
+| Project G: Scrivere e Ingegnerizzare Idee | 2026-12-18 | Agrigento, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-agrigento-presents-project-g-scrivere-e-ingegnerizzare-idee/) |
 | 🎉🎉 Christmas dinner with Startup Grind Rome near Piazza Navona 🎉🎉 | 2026-12-19 | Rome, Italy | [↗](https://www.startupgrind.com/events/details/startup-grind-rome-presents-christmas-dinner-with-startup-grind-rome-near-piazza-navona/) |
+| CER Arena — GDG Brescia & EffAI Hackathon | 2026-12-19 | Brescia, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-brescia-presents-cer-arena-gdg-brescia-amp-effai-hackathon/) |
 | Christmas Party - Secret Santa | 2026-12-23 | Saint-Vincent, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-valle-daosta-presents-christmas-party-secret-santa/) |
 | Christmas Party 2026 | 2026-12-23 | Saint-Vincent, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-valle-daosta-presents-christmas-party-2026/) |
 | AI Festival 2027 | 2027-02-11 to 2027-02-12 | Milan, Italy | [↗](https://www.aifestival.it/) |
+| Winter Tech '27 | 2027-02-20 | Saint-Vincent, Italy | [↗](https://gdg.community.dev/events/details/google-gdg-valle-daosta-presents-winter-tech-27/) |
 | The Data Science and AI Summit | 2027-02-22 to 2027-02-23 | Rome | [↗](https://dev.events/conferences/the-data-science-and-ai-summit-arhok-vo) |
 | PyData Venice Day 2027 | 2027-02-27 | Mestre (Italy) | [↗](https://venice.pydata.org/pydata-venice-day-27/) |
 | Incontro DevOps Italia (IDI) 2027 | 2027-03-09 | Bologna (Italy) | [↗](https://incontrodevops.it/) |

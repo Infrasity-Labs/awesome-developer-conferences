@@ -4,8 +4,8 @@
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Product Management Festival 2026 | 2026-11-27 | Zurich | [↗](https://dev.events/conferences/product-management-festival-2026-rvvoq3nr) |
 | KCD Suisse Romande 2026 | 2026-12-09 to 2026-12-10 | Geneva (Switzerland) | [↗](https://kcd.cloud-native-romandy.ch/) |
+| GDG Cloud Zürich – 17 December 2026 Meetup (#40) | 2026-12-17 | Zürich, Switzerland | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-zurich-presents-gdg-cloud-zurich-17-december-2026-meetup-40/) |
 | Voxxed Days Ticino | 2027-02-19 | Lugano (Switzerland) | [↗](https://ticino.voxxeddays.ch/) |
 | Mountain Camp | 2027-03-02 to 2027-03-04 | Davos, Switzerland | [↗](https://drupalmountaincamp.ch) |
 | NextGen Payments & RegTech Forum Zurich | 2027-03-04 | Zurich | [↗](https://dev.events/conferences/next-gen-payments-and-reg-tech-forum-zurich-rms-4ny) |

@@ -1,12 +1,9 @@
 # Developer Events in Spain
 
-62 upcoming events. [Back to the full directory](../README.md)
+61 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Women in Agile EU Launching New Voices 2026 | 2026-11-27 | Barcelona | [↗](https://dev.events/conferences/women-in-agile-eu-launching-new-voices-2026-pjppegwn) |
-| DevFest Madrid 2026 | 2026-11-27 | Madrid, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-madrid-presents-devfest-madrid-2026/) |
-| La previa cordobesa de la DevFest | 2026-11-27 | Córdoba, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-cordoba-presents-la-previa-cordobesa-de-la-devfest/) |
 | DevFest Barcelona 2026 - ¡Únete a la revolución tecnológica! 🚀 | 2026-11-28 | Barcelona, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-barcelona-presents-devfest-barcelona-2026-unete-a-la-revolucion-tecnologica/) |
 | DevFest Córdoba | 2026-11-28 | Córdoba, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-cordoba-presents-devfest-cordoba/) |
 | DevFest Barcelona 2026 | 2026-11-28 | Barcelona | [↗](https://dev.events/conferences/dev-fest-barcelona-2026-by3qle4y) |
@@ -21,6 +18,7 @@
 | Ask US Anything about Liquid Galaxy future | 2026-12-05 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-ask-us-anything-about-liquid-galaxy-future/) |
 | From Population Models to Personalized Digital Twins | 2026-12-10 | Girona, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-girona-presents-from-population-models-to-personalized-digital-twins-1/) |
 | Study Jam - Programación Agética: Desarrollar con Criterio \| S02 | 2026-12-10 | Ourense, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-ourense-presents-study-jam-programacion-agetica-desarrollar-con-criterio-s02/) |
+| Startup Grind Anniversary Party | 2026-12-10 | Valencia, Spain | [↗](https://www.startupgrind.com/events/details/startup-grind-valencia-presents-startup-grind-anniversary-party/) |
 | 🚀 DevFest Santander 2026 | 2026-12-11 | Santander (Spain) | [↗](https://gdg.community.dev/events/details/google-gdg-santander-presents-devfest-santander-2026-vuelve-el-sobaofest-ii/) |
 | NetCoreConf Barcelona 2026 | 2026-12-12 | Barcelona | [↗](https://dev.events/conferences/net-core-conf-madrid-2026-4cknjny) |
 | 🎉 DevFest GDG on Campus UOC 2026 | 2026-12-12 | Barcelona, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-uoc-barcelona-spain-presents-devfest-gdg-on-campus-uoc-2026/) |
@@ -28,6 +26,7 @@
 | Despliega tu portfolio: empleabilidad y CV para todos 📝📞 | 2026-12-14 | Madrid, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-autonomous-university-of-madrid-madrid-spain-presents-despliega-tu-portfolio-empleabilidad-y-cv-para-todos/) |
 | Taller: Crea tu producto con Antigravity y Gemini 2/3 | 2026-12-17 | Marbella, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-marbella-presents-taller-crea-tu-producto-con-antigravity-y-gemini-23/) |
 | Liquid Galaxy Agentic AI  skill contest | 2026-12-17 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-liquid-galaxy-agentic-ai-skill-contest/) |
+| Charla abierta: ser junior en la era de los centauros | 2026-12-17 | Toledo, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-toledo-presents-charla-abierta-ser-junior-en-la-era-de-los-centauros/) |
 | Devfest Lleida 2026, Intel.ligència Artesanal, 13a edición | 2026-12-18 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-devfest-lleida-2026-intelligencia-artesanal-13a-edicion/) |
 | DevFest Menorca 2026 | 2026-12-18 | Mahon, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-menorca-presents-devfest-menorca-2026/) |
 | Liquid Galaxy general MEET | 2026-12-19 | Lleida, Spain | [↗](https://gdg.community.dev/events/details/google-gdg-lleida-presents-liquid-galaxy-general-meet/) |

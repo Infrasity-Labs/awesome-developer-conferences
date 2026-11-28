@@ -1,11 +1,9 @@
 # Developer Events in Brazil
 
-36 upcoming events. [Back to the full directory](../README.md)
+34 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| AI Builder Tour São Paulo | 2026-11-27 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/ai-builder-tour-são-paulo/4700031097077106) |
-| AI Brunch Notion · AI House Brasil | 2026-11-27 | São Paulo, SP, BR | [↗](https://allevents.in/s%C3%A3o-paulo/ai-brunch-notion-·-ai-house-brasil/4700031097076756) |
 | GambiConf 2026 | 2026-11-28 to 2026-11-29 | São Paulo (Brazil) | [↗](https://gambiconf.dev/) |
 | DevFest Cerrado 2026 | 2026-11-28 | Goiania, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-goiania-presents-devfest-cerrado-2026/) |
 | ☁️ DevFest ☁️ | 2026-11-28 | São Paulo, Brazil | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-sao-paulo-presents-devfest/) |

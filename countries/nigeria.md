@@ -1,12 +1,9 @@
 # Developer Events in Nigeria
 
-35 upcoming events. [Back to the full directory](../README.md)
+33 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| A Beginner's Guide to Google Cloud Data & AI Services | 2026-11-27 | Kaduna, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-a-beginners-guide-to-google-cloud-data-amp-ai-services-2026-11-27/) |
-| Understanding AI Agents and Intelligent Applications | 2026-11-27 | Ife, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-understanding-ai-agents-and-intelligent-applications/) |
-| Builder's Jam | 2026-11-27 | Lagos, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-lagos-lagos-nigeria-presents-builders-jam/) |
 | Devfest Port Harcourt 2026 | 2026-11-28 | Port Harcourt, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-port-harcourt-presents-devfest-port-harcourt-2026/) |
 | QUANTUM AFRICA SUMMIT | 2026-11-28 | Lagos | [↗](https://dev.events/conferences/quantum-africa-summit-ja7x2kgp) |
 | Business Intelligence Saturday | 2026-11-28 | Kaduna, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-business-intelligence-saturday-2026-11-28-1/) |
@@ -36,6 +33,7 @@
 | DevFest Yola 2026 | 2026-12-19 | Jimeta, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-yola-presents-devfest-yola-2026/) |
 | DevFest Dutse '26 | 2026-12-19 | Dutse, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-dutse-presents-devfest-dutse-26/) |
 | Build with AI: Data Science-AI-Cloud Sundays | 2026-12-20 | Kaduna, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-build-with-ai-data-science-ai-cloud-sundays-2026-12-20/) |
+| A Beginner's Guide to Google Cloud Data & AI Services | 2026-12-25 | Kaduna, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-a-beginners-guide-to-google-cloud-data-amp-ai-services-2026-12-25/) |
 | Hands-On AI Workshop: Building Careers with Google AI & Cloud | 2026-12-29 | Kaduna, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-hands-on-ai-workshop-building-careers-with-google-ai-amp-cloud-2026-12-29/) |
 | Mentorship Session | 2026-12-30 | Abeokuta, Nigeria | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-federal-university-of-agriculture-abeokuta-nigeria-presents-mentorship-session-2026-12-30/) |
 | Tech Unite Africa 2027 | 2027-03-26 | Lagos | [↗](https://dev.events/conferences/tech-unite-africa-2027-ngojbjbp) |

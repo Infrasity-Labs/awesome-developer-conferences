@@ -1,15 +1,13 @@
 # Developer Events in Egypt
 
-21 upcoming events. [Back to the full directory](../README.md)
+19 upcoming events. [Back to the full directory](../README.md)
 
 | Event Name | Date | Location | Register |
 |------------|------|----------|----------|
-| Local Storage & Firebase Intro | 2026-11-27 | Giza, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-october-6-university-giza-egypt-presents-local-storage-amp-firebase-intro/) |
-| AI Automation Session 3 : Unplugged: Master Functions & Files Part 2 | 2026-11-27 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-ai-automation-session-3-unplugged-master-functions-amp-files-part-2-2026-11-27/) |
-| ​Shape Tools & Clipping Mask | 2026-11-27 | Zagazig, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-zagazig-university-zagazig-egypt-presents-shape-tools-amp-clipping-mask/) |
-| Session 5 : Discover the Beauty of CSS =&gt; Styling the Web | 2026-11-27 | Zagazig, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-zagazig-university-zagazig-egypt-presents-session-5-discover-the-beauty-of-css-gt-styling-the-web/) |
-| Practice Session: IP Addressing & Subnetting Problems (Additional Session) | 2026-11-27 | Zagazig, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-zagazig-university-zagazig-egypt-presents-practice-session-ip-addressing-amp-subnetting-problems-additional-session/) |
 | GDG Benha DevFest 2026 | 2026-11-28 | Banha, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-benha-presents-gdg-benha-devfest-2026/) |
+| Linux Fundamentals I: Your First Steps into Linux | 2026-11-28 | Zagazig, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-zagazig-university-zagazig-egypt-presents-linux-fundamentals-i-your-first-steps-into-linux/) |
+| Session3: Communication Rules, Network Models, MAC, ARP & IPv6 | 2026-11-28 | Zagazig, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-zagazig-university-zagazig-egypt-presents-session3-communication-rules-network-models-mac-arp-amp-ipv6/) |
+| Session4: Application, Presentation, Session & Transport Layers | 2026-12-03 | Zagazig, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-zagazig-university-zagazig-egypt-presents-session4-application-presentation-session-amp-transport-layers/) |
 | Architecture, Publishing & Demo | 2026-12-04 | Giza, Egypt, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-on-campus-october-6-university-giza-egypt-presents-architecture-publishing-amp-demo/) |
 | DevFest Online Evening: Multimodal RAG with Gemini API | 2026-12-04 | Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-cloud-egypt-presents-devfest-online-evening-multimodal-rag-with-gemini-api/) |
 | DevFest New Cairo '26 | 2026-12-05 | New Cairo, Egypt | [↗](https://gdg.community.dev/events/details/google-gdg-new-cairo-presents-devfest-new-cairo-26/) |
